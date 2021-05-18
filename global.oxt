@@ -25759,7 +25759,7 @@
 	0xB40BDAC8 = Weapon Bag
 	0xB40E057A = Defend Base
 	0xB41BFD42 = Good dog. I will throw you your bone.
-	0xB41C6EB7 = BUSTED
+	0xB41C6EB7 = ถูกจับ
 	0xB41C6518 = Race to the ~y~tunnel. ~s~
 	0xB41CD0BD = 7/4 (x1.750)
 	0xB41FCFF4 = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_92/IE_TEXTVECH_92' vspace='0' width='252' height='150'/> ~nrt~
@@ -49708,10 +49708,10 @@
 	REPLAY_TMG = ~r~FAILED~s~
 	REPLAY_YES = ใช่
 	RESERVE_FAIL = An error occurred accepting this invitation. Please try again.
-	RESPAWN_B = ~b~BUSTED~s~
+	RESPAWN_B = ~b~ถูกจับ~s~
 	RESPAWN_BEAST = YOU ARE THE BEAST
-	RESPAWN_W = ~r~WASTED~s~
-	RESPAWN_W_MP = WASTED
+	RESPAWN_W = ~r~ถูกฆ่า~s~
+	RESPAWN_W_MP = ถูกฆ่า
 	RESTORE_WANTED = Your Wanted Level has been restored and you have been refunded $~1~.
 	REW10RSTAR = Completed 10 Jobs Created By Rockstar Games: +~1~ RP.
 	REWLIKESXP = Someone voted 'Like' for your created Job: +~1~ RP.
