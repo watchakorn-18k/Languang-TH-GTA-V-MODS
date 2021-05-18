@@ -77,7 +77,7 @@
 	0x5CA24E7C = ORDERLY ARMOR
 	0x5D91B5E6 = Ski Masks
 	0x5D571153 = OUTFITS: DIAMOND CASINO HEIST
-	0x5E760D4F = TOPS
+	0x5E760D4F = เสื้อ
 	0x6A0C4EDB = Monsters
 	0x6B1D2E8A = Infiltration: Modernized Tech
 	0x6BDCD6E6 = T-SHIRTS
@@ -607,13 +607,13 @@
 	CSHOP_ITEM227 = Suspenders
 	CSHOP_ITEM228 = Blouses
 	CSHOP_ITEM229 = Outfits: Lowrider Classics
-	CSHOP_ITEMON = Item equipped.
-	CSHOP_ITEMON2 = ~a~ item equipped.
+	CSHOP_ITEMON = รายการนี้ติดตั้งแล้ว
+	CSHOP_ITEMON2 = ~a~ รายการนี้ติดตั้งแล้ว
 	CSHOP_ITEMON3 = ~a~ Special item equipped.
 	CSHOP_ITEMON4 = ~a~ Surprise item equipped.
 	CSHOP_ITEMON5 = Halloween Surprise item equipped.
 	CSHOP_ITEMONDLC = ~a~ Pack item equipped.
-	CSHOP_ITEMON_S = ~a~ Item equipped.
+	CSHOP_ITEMON_S = ~a~ รายการนี้ติดตั้งแล้ว
 	CSHOP_LCKCREW = Complete the tutorial and join a Crew to unlock this item.
 	CSHOP_LCKCREWR = Reach Rank ~1~ in your Crew to unlock this item.
 	CSHOP_LCKCREWRT = Complete the tutorial and reach Rank ~1~ in your Crew to unlock this item.
@@ -625,7 +625,7 @@
 	CSHOP_OVR_0 = No Top
 	CSHOP_OVR_1 = No Mask
 	CSHOP_OVR_2 = No Hat
-	CSHOP_OVR_3 = No Glasses
+	CSHOP_OVR_3 = ไม่ใส่แว่นตา
 	CSHOP_OVR_4 = No Shoes
 	CSHOP_OVR_5 = No Pants
 	CSHOP_OVR_6 = No Tie
@@ -653,7 +653,7 @@
 	CSHOP_SET = Current outfit updated.
 	CSHOP_SLOT_CONF = Are you sure you want to overwrite the outfit in this slot?
 	CSHOP_SLOT_REM = Are you sure you want to delete the outfit in this slot?
-	CSHOP_TICK = Item owned but not equipped.
+	CSHOP_TICK = สินค้าที่เป็นเจ้าของแล้ว แต่ยังไม่ได้ติดตั้ง
 	CSHOP_TICKDLC = ~a~ Pack item owned but not equipped.
 	CSHOP_TICKDLC2 = ~a~ item owned but not equipped.
 	CSHOP_TICKDLC3 = ~a~ Special item owned but not equipped.
@@ -696,7 +696,7 @@
 	CSHOP_TITLE34 = BIKINI BOTTOMS
 	CSHOP_TITLE35 = SPORT SHORTS
 	CSHOP_TITLE36 = OUTFITS
-	CSHOP_TITLE37 = TOPS
+	CSHOP_TITLE37 = เสื้อ
 	CSHOP_TITLE38 = PANTS
 	CSHOP_TITLE39 = SHOES
 	CSHOP_TITLE40 = HATS
@@ -717,7 +717,7 @@
 	CSHOP_TITLE57 = VESTS
 	CSHOP_TITLE58 = HELMETS
 	CSHOP_TITLE59 = TOPS AND SHORTS
-	CSHOP_TITLE60 = SUNGLASSES
+	CSHOP_TITLE60 = แว่นตากันแดด
 	CSHOP_TITLE61 = SHIRTS AND SUITS
 	CSHOP_TITLE62 = BOWLING SHIRTS
 	CSHOP_TITLE63 = DRESSES
