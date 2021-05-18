@@ -70,7 +70,7 @@
 	0x006F0829 = Invite to Avenger
 	0x007114A2 = L - STICK (PRESS)
 	0x00728DFC = Are you sure you want to wipe the character 5 saved data?
-	0x007521B0 = ปืนไรเฟิลขั้นสูง - Scope
+	0x007521B0 = ปืนไรเฟิลขั้นสูง - สโคป
 	0x0075877D = The valet outfits ~HUD_COLOUR_GREEN~~BLIP_OBJECTIVE~~s~ will allow you to steal the getaway vehicles without being detected.
 	0x00764A94 = Stability
 	0x0079771B = ร้านเสื้อผ้าชานเมือง busted stealing ideas for T-shirts - stock drops.
@@ -211,7 +211,7 @@
 	0x0164B871 = Braids Blonde
 	0x016E69C6 = หน้า Fenders
 	0x016FD8DE = Respray
-	0x0173D8D4 = Heavy Sniper Mk II Thermal Scope
+	0x0173D8D4 = Heavy Sniper Mk II Thermal สโคป
 	0x017619E7 = ~BLIP_INFO_ICON~ แก้ไขคะแนนในคลิปและแทร็กคะแนนที่มาพร้อมกันจะเปลี่ยนแบบไดนามิกระหว่างการเล่น~n~สิ่งนี้ไม่มีผลกับเพลงวิทยุ
 	0x0177750F = HANDLING
 	0x017C0EB9 = The Big Score
@@ -574,7 +574,7 @@
 	0x040F8C7F = Adversary 12
 	0x04106267 = The rival President disbanded their Motorcycle Club during Cracked
 	0x04157FDE = Private Plate
-	0x0415A21A = Heavy Armor w/ Shield
+	0x0415A21A = ชุดเกราะหนา w/ Shield
 	0x0417E75B = Squared Helmet
 	0x0419FBC7 = DISMISSED
 	0x041CFC95 = Club Challenges
@@ -1365,7 +1365,7 @@
 	0x097EBDD3 = You keep this up, I might make you and Ron fight to the death to be my number two.
 	0x097FEB6E = Lucky Wheel Discounts
 	0x0982317B = @suzieheforgives Dreams are God telling you a story :)
-	0x09831559 = HEAVY WEAPONS
+	0x09831559 = อาวุธหนัก
 	0x0983257A = This modern, renovated one-bedroom is in a well-maintained building in a great West Vinewood location. ซื้อ now at the bottom of the market! Property values can't go any lower! We're absolutely sure this time!
 	0x0986D008 = Sculpture by Eduardo Tutti
 	0x09888498 = Delivery not currently available.
@@ -1985,7 +1985,7 @@
 	0x0DF81C44 = ส้ม
 	0x0DF401D0 = Friend's Office
 	0x0DF451C0 = Protect the ~HUD_COLOUR_BLUE~SUVs.~s~
-	0x0DF7231F = Super Light Armor.
+	0x0DF7231F = ชุดเกราะเบาพิเศษ
 	0x0DF9673B = cooling tunnel
 	0x0DFC1CA7 = Bravado Sasquatch Reinforced Armor
 	0x0DFEA04C = The Trendy
@@ -2274,7 +2274,7 @@
 	0x0FD1AA3F = Sculpture by Sid Weldon
 	0x0FD4E596 = ~INPUTGROUP_FRONTEND_DPAD_UD~ Dance style: ~a~~n~~INPUTGROUP_FRONTEND_DPAD_LR~ Switch action: ~a~~n~~INPUTGROUP_MOVE~ Rotate~n~~INPUT_SCRIPT_RT~+~INPUTGROUP_LOOK~ Dance moves~n~~INPUT_SCRIPT_RB~ Perform action~n~~INPUT_SCRIPT_RDOWN~ Boost intensity~n~~INPUT_SCRIPT_RUP~ Toggle lock: ~a~~n~~INPUT_VEH_CIN_CAM~ Cinematic camera~n~~INPUT_SCRIPT_RIGHT_AXIS_X~ DJ camera~n~~INPUT_SCRIPT_RLEFT~ Hide controls
 	0x0FD5EA31 = Hey, come over to the Nightclub.
-	0x0FD6A067 = Heavy Sniper  - Scope
+	0x0FD6A067 = Heavy Sniper  - สโคป
 	0x0FD164E7 = Receive an award item for ~a~.
 	0x0FD871BF = Crowd Control
 	0x0FD8178C = Deaths:
@@ -2898,7 +2898,7 @@
 	0x1E10B2FB = De-Chromed Open Grille
 	0x1E13D55D = Not enough players to participate in the challenge
 	0x1E20D2B7 = Reporter eliminated
-	0x1E29F11E = ปืนพก - Suppressor
+	0x1E29F11E = ปืนพก - ที่เก็บเสียงปืน
 	0x1E41F2F2 = Wow, they won't be messing with us again after that!
 	0x1E43C257 = He's on the move. Stay close but don't get detected.
 	0x1E49C7AC = a Pair of 7s
@@ -3173,7 +3173,7 @@
 	0x2A5F8D38 = Additional Meme Text
 	0x2A6EE731 = Go to the ~HUD_COLOUR_YELLOW~area~s~.
 	0x2A7E0BEB = Are you sure you'd like to start a club management mission?
-	0x2A7E7CC1 = WEAPONS
+	0x2A7E7CC1 = อาวุธ
 	0x2A7E9EE1 = <C>~a~</C>~s~ dropped a Weapon Shipment.
 	0x2A7FC2A4 = You can't start an Available Job when in your Garage.
 	0x2A7FE676 = ไม่มี
@@ -3213,7 +3213,7 @@
 	0x2A807BE7 = La Fuente Blanca
 	0x2A819A96 = the ~HUD_COLOUR_BLUE~Osiris~s~
 	0x2A899BBC = Chrome Skidplate & Bullbars
-	0x2A925D04 = TOPS
+	0x2A925D04 = เสื้อ
 	0x2A937E4C = Driftmeister
 	0x2A993DB5 = Like any other phase of the property market, Armageddon is really all about location. On the one hand you want the perfect seclusion of the desert. On the other hand, you want to be able to stagger to a 24/7 without dragging your knuckles through too much fallout. Well, look no further: on both counts, this lovely prospect in Blaine County is all set for the mushroom cloud.
 	0x2A999DCD = You have unlocked a modification through Research. Access the laptop in your Bunker ~BLIP_PROPERTY_BUNKER~ to view unlocked modifications and where to purchase them.
@@ -4126,7 +4126,7 @@
 	0x3AB3E4EF = Unavailable. You cannot launch another Client Job until the cooldown is over.
 	0x3AB4E964 = The player you were spectating has left the ~a~. ~a~.
 	0x3AB97CBA = Vibe Helmet
-	0x3AB434CE = ปืนพกเอพี - Extended Clip
+	0x3AB434CE = ปืนพกเอพี - คลิปขยาย
 	0x3AB1495A = Weeny Issi Dolly Spearton
 	0x3ABAED79 = Become the warzone: purchase a Terrorbyte, Avenger or Mobile Operations Center today from ~b~<u>www.warstock-cache-and-carry.com</u>~w~~s~
 	0x3ABE9854 = In order to complete your set up for the Entry Disguise you must complete both parts of the Prep work. Complete part two to unlock this disguise on The Diamond Casino Heist finale board.
@@ -5484,7 +5484,7 @@
 	0x4E8FA584 = Accessories are unavailable during this Job.
 	0x4E9AAF76 = An area will appear on the เรดาร์ around the formation leader when they have set a riding formation. Stay in the area to hold the formation and unlock temporary bonuses for your MC.
 	0x4E9C4F20 = WANTED: Courier service for controlled substances. Must have healthy disregard for State law. Payment on receipt of said substances.
-	0x4E9DB947 = Navigate
+	0x4E9DB947 = เปลี่ยนที่
 	0x4E15DF09 = A vehicle is not currently available.
 	0x4E15EEBC = Special Dad
 	0x4E17C197 = Collect the engineer's ~HUD_COLOUR_GREEN~phone.
@@ -5505,7 +5505,7 @@
 	0x4E81DC10 = DPAD UP
 	0x4E150E54 = Street Races
 	0x4E151F4D = Control Panel 1
-	0x4E189FF2 = Light Armor w/ Shield
+	0x4E189FF2 = ชุดเกราะเบา w/ Shield
 	0x4E225DB1 = Evening Armor
 	0x4E366AC0 = Press ~INPUT_VEH_HORN~ to drop Mines.
 	0x4E373F24 = Thermal Vision
@@ -5810,7 +5810,7 @@
 	0x5ABDB094 = ~a~~a~~a~~nrt~ <img src='img://BAT_CASE_15/BAT_CASE_15'  vspace='0' width='252' height='300'/> ~nrt~
 	0x5ABEA140 = Intimidate the ~HUD_COLOUR_RED~corrupt judge.~s~
 	0x5AC2E632 = Your new ~a~ is now confirmed as having been delivered to your Arena Workshop.
-	0x5AC20B67 = Heavy Sniper Mk II Night Vision Scope
+	0x5AC20B67 = Heavy Sniper Mk II Night Vision สโคป
 	0x5AC78ED5 = Level 1
 	0x5AC598E5 = The aim of Inside Track is to select the virtual horse that will place 1st in the race. Play alone in the Single Event or choose to bet on the Main Event with other players.~n~
 	0x5AC1805E = Lock Focus (Camera)
@@ -6232,7 +6232,7 @@
 	0x5DBEAD90 = Cutting torch
 	0x5DBF9B7D = ~a~ were not eliminated
 	0x5DBFD90E = Press ~INPUT_FRONTEND_ACCEPT~ to access the laptop. ~n~Press ~INPUT_FRONTEND_RIGHT~ to stand up.
-	0x5DC085C1 = ปืนลูกซองจู่โจม  - Grip
+	0x5DC085C1 = ปืนลูกซองจู่โจม  - กริ๊ป
 	0x5DC6D642 = MICRO ปืนเอสเอ็มจี LOADOUT
 	0x5DC59C8A = FIREFIGHTERS
 	0x5DC7134E = 3 Socks! ~n~You win ~1~ Chips.
@@ -6495,7 +6495,7 @@
 	0x5F81440B = Masks
 	0x5F81678C = Are those the guys the buyer was worried about? Take them out if they get too close. Tx
 	0x5F351667 = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x Statue of Happiness T-Shirt
-	0x5F539256 = ปืนไมโครเอสเอ็มจี - Scope
+	0x5F539256 = ปืนไมโครเอสเอ็มจี - สโคป
 	0x5FA0E6BF = Del Perro Freeway
 	0x5FA3C870 = You can't access a Clubhouse while on a heist.
 	0x5FA86B4C = Split Six
@@ -7886,7 +7886,7 @@
 	0x7D775A1F = Compete against your MC to pop the longest wheelie.
 	0x7D955AC2 = ~a~ cannot be contacted at this time.
 	0x7D1578FE = YOUR MC SCORE
-	0x7D3415AB = Sniper Rifle - Suppressor
+	0x7D3415AB = Sniper Rifle - ที่เก็บเสียงปืน
 	0x7D3497A2 = Pustules
 	0x7D4076AF = Collect the ~a~
 	0x7D5771B9 = The price alone should have you at half-mast. A compact, two-seater speedboat, the Suntrap is just enough horsepower to get you into trouble. A perfect starter boat for your over-privileged teenage child to commemorate that special point in their life when you realize it's too late to rewind the clock and turn them into a decent human being.
@@ -9859,7 +9859,7 @@
 	0x9F6CC7C9 = You need to register as a SecuroServ CEO to access this computer. ~n~Press ~INPUT_FRONTEND_RIGHT~ to stand up.
 	0x9F6D0B89 = drop-off
 	0x9F6DE696 = EMP DEVICE
-	0x9F7E5334 = ปืนเอสเอ็มจีจู่โจม - Suppressor
+	0x9F7E5334 = ปืนเอสเอ็มจีจู่โจม - ที่เก็บเสียงปืน
 	0x9F7F3D46 = Search for the vault camera feed.
 	0x9F7F91E7 = VIEW YOUR MATCHES
 	0x9F7F3539 = We need that Intel intact. Get it back to the facility and keep an eye out for more gang members.
@@ -10138,7 +10138,7 @@
 	0x13C6A395 = The Schafter LWB has been requested.
 	0x13C173D8 = Paste Audio
 	0x13C4455B = Search the area for the thief.
-	0x13C6811E = WEAPONS
+	0x13C6811E = อาวุธ
 	0x13C17278 = ความสามารถพิเศษ: ความสามารถพิเศษของแฟรงคลินจะอยู่ได้นานแค่ไหนก็ต่อเมื่อชาร์จเต็ม เก็บประจุเติมไว้เพื่อระยะเวลาสูงสุดที่มากขึ้น มันช่วยให้การขับรถสวนทางกับการจราจรหลีกเลี่ยงการชนได้อย่างหวุดหวิดและรักษาความเร็วสูงในยานพาหนะของแฟรงคลินได้
 	0x13C87537 = Click any of the questions to learn more about The Epsilon Program.
 	0x13CE11AD = Locate the croupier.
@@ -10232,7 +10232,7 @@
 	0x15A19689 = Set your dress code.
 	0x15AA564D = Play available Races, Deathmatches, Missions, Survivals and Parachuting.
 	0x15ACB075 = Help take the staff to the ~HUD_COLOUR_YELLOW~Nightclub.~s~
-	0x15AD1912 = Grenade Launcher  - Scope
+	0x15AD1912 = Grenade Launcher  - สโคป
 	0x15B3C923 = Select Level
 	0x15B5EEB6 = If the business becomes full of product or runs out of supplies production will cease. Your President will still need to pay production overheads so check back into the business regularly to help them manage production.
 	0x15B6C893 = Painted Diffuser & Tow Hook
@@ -10315,7 +10315,7 @@
 	0x16D089DA = You currently have inputs that conflict with each other. All changes will be lost if you leave this page.~n~Are you sure you want to continue?
 	0x16D0DB4C = High Slicked Sides Blond
 	0x16D5FB30 = Spectating
-	0x16D7D57C = ปืนไรเฟิลสั้น - Scope
+	0x16D7D57C = ปืนไรเฟิลสั้น - สโคป
 	0x16D8E4BF = From its pristine beaches to its evaporating lakes, San Andreas takes water quality (if not quantity) seriously. See an epidemic waiting to happen on this time trial from the pier to the reservoir.
 	0x16D56FC2 = Help collect Tale Of Us from ~HUD_COLOUR_YELLOW~LSIA.
 	0x16D53780 = Prison guards will become alerted if you stay in their cones of vision for too long or if you aim a weapon at them.
@@ -10531,7 +10531,7 @@
 	0x20F94374 = Destroy a target vehicle for Gerald. This Event is currently hidden. You will see no notifications related to it until you choose to Show it again.
 	0x20FBC57C = WARNING
 	0x20FBD63E = ~BLIP_INFO_ICON~ Extra ammo can be purchased at ร้านอาวุธอัมมู-เนชั่น or on the settings screen when starting a Job. Be sure to top up before getting into a firefight.
-	0x20FE5B8F = Heavy Armor
+	0x20FE5B8F = ชุดเกราะหนา
 	0x20FE7EC6 = KIFFLOM - HAPPINESS IS YOURS! KIFFLOM!
 	0x21A65C78 = Cooked!
 	0x21A86CF5 = In order to purchase this vehicle you must own the Arena Workshop.
@@ -10658,7 +10658,7 @@
 	0x23BEE311 = Your Vehicle Warehouse is unavailable when working as an Associate for a CEO. You can request your Special ยานพาหนะ via the ยานพาหนะ section of the Interaction Menu.
 	0x23C1EEDE = Running Back (Remix)
 	0x23C3AB4D = Other players in session have been alerted to your activities. These players can now come after the prison bus to earn cash and RP.
-	0x23C66E9C = WEAPONS
+	0x23C66E9C = อาวุธ
 	0x23CFF58D = Western Rogue returned to the pilot
 	0x23D052B8 = Stoppie Challenge
 	0x23D0EB46 = Add Clip
@@ -10769,7 +10769,7 @@
 	0x25C8E178 = grams of protein
 	0x25C79D48 = Use the stairs ~HUD_COLOUR_YELLOW~~BLIP_OBJECTIVE~~s~ to access the Buzzard on the nearby roof.
 	0x25CD8D2A = Flecktarn Armored
-	0x25CDF977 = ปืนไรเฟิลจู่โจม  - Grip
+	0x25CDF977 = ปืนไรเฟิลจู่โจม  - กริ๊ป
 	0x25D07DFE = This seat is currently in use.
 	0x25D5FBDC = YOHAN BLAIR
 	0x25D7D0CC = Is that your idea of a joke?
@@ -11159,7 +11159,7 @@
 	0x32FBE1CB = Hunting Pack Remix Rabble 2
 	0x33A3DB2E = TEAM LIVES
 	0x33A5D34E = Mic used by Jock Cranley
-	0x33A53ACC = Equipment added:~n~ปืนพกต่อสู้ Suppressor~n~ไม้เบสบอล
+	0x33A53ACC = Equipment added:~n~ปืนพกต่อสู้ ที่เก็บเสียงปืน~n~ไม้เบสบอล
 	0x33A60439 = Artwork by Chouko
 	0x33A82667 = Ride with the Operators and jump off at the scheduled stops to collect the trash bags. They've got the drugs hidden inside. Shhhh.
 	0x33AA081D = Find the vehicle.
@@ -13189,7 +13189,7 @@
 	0x70DD9F29 = Green Cargo
 	0x70DD486D = Escape points scoped
 	0x70E1BAE8 = ม่วง Long Gloves
-	0x70E3E0B0 = Sniper Rifle - Scope
+	0x70E3E0B0 = Sniper Rifle - สโคป
 	0x70E4AF59 = Your team activated Slow Motion.
 	0x70E135A5 = You collected the Longfin.
 	0x70E797AA = COMMISSION
@@ -13218,7 +13218,7 @@
 	0x71C6925A = The Verlierer
 	0x71C39318 = Select a player for your Bodyguards to take out and a method of execution.
 	0x71CD294D = 4
-	0x71CDD4AA = ปืนลูกซองจู่โจม  - Extended Clip
+	0x71CDD4AA = ปืนลูกซองจู่โจม  - คลิปขยาย
 	0x71CFE049 = Poise
 	0x71D0D452 = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x มีด After Dark T-Shirt
 	0x71D9FCAD = The Race to Point Challenge has started. Compete against your Motorcycle Club to reach the race destination first to earn cash and RP.
@@ -13694,7 +13694,7 @@
 	0x80CCE3FC = Send the photo to Pavel.
 	0x80D1B43B = Garage: Las Lagunas Blvd 4
 	0x80D8E1D4 = You have not signed in. You will need to sign in to save your progress and to be awarded Achievements. Do you want to sign in now?
-	0x80D98577 = Light Armor
+	0x80D98577 = ชุดเกราะเบา
 	0x80DC698A = Hey, come over to my Office Garage.
 	0x80DD8F33 = You have been kicked from Crew ~a~.
 	0x80DF425B = Capture
@@ -13977,7 +13977,7 @@
 	0x85D94BA3 = Engage VTOL mode to access Autopilot.
 	0x85D26721 = There are no Crew members available to work as Associates.
 	0x85D47977 = New Los Santos Summer Special vehicles are now available to purchase on the following websites:~n~- legendarymotorsport.net~n~- southernsanandreassuperautos.com~n~- bennysoriginalmotorworks.com
-	0x85DA7FA6 = ปืนไรเฟิลสั้น Grip
+	0x85DA7FA6 = ปืนไรเฟิลสั้น กริ๊ป
 	0x85DAF1F1 = Beat the target score of ~1~ to pass the Heavy Sniper Challenge.
 	0x85DCB0DA = You no longer have access to the Facility as the owner is undertaking confidential business.
 	0x85DD30BE = The CEO has left the Job.
@@ -14555,7 +14555,7 @@
 	0x96C08637 = Are you sure you want to quit this Tournament? Your Bad Sport rating will increase.
 	0x96C89F41 = Maze Bank Tower
 	0x96C98FC4 = ~a~ ~s~failed to collect all the packages
-	0x96CD2AFE = Super Heavy Armor
+	0x96CD2AFE = ชุดเกราะหนาพิเศษ
 	0x96CEF334 = Transaction error
 	0x96CF4A45 = You can't renovate your Arcade whilst players are playing "Don't Cross The Line".
 	0x96D1CB02 = ยานพาหนะส่วนตัว
@@ -15205,7 +15205,7 @@
 	0x237F2825 = ชมพูร้อน
 	0x238E1047 = The Juggernaut will have access to better weapons and their score will increase. Players with the highest score will win at the end of the timer.
 	0x238EA59E = Reputation Points
-	0x239D8D29 = ปืนไรเฟิลขั้นสูง - Suppressor
+	0x239D8D29 = ปืนไรเฟิลขั้นสูง - ที่เก็บเสียงปืน
 	0x239D9410 = THIS LABEL NEEDS TO BE HERE !!
 	0x240CB4CB = ULP Intel
 	0x240CCC71 = Military Quad
@@ -15625,7 +15625,7 @@
 	0x374F14F6 = Bench 3
 	0x376A863D = ขาว Widow Garage
 	0x376BD5FC = ช๊อป
-	0x377D279F = ปืนลูกซองจู่โจม  - Suppressor
+	0x377D279F = ปืนลูกซองจู่โจม  - ที่เก็บเสียงปืน
 	0x377DC623 = Enter the Phantom Wedge
 	0x377E7510 = Steal supplies for your Counterfeit เงิน Factory.
 	0x378A4B55 = Help return the ~a~~s~ to Vincent at ~HUD_COLOUR_YELLOW~~a~.
@@ -16550,7 +16550,7 @@
 	0x650C6535 = Collect ~HUD_COLOUR_BLUE~Miranda's Assistant.~s~
 	0x650D9333 = Your renovated Terrorbyte ~a~ is now available.
 	0x650F4C4D = Destroy 40 security cameras during The Diamond Casino Heist.
-	0x651A97AE = Stock Heel Grip
+	0x651A97AE = Stock Heel กริ๊ป
 	0x651ADCD4 = Preview your project in full screen mode to see how your creation is looking before you export as a video. There will be some loading time between clips.
 	0x651BE76D = Gray Polo Shirt
 	0x651CB98E = Call for backup.
@@ -16911,7 +16911,7 @@
 	0x749AF4F3 = For a limited period, unlock Exclusive Clothing by purchasing any vehicle from ~a~.
 	0x749B330F = Stand Your Ground Area
 	0x749B341D = Press ~INPUT_CONTEXT~ to use the Player Scanner.
-	0x749BD76E = Navigate
+	0x749BD76E = เปลี่ยนที่
 	0x750BBB5F = Unavailable as an animal.
 	0x750F7866 = Baby น้ำเงิน Backside
 	0x750FA922 = 1 new style available
@@ -18373,7 +18373,7 @@
 	0x4014E41F = Promoters ~1~
 	0x4015A7CA = FUTURE SHOCK IMPERATOR
 	0x4016AD1C = Storage Room
-	0x4017B57F = Light Armor
+	0x4017B57F = ชุดเกราะเบา
 	0x4017DC28 = You can only drive your Oppressor Mk II into the Nerve Center.
 	0x4017F94B = C.o.M Process Stage 4
 	0x4021D3D7 = Choose to allow dry ice to trigger at times during the set.
@@ -18483,7 +18483,7 @@
 	0x4454CBB6 = Garage: 0325 S Rockford Dr
 	0x4470B763 = ***TEMP***
 	0x4475E276 = the ~HUD_COLOUR_BLUE~Sabre Turbo Custom~s~
-	0x4478E73E = ปืนไรเฟิลขั้นสูง - Extended Clip
+	0x4478E73E = ปืนไรเฟิลขั้นสูง - คลิปขยาย
 	0x4483B5DC = I need you to meet with the contact and secure the key codes. Negotiate if you have to, but get them back to me.
 	0x4488A403 = Trust No One
 	0x4499D29E = Chapter 4 verse 4<BR>Those who doubt do not get to lie with new partners, instead they will be cooked in the death they bring upon themselves. Indeed the worst they imagine through doubt is what they will get. Like being raped by a bull-form or a being the last station in a nasty prison train, or watching everyone they know have a joyful orgy and they are not invited nor have you been invited.<BR>That is what doubters get. Nothing but bad things, including being raped by animals and not going to orgies. There should be no need to repeat that a third time. The peach tree talks and the apple tree talks, you hear them and you know. You do not hear them and you know you are a doubter and an Unsaveable.
@@ -18572,7 +18572,7 @@
 	0x4955DD52 = ~INPUTGROUP_FRONTEND_DPAD_LR~ Dance style: ~a~~n~~INPUTGROUP_FRONTEND_DPAD_UD~ Switch action: ~a~~n~~INPUTGROUP_MOVE~ Dance moves~n~~INPUT_SCRIPT_RT~+~INPUTGROUP_MOVE~ Rotate~n~~INPUT_SCRIPT_RB~ Perform action~n~~INPUT_SCRIPT_RDOWN~ Boost intensity~n~~INPUT_SCRIPT_RUP~ Toggle lock: ~a~~n~~INPUT_SCRIPT_RLEFT~ Hide controls
 	0x4957C856 = Search the ~a~~s~ for the ~a~.
 	0x4957F4C7 = 31st Place
-	0x4960B4A8 = ปืนเอสเอ็มจี - Suppressor
+	0x4960B4A8 = ปืนเอสเอ็มจี - ที่เก็บเสียงปืน
 	0x4961F2F7 = ปรับ
 	0x4964DE06 = Use Trackify to search for the ~a~.
 	0x4965E155 = Marked
@@ -18773,7 +18773,7 @@
 	0x5878E1F6 = @deedeedux One of these days I'll actually get this rash checked out.
 	0x5880F692 = This vehicle needs to be delivered to your Terrorbyte first.
 	0x5889DE79 = ผับเปลือยกาย
-	0x5899D5D1 = ปืนเอสเอ็มจี - Scope
+	0x5899D5D1 = ปืนเอสเอ็มจี - สโคป
 	0x5909F512 = Your new Kosatka is now available.
 	0x5912D7EE = Set the type of glow applied to illuminated clothing items.
 	0x5913D5E6 = Return not currently available.
@@ -21308,7 +21308,7 @@
 	0x667944EB = ~o~The Cocks~s~ got doped.
 	0x668411E0 = @pillpharm Drugs, beer, junkfood and cigarettes all under one roof. We've got your wellbeing covered!
 	0x670064B2 = Press ~INPUT_CONTEXT~ to access Clubhouse Contracts.
-	0x674660F9 = Heavy Sniper - Advanced Scope
+	0x674660F9 = Heavy Sniper - สโคปขั้นสูง
 	0x675192F9 = an assault rifle
 	0x678329B7 = CASHING OUT
 	0x681412ED = Follow the news van ~HUD_COLOUR_BLUE~~BLIP_SECURITY_VAN~~s~. Keep your distance or risk alerting the driver.
@@ -21983,7 +21983,7 @@
 	0x8687966C = Hail Santa Festive Sweater
 	0x8691562F = MOBILE OPERATIONS CENTER
 	0x8703835B = Flying Rat I
-	0x8712801C = ปืนลูกซองปั๊ม - Suppressor
+	0x8712801C = ปืนลูกซองปั๊ม - ที่เก็บเสียงปืน
 	0x8734362F = อาวุธ
 	0x8757013B = Cameras were not destroyed
 	0x8811387C = Set the duration of the King of the Hill match.
@@ -23189,7 +23189,7 @@
 	0xA4D25667 = Prison Trans
 	0xA4DACD05 = Green 00.~n~You lose.
 	0xA4DD2525 = This is the production area. Cocaine processing will begin here once the staff arrive.
-	0xA4DEA552 = WEAPONS
+	0xA4DEA552 = อาวุธ
 	0xA4E3A2AE = Your Organization needs to be bigger to allow Spectating.
 	0xA4E32D19 = There is no room in the vehicle for the Head Bartender.
 	0xA4E8941A = Happy Holidays from Rockstar! You have been awarded:~n~เหลือง Reindeer Lights Bodysuit~n~Firework Launcher~n~20 x Firework Rockets~n~Full Snacks~n~Full Armor
@@ -23260,7 +23260,7 @@
 	0xA6A53A47 = Compete to collect the most underwater checkpoints within the time limit.
 	0xA6A816C4 = The Navigator
 	0xA6AA3050 = EMP device collected.
-	0xA6AC1D34 = ปืนเอสเอ็มจีจู่โจม - Scope
+	0xA6AC1D34 = ปืนเอสเอ็มจีจู่โจม - สโคป
 	0xA6AD4471 = 4 new items
 	0xA6AE9872 = <C>~a~</C> ~s~is the Moving Target. Help them deliver the vehicle.
 	0xA6AF7FA9 = Sniper
@@ -23440,7 +23440,7 @@
 	0xA9BADA4F = Construction
 	0xA9BBBA89 = You collected the safe code.
 	0xA9BC502A = INTEL
-	0xA9BD1E17 = ปืนพกต่อสู้ - Extended Clip
+	0xA9BD1E17 = ปืนพกต่อสู้ - คลิปขยาย
 	0xA9BE4331 = Maze Bank Arena
 	0xA9BF940F = APOCALYPSE BRUTUS
 	0xA9C4F46D = Dummy 3
@@ -23464,7 +23464,7 @@
 	0xA9E60C10 = Your new Kosatka ~a~ is now available.
 	0xA9E80108 = Shark announces new invitation only card targeted at "really insecure rich assholes."
 	0xA9EBA17D = Save your project. You should do this from time to time and before exiting to ensure you do not lose any of your Rockstar Editor activity. Any clips used in a saved project will have a 'link' icon displayed alongside them. Be careful not to delete any of these clips as they would also be deleted from your projects.
-	0xA9EBBD6B = ปืนไรเฟิลจู่โจม  - Suppressor
+	0xA9EBBD6B = ปืนไรเฟิลจู่โจม  - ที่เก็บเสียงปืน
 	0xA9F4D937 = Mary-Ann
 	0xA9F6AE0B = Warning: As an Associate your Challenge progress could be reset if your CEO progresses their Doomsday Heist.
 	0xA9FBBEB6 = The turret is unavailable at this time.
@@ -23666,7 +23666,7 @@
 	0xA68C005A = Clown
 	0xA69A5B4F = LS County Coroners
 	0xA69E85C8 = You delivered the Product to the drop-off
-	0xA69EC668 = ปืนเอ็มจีต่อสู้ - Extended Clip
+	0xA69EC668 = ปืนเอ็มจีต่อสู้ - คลิปขยาย
 	0xA70C5FAA = ไม้พลู
 	0xA70DE8A7 = TAG TEAM
 	0xA70E2E90 = Defend Over
@@ -24326,7 +24326,7 @@
 	0xAA607244 = Casino
 	0xAA783251 = Pink Denim Shorts
 	0xAA932431 = Wait for others to steal a valet outfit.
-	0xAA945040 = Heavy Armor
+	0xAA945040 = ชุดเกราะหนา
 	0xAAA1C232 = Tan Strappy
 	0xAAA1FE62 = Pants
 	0xAAA5B06A = ~a~~s~ destroyed Heist Prep Equipment.
@@ -25748,7 +25748,7 @@
 	0xB36EB9FB = Charcoal Wool Gloves
 	0xB36EBD7D = ไป
 	0xB38CC487 = Swim Speed
-	0xB38D29AA = Standard Armor
+	0xB38D29AA = ชุดเกราะมาตรฐาน
 	0xB38D48D1 = Alta Pl
 	0xB38D5109 = A waypoint to your Bunker has been added to your GPS.
 	0xB38DF149 = Vagos 2
@@ -25798,7 +25798,7 @@
 	0xB51A3D3C = Ballistic Equipment has been removed for this activity.
 	0xB51E03A5 = Played by Jezz Torrent
 	0xB51EC1F1 = Unsaveables
-	0xB52C5CEF = ปืนไรเฟิลจู่โจม  - Extended Clip
+	0xB52C5CEF = ปืนไรเฟิลจู่โจม  - คลิปขยาย
 	0xB52C1940 = Bring her back in if you can. Charlie needs the parts.
 	0xB52F9F6A = You don't want to come in early or work late – and why should you?
 	0xB52FA7B4 = Owner has disengaged Autopilot
@@ -26018,7 +26018,7 @@
 	0xB406AEBD = Your personal vehicle is destroyed or impounded.
 	0xB407FE85 = Bring all nearby players into your Office.
 	0xB409A866 = Select a Job for your Motorcycle Club.
-	0xB412D1EB = ปืนไรเฟิลสั้น - Extended Clip
+	0xB412D1EB = ปืนไรเฟิลสั้น - คลิปขยาย
 	0xB417BFED = Enter a friend's Apartment
 	0xB428F9CC = Office
 	0xB433F0AD = The bounty target was killed~s~
@@ -26551,7 +26551,7 @@
 	0xBA54784C = PRIMARY
 	0xBA85750D = Groovy
 	0xBA130471 = Helm
-	0xBA211083 = Navigate
+	0xBA211083 = เปลี่ยนที่
 	0xBA230306 = MTL Nightmare Cerberus
 	0xBA294530 = Everyone is related to everyone else, except for people with red hair - FACT!
 	0xBA390944 = Plasma cutter
@@ -26703,7 +26703,7 @@
 	0xBB27562E = MK II RIFLE LOADOUT
 	0xBB35418D = Sculpture by Oz Bisset
 	0xBB48663F = ปืนลูกซองจู่โจม  - ไฟฉาย
-	0xBB53229B = ปืนไรเฟิลจู่โจม  - Scope
+	0xBB53229B = ปืนไรเฟิลจู่โจม  - สโคป
 	0xBB56552F = You are entering protected air space. If you remain you will be shot down.
 	0xBB62578B = Are you sure you want to sell your stock of อาวุธ?
 	0xBB79302F = I know I'm a douchebag, but you didn't need to cut out like that!!
@@ -26756,7 +26756,7 @@
 	0xBBDDFE37 = the ~HUD_COLOUR_BLUE~ETR1~s~
 	0xBBE05C7F = Stock backrest
 	0xBBE07EF1 = Custom brace bars.
-	0xBBE3BD04 = Heavy Armor
+	0xBBE3BD04 = ชุดเกราะหนา
 	0xBBE3F66D = Save Project As
 	0xBBE4F853 = Are you sure you wish to purchase the decoy gunman for $~1~?
 	0xBBE8ACA3 = Ante and Play:~n~- Minimum: 1000 Chips~n~- Maximum: 50000 Chips~n~~n~Pair Plus:~n~- Minimum: 1000 Chips~n~- Maximum: 5000 Chips
@@ -27418,7 +27418,7 @@
 	0xC0B949A0 = dealers
 	0xC0B40283 = Special Race Series is now available across the map. Enter ~a~~s~ to play a range of Special Races.
 	0xC0B59834 = The Dealer's cards will be shown once all players have made their decisions.
-	0xC0BBD156 = Standard Armor
+	0xC0BBD156 = ชุดเกราะมาตรฐาน
 	0xC0BE5F25 = You already own this business.
 	0xC0C6C610 = ~a~ (Destroyed)
 	0xC0C9BD49 = New vehicle mods
@@ -28490,7 +28490,7 @@
 	0xC5699CAE = Help Yung Ancestor so he will give access to the back areas of the Casino.
 	0xC5715E3B = Aqua Camo Snake Skull
 	0xC5721C16 = You are sitting in the Rear Turret seat of a Bombushka. ~n~Press ~INPUT_CONTEXT~ to enter the gun camera. ~n~Hold ~INPUT_CONTEXT~ to move to the Top Turret seat.
-	0xC5734A43 = ปืนไมโครเอสเอ็มจี - Extended Clip
+	0xC5734A43 = ปืนไมโครเอสเอ็มจี - คลิปขยาย
 	0xC5854C06 = Carbon Street Fighter Kit
 	0xC5963E89 = This bike is the perfect price for those that want to risk life and limb on San Andreas freeways.
 	0xC5999DAF = ENEMIES REMAINING
@@ -29189,7 +29189,7 @@
 	0xCD5B1136 = Treasure Hunt
 	0xCD5B7001 = SPECTATING : ~a~
 	0xCD5DCB53 = Time is running out. Please hurry!
-	0xCD5E8AB0 = ปืนพก - Extended Clip
+	0xCD5E8AB0 = ปืนพก - คลิปขยาย
 	0xCD5FF577 = SALVAGE
 	0xCD6CB473 = Pay at the front desk ~BLIP_BAT_CASH_REG~ to enter The Music Locker. When you are ready, meet Miguel Madrazo ~HUD_COLOUR_GREEN~~BLIP_MICHAEL_FAMILY~~s~ in the VIP area to discuss his job opportunity.
 	0xCD6E65B7 = You can't enter The Diamond Casino & Resort while acquiring a vehicle for a Warehouse.
@@ -29234,7 +29234,7 @@
 	0xCD739F48 = Adversary 4
 	0xCD750C81 = Numero Uno
 	0xCD912F29 = Haulage
-	0xCD915FAF = Sniper Rifle - Advanced Scope
+	0xCD915FAF = Sniper Rifle - สโคปขั้นสูง
 	0xCD1277E1 = Enter the ~HUD_COLOUR_YELLOW~Merryweather HQ.~s~
 	0xCD2331C8 = Send the nearby Vehicle back to storage.
 	0xCD4524E2 = Fight your way through Casino security to get to the vault. Gain access to the vault, take everything you can, and fight your way back out with the loot, leaving a trail of destruction behind you.
@@ -29651,7 +29651,7 @@
 	0xD068AE8F = CARGOBOB HEALTH
 	0xD069F554 = Dead ดรอป
 	0xD06D9AEA = Impeccable Taste!
-	0xD071682E = ปืนเอ็มจีต่อสู้ - Grip
+	0xD071682E = ปืนเอ็มจีต่อสู้ - กริ๊ป
 	0xD07287E3 = If the business becomes full of product or runs out of supplies production will cease. You will still need to pay production overheads so check back into the business regularly to manage production.
 	0xD0735FFE = TABLE SERVICE MENU
 	0xD073DEC5 = Avenger Armory
@@ -30250,7 +30250,7 @@
 	0xD20B8F8E = Olive Tassel Scarf
 	0xD20B2589 = Altruist
 	0xD20C64CA = @andywally39 My daily routine. Wake up, be awesome, go to bed. #whyirock
-	0xD20CCB9F = Grenade Launcher  - Grip
+	0xD20CCB9F = Grenade Launcher  - กริ๊ป
 	0xD20E42B4 = Green Carnival
 	0xD21E15FA = Kills not on a motorcycle do not count towards your score.
 	0xD22AE3E9 = Add Score Track
@@ -30697,7 +30697,7 @@
 	0xD743E050 = SWITCH available
 	0xD746A3FC = You have been resurrected.
 	0xD752CA59 = VAULT DRILLS
-	0xD761C579 = ปืนไรเฟิลสั้น Suppressor
+	0xD761C579 = ปืนไรเฟิลสั้น ที่เก็บเสียงปืน
 	0xD770B954 = ยานพาหนะ Delivered
 	0xD776D26C = Rampage Four
 	0xD777F995 = Barrels & Junk
@@ -31635,7 +31635,7 @@
 	0xDDC2CE35 = Collect Equipment
 	0xDDC7A5AE = MTL Nightmare Cerberus Livery set
 	0xDDC9F9E1 = Go to the ~a~.
-	0xDDC81FE9 = ปืนพก Mk II Mounted Scope
+	0xDDC81FE9 = ปืนพก Mk II Mounted สโคป
 	0xDDC90B7D = Impetigo
 	0xDDC94A60 = Main Event Cam
 	0xDDC887A0 = the ~HUD_COLOUR_BLUE~Reaper.
@@ -31766,7 +31766,7 @@
 	0xDEBCD3EC = Complete a Simeon Repo.
 	0xDEBCD4EC = Green Monster
 	0xDEBCF8DA = Wild Amateur Pics – but not like you're thinking
-	0xDEBE9CEC = Equipment added:~n~ปืนพกต่อสู้ Suppressor~n~
+	0xDEBE9CEC = Equipment added:~n~ปืนพกต่อสู้ ที่เก็บเสียงปืน~n~
 	0xDEC1B39B = Cornrows Dark Brown
 	0xDEC5DDF2 = ไม่มี of the Cargo was delivered
 	0xDEC6DFE8 = Clubhouse
@@ -31795,7 +31795,7 @@
 	0xDEFE0963 = Change Organization Name
 	0xDEFE8BF2 = Access the Disruption Logistics site on this laptop to resupply the Bunker at any time. From here you will also be able to sell stock, check on research, manage your staff and purchase upgrades to enhance the business.
 	0xDEFF11D9 = Western Nightmare Deathbike Livery set
-	0xDF02EABB = ปืนเอ็มจีต่อสู้ - Scope
+	0xDF02EABB = ปืนเอ็มจีต่อสู้ - สโคป
 	0xDF036571 = You need to purchase a Nightclub from foreclosures.maze-bank.com.
 	0xDF04A260 = Go to the ~y~~a~.
 	0xDF077CB1 = Your Terrorbyte is impounded.
@@ -31889,7 +31889,7 @@
 	0xDFB613D0 = Casino Dance 4
 	0xDFB660B0 = DISRUPTION
 	0xDFB4376A = You are sitting in the Top Turret seat of a Volatol. ~n~Press ~INPUT_CONTEXT~ to enter the gun camera. ~n~Hold ~INPUT_CONTEXT~ to move to the Co-Pilot seat.
-	0xDFB81767 = Super Heavy Armor
+	0xDFB81767 = ชุดเกราะหนาพิเศษ
 	0xDFBD6B64 = Picture Perfect Drive
 	0xDFBD698A = Unmarked weapons collected.
 	0xDFC4B647 = Invite to Hangar
@@ -33374,7 +33374,7 @@
 	0xEA4C391E = Select Node
 	0xEA4D048A = Euro Bumper
 	0xEA4DD016 = ~BLIP_INFO_ICON~ Want to fill your Job fast? Use the Auto-Invite and Play option to invite all your friends and fellow Crew members!
-	0xEA5B44ED = Navigate
+	0xEA5B44ED = เปลี่ยนที่
 	0xEA5B304B = Brown
 	0xEA5C6F95 = Thank you for shopping at Southern San Andreas Super Autos! We are arranging transportation of your vehicle and will contact you to confirm delivery.
 	0xEA5DC6F9 = ออก
@@ -34510,7 +34510,7 @@
 	0xF3FCC729 = Exit the security cameras or look for additional areas of interest.
 	0xF3FE5F1A = Green Sequin
 	0xF3FF323F = You cannot enter the Bunker with another player's Mobile Operations Center.
-	0xF4A0C8AB = ปืนเอสเอ็มจีจู่โจม - Extended Clip
+	0xF4A0C8AB = ปืนเอสเอ็มจีจู่โจม - คลิปขยาย
 	0xF4A0C96B = You cannot register as a CEO while in Passive Mode.
 	0xF4A40CD7 = Your Personal Aircraft ~BLIP_SM_WP1~ has been delivered to a suitable location nearby.
 	0xF4A73B9B = These guys won't give up. Be on your guard.
@@ -34561,7 +34561,7 @@
 	0xF5AA8FC0 = Exit Warehouse
 	0xF5AA73AD = Police Station
 	0xF5AA1641 = Are you sure you'd like to rebook ~a~ for $~1~ and make him your resident DJ?
-	0xF5AA3908 = ปืนเอ็มจี - Extended Clip
+	0xF5AA3908 = ปืนเอ็มจี - คลิปขยาย
 	0xF5AB52F5 = Connection to the Rockstar game services has been re-established - progress has now been saved.
 	0xF5B5FFA9 = SELL PRODUCT OVER
 	0xF5B36152 = Braided Mohawk Auburn
@@ -35292,7 +35292,7 @@
 	0xF895FFC1 = Un-Favorite
 	0xF896E085 = A CEO has sent you an invite to become their Associate. Accept invites using the SecuroServ App on your phone.
 	0xF897A058 = ~HUD_COLOUR_WHITE~You stabbed ~a~.
-	0xF901BB9F = ปืนเอ็มจี - Scope
+	0xF901BB9F = ปืนเอ็มจี - สโคป
 	0xF910E3B3 = Black Athletic Shoes
 	0xF917B484 = Old Power Station
 	0xF918EFD8 = Howlin mad!  Bet you isn't crazy enough to run down a boar in your vehicle tho is you?  $~1~ is all yours.
@@ -35585,7 +35585,7 @@
 	0xF1763348 = Your Hangar has storage for a vast selection of Personal Aircraft purchasable from elitastravel.com and warstock-cache-and-carry.com. Pegasus aircraft can be called in and taken to the Hangar to also store them there.
 	0xF1774352 = Hold ~INPUT_CONTEXT~ to end the hallucination.~n~Press ~INPUT_SPRINT~ to take off.~n~Hold ~INPUT_SPRINT~ to fly faster.~n~Press ~INPUT_JUMP~ when flying near the ground to land.~n~
 	0xF2012776 = Counterfeit Goods
-	0xF2146874 = ปืนไมโครเอสเอ็มจี - Suppressor
+	0xF2146874 = ปืนไมโครเอสเอ็มจี - ที่เก็บเสียงปืน
 	0xF2554350 = You are unable to leave the Rocket Voltic as you are the designated driver.
 	0xF2642524 = Dual Axes
 	0xF2891798 = 6115550195
@@ -35808,7 +35808,7 @@
 	0xFB2AB407 = Your driver has provided a Clean Vehicle ~HUD_COLOUR_BLUEDARK~~BLIP_SWAP_CAR~~s~ along the route to the Buyer.~n~All players must enter the vehicle without the cops seeing to make it easier to escape.
 	0xFB2BCDC1 = Extravaganzo
 	0xFB2C849C = Fort Zancudo military base is on high แจ้งเตือน due to suspect ~a~ who has entered the restricted area. The armed forces are attempting to resolve the situation.
-	0xFB2C4830 = Navigate
+	0xFB2C4830 = เปลี่ยนที่
 	0xFB2CE5B4 = Friends in session: ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~
 	0xFB2DE70E = Packie McReary. The original bad penny. Well now he owes you, and this casino job seems like the perfect opportunity to repay the debt.
 	0xFB2E1D15 = Weeny Issi Dual Axes
@@ -36410,7 +36410,7 @@
 	0xFF37DA9B = Select position to move your bike to.
 	0xFF46F05A = Del Perro Beach
 	0xFF51F7E2 = Win Ratio
-	0xFF55E0DB = ปืนพกเอพี - Suppressor
+	0xFF55E0DB = ปืนพกเอพี - ที่เก็บเสียงปืน
 	0xFF59C98F = Deliver the ~a~ to the ~HUD_COLOUR_YELLOW~docks.~s~
 	0xFF64B25A = Unlocked New Weapon Color
 	0xFF85BFBE = Monkey's Paradise
@@ -36499,7 +36499,7 @@
 	0xFFF4A620 = completing a Gunrunning Business setup mission
 	0xFFF35EC9 = Treasure
 	0xFFF57DA1 = While at the slip use ~INPUT_CONTEXT~ to select which boat you want to pilot.
-	0xFFF39804 = WEAPONS
+	0xFFF39804 = อาวุธ
 	0xFFF61042 = Complete the final mission.
 	0xFFFA031A = End CEO Protection contract.
 	0xFFFC76B4 = Whispymound Dr
@@ -40217,7 +40217,7 @@
 	CSHOP_TRY_SU = Press ~a~ to browse suits.
 	CSHOP_TRY_SW = Press ~a~ to browse sweaters.
 	CSHOP_TRY_SWP = Press ~a~ to browse sweatpants.
-	CSHOP_TRY_T = Press ~a~ to browse tops.
+	CSHOP_TRY_T = กด ~a~ เพื่อเรียกดูเสื้อ
 	CSHOP_TRY_TS = Press ~a~ to browse t-shirts.
 	CSHOP_TRY_T_S = Press ~a~ to browse tops and shorts.
 	CSHOP_TRY_V = Press ~a~ to browse vests.
@@ -43529,7 +43529,7 @@
 	HEIST_IB_LAUNCH = Launch Mission
 	HEIST_IB_LOOK = Look Around
 	HEIST_IB_MAP = View Map
-	HEIST_IB_NAV = Navigate
+	HEIST_IB_NAV = เปลี่ยนที่
 	HEIST_IB_NAV2 = Change
 	HEIST_IB_PSN = View Profile
 	HEIST_IB_QUIT = ออก
@@ -44901,7 +44901,7 @@
 	IB_MAPMOVE = Move
 	IB_MAXIMIZE = Maximize
 	IB_MS_WARP = Warp
-	IB_NAVIGATE = Navigate
+	IB_NAVIGATE = เปลี่ยนที่
 	IB_NO = ไม่
 	IB_OK = OK
 	IB_OPTIONS = Options
@@ -45257,8 +45257,8 @@
 	ITEM_DELORD = Cancel Order
 	ITEM_EXIT = Exit
 	ITEM_FREE = FREE
-	ITEM_INSPECT = Inspect
-	ITEM_MOVE = Navigate
+	ITEM_INSPECT = ตรวจสอบ
+	ITEM_MOVE = เปลี่ยนที่
 	ITEM_MOV_CAM = เปลี่ยนมุมกล้อง
 	ITEM_NEW_OUT = New Outfit
 	ITEM_NO = กลับหลัง
@@ -48816,7 +48816,7 @@
 	PM_SCR_STA = สถิติ
 	PM_SCR_VHC = INFO
 	PM_SCR_VHI = OPTIONS
-	PM_SCR_WEA = WEAPONS
+	PM_SCR_WEA = อาวุธ
 	PM_SEL_DEV = Press ~INPUT_FRONTEND_X~ to select a storage device.
 	PM_SETTING_0 = Enable Passive Mode
 	PM_SETTING_1 = Quickplay Action (On Foot)
@@ -49815,8 +49815,8 @@
 	SANDY = Sandy Shores
 	SANDY_BROWN = Sandy Brown
 	SAVEFAILEDFEED = SAVING FAILED The Rockstar cloud servers are currently unavailable.  Your progress will be saved when the connection is re-established.
-	SAVESUCCFEED = SAVE SUCCESSFUL
-	SAVE_OFF = The autosave Pause Menu option is currently turned off. Turn it on to enable autosaving for GTAV.
+	SAVESUCCFEED = บันทึกสำเร็จ
+	SAVE_OFF = ขณะนี้ตัวเลือกเมนูหยุดบันทึกอัตโนมัติถูกปิดอยู่ เปิดเพื่อเปิดใช้งานการบันทึกอัตโนมัติสำหรับ GTAV
 	SAVE_TRIG = กด ~a~ เพื่อบันทึกเกม
 	SAWNOFF_KILLS = ปืนลูกซองเลื่อย kills
 	SAXON_BLUE = Saxon น้ำเงิน
@@ -51111,9 +51111,9 @@
 	TORSO_P0_2_13 = Forest Green T-Shirt
 	TORSO_P0_2_14 = Pale น้ำเงิน T-Shirt
 	TORSO_P0_2_15 = Ash T-Shirt
-	TORSO_P0_7_0 = Brown Shooting Vest
-	TORSO_P0_7_1 = Woodland Shooting Vest
-	TORSO_P0_7_2 = Taupe Shooting Vest
+	TORSO_P0_7_0 = เสื้อกั๊กยิงปืนสีน้ำตาล
+	TORSO_P0_7_1 = เสื้อกั๊กยิงปืนลายป่า
+	TORSO_P0_7_2 = เสื้อกั๊กยิงปืนสีโทป
 	TORSO_P0_7_3 = Brown Woven Shooting Vest
 	TORSO_P0_7_4 = Field Shooting Vest
 	TORSO_P0_7_5 = Forest Shooting Vest
@@ -51175,10 +51175,10 @@
 	TORSO_P0_20_14 = Bright น้ำเงิน Plaid Shirt
 	TORSO_P0_20_15 = น้ำเงิน Check Shirt
 	TORSO_P0_21_0 = Gray Hoodie
-	TORSO_P0_21_1 = ร้านอาวุธอัมมู-เนชั่น Camo Hoodie
-	TORSO_P0_21_2 = LSGC Gray Hoodie
-	TORSO_P0_21_3 = LSGC Urban Hoodie
-	TORSO_P0_21_4 = LSGC Forest Hoodie
+	TORSO_P0_21_1 = เสื้อฮู้ดอัมมู-เนชั่นลายพราง
+	TORSO_P0_21_2 = เสื้อฮู้ดสโมสรยิงปืนสีเทา
+	TORSO_P0_21_3 = เสื้อฮู้ดสโมสรยิงปืนในเมือง
+	TORSO_P0_21_4 = เสื้อฮู้ดสโมสรยิงปืนในป่า
 	TORSO_P0_21_5 = ร้านอาวุธอัมมู-เนชั่น A Hoodie
 	TORSO_P0_21_6 = Blauser Hoodie
 	TORSO_P0_21_7 = Penetrators ส้ม Hoodie
@@ -51473,17 +51473,17 @@
 	TORSO_P1_24_14 = Silver Light Plaid Vest
 	TORSO_P1_24_15 = All Silver Vest
 	TORSO_P1_25_0 = Gray Tuxedo Jacket
-	TORSO_P1_27_0 = Brown Shooting Vest
-	TORSO_P1_27_1 = Woodland Shooting Vest
-	TORSO_P1_27_2 = Taupe Shooting Vest
+	TORSO_P1_27_0 = เสื้อกั๊กยิงปืนสีน้ำตาล
+	TORSO_P1_27_1 = เสื้อกั๊กยิงปืนลายป่า
+	TORSO_P1_27_2 = เสื้อกั๊กยิงปืนสีโทป
 	TORSO_P1_27_3 = Brown Woven Shooting Vest
 	TORSO_P1_27_4 = Field Shooting Vest
 	TORSO_P1_27_5 = Forest Shooting Vest
 	TORSO_P1_28_0 = Silver Hoodie
-	TORSO_P1_28_1 = ร้านอาวุธอัมมู-เนชั่น Camo Hoodie
-	TORSO_P1_28_2 = LSGC Gray Hoodie
-	TORSO_P1_28_3 = LSGC Urban Hoodie
-	TORSO_P1_28_4 = LSGC Forest Hoodie
+	TORSO_P1_28_1 = เสื้อฮู้ดอัมมู-เนชั่นลายพราง
+	TORSO_P1_28_2 = เสื้อฮู้ดสโมสรยิงปืนสีเทา
+	TORSO_P1_28_3 = เสื้อฮู้ดสโมสรยิงปืนในเมือง
+	TORSO_P1_28_4 = เสื้อฮู้ดสโมสรยิงปืนในป่า
 	TORSO_P1_28_5 = ร้านอาวุธอัมมู-เนชั่น A Hoodie
 	TORSO_P1_28_6 = Blauser Hoodie
 	TORSO_P1_28_7 = Penetrators ส้ม Hoodie
@@ -51597,12 +51597,12 @@
 	TORSO_P2_13_7 = Space Monkey Dress 3
 	TORSO_P2_14_0 = Black Hoodie
 	TORSO_P2_14_1 = Silver Hoodie
-	TORSO_P2_14_2 = ร้านอาวุธอัมมู-เนชั่น Camo Hoodie
-	TORSO_P2_14_3 = LSGC Urban Hoodie
-	TORSO_P2_14_4 = LSGC Gray Hoodie
+	TORSO_P2_14_2 = เสื้อฮู้ดอัมมู-เนชั่นลายพราง
+	TORSO_P2_14_3 = เสื้อฮู้ดสโมสรยิงปืนในเมือง
+	TORSO_P2_14_4 = เสื้อฮู้ดสโมสรยิงปืนสีเทา
 	TORSO_P2_14_5 = ร้านอาวุธอัมมู-เนชั่น A Hoodie
 	TORSO_P2_14_6 = Blauser Hoodie
-	TORSO_P2_14_7 = LSGC Forest Hoodie
+	TORSO_P2_14_7 = เสื้อฮู้ดสโมสรยิงปืนในป่า
 	TORSO_P2_14_8 = Penetrators Hoodie
 	TORSO_P2_14_9 = Crevis Fluorescent Hoodie
 	TORSO_P2_14_10 = น้ำเงิน Hoodie
@@ -51672,9 +51672,9 @@
 	TORSO_P2_22_9 = Gray Banded Leather Jacket
 	TORSO_P2_22_10 = Russet Leather Jacket
 	TORSO_P2_22_11 = Brown Suede Jacket
-	TORSO_P2_23_0 = Brown Shooting Vest
-	TORSO_P2_23_1 = Woodland Shooting Vest
-	TORSO_P2_23_2 = Taupe Shooting Vest
+	TORSO_P2_23_0 = เสื้อกั๊กยิงปืนสีน้ำตาล
+	TORSO_P2_23_1 = เสื้อกั๊กยิงปืนลายป่า
+	TORSO_P2_23_2 = เสื้อกั๊กยิงปืนสีโทป
 	TORSO_P2_23_3 = Brown Woven Shooting Vest
 	TORSO_P2_23_4 = Field Shooting Vest
 	TORSO_P2_23_5 = Forest Shooting Vest
@@ -52346,7 +52346,7 @@
 	VELUM = Velum
 	VENDCSH = You don't have enough money to use the machine.
 	VENDEMP = Vending machine has run out of sodas.
-	VENDHLP = Press ~INPUT_CONTEXT~ to buy a soda for $1.
+	VENDHLP = กด ~INPUT_CONTEXT~ ซื้อโซดาในราคา $1
 	VERSUS_SHORT = Vs
 	VESP = Vespucci
 	VEUI_ADD_DESC = Add a description (optional - MAX 255 characters):
@@ -52758,16 +52758,16 @@
 	WCD_SMG_CLIP1 = Standard capacity for ปืนเอสเอ็มจี.
 	WCD_SMG_CLIP2 = Extended capacity for ปืนเอสเอ็มจี.
 	WCD_SR_SUPP = Reduces noise and muzzle flash.
-	WCT_CLIP1 = Default Clip
-	WCT_CLIP2 = Extended Clip
+	WCT_CLIP1 = คลิปเริ่มต้น
+	WCT_CLIP2 = คลิปขยาย
 	WCT_FLASH = ไฟฉาย
-	WCT_GRIP = Grip
-	WCT_SCOPE_LRG = Scope
-	WCT_SCOPE_MAC = Scope
-	WCT_SCOPE_MAX = Advanced Scope
-	WCT_SCOPE_MED = Scope
-	WCT_SCOPE_SML = Scope
-	WCT_SUPP = Suppressor
+	WCT_GRIP = กริ๊ป
+	WCT_SCOPE_LRG = สโคป
+	WCT_SCOPE_MAC = สโคป
+	WCT_SCOPE_MAX = สโคปขั้นสูง
+	WCT_SCOPE_MED = สโคป
+	WCT_SCOPE_SML = สโคป
+	WCT_SUPP = ที่เก็บเสียงปืน
 	WEAPONMOD_UNLOCK = Weapon Mod Unlock
 	WEAPON_ACCURACY = ความแม่นยำ
 	WEAPON_UNLOCK = Weapon Unlock
@@ -52814,16 +52814,16 @@
 	WINE_RED = Wine แดง
 	WMIRROR = West Mirror Drive
 	WM_MAX_STICKY = Maximum of ~1~ active explosives.
-	WM_TINT0 = Black tint
-	WM_TINT1 = Green tint
-	WM_TINT2 = Gold tint
-	WM_TINT3 = Pink tint
-	WM_TINT4 = Army tint
-	WM_TINT5 = LSPD tint
-	WM_TINT6 = ส้ม tint
-	WM_TINT7 = Platinum tint
-	WM_TINTD = New weapon color options available at ร้านอาวุธอัมมู-เนชั่น.
-	WM_TINTDF = Default tint
+	WM_TINT0 = โทนสีดำ
+	WM_TINT1 = โทนสีเขียว
+	WM_TINT2 = โทนสีทอง
+	WM_TINT3 = โทนสีชมพู
+	WM_TINT4 = โทนสีทหาร
+	WM_TINT5 = โทนสีกรมตำรวจ
+	WM_TINT6 = โทนสีส้ม
+	WM_TINT7 = โทนสีแพลตตินั่ม
+	WM_TINTD = มีตัวเลือกสีอาวุธใหม่มาที่ ร้านอาวุธอัมมู-เนชั่น
+	WM_TINTDF = โทนสีเริ่มต้น
 	WOODBEECH_BROWN = Woodbeech Brown
 	WRN_PULSE = Please use this profile with the Wireless Stereo Headset (CECHYA-0080) only. Use with other audio devices is not advised.
 	WTD2_COMBATPDW = Who said personal weaponry couldn't be worthy of military personnel? Thanks to our lobbyists, not Congress. Includes integrated suppressor.
@@ -52839,12 +52839,12 @@
 	WTD2_PRXMINE = Leave a present for your friends with these motion sensor landmines. Short delay after activation.
 	WTD2_VPISTOL = What you really need is a more recognizable gun. Stand out from the crowd at an armed robbery with this engraved pistol.
 	WTD_BAT = Aluminum baseball bat with leather grip. Lightweight yet powerful for all you big hitters out there.
-	WTD_BA_0 = This body armor offers good protection from small-caliber handgun projectiles but is also extremely lightweight and easily concealable.
-	WTD_BA_1 = This lightweight body armor combines the comfort and mobility of a soft vest with the option of hard armor inserts for extra protection.
-	WTD_BA_2 = Featuring full-size hard armor panels to the front and rear, with the option to fit additional soft side panels, this ballistic vest offers excellent protection from handgun and rifle projectiles.
-	WTD_BA_3 = This heavy-duty ballistic vest comes with full-size front and rear hard armor panels and optional hard armor side inserts for all-round protection.
-	WTD_BA_4 = This heavy-duty body armor features full-size high tensile strength ballistic plate to the front, rear and sides for maximum protection against large-caliber firearm projectiles and high-explosive shell fragments.
-	WTD_ชะแลง = Heavy-duty ชะแลง forged from high quality, tempered steel for that extra leverage you need to get the job done.
+	WTD_BA_0 = ชุดเกราะนี้ให้การป้องกันที่ดีจากกระสุนปืนพกขนาดเล็ก แต่ยังมีน้ำหนักเบามากและปกปิดได้ง่าย
+	WTD_BA_1 = ชุดเกราะน้ำหนักเบานี้ผสมผสานความสะดวกสบายและความคล่องตัวของเสื้อเกราะเข้ากันกับเกราะแข็งเพื่อการปกป้องเป็นพิเศษ
+	WTD_BA_2 = โดดเด่นด้วยแผงเกราะแข็งขนาดเต็มที่ด้านหน้าและด้านหลังพร้อมตัวเลือกในการติดตั้งแผงด้านข้างแบบนุ่มเพิ่มเติมเสื้อเกราะนี้ให้การป้องกันที่ดีเยี่ยมจากปืนพกและกระสุนปืนไรเฟิล
+	WTD_BA_3 = ชุดเกราะหนาพิเศษนี้มาพร้อมกับแผงเกราะแข็งด้านหน้าและด้านหลังขนาดเต็มและส่วนแทรกด้านข้างเป็นอุปกรณ์เสริมสำหรับการป้องกันรอบด้าน
+	WTD_BA_4 = ชุดเกราะหนาพิเศษนี้มีแผ่นต้านทานแรงดึงสูงขนาดเต็มที่ด้านหน้าด้านหลังและด้านข้างเพื่อการป้องกันสูงสุดจากกระสุนปืนขนาดใหญ่และชิ้นส่วนเศษกระสุนที่มีแรงระเบิดสูง
+	WTD_CROWBAR = Heavy-duty ชะแลง forged from high quality, tempered steel for that extra leverage you need to get the job done.
 	WTD_DIGI = Used to scan vehicle number plates.
 	WTD_GL = A compact, lightweight grenade launcher with semi-automatic functionality. Holds up to 10 rounds.
 	WTD_GNADE = Standard fragmentation grenade. Pull pin, throw, then find cover. Ideal for eliminating clustered assailants.
@@ -52865,7 +52865,7 @@
 	WTD_PIST_AP = High-penetration, fully-automatic pistol. Holds 18 rounds in magazine with option to extend to 36 rounds.
 	WTD_PIST_CBT = A compact, lightweight, semi-automatic pistol designed for law enforcement and personal defense. 12-round magazine with option to extend to 16 rounds.
 	WTD_RIFLE_ADV = The most lightweight and compact of all assault rifles, without compromising accuracy and rate of fire.
-	WTD_RIFLE_ASL = This standard assault rifle boasts a large capacity magazine and long distance accuracy.
+	WTD_RIFLE_ASL = ปืนไรเฟิลจู่โจมมาตรฐานนี้มีแม็กกาซีนความจุสูงและความแม่นยำในระยะไกล
 	WTD_RIFLE_CBN = Combining long distance accuracy with a high-capacity magazine, the carbine rifle can be relied on to make the hit.
 	WTD_RPG = A portable, shoulder-launched, anti-tank weapon that fires explosive warheads. Very effective for taking down vehicles or large groups of assailants.
 	WTD_SG_ASL = Fully automatic shotgun with 8 round magazine and high rate of fire.
@@ -52944,7 +52944,7 @@
 	WTU_PIST_AP = AP PISTOL
 	WTU_PIST_CBT = COMBAT PISTOL
 	WTU_RIFLE_ADV = ADVANCED RIFLE
-	WTU_RIFLE_ASL = ASSAULT RIFLE
+	WTU_RIFLE_ASL = ปืนไรเฟิลจู่โจม
 	WTU_RIFLE_CBN = CARBINE RIFLE
 	WTU_RIFLE_SCBN = SPECIAL CARBINE
 	WTU_RPG = RPG
@@ -52971,11 +52971,11 @@
 	WT_A_TANK = Tank
 	WT_BA = Body Armor
 	WT_BAT = ไม้เบสบอล
-	WT_BA_0 = Super Light Armor
-	WT_BA_1 = Light Armor
-	WT_BA_2 = Standard Armor
-	WT_BA_3 = Heavy Armor
-	WT_BA_4 = Super Heavy Armor
+	WT_BA_0 = ชุดเกราะเบาพิเศษ
+	WT_BA_1 = ชุดเกราะเบา
+	WT_BA_2 = ชุดเกราะมาตรฐาน
+	WT_BA_3 = ชุดเกราะหนา
+	WT_BA_4 = ชุดเกราะหนาพิเศษ
 	WT_BOOST = Boost
 	WT_ขวดแก้ว = ขวดแก้ว
 	WT_BULLPUPRFL = Bullpup Rifle
