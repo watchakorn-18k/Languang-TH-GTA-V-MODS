@@ -188,7 +188,7 @@
 	MISHSTA_157 = Face Time
 	MISHSTA_158 = In The Dust
 	MISHSTA_159 = Undented
-	MISHSTA_160 = Truckin'
+	MISHSTA_160 = รถบรรทุก'
 	MISHSTA_161 = กวาดให้เรียบ
 	MISHSTA_162 = ปกป้องลูกบุญธรรม
 	MISHSTA_163 = คว้าด่วน
@@ -247,7 +247,7 @@
 	MISHSTD6 = เข้าไปในมุมมองของช๊อปเป็นเวลา 10 วินาที
 	MISHSTD7 = ช่วยจิมมี่ภายใน 10 วินาที
 	MISHSTD8 = ส่งมอบรถของอแมนดาแบบไม่เสียหาย
-	MISHSTD9 = ขับถึงความเร็วสูงสุดบนซีชาร์ก
+	MISHSTD9 = ขับถึงความเร็วสูงสุดของซีชาร์ก
 	MISHSTD10 = อย่าตกจากรถจักรยาน
 	MISHSTD11 = ว่ายน้ำไปที่เรือภายใน 01:00
 	MISHSTD12 = เสร็จภายใน 05:30
@@ -271,7 +271,7 @@
 	MISHSTD32 = ทำลายรถพ่วงทั้งหมดในครั้งเดียว
 	MISHSTD34 = สังหารศัตรู 32 คน
 	MISHSTD37 = สังหารศัตรู 2 คนในนัดเดียว
-	MISHSTD38 = ขับถึงความเร็วสูงสุดบนแพนทอม
+	MISHSTD38 = ขับถึงความเร็วสูงสุดของแพนทอม
 	MISHSTD39 = อยู่ใกล้กับลาซโลว์ตลอดการไล่ล่า
 	MISHSTD40 = จบด้วยความแม่นยำในการยิงอย่างน้อย 70%
 	MISHSTD41 = Kill 14 enemies with a headshot
@@ -439,8 +439,8 @@
 	MISHSTD242 = Purchase all masks within 20 seconds
 	MISHSTD243 = Reach top speed in the Trashmaster
 	MISHSTD244 = Deliver the Trashmaster with no damage
-	MISHSTD247 = Deliver the Tow Truck with no damage
-	MISHSTD248 = Reach top speed in the Tow Truck
+	MISHSTD247 = ส่งมอบรถลากจูงโดยไม่มีความเสียหาย
+	MISHSTD248 = ขับถึงความเร็วสูงสุดของรถลากจูง
 	MISHSTD249 = ขโมยเครื่องประดับจากตู้กระจกทั้ง 20 ตู้
 	MISHSTD250 = ปกป้องแฟรงคลินระหว่างการไล่ล่าในแม่น้ำลอสซานโตส
 	MISHSTD251 = ขโมยเครื่องประดับภายใน 50 วินาที

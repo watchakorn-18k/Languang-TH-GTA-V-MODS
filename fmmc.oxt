@@ -494,7 +494,7 @@
 	0x1F8D7C50 = Number of Land Vehicles
 	0x1F8D46F7 = 2 Players
 	0x1F67CE28 = Stunt Track Jump
-	0x1F95A371 = ~1~m/s2
+	0x1F95A371 = ~1~ม/s2
 	0x1F877A00 = Teams are balanced by default when set to Off. Set this option to On to allow the Job to launch with uneven teams. You must place the max amount of spawn points for each team when uneven teams are allowed.
 	0x1F171897 = Beer Bottle
 	0x1FADA66D = Not enough players to trigger this Race.
@@ -1133,7 +1133,7 @@
 	0x7A3B5594 = Drive around this Arena and see how it plays. In the Arena, you don't need to kill any bots for the test to be valid.
 	0x7A8FE7B1 = Team 2
 	0x7A25AEE3 = ~s~Select End Location
-	0x7A402F38 = ~1~ ft
+	0x7A402F38 = ~1~ ฟุต
 	0x7A526B98 = Help your team deliver a ~g~drugs ~s~to your ~b~base.
 	0x7A658F61 = Select the "Player Spawn Points" menu.
 	0x7A702A49 = Select a Wave to copy to.
@@ -5760,7 +5760,7 @@
 	FMMCCMENU_GTA = ~s~Aerial
 	FMMCCMENU_GTA0 = No
 	FMMCCMENU_GTA1 = Yes
-	FMMCCMENU_GTN = ~1~m
+	FMMCCMENU_GTN = ~1~ม
 	FMMCCMENU_GTR = ~s~Radius
 	FMMCCMENU_HIL = Hide Blip At Location
 	FMMCCMENU_HLTT = HEALTH
@@ -5928,7 +5928,7 @@
 	FMMC_ASSRL3_3 = Only During Objective
 	FMMC_ASSRL4 = Activation Range
 	FMMC_ASSRL4_0 = Default
-	FMMC_ASSRL4_1 = ~1~m
+	FMMC_ASSRL4_1 = ~1~ม
 	FMMC_ASSRL5 = Action Begins
 	FMMC_ASSRL5_0 = When Spawned
 	FMMC_ASSRL5_1 = Objective Start
@@ -6039,7 +6039,7 @@
 	FMMC_DEL_W = Delete all placed Pickups?
 	FMMC_DEL_Z = Delete all placed Zones?
 	FMMC_DIR_ANG = Direction Tolerance
-	FMMC_DIST = ~1~m
+	FMMC_DIST = ~1~ม
 	FMMC_DLT_A = ~s~Delete All
 	FMMC_DLT_AI = ~s~Delete All Actors
 	FMMC_DLT_C = ~s~Delete All Checkpoints
@@ -6366,7 +6366,7 @@
 	FMMC_OBJP = Plural - "~a~"
 	FMMC_OBJS = Item - "~a~"
 	FMMC_OB_B = Blip Style
-	FMMC_OB_M0_0 = ~1~m
+	FMMC_OB_M0_0 = ~1~ม
 	FMMC_OFF_Z = Offset Z Placement
 	FMMC_OM_0 = Drug Package Small
 	FMMC_OM_1 = Drugs Package Large
@@ -6800,7 +6800,7 @@
 	FMMC_RANDDONE = Placed
 	FMMC_RANDFAIL = Failed
 	FMMC_RANDLOW = Low
-	FMMC_RANDM = ~1~m
+	FMMC_RANDM = ~1~ม
 	FMMC_RANDMED = Medium
 	FMMC_RANDO = ~s~Randomize
 	FMMC_RANDOFF = Off
@@ -6898,7 +6898,7 @@
 	FMMC_SEL_DSB = Disabled
 	FMMC_SEL_ENB = Enabled
 	FMMC_SEL_LEFT = Left
-	FMMC_SEL_MET = ~1~m
+	FMMC_SEL_MET = ~1~ม
 	FMMC_SEL_NA = N/A
 	FMMC_SEL_NO = No
 	FMMC_SEL_NON = None
