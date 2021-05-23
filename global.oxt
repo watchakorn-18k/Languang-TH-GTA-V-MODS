@@ -94,7 +94,7 @@
 	0x009B021E = Travel with your Associates.
 	0x009CDEE0 = Pfister Pink
 	0x009D9EA5 = 17:95 THIRD
-	0x009D382A = Grapeseed
+	0x009D382A = เกรปซีด
 	0x00A3EA87 = You failed to stop ~a~ ~s~before the time expired
 	0x00A6F281 = Your office is too near for quick travel.
 	0x00A40C65 = Faded น้ำเงิน Regular Fit
@@ -618,9 +618,9 @@
 	0x045F250F = Has challenged you to a Joust.
 	0x045FBD8A = Pink Accent Backside
 	0x0460FD4C = Your horse placed third.
-	0x04618A68 = Lago Zancudo Facility
+	0x04618A68 = โรงงานทะเลสาบแซนคูโด้
 	0x04651FA3 = Studio Los Santos
-	0x04652D48 = Deliver the ~a~ to ~y~Grand Senora Desert.
+	0x04652D48 = Deliver the ~a~ to ~y~ทะเลทรายแกรนด์เซโนร่า
 	0x0469EE3C = Press ~INPUT_ENTER~ to toggle the expanded view on and off.
 	0x046A0F3C = You can't enter this Nightclub while acquiring goods for a warehouse.
 	0x046A5E93 = The mechanic has not been paid.
@@ -812,7 +812,7 @@
 	0x0585EBB1 = STEAL SUPPLIES
 	0x0588C699 = 4 new styles available
 	0x0589CD9F = Monocular Night Vision
-	0x058C68FC = Dear คุณฟิลิปส์,~n~Not a subject line you receive every day, I'm sure!  I'm an environmentalist currently based in Paleto Bay.  I hope you don't mind me contacting you out of the blue like this, but I heard that you recently purchased the dock at Paleto Cove.  I don't know if you're aware of the extent of the problems with pollution in ซานแอนเดรส but nuclear power facilities are pumping large amounts of waste into the ocean on a daily basis.  As a local businessman with a vested interest in the coastline, any assistance that you can personally provide in cleaning up our seabeds would be much appreciated.  Every little helps!~n~Warm regards,~n~Dr. Varley
+	0x058C68FC = Dear คุณฟิลิปส์,~n~Not a subject line you receive every day, I'm sure!  I'm an environmentalist currently based in ปาเลโตเบย์  I hope you don't mind me contacting you out of the blue like this, but I heard that you recently purchased the dock at Paleto Cove.  I don't know if you're aware of the extent of the problems with pollution in ซานแอนเดรส but nuclear power facilities are pumping large amounts of waste into the ocean on a daily basis.  As a local businessman with a vested interest in the coastline, any assistance that you can personally provide in cleaning up our seabeds would be much appreciated.  Every little helps!~n~Warm regards,~n~Dr. Varley
 	0x058C8038 = Hostage Steal
 	0x058FFE69 = Glossy Black Off-road
 	0x0590EFCE = CHAR_COMIC_STORE
@@ -848,7 +848,7 @@
 	0x05C8A81F = Steal the motorcycles and deliver them to the drop-off
 	0x05C30B41 = THIS LABEL NEEDS TO BE HERE !!!
 	0x05C36C89 = The BeeJay XL is currently unavailable.
-	0x05C45B41 = Paleto Forest Sawmill
+	0x05C45B41 = ป่าปาเลโต Sawmill
 	0x05C481A3 = You're a Good Person
 	0x05C19450 = the อาวุธ
 	0x05C69619 = Team 1 assaults the foundry to rescue Agent ULP. Team 2 provides cover from a vantage point.
@@ -986,7 +986,7 @@
 	0x06ACB272 = ~a~ destroyed a Turreted Vehicle.
 	0x06B3E9E5 = Layered Bob Chestnut
 	0x06B16CD7 = PLACEHOLDER 7
-	0x06BC3ECC = Grand Senora Desert Facility
+	0x06BC3ECC = ทะเลทรายแกรนด์เซโนร่า Facility
 	0x06BD8788 = Bearing the Truth
 	0x06BDAD72 = Special Race Series
 	0x06C5C527 = Purchase the Desert & Urban Fractal liveries for applicable Weaponized ยานพาหนะ at a Vehicle Workshop inside a Mobile Operations Center or Avenger.
@@ -1230,13 +1230,13 @@
 	0x0884CF15 = HELICOPTER BACKUP. ราคา: $30,000
 	0x08868879 = TARGETS: 3~n~DETAILS: EPSILONISTS, BLUE SHIRTS
 	0x08873325 = เงิน
-	0x0887C1EB = Grapeseed Forgery Office
+	0x0887C1EB = เกรปซีด Forgery Office
 	0x08893917 = Your Social Club account is subject to the Terms of Service and Privacy Policy located at ~HUD_COLOUR_SOCIAL_CLUB~www.rockstargames.com~s~
 	0x08899D2E = Starface Celebrity Facials
 	0x088AF754 = Enter the Casino.
 	0x088CC14C = FINALE
 	0x088E9CE1 = Supply room is empty, pal. Organize a restock from the bunker, or you're running dry.
-	0x08918920 = Paleto Forest Bunker
+	0x08918920 = ป่าปาเลโต Bunker
 	0x0893343C = Complete a Lowrider mission.
 	0x0895B412 = The Hit Squad are currently unavailable.
 	0x08993877 = Retro Glam
@@ -1273,7 +1273,7 @@
 	0x08D482D9 = ~HUD_COLOUR_FREEMODE~STATS
 	0x08D7041A = Stock Rear Antenna
 	0x08DA328C = Sculpture by Sophia Masi
-	0x08DB8F7B = Grand Senora Desert
+	0x08DB8F7B = ทะเลทรายแกรนด์เซโนร่า
 	0x08DB423F = Artwork by Gunter Merrill
 	0x08DBA0D7 = Acquired Crack Shot loadout
 	0x08DCCDD5 = Eliminate hostile reinforcements
@@ -1344,7 +1344,7 @@
 	0x095A91A8 = Medium Slot ~1~
 	0x095DD209 = ~a~~HUD_COLOUR_WHITE~ melee killed ~a~.
 	0x09608635 = Off
-	0x0961A45F = North Chumash
+	0x0961A45F = นอร์ทชูมาช
 	0x0962198D = La Fuente Blanca
 	0x0966B835 = Chapter 3 verse 3<BR>Land left unplowed goes fallow, for in all things there is an agrarian analogy, for the world was created before television. If a woman does not lie with five upward men of Epsilon a day on the seventh month, the harvest will surely be meager.
 	0x0967B988 = Western Deathbike Light Armor
@@ -1594,7 +1594,7 @@
 	0x0B1F8620 = Black Parachute Smoke
 	0x0B2BEBA1 = ม่วง Sweatband
 	0x0B2C67EC = Mrs B.
-	0x0B3E18BF = Grand Senora Desert
+	0x0B3E18BF = ทะเลทรายแกรนด์เซโนร่า
 	0x0B3EA769 = Steal the loot from 20 treasure chests found on Cayo Perico.
 	0x0B4E088F = Defense Exclusions to Friends or Crew.
 	0x0B4E9953 = Complete a Gang Attack.
@@ -2546,7 +2546,7 @@
 	0x1BC73BC8 = Daily Collectibles can be found hidden around Los Santos.
 	0x1BC81EC2 = ~a~ disabled your vehicle using EMP Mine.
 	0x1BC1469A = Collect the cargo crates before they are destroyed.
-	0x1BC6484B = @MerryweatherSecurity Merryweather would like to assure its customers of its continued excellence. The crash on the Raton Canyon railway bridge has temporarily disrupted our high value courier service, but we will be up and running again soon #BAWSAQ
+	0x1BC6484B = @MerryweatherSecurity Merryweather would like to assure its customers of its continued excellence. The crash on the เรตันแคนยอน railway bridge has temporarily disrupted our high value courier service, but we will be up and running again soon #BAWSAQ
 	0x1BCA686F = News Van A
 	0x1BCB8ACB = Unavailable while Members of the MC are apart.
 	0x1BCBB1CA = ~a~ ~s~collected the most checkpoints~s~
@@ -2703,7 +2703,7 @@
 	0x1CE56782 = Search the ~a~~s~ for the Cargo.
 	0x1CEC74DB = Retrieve the Special Cargo
 	0x1CECAAD9 = Conservatives Suck!
-	0x1CF1CCB4 = Great Ocean Hwy
+	0x1CF1CCB4 = ทางหลวงกรีทโอเชี่ยน
 	0x1CF2CCD0 = A Nightclub staff member was killed
 	0x1CF4FE6F = Style
 	0x1CF8FF24 = Pajamas
@@ -2757,11 +2757,11 @@
 	0x1D8D4453 = Unfortunately we cannot complete this transaction.
 	0x1D8DC76A = Rendezvous with the ~a~.
 	0x1D8E88E5 = Press ~INPUT_CONTEXT~ to play Race And Chase: Get Truckin for $1.
-	0x1D8E705A = Chumash Plaza
+	0x1D8E705A = ชูมาช Plaza
 	0x1D9AAA2F = Incendiary
 	0x1D9D4E17 = Error Code: ~1~
 	0x1D9EA4C8 = We can confirm that ~a~ has been shot dead by a police marksmen.
-	0x1D9F5F4D = Paleto Bay
+	0x1D9F5F4D = ปาเลโตเบย์
 	0x1D27C133 = You have purchased this Vehicle Warehouse.
 	0x1D34E960 = OFFICE OPTIONS
 	0x1D38C685 = Stone Boards
@@ -3040,7 +3040,7 @@
 	0x1F7A6FAF = The ultimate blend of luxury, refinement and breeding, the Rapid GT is a British supercar that's as superior and classist as its fellow countrymen, but without the need for self-deprecation.
 	0x1F7C577C = New email received.
 	0x1F7CBBF2 = You do not currently own a Terrorbyte. Purchase one at www.warstock-cache-and-carry.com.
-	0x1F7ED51C = @zachdealba Out walking the dog at Raton Canyon and I see some crazy guy shooting a rocket launcher at a helicopter!!! I moved out to Blaine Country for some peace and quiet but it's a goddamn war zone!
+	0x1F7ED51C = @zachdealba Out walking the dog at เรตันแคนยอน and I see some crazy guy shooting a rocket launcher at a helicopter!!! I moved out to Blaine Country for some peace and quiet but it's a goddamn war zone!
 	0x1F8CD2FD = Ballas
 	0x1F9A54C9 = Press ~INPUT_MOVE_RIGHT_ONLY~ to move right. ~n~Hold ~INPUT_FRONTEND_CANCEL~ to exit.
 	0x1F9A7912 = Thank you for your order คุณฟิลิปส์, your new ~a~ has been delivered to your hangar.
@@ -3410,7 +3410,7 @@
 	0x2BE98891 = Pick Up Cards
 	0x2BEB46FC = 4 new items
 	0x2BEEA4BE = Select drainage tunnel
-	0x2BEECFDA = Senora Desert Counterfeit เงิน Factory
+	0x2BEECFDA = โรงงานแบงค์ปลอมทะเลทรายเซโนร่า
 	0x2BF4B042 = If the cops take you down during this mission you will be arrested. If all members of your Motorcycle Club are arrested, the Nightclub Warehouse will be raided and the Goods seized.
 	0x2BF61C05 = @PoppyMitchell Feel like posting a photo of my vagina just to finally prove that all those photos of my vagina arent my vagina. now what I mean?
 	0x2BF936A6 = Available Warehouse slot.
@@ -3422,10 +3422,10 @@
 	0x2BFE6254 = ลามาร์
 	0x2C017E57 = Complete the Aggressive, The Big Con and Silent & Sneaky approaches to The Diamond Casino Heist and earn $300000.
 	0x2C01EB64 = Career OVER!
-	0x2C034208 = Paleto Forest
+	0x2C034208 = ป่าปาเลโต
 	0x2C04B669 = 1001 ถนนพาโนรามา
 	0x2C06F903 = Close Shave
-	0x2C0CF801 = North Chumash
+	0x2C0CF801 = นอร์ทชูมาช
 	0x2C0E6855 = Cluckin' Bell Logo Hoodie
 	0x2C1BD6F1 = Penthouse Garage
 	0x2C2DA868 = You delivered Supplies.
@@ -3626,7 +3626,7 @@
 	0x2D92A971 = The Safe add-on allows players to display their hard-earned wealth.
 	0x2D96B90C = Complete 5 prep missions as part of The Cayo Perico Heist.
 	0x2D99B7CF = Use that thing to blast your way outta there - it's got stopping power but the reload is long so take the time to place your shots. There's a couple of Buzzards near the helipad over there that might make for a quicker exit.
-	0x2D150B12 = San Chianski Mountain ระยะยิง
+	0x2D150B12 = เทือกเขาซานเชียนสกี
 	0x2D286C1C = ~nrt~ <img src='img://SCLUB_2/OPIUM_NIGHTS_HOTEL_2_4' vspace='0' width='252' height='252'/> ~nrt~~a~ ~a~. ~a~
 	0x2D339A0C = Navy น้ำเงิน Skinny
 	0x2D354F31 = Big Bang
@@ -3830,7 +3830,7 @@
 	0x2EDF6DCB = Muffler Helmet
 	0x2EE0327C = Get to the ~a~.
 	0x2EE6C99E = Each target that is killed will reduce the cash you receive. Defend as many targets as you can to maximize your earnings.
-	0x2EE6FD06 = Vehicle: ~a~~n~Color: ~a~~n~Plate: ~a~~n~ Location: Paleto Forest ~nrt~ <img src='img://MP_EX_LOCATION_06/MP_EX_LOCATION_06' vspace='0' width='252' height='150'/> ~nrt~
+	0x2EE6FD06 = Vehicle: ~a~~n~Color: ~a~~n~Plate: ~a~~n~ Location: ป่าปาเลโต ~nrt~ <img src='img://MP_EX_LOCATION_06/MP_EX_LOCATION_06' vspace='0' width='252' height='150'/> ~nrt~
 	0x2EE40E39 = Hipster Shaved Dark Brown
 	0x2EE40F4B = SHOTGUN LOADOUT
 	0x2EE67D19 = Race to ~HUD_COLOUR_YELLOW~เกาะอีลีเซียน.
@@ -4022,7 +4022,7 @@
 	0x2FFE156C = จากหนังสือ
 	0x2FFF3EF3 = You need to select some vehicles to export first.
 	0x3A027EF7 = Congratulations! Your Challenge ~a~ has expired unbeaten. You have earned ~1~RP.
-	0x3A039DBC = Mount Gordo
+	0x3A039DBC = ภูเขากอร์โด
 	0x3A09D889 = Target D
 	0x3A0BF905 = Hack into the ~HUD_COLOUR_GREEN~signal box.~s~
 	0x3A0E9285 = Are you serious about this business? If you are, take out these other smugglers, and steal their cargo. It's the only way we'll get ahead.
@@ -4066,7 +4066,7 @@
 	0x3A73E309 = Grotti Tee
 	0x3A74DCAF = the ~HUD_COLOUR_RED~Verlierer~s~
 	0x3A79C539 = Sprunk in a funk: shares still unsteady.
-	0x3A81FA06 = Grand Senora Oilfields Bunker
+	0x3A81FA06 = หลุมหลบภัยบ่อน้ำมันแกรนด์เซโนร่า
 	0x3A84AA2D = Three Card Poker
 	0x3A85BF5F = Two-Tone Gray Tux
 	0x3A86DC75 = Your Terrorbyte has been returned to your Nightclub Warehouse.
@@ -4657,7 +4657,7 @@
 	0x3E33E364 = Forged documents will be processed then stacked around the storage area here. In order to maintain production supplies will be used.
 	0x3E37B2BE = Ram Skull Nade Kit
 	0x3E42D923 = MOC Parking
-	0x3E45F943 = Raton Canyon
+	0x3E45F943 = เรตันแคนยอน
 	0x3E52BD43 = Deathmatch
 	0x3E65F8AB = We got helis waiting, now get em there fast.
 	0x3E76BF1A = You no longer have access to this Nightclub Warehouse as you became a VIP.
@@ -4812,7 +4812,7 @@
 	0x3F605C82 = Minimum Wager
 	0x3F718C69 = Look Left
 	0x3F739A65 = Black Pencil
-	0x3F769FD9 = Grapeseed
+	0x3F769FD9 = เกรปซีด
 	0x3F783EF6 = Testosterone
 	0x3F1738BD = Enter the ~HUD_COLOUR_BLUE~SUV.~s~
 	0x3F2296CF = Cheval Marshall
@@ -4857,7 +4857,7 @@
 	0x3FCF509F = Once the business is up and running your MC will be able to sell processed Cocaine.
 	0x3FD0B703 = Quick! Quick! We're on the clock!
 	0x3FD1F3A4 = Luxury is living on the water. Bold. Iconic. Visible from space. Check out our range of Galaxy Super Yachts today at ~b~<u>docktease.com</u>~w~~s~.
-	0x3FD5BBA0 = North Chumash
+	0x3FD5BBA0 = นอร์ทชูมาช
 	0x3FD7E083 = ถนนสเตรงเวย์
 	0x3FD24B2C = SILVER LEVEL
 	0x3FD679C2 = ~BLIP_INFO_ICON~ Your partners in crime need a tool? ดรอป them a weapon by pressing ~INPUT_DROP_WEAPON~ with it highlighted in the weapon wheel ~INPUT_SELECT_WEAPON~
@@ -4980,7 +4980,7 @@
 	0x4AB99544 = You already own an Arena Workshop, purchasing this one will trade in your old one. The trade in will ~a~ you $~1~.
 	0x4ABC8643 = Pale น้ำเงิน Open-Face Helmet
 	0x4ABD6B9B = Press ~INPUT_CONTEXT~ to play Republican Space Rangers.
-	0x4ABD79B1 = The following Criminal Enterprise Starter Pack content can be acquired for free:~n~~n~Properties:~n~-Maze Bank West Executive Office~n~-Paleto Forest Bunker~n~-Great Chaparral Biker Clubhouse~n~-Senora Desert Counterfeit เงิน Factory~n~-1561 San Vitas Street Apartment~n~-1337 ถนนเอ็กเซ็ปชั่นลิสต์ 10-Car Garage~n~~n~ยานพาหนะ:~n~-BF Dune FAV~n~-Pegassi Vortex~n~-Obey Omnis~n~-Maibatsu Frogger~n~-Western Zombie Chopper~n~-Grotti Turismo R~n~-Enus Windsor~n~-Bravado Banshee~n~-Invetero Coquette Classic~n~-Enus Huntley S~n~~n~อาวุธ:~n~-Marksman Rifle~n~-Compact Rifle~n~-Compact Grenade Launcher~n~~n~Character Customization:~n~-Outfits: Import/Export~n~-Outfits: Stuntman Suits~n~-Outfits: Racing Suits~n~-Outfits: Biker Suits~n~-Biker Tattoos ~s~
+	0x4ABD79B1 = The following Criminal Enterprise Starter Pack content can be acquired for free:~n~~n~Properties:~n~-Maze Bank West Executive Office~n~-ป่าปาเลโต Bunker~n~-Great Chaparral Biker Clubhouse~n~-โรงงานแบงค์ปลอมทะเลทรายเซโนร่า เงิน Factory~n~-1561 San Vitas Street Apartment~n~-1337 ถนนเอ็กเซ็ปชั่นลิสต์ 10-Car Garage~n~~n~ยานพาหนะ:~n~-BF Dune FAV~n~-Pegassi Vortex~n~-Obey Omnis~n~-Maibatsu Frogger~n~-Western Zombie Chopper~n~-Grotti Turismo R~n~-Enus Windsor~n~-Bravado Banshee~n~-Invetero Coquette Classic~n~-Enus Huntley S~n~~n~อาวุธ:~n~-Marksman Rifle~n~-Compact Rifle~n~-Compact Grenade Launcher~n~~n~Character Customization:~n~-Outfits: Import/Export~n~-Outfits: Stuntman Suits~n~-Outfits: Racing Suits~n~-Outfits: Biker Suits~n~-Biker Tattoos ~s~
 	0x4AC0CDCF = KEYPAD
 	0x4AC9CEEB = 0
 	0x4AC43E9B = ...has explored 100 percent of ซานแอนเดรส
@@ -5262,7 +5262,7 @@
 	0x4CB0BAC5 = ~a~ - SHOOTING RANGE
 	0x4CB1C69B = ~a~~a~~a~~nrt~ <img src='img://BAT_CASE_6/BAT_CASE_6'  vspace='0' width='252' height='300'/> ~nrt~
 	0x4CB5BBD3 = Rocky times for shyster law firms like Hammerstein & Faust.
-	0x4CB10B9A = Grand Senora Desert
+	0x4CB10B9A = ทะเลทรายแกรนด์เซโนร่า
 	0x4CB46BD6 = Report this Job for:
 	0x4CB147D7 = No Missiles
 	0x4CB614C6 = Your CEO will lose Special Cargo while there are still enemies attacking your Warehouse.
@@ -5313,7 +5313,7 @@
 	0x4D0BE1D3 = Help <C>~a~~s~</C> deliver the trailer to the ~HUD_COLOUR_YELLOW~drop-off.~s~
 	0x4D0C29C2 = The Goods have been revealed. Compete to collect the duffel bags ~HUD_COLOUR_GREEN~~BLIP_BAT_CARGO~~s~ and deliver them to the drop-off to earn cash and RP.
 	0x4D0D69F6 = The Widowmaker and Unholy Hellbringer are now available to purchase in Ammu-nation.
-	0x4D0EFE58 = If you're a budding survivalist looking for a decent simulation of a nuclear wasteland, you could do a lot worse than the Grand Senora Desert. This cozy property was originally built as an end-of-the-world shelter and general hangout for a cryptocurrency pioneer - and if that doesn't scream 'high build quality' what does?
+	0x4D0EFE58 = If you're a budding survivalist looking for a decent simulation of a nuclear wasteland, you could do a lot worse than the ทะเลทรายแกรนด์เซโนร่า This cozy property was originally built as an end-of-the-world shelter and general hangout for a cryptocurrency pioneer - and if that doesn't scream 'high build quality' what does?
 	0x4D0F2664 = 150 kills
 	0x4D1B41C0 = Please check your game system power save settings to ensure your system will not power off during install. You can check your setting in Settings / Power Saving Settings / Set Time Until PS4 Turns Off. We recommend adjusting this setting to a minimum of one hour while playing the game. You can reset your power save settings after you have finished playing.
 	0x4D2A7650 = Apartment purchased.
@@ -5330,7 +5330,7 @@
 	0x4D5F2ED6 = ไม่มี
 	0x4D5FDCA9 = Stunning deck and infinity pool with spectacular views of the city! If you have your heart set on an iconic 1960s-style ไวน์วูดฮิลส์ home, look no further. Last house on coveted ถนนเอซโจนส so no prying eyes next door when the party really gets swinging!<BR><BR>"Lenny Avery - Always closing, never closed!"
 	0x4D6B4225 = Available in Collector's Edition
-	0x4D6CBA19 = Vehicle: ~a~~n~Color: ~a~~n~Plate: ~a~~n~ Location: Mount Gordo ~nrt~ <img src='img://MP_EX_LOCATION_04/MP_EX_LOCATION_04' vspace='0' width='252' height='150'/> ~nrt~
+	0x4D6CBA19 = Vehicle: ~a~~n~Color: ~a~~n~Plate: ~a~~n~ Location: ภูเขากอร์โด ~nrt~ <img src='img://MP_EX_LOCATION_04/MP_EX_LOCATION_04' vspace='0' width='252' height='150'/> ~nrt~
 	0x4D6F3DAD = Each Buyer has three potential rendezvous locations ~HUD_COLOUR_RED~~BLIP_FINDERS_KEEPERS~~s~ after you escape the Casino. Choosing a buyer further away will pay more however you increase the risk of losing some of the take.
 	0x4D7BA009 = When you die, some of your stolen cash is lost. Try to stay alive to maximize your score.
 	0x4D7C555B = Options to empty the Kosatka.
@@ -5419,7 +5419,7 @@
 	0x4DC822CA = Retired
 	0x4DC1655B = Mil Spec Steelie
 	0x4DC6839F = ~a~~s~ delivered ~a~
-	0x4DCE72D8 = ถนนเกรซซีด
+	0x4DCE72D8 = ถนนเกรปซีด
 	0x4DCFF39B = Failed to destroy all rival supply trucks
 	0x4DD01BE8 = The location of this set of bolt cutters is now known for The Cayo Perico Heist and will be displayed on your Planning Screen. If collected during the Heist, they will allow you to quietly break into storage lockups around the island without alerting nearby guards.
 	0x4DD0B0F0 = Matte Mirrored Biker
@@ -5449,7 +5449,7 @@
 	0x4E01218F = You cannot add a marker as you would not have enough disk space to save the project.
 	0x4E024181 = Club Challenges Completed
 	0x4E04FDAE = Hop
-	0x4E05D239 = Great Ocean Highway
+	0x4E05D239 = ทางหลวงกรีทโอเชี่ยน
 	0x4E071F24 = apartment
 	0x4E085C23 = Matte Gray
 	0x4E0884E8 = Choose your VIP Area access setting.
@@ -5804,7 +5804,7 @@
 	0x5AACBEA2 = A Social Club account is required to transfer your character.
 	0x5AACF972 = @bakervern6 I'm bleeting live from my wife's infidelity. Stay tuned for updates and please rebleet to friends and family.
 	0x5AAF95D9 = Defend the last ~b~target ~s~against ~a~.
-	0x5AB2461E = @creammonster42 Driving home down the Senora Freeway and I see a guy riding a motorbike on top of a fucking train! No shit!
+	0x5AB2461E = @creammonster42 Driving home down the ทางด่วนเซโนร่า and I see a guy riding a motorbike on top of a fucking train! No shit!
 	0x5AB4676D = There is a player already occupying the Nose Turret seat.
 	0x5ABD5ED4 = ย่านธนาคารแมซ
 	0x5ABDB094 = ~a~~a~~a~~nrt~ <img src='img://BAT_CASE_15/BAT_CASE_15'  vspace='0' width='252' height='300'/> ~nrt~
@@ -5818,7 +5818,7 @@
 	0x5AC77007 = You have joined the On The Run Challenge after it started. You must participate from the beginning in order to take part.
 	0x5ACA2E25 = Hedonist
 	0x5ACCE8E5 = การครอบครอง
-	0x5AD022E5 = Forget the scare stories: there are no ghosts, and no one does yoga here. The foothills of Mount Gordo are the perfect backwater spot for an off-the-books, nuke-proof hideaway.
+	0x5AD022E5 = Forget the scare stories: there are no ghosts, and no one does yoga here. The foothills of ภูเขากอร์โด are the perfect backwater spot for an off-the-books, nuke-proof hideaway.
 	0x5AD052C1 = Join a public session to Promote the Club.
 	0x5AD80F56 = Press ~INPUT_CONTEXT~ to play The Love Professor.
 	0x5AD403C9 = Korean Pavillion
@@ -6094,7 +6094,7 @@
 	0x5CADDA2C = Participate in the Arena War Series.
 	0x5CB3A686 = The Supplies can be found at ~HUD_COLOUR_GREEN~~BLIP_PACKAGE~~HUD_COLOUR_WHITE~. Help to steal them and take them back to the Business.
 	0x5CB3B136 = ~a~~s~ has started Torched. Help the Los Santos Triads protect the munitions ~HUD_COLOUR_BLUE~~BLIP_CONTRABAND~~s~ from them to earn cash and RP.
-	0x5CB6F33A = @chumash_kiki Omg police everywhere! Guy got shot at a party next door. What does this mean for Chumash property prices???
+	0x5CB6F33A = @chumash_kiki Omg police everywhere! Guy got shot at a party next door. What does this mean for ชูมาช property prices???
 	0x5CB95068 = ~BLIP_INFO_ICON~ Within the Clip Editor, the depth of field settings allow you to make parts of your scene appear more or less in focus.
 	0x5CBA1547 = Press ~INPUT_FRONTEND_CANCEL~ to stand up.
 	0x5CBAC970 = Dance to Keinemusik's set at the Cayo Perico beach party for 30 minutes.
@@ -6240,12 +6240,12 @@
 	0x5DC40217 = FLY UNDER BRIDGES
 	0x5DC88204 = Vapid Dominator Unholy Cross set
 	0x5DCD523A = The following vehicles are now available:~n~- Weeny Issi Classic (southernsanandreassuperautos.com)~n~- Vapid Flash GT (legendarymotorsport.net)~n~- Sea Sparrow Chopper (elitastravel.com)
-	0x5DCE4604 = ถนนเกรซซีด
+	0x5DCE4604 = ถนนเกรปซีด
 	0x5DCFB827 = Deliver the อาวุธ to the final ~HUD_COLOUR_YELLOW~drop-off.~s~
 	0x5DD2EC8F = Enter a ~a~.
 	0x5DD9D7C8 = Participate in Power Play.
 	0x5DD9D617 = Green Carnival
-	0x5DD9EC41 = Paleto Forest Sawmill
+	0x5DD9EC41 = ป่าปาเลโต Sawmill
 	0x5DD4638A = Brute automotive asks for bailout - share prices on the up.
 	0x5DD60174 = @graham_blues4life I started to sing, people started to laugh, I started to pretend it was all a joke, I started to plan my death. #shattereddreams
 	0x5DDF96F1 = Single Scope Night Vision
@@ -7079,7 +7079,7 @@
 	0x6DF38A00 = Facility
 	0x6DF788AD = Backside Skateboards Top
 	0x6DF5756A = Large Hazard Block Panel
-	0x6DFB4FB4 = Go to ~HUD_COLOUR_YELLOW~Paleto Bay.
+	0x6DFB4FB4 = Go to ~HUD_COLOUR_YELLOW~ปาเลโตเบย์
 	0x6DFB7AC4 = Heist Impact:~n~Disables security cameras and all lights on the island to reduce the guards' range of sight at night.
 	0x6DFCAA91 = Green Digital Vent
 	0x6DFCB5A0 = Destroy the ~a~~s~ and recover the Cargo.
@@ -7640,7 +7640,7 @@
 	0x7BA994B2 = เทรเวอร์
 	0x7BA1874F = Sell Special Cargo.
 	0x7BAA2BB2 = Cobble Vent
-	0x7BB04716 = Grapeseed
+	0x7BB04716 = เกรปซีด
 	0x7BB0DD01 = Pumped Up!
 	0x7BB5DD52 = ~a~ Office
 	0x7BB839FC = Smoker
@@ -7716,7 +7716,7 @@
 	0x7C68ADC1 = The A-ganger
 	0x7C82AAEC = Simeon Repo Mission
 	0x7C83FCFD = You have been awarded the following liveries for the ~a~:~n~~a~~n~~a~~n~~a~~n~Visit an appropriate mod shop or vehicle workshop to apply these liveries.
-	0x7C86ECCB = Go to Paleto Bay
+	0x7C86ECCB = Go to ปาเลโตเบย์
 	0x7C91CC97 = New RC Bandito Races are now available to play in the ซานแอนเดรส Super Sport Series ~HUD_COLOUR_PINKLIGHT~~BLIP_ACSR_RACE_HOTRING~
 	0x7C96C546 = ~a~ was not acquired
 	0x7C99A7ED = You are a passenger of an Akula. ~n~Press ~INPUT_CONTEXT~ to enter the passenger camera.
@@ -7787,7 +7787,7 @@
 	0x7CD8B3B2 = Heist Prep Complete:~n~~a~ หน้ากาก set collected.
 	0x7CD51811 = Sanchez
 	0x7CDD692F = น้ำเงิน Sweatband
-	0x7CDFD7AD = Dear Mr. Clinton,~n~Not a subject line you receive every day, I'm sure!  I'm an environmentalist currently based in Paleto Bay.  I hope you don't mind me contacting you out of the blue like this, but I heard that you recently purchased the dock at Paleto Cove.  I don't know if you're aware of the extent of the problems with pollution in ซานแอนเดรส but nuclear power facilities are pumping large amounts of waste into the ocean on a daily basis.  As a local businessman with a vested interest in the coastline, any assistance that you can personally provide in cleaning up our seabeds would be much appreciated.  Every little helps!~n~Warm regards,~n~Dr. Varley
+	0x7CDFD7AD = Dear Mr. Clinton,~n~Not a subject line you receive every day, I'm sure!  I'm an environmentalist currently based in ปาเลโตเบย์  I hope you don't mind me contacting you out of the blue like this, but I heard that you recently purchased the dock at Paleto Cove.  I don't know if you're aware of the extent of the problems with pollution in ซานแอนเดรส but nuclear power facilities are pumping large amounts of waste into the ocean on a daily basis.  As a local businessman with a vested interest in the coastline, any assistance that you can personally provide in cleaning up our seabeds would be much appreciated.  Every little helps!~n~Warm regards,~n~Dr. Varley
 	0x7CE4D8F3 = Armed with nothing but muskets and a superiority complex, the Brits took over half the world. Own the gun that built an empire. Part of the Independence Day Special.
 	0x7CE8FC5B = Participate in a Vehicle Deathmatch.
 	0x7CE9D0AC = Modern Stealth Gear
@@ -7950,7 +7950,7 @@
 	0x7E069BD8 = Beast
 	0x7E078F14 = INTERACTIVE MAP
 	0x7E0A4184 = ถนนลาสกูนาส, 9
-	0x7E0A8680 = ที่จอดรถ: 1932 ถนนเกรซซีด
+	0x7E0A8680 = ที่จอดรถ: 1932 ถนนเกรปซีด
 	0x7E0D7D47 = You found it? Nice work out there.
 	0x7E0E1043 = Motorcycle Club Road Captain
 	0x7E1A8693 = Foreclosed Garage
@@ -8173,7 +8173,7 @@
 	0x7F955A26 = Recover an FIB security pass from corrupt agents in order to gain access to the FIB Headquarters.
 	0x7F4210FF = Apocalyptic Raider Top set
 	0x7F4816F7 = The Depositor
-	0x7F4843C8 = Paleto Forest Sawmill
+	0x7F4843C8 = ป่าปาเลโต Sawmill
 	0x7F5059B9 = Press ~INPUT_FRONTEND_ACCEPT~ to access the laptop. ~n~Press ~INPUT_FRONTEND_X~ to manage arcade games. ~n~Press ~INPUT_SCRIPT_RRIGHT~ to stand up.
 	0x7F5730BB = @RehabIsland Another day – Another death – this is what TV is all about!
 	0x7F6506EB = Custom belt drive covers.
@@ -8192,7 +8192,7 @@
 	0x7F616014 = Painting by มาร์ติน Miller
 	0x7F729826 = Your new white ~a~ is now confirmed as having been delivered to your ~a~.
 	0x7F864153 = You cannot change your character's appearance while in an Organization or Motorcycle Club.
-	0x7F870413 = Grapeseed Bunker
+	0x7F870413 = เกรปซีด Bunker
 	0x7FA13407 = Grotti 500
 	0x7FA99642 = The cops have raided the Nightclub Warehouse and seized the Goods.
 	0x7FAA4A3F = You are no longer a member of ~a~~s~
@@ -8507,7 +8507,7 @@
 	0x8BD52F13 = the ~HUD_COLOUR_RED~Tyrus.
 	0x8BD145DF = PREP: SECURITY INTEL
 	0x8BD2924F = Press ~INPUT_CONTEXT~ to drop flyers.
-	0x8BD70597 = Chumash
+	0x8BD70597 = ชูมาช
 	0x8BDA458A = Recover the ~HUD_COLOUR_RED~gold~s~ from ~a~.
 	0x8BDC4CF9 = PENTHOUSE MANAGEMENT
 	0x8BDD5FE6 = Weapon added:~n~Heavy Sniper Mk II
@@ -8610,7 +8610,7 @@
 	0x8CA29AA6 = Bronze
 	0x8CA85722 = EXPORT TO GALLERY
 	0x8CABC9BE = Help deliver the ~a~ ~s~to the ~y~Business.
-	0x8CAD43DB = Paleto Bay Cocaine Lockup
+	0x8CAD43DB = ปาเลโตเบย์ Cocaine Lockup
 	0x8CB75C2F = The motorcycle was destroyed
 	0x8CB6757E = Official Salamanders merchandise for the "true" fan.
 	0x8CB91557 = Steal the Romero Hearse containing funeral director outfits and use them to infiltrate the LS County Coroners.
@@ -8620,14 +8620,14 @@
 	0x8CC4C363 = ~a~ ~a~ ~a~
 	0x8CC5F5F4 = Silver Necklace
 	0x8CC20B02 = The Rocket Voltic was destroyed
-	0x8CC22C09 = Raton Canyon
+	0x8CC22C09 = เรตันแคนยอน
 	0x8CC174EB = ULSA
 	0x8CC668C3 = The Rancher XL is currently unavailable.
 	0x8CC30479 = Initializing Social Club
 	0x8CCA23FA = ขาว Widow Garage
 	0x8CCA850C = Search the ~HUD_COLOUR_GREEN~head of security~s~ for the safe code.
 	0x8CCE2A40 = <C>~a~</C> won the Challenge with a time of ~a~
-	0x8CCF98B7 = Help deliver the ~a~ ~s~to ~y~Grand Senora Desert.
+	0x8CCF98B7 = Help deliver the ~a~ ~s~to ~y~ทะเลทรายแกรนด์เซโนร่า
 	0x8CCFEA79 = ถนนอากูฆา
 	0x8CD2E019 = ถนนแอแบททัวร์
 	0x8CD5EEBC = ~a~ were taken back to the Office Garage
@@ -9204,7 +9204,7 @@
 	0x9AC0C569 = Medium End Apartment
 	0x9AC26C97 = ~INPUTGROUP_FRONTEND_DPAD_LR~ Dance style: ~a~~n~~INPUTGROUP_FRONTEND_DPAD_UD~ Switch action: ~a~~n~~INPUTGROUP_MOVE~ Rotate~n~~INPUT_SCRIPT_RB~+~INPUTGROUP_LOOK~ Dance moves~n~~INPUT_SCRIPT_RT~ Perform action~n~~INPUT_SCRIPT_RDOWN~ Boost intensity~n~~INPUT_SCRIPT_RUP~ Toggle lock: ~a~~n~~INPUT_SCRIPT_RLEFT~ Hide controls
 	0x9AC89F67 = GTA Online: Complete the Introduction.
-	0x9AC3892B = Raton Canyon
+	0x9AC3892B = เรตันแคนยอน
 	0x9ACBC719 = Friends in session: ~n~~a~
 	0x9ACC3D68 = ถนนค็อกกิงเอ็น
 	0x9ACDA815 = Document Forgery Office
@@ -9262,7 +9262,7 @@
 	0x9B5DAF5A = Congratulations, your ซานแอนเดรส State-sponsored gift of $~1~ has been deposited to your Maze Bank account.
 	0x9B5E4A35 = Arena Deathmatch
 	0x9B5E35D2 = Vehicle discounts are available for a limited time only. Go to the ช่องเก็บของ section of the Interaction Menu to check your discounts and the time remaining before they expire.
-	0x9B6AA68A = Chumash Pier
+	0x9B6AA68A = ชูมาช Pier
 	0x9B6C448F = VIP DAMAGE TAKEN ~a~
 	0x9B6E7B49 = Info Tech
 	0x9B6EF3EA = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_73/IE_TEXTVECH_73' vspace='0' width='252' height='150'/> ~nrt~
@@ -9284,7 +9284,7 @@
 	0x9B20FCE2 = ~a~~s~ will cycle through a full series of Stunt Races allowing you to join and play a variety of different tracks.
 	0x9B22BED3 = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x KDST T-Shirt
 	0x9B23FBA6 = Wait for the Members of your MC.
-	0x9B28B569 = Help deliver the ~a~ ~s~to ~y~Grand Senora Desert.
+	0x9B28B569 = Help deliver the ~a~ ~s~to ~y~ทะเลทรายแกรนด์เซโนร่า
 	0x9B32C854 = Painted Galaxy Super Yacht
 	0x9B34D5AB = Your CEO changed the name of your Organization to ~a~.~s~
 	0x9B36DCC9 = เอลลาไฮ
@@ -9383,7 +9383,7 @@
 	0x9BEFE6CB = You have received an invite from a rival President to join their MC. Accepting this invite will dismiss you from your current Organization.
 	0x9BF2BF4D = Remove Hood
 	0x9BF9EC6C = OFFICE
-	0x9BF463C5 = Paleto Bay Counterfeit เงิน Factory
+	0x9BF463C5 = ปาเลโตเบย์ Counterfeit เงิน Factory
 	0x9BF771E1 = Press ~INPUT_CONTEXT~ to play A Superyacht Life - D-Day.
 	0x9BFB705D = วันจันทร์
 	0x9BFEAD2E = <C>~a~</C> ~s~has the package. Help them deliver it.
@@ -9466,7 +9466,7 @@
 	0x9C45055B = Purchase Hollow Point Rounds for applicable Mk II weapons at a Weapon Workshop inside a Mobile Operations Center or Avenger.
 	0x9C49303A = Stay alive to win
 	0x9C67904C = Submarine
-	0x9C71091C = Lago Zancudo
+	0x9C71091C = ทะเลสาบแซนคูโด้
 	0x9C185573 = Hold ~INPUT_VEH_MELEE_HOLD~ and tap ~INPUT_VEH_MELEE_LEFT~/~INPUT_VEH_MELEE_RIGHT~ to shunt in either direction.
 	0x9C227023 = Change your aircraft's weapon loadout.
 	0x9C476594 = Cyan Floral Flip-Flops
@@ -9488,7 +9488,7 @@
 	0x9CB8B459 = น้ำเงิน Check Shirt
 	0x9CB8BB28 = GUNRUNNING
 	0x9CB83A23 = Skull of Taurus
-	0x9CB130D0 = Paleto Forest
+	0x9CB130D0 = ป่าปาเลโต
 	0x9CB2720B = ~HUD_COLOUR_WHITE~You barbecued ~a~.
 	0x9CB19101 = Request a XLS.
 	0x9CB31188 = Zit's business model hits right note with public.
@@ -9520,7 +9520,7 @@
 	0x9CE24D54 = Rampage
 	0x9CE53BE6 = Protect the ~HUD_COLOUR_BLUE~Phantom Wedge~s~ whilst it destroys the ~HUD_COLOUR_RED~supplies.
 	0x9CE934C3 = Locate the sonar jammer.
-	0x9CE3975E = Pixel Pete's - Paleto Bay
+	0x9CE3975E = Pixel Pete's - ปาเลโตเบย์
 	0x9CE9830E = Top Pair
 	0x9CE61164 = This turret station is unavailable when the Avenger is near your active Yacht defenses.
 	0x9CEBE27E = Shotguns
@@ -10115,7 +10115,7 @@
 	0x12FA7C24 = Take out the ~r~Lost MC.~s~
 	0x12FA38F7 = After Hours
 	0x12FDF42A = ร็อคฟอร์ดฮิลส์ Church
-	0x12FF9FBC = Mount Chiliad Weed Farm
+	0x12FF9FBC = ภูเขาชิลเลียด Weed Farm
 	0x13A1EF2B = You cannot control the doors of your Personal Vehicle when stored in a Bunker.
 	0x13A515E9 = ดรอป-off
 	0x13A5583C = Fort Zancudo Treatment Works
@@ -10324,7 +10324,7 @@
 	0x16DE3F68 = Fire
 	0x16DE42AD = Chips
 	0x16E9D036 = ~a~ is modding a motorcycle.
-	0x16EB2F7B = Paleto Bay Facility
+	0x16EB2F7B = ปาเลโตเบย์ Facility
 	0x16EBCD99 = Container
 	0x16EDBADE = Painting by Josh Löwe
 	0x16EDCF7E = Gruppe Sechs outfits
@@ -10641,7 +10641,7 @@
 	0x23A0362A = Peach Camo Tactical
 	0x23A2C751 = A new vehicle is available to purchase from bennysoriginalmotorworks.com. This vehicle can be taken to Benny's Original Motor Works ~HUD_COLOUR_YELLOW~~BLIP_BENNYS~~s~  to apply his specialized modifications.
 	0x23A54C89 = ~o~The Cocks~s~ activated Slow Motion.
-	0x23A31470 = Paleto Forest Sawmill
+	0x23A31470 = ป่าปาเลโต Sawmill
 	0x23AC4F8E = Tundra Cargo Pants
 	0x23AD2CD6 = Moss Tactical
 	0x23AD8080 = ~a~ collected the stolen Gauntlet.
@@ -10734,7 +10734,7 @@
 	0x24E56DCB = Find your nemesis using The Love Professor Cabinet.
 	0x24E80EA5 = @JimmyDS jumpin on righteous slaughter in 5 if any of u bitchz wanna get fucked!
 	0x24E90BF2 = Select the Old Spice: Warm decor. A new look for your Office.
-	0x24E98628 = - Chumash Hotel
+	0x24E98628 = - ชูมาช Hotel
 	0x24EC7DEA = DOPED
 	0x24EED10B = Shield Police
 	0x24F1BEBF = I Fought the Law...
@@ -10903,7 +10903,7 @@
 	0x28B0DAC2 = 3655 ถนนป่าโอ๊ต
 	0x28B2F783 = Are you sure you want to return to the Casting Trailer?
 	0x28B9FE61 = You have marked <C>~a~</C>~s~ for death
-	0x28B138F9 = On one side, you hear the bubbling stream of the Zancudo River taking its share of bloated corpses from the Alamo Sea to the coast; on the other, the distant sound of whooping and gunfire from nearby Harmony. And beneath your feet a sprawling nuclear fortress. Welcome to Eden.
+	0x28B138F9 = On one side, you hear the bubbling stream of the Zancudo River taking its share of bloated corpses from the ทะเลอัลลาโม to the coast; on the other, the distant sound of whooping and gunfire from nearby Harmony. And beneath your feet a sprawling nuclear fortress. Welcome to Eden.
 	0x28B368DC = The timeless beauty of formaldehyde.
 	0x28B462B9 = Taco Bomb Sweater set
 	0x28BBA4C1 = Brown Cargos
@@ -10976,7 +10976,7 @@
 	0x29C52586 = Play some กอล์ฟ
 	0x29CAB841 = Formation Flying Assist deactivated.
 	0x29CB6890 = ไวน์วูด Clubhouse
-	0x29CF20DF = Paleto Bay
+	0x29CF20DF = ปาเลโตเบย์
 	0x29D0926E = Black Bullbar with Winch & Lights
 	0x29D0DB56 = RON shares drop after tanker truck explosion.
 	0x29D1D653 = สิ่งที่ต้องทำ
@@ -11123,7 +11123,7 @@
 	0x32D0A4D4 = Love and light,~n~Brother Adrian.
 	0x32D0A6C7 = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_43/IE_TEXTVECH_43' vspace='0' width='252' height='150'/> ~nrt~
 	0x32D4E7D8 = Worry Lines
-	0x32D92D45 = Marina Dr
+	0x32D92D45 = ถนนมาลีนา
 	0x32D94C54 = Traders ~1~
 	0x32D538CD = Press ~INPUT_CONTEXT~ to play Inside Track.
 	0x32D584F1 = This will be processed as soon as possible.
@@ -11230,7 +11230,7 @@
 	0x34C9D3F3 = //Loading...~n~~n~Target confirmation:[unmarked weapons]~n~......................................................................................................~n~&gt;/Loadout: Marksman::~n~- ปืนไรเฟิลจู่โจม Mk II~n~- ปืนพก Mk II~n~- Pipe Bombs~n~- มีดแมเชเท~n~&lt;\ ~n~~n~&gt;/ Confirm Prep work?
 	0x34C9DC74 = 8th
 	0x34C11E65 = Are you sure you wish to recruit ~a~ as your hacker?
-	0x34C39A62 = Paleto Bay Forgery Office
+	0x34C39A62 = ปาเลโตเบย์ Forgery Office
 	0x34C60FAB = Upgrade the jammer on the Cuban 800 and Titan to increase interference times and reduce recharge times.
 	0x34CC4AE4 = ~s~Your ~s~~a~~s~ has been moved to a nearby location.
 	0x34CDC013 = WALL PIECES (PAGE 2)
@@ -11729,7 +11729,7 @@
 	0x43FA9151 = THIS LABEL NEEDS TO BE HERE !!
 	0x43FECE19 = Gives you access to the following weapons:~n~- Suppressed ปืนเอสเอ็มจีจู่โจม~n~- Suppressed ปืนพกต่อสู้~n~- Stun Gun~n~- มีด
 	0x43FF3718 = You are the co-pilot of a Bombushka. ~n~Press ~INPUT_CONTEXT~ to enter the gun camera. ~n~Hold ~INPUT_CONTEXT~ to move to the Nose Turret seat.
-	0x44A1A0E0 = North Chumash
+	0x44A1A0E0 = นอร์ทชูมาช
 	0x44A2C71F = Dealer Room
 	0x44A3E995 = Heist Impact:~n~Infiltrate the airstrip using one of the following approach vehicles if acquired: ~n~ - Velum
 	0x44A11A4D = Turn the flashlight on by aiming with ~INPUT_AIM~.
@@ -12095,7 +12095,7 @@
 	0x50F97F8A = ซื้อ a private dance at the ผับเปลือยกาย
 	0x50F69576 = Those paparazzi are hassling our VIP customers again!  We need to teach them a lesson!
 	0x50F72696 = Rocker
-	0x50FBDBB6 = Grand Senora Desert
+	0x50FBDBB6 = ทะเลทรายแกรนด์เซโนร่า
 	0x50FC1C05 = So Extravagant!
 	0x51A1E62B = Vapid Dominator Triple Rear Exhausts
 	0x51A1FE86 = ตอบกลับ:ตอบกลับ: ไม่มีเราอีกต่อไป
@@ -12410,7 +12410,7 @@
 	0x56D733FD = Codes
 	0x56DA954A = Snitch
 	0x56DA6683 = Prosperity is Coming!
-	0x56DD5153 = Grand Senora Desert
+	0x56DD5153 = ทะเลทรายแกรนด์เซโนร่า
 	0x56DF78FB = Find the vehicle carrying the ~a~.
 	0x56DFA93C = ~BLIP_INFO_ICON~ Having a bad day? Job Points are reset when you switch off the game so you can start fresh next time you play. No one will ever know.
 	0x56E1BE99 = The Cargo ~HUD_COLOUR_GREEN~~BLIP_SM_CARGO~~s~ is stashed inside the aircraft. Use the aircraft to transport it back to the Hangar. If an aircraft is destroyed the Cargo will parachute to the ground.
@@ -12555,7 +12555,7 @@
 	0x58FB1A4E = แดง Biker Suit
 	0x58FB8AFA = Source Counterfeit Goods for your Hangar.
 	0x58FD81A0 = Green Digital Armored
-	0x59A9C6E8 = ~BLIP_INFO_ICON~ Lazy? Dislike exercise? Then ride a cable car to the top of Mount Chiliad.
+	0x59A9C6E8 = ~BLIP_INFO_ICON~ Lazy? Dislike exercise? Then ride a cable car to the top of ภูเขาชิลเลียด.
 	0x59A9E0CC = Go out to ~HUD_COLOUR_YELLOW~sea.
 	0x59A56C03 = Curtis Weaver
 	0x59AA05BC = Passive Mode is disabled when playing as a VIP, CEO or MC President.
@@ -12707,7 +12707,7 @@
 	0x61EE7C1C = Press ~INPUT_CONTEXT~ to Jump.~n~Hold ~INPUT_FRONTEND_LB~ to Detonate.~n~Press ~INPUT_VEH_CIN_CAM~ to toggle cinematic camera.~n~Press ~INPUT_VEH_EXIT~ to exit.
 	0x61EE7749 = All Exit Warehouse
 	0x61EED897 = SELL SPECIAL CARGO OVER
-	0x61EF61D5 = อพาร์ทเมนท์: 1893 ถนนเกรซซีด
+	0x61EF61D5 = อพาร์ทเมนท์: 1893 ถนนเกรปซีด
 	0x61EFF5C1 = In order to accrue these Goods you must fulfill the following criteria:~n~- Purchase a Bunker from foreclosures.maze-bank.com.~n~- Set up the Gunrunning Business on the Disruption Logistics site inside your Bunker.~n~
 	0x61F3CD45 = Ice Cold Sprunk Festive Sweater
 	0x61F6ED59 = the torpedo ECUs
@@ -12926,7 +12926,7 @@
 	0x65F87A76 = Children of the Mountain
 	0x65F955E3 = You are unable to access this control station until the Rear Turrets have been purchased at the Vehicle Workshop inside the Bunker.
 	0x65F35702 = น้ำเงิน Regular Fit
-	0x65FA1BAA = Paleto Bay
+	0x65FA1BAA = ปาเลโตเบย์
 	0x65FD8D11 = Taco Bomb Cap set
 	0x66A22FD9 = Heist Prep
 	0x66A29B9D = ~a~ placed a poster.
@@ -12970,7 +12970,7 @@
 	0x66EB3604 = Press ~INPUT_FRONTEND_ACCEPT~ to access the Nightclub Management app. ~n~Press ~INPUT_FRONTEND_RIGHT~ to stand up.
 	0x66ECB241 = Technical Aqua
 	0x66EE8FD8 = Stock Roof Panel
-	0x66EE952D = Lago Zancudo Bunker
+	0x66EE952D = ทะเลสาบแซนคูโด้ Bunker
 	0x66F09706 = Your new ~a~ is now confirmed as having been delivered to your Clubhouse.
 	0x66F0C303 = Choose what scuba gear to wear.
 	0x66F6CD89 = MY POINTS
@@ -13258,7 +13258,7 @@
 	0x72B47FE2 = The Special Cargo ~HUD_COLOUR_BLUE~~BLIP_CONTRABAND~~HUD_COLOUR_WHITE~ has been transferred to the delivery vehicle. Deliver the goods to the drop-offs to receive payment.
 	0x72B474C6 = @isaacnewdong I caught a glimpse of the crew that hit the Blaine County Savings Bank while I was cowering in a pool of my own waste - you should have seen the crazy space age armor they had on. Like something out of a video game for real!!
 	0x72B5166E = Tea Ache Sea
-	0x72C2D4B9 = Chumash
+	0x72C2D4B9 = ชูมาช
 	0x72C45A42 = Your Vehicle Warehouse is unavailable when working as a Bodyguard for a VIP.
 	0x72C8464A = Endless Waves
 	0x72C23387 = The Benefactor Krieger is now available on legendarymotorsport.net.
@@ -13468,7 +13468,7 @@
 	0x76A542E9 = You cannot enter the Kosatka while in a mission vehicle.
 	0x76A911B7 = Landstalker
 	0x76A952C7 = Player Kills
-	0x76A22454 = This time trial on one of Mount Chiliad's most perilous faces is a golden opportunity for show-offs and reconstructive surgeons alike. Remember to book a bed at ศูนย์การแพทย์เมาท์โซนาท before you set off.
+	0x76A22454 = This time trial on one of ภูเขาชิลเลียด's most perilous faces is a golden opportunity for show-offs and reconstructive surgeons alike. Remember to book a bed at ศูนย์การแพทย์เมาท์โซนาท before you set off.
 	0x76AB65E1 = Keep it up! We've almost managed to disable it.
 	0x76AD54D2 = Get the mechanic to deliver the selected Special Vehicle.
 	0x76B01391 = making ~1~ amount from Sell ภารกิจ
@@ -13513,7 +13513,7 @@
 	0x76F3787F = Ponytail Chestnut
 	0x76FAEE9C = Purchase the Dual Remote ปืนมินิกัน for the Declasse Weaponized Tampa at a Vehicle Workshop inside a Mobile Operations Center or Avenger.
 	0x77A08BC6 = The summary page tracks your Vehicle Cargo information and lists any rival Organizations in session. You can also Source ยานพาหนะ and renovate your Warehouse from here.
-	0x77A09E3D = @tacobrendan_who I leave the van for 2 minutes to do a shit and get a parking ticket then on the way home I see 3 sportscars racing on the Senora Freeway at like 120mph and nobody doing anything. My karma's screwed.
+	0x77A09E3D = @tacobrendan_who I leave the van for 2 minutes to do a shit and get a parking ticket then on the way home I see 3 sportscars racing on the ทางด่วนเซโนร่า at like 120mph and nobody doing anything. My karma's screwed.
 	0x77A59B63 = Heist Impact:~n~Steal weed from locked storage spaces to increase your overall take.~n~~n~Please note:~n~Each player will only be able to carry a certain amount of this in their bag.
 	0x77A152F0 = Vinyl
 	0x77A760E1 = Your Oppressor Mk II has been returned to your Terrorbyte.
@@ -13568,7 +13568,7 @@
 	0x78A7E70D = Autopilot has set the Avenger to hover high above the ground. Use a parachute ~BLIP_PARACHUTE~ to safely return to the ground.
 	0x78A372DF = ~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the communcations tower.
 	0x78AAC32D = The weapons available to El Rubio's guards have been weakened.
-	0x78AAECB3 = Race to Paleto Bay
+	0x78AAECB3 = Race to ปาเลโตเบย์
 	0x78AC55CD = All Arena War activities
 	0x78B088C8 = Xero Gas Factory
 	0x78B0AA9D = Select bike.
@@ -13604,7 +13604,7 @@
 	0x78E23567 = The Akula should be flashing up on your radar now. Steal her when she lands. There'll be troops on board so watch yourself.
 	0x78E31964 = The Arena War Wheel is currently unavailable.
 	0x78EB8B99 = Boring text แจ้งเตือน - you're out of supplies. Maybe I wouldn't have to send these so much if you'd upgrade the ancient equipment at the lab.
-	0x78EB52BB = Raton Canyon
+	0x78EB52BB = เรตันแคนยอน
 	0x78EC8EF9 = You are temporarily unable to accrue Cocaine. The technician assigned to accrue Cocaine is no longer assigned. Check the warehouse management page to reassign him.
 	0x78EE289F = Sculpture by Gaspar Losa
 	0x78EF8CEF = DELIVERY PLANES
@@ -13619,7 +13619,7 @@
 	0x78FAE7BA = MISSION OVER
 	0x79A0F847 = RECENT BLEETS
 	0x79A47576 = Weathered
-	0x79AB86B9 = Grapeseed
+	0x79AB86B9 = เกรปซีด
 	0x79ABCFD9 = อาวุธ & กระสุน
 	0x79ABE687 = หน้า
 	0x79AD9AC7 = This Special Vehicle needs to be delivered to the Garage in your Nightclub first.
@@ -14033,7 +14033,7 @@
 	0x86DBF608 = Press ~a~ to confirm purchase for $419,850.
 	0x86DDFFCC = Stunt Outfit
 	0x86DE2ADA = Using a flare, call in an airstrike at your chosen location.
-	0x86DEB6E8 = Great Ocean Highway
+	0x86DEB6E8 = ทางหลวงกรีทโอเชี่ยน
 	0x86DFA6BE = There are no Crew members available for your MC.
 	0x86E01BCF = This VIP Work cannot run as one of your Bodyguards is a key player on a Freemode Event.
 	0x86E039C2 = Double-tap ~INPUT_SCRIPT_LS~ to Jump.~n~Press ~INPUT_VEH_EXIT~ to exit.
@@ -14358,7 +14358,7 @@
 	0x92DE37F9 = PROPERTY RECOVERED
 	0x92DF54EC = CURRENT KING ~1~
 	0x92E016BB = Steer clear of SSS law firm stocks.
-	0x92E1C090 = Alhambra Dr
+	0x92E1C090 = ถนนอัลฮัมบรา
 	0x92E9F7FE = Press ~INPUT_VEH_HORN~ to signal the Head Bouncer to enter the vehicle.
 	0x92E23F6B = Wait for ~v~~a~~s~ to complete their turn.
 	0x92E77AFB = Personal Vehicle Storage Full
@@ -14429,14 +14429,14 @@
 	0x93EDAA2C = RIFLES
 	0x93EDF63B = You placed a poster.
 	0x93EE9435 = Stone ขวาน Rampage ability activated.
-	0x93F71F5C = Grand Senora Desert
+	0x93F71F5C = ทะเลทรายแกรนด์เซโนร่า
 	0x93F36174 = Join a public session to source Heist Prep Equipment or pay a fee to purchase the equipment and unlock the associated Setup immediately.
 	0x93F73941 = MeTV Sweater set
 	0x94A0D171 = The Alpha
 	0x94A2F067 = Head Bouncer
 	0x94A4F697 = Create New Project
 	0x94A8CEF0 = ~a~~s~ collected Vehicle Cargo.
-	0x94A22A4E = Lago Zancudo Facility
+	0x94A22A4E = ทะเลสาบแซนคูโด้ Facility
 	0x94A37F77 = Thank you for registering with SecuroServ as a VIP. Recruit your Protection Detail immediately to start feeling the benefits of having a troop of armed Bodyguards at your beck and call. But what now? Take your operation to the next level by getting an office on dynasty8realestate.com, of course! You'll become a CEO with access to Special Cargo, Vehicle Cargo, Special Vehicle Work and many other benefits.
 	0x94A70ED3 = Floral Winter Boots
 	0x94A42776 = The maximum number of VIPs, CEOs and Club Presidents has already been reached in this session. Your privileges have been removed.
@@ -14463,7 +14463,7 @@
 	0x94D9DC8D = Press ~INPUT_CONTEXT~ to look through the telescope for $2.
 	0x94D33C4D = Prison Chinos
 	0x94D20727 = This vehicle requires a pilot and a gunner. Enter the pilot seat and wait for a gunner, or wait for a pilot to arrive.
-	0x94DE2AE7 = Grand Senora Desert Facility
+	0x94DE2AE7 = ทะเลทรายแกรนด์เซโนร่า Facility
 	0x94DF3286 = Gold tint
 	0x94E8AC82 = Participate in a Rally Race.
 	0x94E20B5D = TOTAL DELIVERED
@@ -14477,7 +14477,7 @@
 	0x94F7AFD0 = You have already unlocked this item.
 	0x94F7F0A1 = ~s~Press ~INPUT_CONTEXT~ to investigate the clue.
 	0x94F9C284 = Engine - 4 liter<br>Power - 460hp<br>Top Speed - 192mph<br>0-60 - 4.1 seconds
-	0x94F38CBC = Due to high levels of unexplained radiation, the Grand Senora Desert is home to varieties of flora, fauna and underground bunker seen nowhere else on the planet. And this baby is triple-lined with tinfoil all the way round, so you're definitely safe.
+	0x94F38CBC = Due to high levels of unexplained radiation, the ทะเลทรายแกรนด์เซโนร่า is home to varieties of flora, fauna and underground bunker seen nowhere else on the planet. And this baby is triple-lined with tinfoil all the way round, so you're definitely safe.
 	0x94F99AF4 = Nightclub Management
 	0x94FDD517 = Gray Retro Bubble
 	0x94FEC2AD = Deliver ~a~ to your ~a~
@@ -14688,7 +14688,7 @@
 	0x98F20F99 = The Dealership
 	0x98F24C69 = Custom front shields.
 	0x98F56AB6 = Robe Instructions
-	0x98F59B29 = Union Rd
+	0x98F59B29 = ถนนยูเนียน
 	0x98F80C09 = <C>~a~</C> killed a CEO <C>~a~</C>.
 	0x98FA41E3 = target
 	0x98FB5CAD = Gray Striped Boots
@@ -14836,7 +14836,7 @@
 	0x127E89E3 = You can't renovate your Clubhouse whilst on this mission.
 	0x127EBA83 = car
 	0x128B3409 = Deliver the trailer
-	0x128C90E9 = Lago Zancudo
+	0x128C90E9 = ทะเลสาบแซนคูโด้
 	0x128E6AF6 = @SteveHainesFIB In สตีฟ Haines' world running an intelligence agency and starring in a hit TV show IS work-life balance. Wish the IAA would take a leaf out of my book.
 	0x128E66BB = Black Flip-Flops
 	0x128E281B = You do not have enough GTA$ to purchase the selected vehicle modifications.
@@ -14883,7 +14883,7 @@
 	0x139C425A = Participate in Beast vs. Slasher.
 	0x139ED213 = There might be a future for you at TP Industries after all.  How are you with a facilitator?
 	0x139FE5FF = Starstalk
-	0x140DC61B = ที่จอดรถ: 1893 ถนนเกรซซีด
+	0x140DC61B = ที่จอดรถ: 1893 ถนนเกรปซีด
 	0x140F9F0E = Running Back Remix ขาว
 	0x141BBC7E = ~BLIP_INFO_ICON~ Job Points are a great way of tracking your performance during a session of online play. Press ~INPUT_MULTIPLAYER_INFO~ to see how many points you have earned in this session.
 	0x141DBC62 = Visit warstock-cache-and-carry.com to purchase a Kosatka submarine. This gives you access to The Cayo Perico Heist as a VIP, CEO or MC President.
@@ -14891,7 +14891,7 @@
 	0x142BBC3C = I'm about to lose my famous sense of humor. Stop firing rockets at my house
 	0x142BE52E = RE: Let's both try to move forward, okay, pal?
 	0x142C92D5 = ~1~ Special Items destroyed
-	0x142C5215 = Paleto Forest
+	0x142C5215 = ป่าปาเลโต
 	0x142D3A50 = Rockstar Verified ภารกิจ
 	0x142E12A0 = Stop working for the CEO.
 	0x142E93F4 = Your MC were unable to deliver the weapon cases
@@ -15075,7 +15075,7 @@
 	0x197DAC73 = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x Flash FM Top
 	0x197E2ED0 = Hunting Pack Remix Rabble 0
 	0x198D6F51 = What did you have in mind?
-	0x198D4744 = ~BLIP_INFO_ICON~ When you have a flashlight modification attached to your gun, you can press ~INPUT_WEAPON_SPECIAL_TWO~ while aiming to toggle it on and off.
+	0x198D4744 = ~BLIP_INFO_ICON~ เมื่อคุณมีการดัดแปลงไฟฉายติดกับปืนของคุณ คุณสามารถทำได้ ~n~กด ~INPUT_WEAPON_SPECIAL_TWO~ ในขณะที่เล็งเพื่อเปิดและปิด
 	0x198FC918 = C.o.M Process Stage 2
 	0x199A03CF = Production was stopped at some of your Businesses. The technicians assigned to accrue these goods are no longer assigned. Check the warehouse management page to reassign them.
 	0x199B8A01 = Press ~INPUT_CONTEXT~ to remove scuba gear.
@@ -15239,7 +15239,7 @@
 	0x251C3E9D = You have started a Deathmatch. Kill the rival Organization to earn cash and RP.
 	0x251C6F60 = Collect the ~HUD_COLOUR_GREEN~drone parts.~s~
 	0x251ECD64 = Event Cargo
-	0x252B5FCE = Chumash
+	0x252B5FCE = ชูมาช
 	0x252F03F2 = Rockstar game services are unavailable right now. Please try again later.
 	0x252F73D3 = Yoga
 	0x252FE7EB = Move Selector
@@ -15638,7 +15638,7 @@
 	0x380FC227 = Arena War Series aren't available in a Solo Session.
 	0x381D95D3 = You no longer have access to the Nerve Center as the owner has left the game.
 	0x381DBBDB = GUNRUNNING DEFEND
-	0x381F19DE = Grapeseed
+	0x381F19DE = เกรปซีด
 	0x382D0F35 = A waypoint could not be added for your Office Garage at this time.
 	0x382EEE0A = Gold Chain
 	0x383E6E36 = Press ~a~ to buy a slip at the marina for $75,000.
@@ -15821,7 +15821,7 @@
 	0x431A664F = BRIDGE
 	0x431C09C5 = ~a~ is on a murderous rampage. The public are warned to stay away from the ~a~ area.
 	0x433B0559 = Are you sure you wish to begin the prep mission to steal the ~a~?
-	0x433C81D7 = Race to ~HUD_COLOUR_YELLOW~Paleto Bay.
+	0x433C81D7 = Race to ~HUD_COLOUR_YELLOW~ปาเลโตเบย์
 	0x434A9B6F = Move from current location to Garage Level B1.
 	0x434ABD3B = SHIPMENTS
 	0x434CC15C = ถนนอินเทกรีตี
@@ -16191,7 +16191,7 @@
 	0x539F358A = CAGED IN
 	0x540A8ED2 = Using Menu
 	0x540A18C5 = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x Cheerleader Massacre 3 T-Shirt
-	0x540B5C61 = Great Ocean Highway
+	0x540B5C61 = ทางหลวงกรีทโอเชี่ยน
 	0x540D6A62 = It is not safe to change the character appearance at this time.
 	0x542B591C = This computer is unavailable. The maximum number of VIPs, CEOs and Club Presidents has been reached in this session.
 	0x542FAB86 = Control Panel 4
@@ -16435,7 +16435,7 @@
 	0x617CB6E7 = SELECT TARGET
 	0x618B95AC = You are using the Entrance Turret.~n~Use ~INPUT_SNIPER_ZOOM~ to zoom in/out. ~n~Press ~INPUT_ATTACK~ to fire the cannon. ~n~Press ~INPUT_SCRIPT_LT~ to fire the machine gun. ~n~Press ~INPUT_SCRIPT_RRIGHT~ to go back. ~n~Press ~INPUT_FRONTEND_LB~ to switch cameras.
 	0x618D00FF = ไม่มี
-	0x618D7452 = Grapeseed Train Depot
+	0x618D7452 = เกรปซีด Train Depot
 	0x619B86E0 = Press ~INPUT_CONTEXT~ to view the Inside Track.
 	0x619E1EC9 = Durban Poison
 	0x620A8E95 = It takes four large blocks to completely fill the power bar.
@@ -16482,7 +16482,7 @@
 	0x630D739D = Press ~INPUT_CONTEXT~ to detach the vehicle.
 	0x630D2187 = THERMAL CHARGES
 	0x630E458A = Chicken with Dip
-	0x630F8F3E = Paleto Bay
+	0x630F8F3E = ปาเลโตเบย์
 	0x631C5C11 = the infiltration suits
 	0x631C54B5 = You located the archive.
 	0x631C9040 = ~a~~s~ have the ~r~briefcase. ~s~Take it from them.
@@ -16714,7 +16714,7 @@
 	0x697B4816 = Too many Special Cargo related activities ongoing.
 	0x697BA55F = Passive Mode is disabled while you are a key player in Freemode Work.
 	0x697C2E9C = เวลา SURVIVED
-	0x697CC7BC = North Chumash
+	0x697CC7BC = นอร์ทชูมาช
 	0x697D910F = Use the Signal Scanner in the Terrorbyte's cab to track the target's phone signal.
 	0x697F1548 = ดรอป Ammo
 	0x698AF838 = Crew
@@ -16739,7 +16739,7 @@
 	0x702F8AE0 = Zancudo River Cocaine Lockup
 	0x702F98E7 = RE: Glenn Scoville
 	0x702FA419 = Change Entrance
-	0x702FCA04 = Lago Zancudo
+	0x702FCA04 = ทะเลสาบแซนคูโด้
 	0x702FD2BD = Collect the ~HUD_COLOUR_GREEN~container.~s~
 	0x703A38C6 = Select west beach
 	0x703C0C6B = Crate 11
@@ -17076,7 +17076,7 @@
 	0x802C5767 = Recover the stolen ~a~~s~ for Vincent.
 	0x802EFD34 = ~a~~s~ and ~a~~s~ delivered ~a~
 	0x803E6269 = the ~HUD_COLOUR_BLUE~Bestia GTS.
-	0x804A8588 = Like a wild-eyed junior exec trying to impress on an extreme-sports team builder, risk soiling yourself all the way along the Raton Canyon rapids. Time trial from the Pacific shoreline to the Alamo Sea.
+	0x804A8588 = Like a wild-eyed junior exec trying to impress on an extreme-sports team builder, risk soiling yourself all the way along the เรตันแคนยอน rapids. Time trial from the Pacific shoreline to the ทะเลอัลลาโม
 	0x804BE7C3 = Divinity
 	0x804C8E12 = ~y~~a~.~s~~n~~n~Do you want to assign it to ~y~~a~~s~ instead?
 	0x804F5EBA = HEAVY RIFLE
@@ -17273,7 +17273,7 @@
 	0x856FB775 = Are you sure you want to request Swift?
 	0x857AA9FD = Help collect Kerry McIntosh at ~HUD_COLOUR_YELLOW~~a~.~s~
 	0x857E2D80 = ไม่มี
-	0x857EAACB = ที่จอดรถ: 0232 Paleto Blvd
+	0x857EAACB = ที่จอดรถ: 0232 ทางหลวงปาเลโต
 	0x858A46FC = A good day's work! I knew I could count on you.
 	0x858B492A = Your passenger can now use the Terrorbyte's Signal Scanner or launch a Drone from the Nerve Center to track the target's phone signal.
 	0x858CA678 = SCRL LOCK
@@ -18172,7 +18172,7 @@
 	0x3116A53A = Treasure Hunt
 	0x3116CF73 = These days, ชายฝั่งแซนดี is an up and coming second home hotspot for the criminally deranged, and here's your chance to jump the waiting list. Act now: in this neighborhood an abandoned military installation won't be on the market for long.
 	0x3121C343 = YUNG ANCESTOR
-	0x3132B9A5 = Grapeseed Main St
+	0x3132B9A5 = เกรปซีด Main St
 	0x3134B098 = Owner of the most legendary rock club in town!
 	0x3137C584 = The Time's Come
 	0x3138D8A8 = Steal the ~r~product ~s~from ~a~.
@@ -18637,7 +18637,7 @@
 	0x5276DB5E = Traders
 	0x5284A7D0 = This Week
 	0x5285BC73 = Celltowa Unit
-	0x5286CD1B = ถนนสายหลักเกรซซีด
+	0x5286CD1B = ถนนสายหลักเกรปซีด
 	0x5294D3E3 = Woodland Night Vision
 	0x5297A1F5 = Details:
 	0x5297F96C = เวสท์ไวน์วูด
@@ -18984,7 +18984,7 @@
 	0x6849DEA6 = Tutorials
 	0x6849FB55 = Please enter your Personal Identification Number
 	0x6861A6A2 = You must scope the waste disposal access point to unlock this prep mission.
-	0x6861B6B2 = Go to the ~y~Grand Senora Desert.
+	0x6861B6B2 = Go to the ~y~ทะเลทรายแกรนด์เซโนร่า
 	0x6864D2E9 = Stay in the area to focus on the landmark.
 	0x6877A201 = Western MC Lilac Helmet
 	0x6877FD71 = ULSA
@@ -19019,7 +19019,7 @@
 	0x7039D286 = This Club activity cannot run as you are gambling.
 	0x7046C88F = Files for all users
 	0x7056E534 = Street การต่อสู้
-	0x7072BE06 = ~BLIP_INFO_ICON~ Remember that although they take a smaller cut, sometimes low-skilled crew members will be a liability. Pick wisely or pay the consequences.
+	0x7072BE06 = ~BLIP_INFO_ICON~ โปรดจำไว้ว่าแม้ว่าพวกเขาจะลดจำนวนลง แต่บางครั้งนในกลุ่มที่มีทักษะต่ำก็เขาจะต้องเลือกว่าอย่างฉลาดหรือไม่ก็รับผมที่ตามมาแทน
 	0x7076A0C6 = Arm Wrestling
 	0x7078E343 = SHOTGUNS
 	0x7082C25B = RESUPPLY
@@ -19140,7 +19140,7 @@
 	0x7653EF56 = Script Objective
 	0x7656AB77 = Peach Digital Tactical Ski
 	0x7659C55B = Follow the ~HUD_COLOUR_BLUE~Terrorbyte.~s~
-	0x7663D8C9 = Amid all this talk of the death of small-town America, it's important to remember that somewhere like Grapeseed has an advantage over the big city: there's plenty of space for the one percent to build subterranean lairs in preparation for the apocalypse. Hey, the heartlands aren't going to rejuvenate themselves.
+	0x7663D8C9 = Amid all this talk of the death of small-town America, it's important to remember that somewhere like เกรปซีด has an advantage over the big city: there's plenty of space for the one percent to build subterranean lairs in preparation for the apocalypse. Hey, the heartlands aren't going to rejuvenate themselves.
 	0x7666E55E = Warlord
 	0x7666F38A = 4 new styles available
 	0x7668B5C7 = ~a~~s~ won Search and Destroy with a score of $~1~
@@ -19326,7 +19326,7 @@
 	0x8575D0D9 = ถนนเบย์ทรีแคนยอน
 	0x8576B0E9 = Knock out the ~a~.
 	0x8581D6C1 = ~BLIP_ROULETTE_2~
-	0x8586DA04 = Hello แฟรงคลิน,~n~The Southern ซานแอนเดรส Tourist Board Young Amateur Wildlife Photographer of the Year Competition is over.~n~Some of our photographers fell off cliffs.~n~A few got eaten by mountain lions.~n~A couple overdosed on peyote.~n~But only one of them sent us photos of all the animals on our list and signed over the image rights without question.  That young photographer was you.  Congratulations!~n~You have won a new limited edition Kraken Submersible.~n~It's waiting at the jetty in the San Chianski Mountain ระยะยิง.~n~It is clear to us here at the Tourist Board that you possess a rare gift for capturing the living essence of animals in your photographic work, and an endearing lack of commercial aspiration. Since you've traversed the landmass of Southern ซานแอนเดรส in your search for images for our calendars, stamps, and mouse mats, we'd love you to continue your adventure in the seas.  And we mean it when we say we can't wait to find new ways to take advantage of your talents in the future.~n~Sincerely,Everyone in the Southern ซานแอนเดรส and Los Santos Tourist Board family
+	0x8586DA04 = Hello แฟรงคลิน,~n~The Southern ซานแอนเดรส Tourist Board Young Amateur Wildlife Photographer of the Year Competition is over.~n~Some of our photographers fell off cliffs.~n~A few got eaten by mountain lions.~n~A couple overdosed on peyote.~n~But only one of them sent us photos of all the animals on our list and signed over the image rights without question.  That young photographer was you.  Congratulations!~n~You have won a new limited edition Kraken Submersible.~n~It's waiting at the jetty in the เทือกเขาซานเชียนสกี.~n~It is clear to us here at the Tourist Board that you possess a rare gift for capturing the living essence of animals in your photographic work, and an endearing lack of commercial aspiration. Since you've traversed the landmass of Southern ซานแอนเดรส in your search for images for our calendars, stamps, and mouse mats, we'd love you to continue your adventure in the seas.  And we mean it when we say we can't wait to find new ways to take advantage of your talents in the future.~n~Sincerely,Everyone in the Southern ซานแอนเดรส and Los Santos Tourist Board family
 	0x8589E61B = ที่ปาเป้า
 	0x8596F0CD = Big Leagues!
 	0x8596F705 = เงิน is king in this town. Solve your money problem and help get what you want across Los Santos and Blaine County with the occasional purchase of Shark Cards for Grand Theft Auto Online. All purchased cash is automatically deposited into your character's bank account. Spend wisely, cash therapy is fleeting.
@@ -19365,7 +19365,7 @@
 	0x8777A565 = Owner has requested all to leave Office.
 	0x8780E3F9 = Collectible Figurine
 	0x8783D15D = an Invetero Coquette
-	0x8788CBBB = Paleto Bay
+	0x8788CBBB = ปาเลโตเบย์
 	0x8792B020 = Score tracks are dynamic pieces of music that allow you to control their intensity at different stages of your project.~n~~n~To change a score track's intensity within your project~n~1. Add a score track to your project timeline.~n~2. Enter into the edit mode for a specific gameplay clip.~n~3. Add a marker, and then adjust the 'Audio Intensity' option in the marker menu.~n~~n~Your score track will now dynamically change within your video.
 	0x8793C202 = Treasure Hunt
 	0x8804B6A0 = Respray the Deluxo then exit LS Customs.
@@ -19489,7 +19489,7 @@
 	0x9244C074 = Purchase บริษัทแท็กซี่ดาวน์ทาวน์ and complete a private fare.
 	0x9247A7DA = Bunker
 	0x9250F187 = ...has spent over $50000 on weaponry.
-	0x9253C9FE = San Chianski Mountain ระยะยิง
+	0x9253C9FE = เทือกเขาซานเชียนสกี
 	0x9260DCE2 = POINTS OF INTEREST
 	0x9269CE0A = Railgun
 	0x9271F11A = @PremiumDeluxeMotorsport Now hiring for field accounts payable positions must be stubborn repossession experience preferred commission only
@@ -19875,7 +19875,7 @@
 	0x26859AE3 = Pixie Blonde
 	0x26887EE5 = Welcome back
 	0x26944B16 = ถนนบาร์บาเรโน
-	0x26983A25 = @kevtrimbalt22 Did u hear about those planes stolen from Grapeseed airport? How the fuck does somebody steal a plane when I can't even get a lighter through security?
+	0x26983A25 = @kevtrimbalt22 Did u hear about those planes stolen from เกรปซีด airport? How the fuck does somebody steal a plane when I can't even get a lighter through security?
 	0x27051F91 = You no longer have access to this Nightclub Warehouse as the owner has traded it in.
 	0x27078FF2 = 18 : 22   CAM
 	0x27201B93 = TORCHED
@@ -20030,9 +20030,9 @@
 	0x38416E1A = pier
 	0x38502BC0 = ~a~ ~s~collected a vehicle upgrade
 	0x38508F17 = @SteveHainesFIB I'd tell you what's in the next season of The Underbelly of Paradise but then I'd have to kill you. Joke. Kinda. Not.
-	0x38523D7A = Grand Senora Desert
+	0x38523D7A = ทะเลทรายแกรนด์เซโนร่า
 	0x38644A22 = Deliver the Supplies to the ~HUD_COLOUR_YELLOW~Bunker.
-	0x38765C8B = Chumash
+	0x38765C8B = ชูมาช
 	0x38814EC0 = Your Personal Vehicle has been returned to the Facility ~BLIP_NHP_BASE~. You can also Request Personal Vehicle via the ยานพาหนะ section of the Interaction Menu.
 	0x38871FC4 = Your new yellow ~a~ is now confirmed as having been delivered to your ~a~.
 	0x38883A29 = Participate in Here Come the Monsters.
@@ -20690,7 +20690,7 @@
 	0x88126BD9 = Your ~a~ will be delivered to your Arena Workshop shortly.
 	0x88207A0C = Purchasing Facilities unlocks from Rank 5.
 	0x88249E52 = Merryweather ดรอป Site
-	0x88412FC1 = Vehicle: ~a~~n~Color: ~a~~n~Plate: ~a~~n~ Location: Grand Senora Desert ~nrt~ <img src='img://MP_EX_LOCATION_09/MP_EX_LOCATION_09' vspace='0' width='252' height='150'/> ~nrt~
+	0x88412FC1 = Vehicle: ~a~~n~Color: ~a~~n~Plate: ~a~~n~ Location: ทะเลทรายแกรนด์เซโนร่า ~nrt~ <img src='img://MP_EX_LOCATION_09/MP_EX_LOCATION_09' vspace='0' width='252' height='150'/> ~nrt~
 	0x88520AB2 = WEB REFRESH
 	0x88541A49 = The Flying Ace
 	0x88594C08 = You can't enter this business while resupplying another.
@@ -21254,7 +21254,7 @@
 	0x601593A7 = ACTION
 	0x601977F5 = Purchase the Personal Quarters expansion for this area from foreclosures.maze-bank.com.
 	0x604642AE = Wait for the crates to land.
-	0x605476D2 = Mount Gordo
+	0x605476D2 = ภูเขากอร์โด
 	0x608163A9 = Your MC has been disbanded. You are free to start your own MC.
 	0x611066D0 = ROUND LOSER
 	0x611903FD = @PowCleanse If you thought other diets were torture, this one literally is. Get radical on your weight loss with the POW Cleanse. #powcleanse www.thepowcleanse.com
@@ -21492,7 +21492,7 @@
 	0x888962CB = Green Dog with Cone
 	0x889060A0 = You have not bought a Mobile Operations Center.
 	0x893695F8 = INVITE TO OFFICE
-	0x894372E0 = Grand Senora Desert
+	0x894372E0 = ทะเลทรายแกรนด์เซโนร่า
 	0x898335EB = The armored trucks out en route are on the radar ~HUD_COLOUR_BLUE~~BLIP_PACKAGE~~s~. Use sticky bombs to blow the back doors open on each until the Supplies are found.
 	0x901121F2 = Sago Palm Pot
 	0x902112D6 = Sculpture by Crew Daniel
@@ -21919,7 +21919,7 @@
 	0x7601353F = NOTEXTNOTEXTNOTEXT
 	0x7609607B = Stock Handling
 	0x7613140A = The car is damaged. To repair or upgrade components, go to the mod garage ~BLIP_CAR_MOD_SHOP~
-	0x7645694A = ถนนเกรซซีด
+	0x7645694A = ถนนเกรปซีด
 	0x7647637F = Please wait while your Video is being exported.
 	0x7666035B = JUMP OFF THE RAMP
 	0x7702920C = Get a score of 19000 in a single play of QUB3D.
@@ -21951,7 +21951,7 @@
 	0x8305028E = Change Cut
 	0x8306367F = senator
 	0x8315557A = Slasher Alien 2
-	0x8341875C = Mount Gordo
+	0x8341875C = ภูเขากอร์โด
 	0x8349221F = CELEBRITY
 	0x8367323D = กันชนบังโคลนแต่ง
 	0x8369189C = ~nrt~ <img src='img://SCLUB_2/MIRROR_PARK_2_3' vspace='0' width='252' height='252'/> ~nrt~~a~ ~a~. ~a~
@@ -22205,7 +22205,7 @@
 	0x26546489 = We're all in the gutter, but some of us are getting a PB en route to the stars...
 	0x26557560 = Pavel will contact you when The Cayo Perico Heist is available again.
 	0x26582685 = The popularity of Nightclub ~a~ has increased.
-	0x26703622 = Grapeseed base
+	0x26703622 = เกรปซีด base
 	0x26813809 = Painting by Emma Rovi
 	0x26820103 = Target A
 	0x27174380 = Hi
@@ -22471,7 +22471,7 @@
 	0x56149929 = @FacadeComputers New update for ToSS OS – น้ำเงิน screen of death is now a mellow mauve
 	0x56163479 = Gang Wanted Vagos 2
 	0x56380701 = Bullbar with Winch & Lights
-	0x56563954 = Paleto Blvd
+	0x56563954 = ทางหลวงปาเลโต
 	0x56602898 = STALL! LOW AIRSPEED
 	0x56655630 = Special Race Series
 	0x56705565 = RANK
@@ -23029,7 +23029,7 @@
 	0xA1C8C3D0 = From what I can tell, Mr Rubio is ready for another visit. And by this I mean he is now a violently paranoid shut-in. So, if we go straight away things will more demanding. We wait a little, they will relax, we have an easier time. The choice is yours, captain.
 	0xA1C777E2 = Battle VIII
 	0xA1C50434 = Select to leave your session and enter GTA Online.
-	0xA1CB4BFD = Like every post-hipster tourist with a camera phone, take a tour of crushed dreams in the Alamo Sea and think about what filter best captures the sadness. Time trial for the Snapmatic generation.
+	0xA1CB4BFD = Like every post-hipster tourist with a camera phone, take a tour of crushed dreams in the ทะเลอัลลาโม and think about what filter best captures the sadness. Time trial for the Snapmatic generation.
 	0xA1CB9B07 = CHAMPAGNE
 	0xA1CD02E4 = Painting by Josh Löwe
 	0xA1CEC159 = ~BLIP_INFO_ICON~ Feel like having a private conversation? Call a friend and chat without others drowning you out!
@@ -23108,7 +23108,7 @@
 	0xA2FC993B = Bad news. Someone leaked intel, and now our goods are sitting in a secure vehicle in a police compound. I guess you could ask nicely?
 	0xA2FCAD83 = Collectible Figurine
 	0xA2FE4447 = 4 new items of clothing available
-	0xA2FFE53E = Vehicle: ~a~~n~Color: ~a~~n~Plate: ~a~~n~ Location: Paleto Bay ~nrt~ <img src='img://MP_EX_LOCATION_07/MP_EX_LOCATION_07' vspace='0' width='252' height='150'/> ~nrt~
+	0xA2FFE53E = Vehicle: ~a~~n~Color: ~a~~n~Plate: ~a~~n~ Location: ปาเลโตเบย์ ~nrt~ <img src='img://MP_EX_LOCATION_07/MP_EX_LOCATION_07' vspace='0' width='252' height='150'/> ~nrt~
 	0xA3A1C799 = เหลือง
 	0xA3A4C8BE = So, the club safe is bursting with your cash. I feel like it's the 80s again and I'm about to get arrested for tax fraud! Look, neither of us wants the IRS to start asking questions, so let's maybe try and look less like a suspect operation here. COLLECT THE MONEY. T xx
 	0xA3A4F1B5 = NEXT TRACK
@@ -23226,7 +23226,7 @@
 	0xA5BFE2E6 = Pacific Bait Storage
 	0xA5C4E09D = iFruit Radio
 	0xA5C17AB3 = Exit the Vehicle Workshop
-	0xA5C7829A = Complex time trial that takes you from the glamourous peaks of the ไวน์วูดฮิลส์ to the grimey troughs of the Grapeseed shoreline. Sober up fast - there's no easy route.
+	0xA5C7829A = Complex time trial that takes you from the glamourous peaks of the ไวน์วูดฮิลส์ to the grimey troughs of the เกรปซีด shoreline. Sober up fast - there's no easy route.
 	0xA5CA9D56 = ยกเลิก
 	0xA5CE0E78 = Only available once the Bodyguard Uniform is set.
 	0xA5CE3147 = Destroy the ~r~supplies.
@@ -23255,7 +23255,7 @@
 	0xA5F431F0 = ~r~-$~1~
 	0xA5FF8FFE = Motorcycles
 	0xA6A3C54D = The champagne you ordered has been returned to the bar. Your payment has been refunded.
-	0xA6A5AAE2 = Wonderama - Grapeseed
+	0xA6A5AAE2 = Wonderama - เกรปซีด
 	0xA6A9F6A4 = Your President has not set a Style.
 	0xA6A53A47 = Compete to collect the most underwater checkpoints within the time limit.
 	0xA6A816C4 = The Navigator
@@ -23382,7 +23382,7 @@
 	0xA8CBA565 = Cause the most damage in the time limit. This Event is currently hidden. You will see no notifications related to it until you choose to Show it again.
 	0xA8CDC504 = Fireball Track Pants
 	0xA8CFD048 = ~HUD_COLOUR_WHITE~You exploded ~a~.
-	0xA8D0B61A = Go to Mount Chiliad in the Barrage or Khanjali
+	0xA8D0B61A = Go to ภูเขาชิลเลียด in the Barrage or Khanjali
 	0xA8D1C1DB = The selected clip is corrupt and could not be previewed.
 	0xA8D4BDA0 = @JackHowitzer Shit did I send that – I hate phone
 	0xA8D8E3E7 = ~BLIP_PLAYER_HELI~
@@ -23524,7 +23524,7 @@
 	0xA23BC962 = ~1~th
 	0xA23C213A = LONGEST WHEELIE
 	0xA23E589F = Motorcycle Club Prospect
-	0xA23EC624 = Mount Gordo Facility
+	0xA23EC624 = โรงงานเขตภูเขากอร์โด 
 	0xA24A51FF = CONFIRM PURCHASE
 	0xA24BBFFE = 4 new items
 	0xA24C82CC = Steal Technical
@@ -23574,7 +23574,7 @@
 	0xA39E7B70 = Buzz Nearby Members In
 	0xA39FF19A = Wait for the ~HUD_COLOUR_BLUE~VIP~s~ to enter the vehicle.
 	0xA40C24B1 = Unavailable.
-	0xA40D3AA6 = Paleto Bay
+	0xA40D3AA6 = ปาเลโตเบย์
 	0xA40DEA6D = Enter a ~HUD_COLOUR_BLUE~helicopter.~s~
 	0xA40EFF2D = From the old economy to the new - escape the industrial wastes of south LS with this time trial out to turbine-covered hills, where global warming's being delayed one sliced up bird at a time.
 	0xA41A3366 = Assault a barge off the coast and steal the torpedo electronic control units from arms dealers.
@@ -23755,7 +23755,7 @@
 	0xA95F3D59 = Help take the ~HUD_COLOUR_BLUE~high roller~s~ to the landmarks.
 	0xA96AC0D9 = SHIPMENTS REMAINING
 	0xA96B7B4A = Get on a motorcycle.
-	0xA96B4137 = This discreet site in the Grand Senora Desert holds the record for the most unidentified bodies excavated during construction. And if nothing else, that means it's popular with all the right people.
+	0xA96B4137 = This discreet site in the ทะเลทรายแกรนด์เซโนร่า holds the record for the most unidentified bodies excavated during construction. And if nothing else, that means it's popular with all the right people.
 	0xA96CB53A = Grenade
 	0xA96E33EB = Both Earrings
 	0xA97C5412 = Western Nightmare Deathbike
@@ -24210,7 +24210,7 @@
 	0xA5576018 = You don't have enough cash.
 	0xA5616819 = thermal charges
 	0xA5847400 = LS Marine Building 3
-	0xA5848676 = Grapeseed Clubhouse
+	0xA5848676 = เกรปซีด Clubhouse
 	0xA5867163 = Bench 2
 	0xA5892190 = the ~HUD_COLOUR_BLUE~Cheetah.
 	0xA5984834 = Contains options available for the Enforcer of the MC.
@@ -24390,7 +24390,7 @@
 	0xAB1D0188 = Half-track
 	0xAB2A4ABF = ถนนแคทฟิชวิว
 	0xAB2C0961 = Weed
-	0xAB2C1B8F = Grand Senora Desert
+	0xAB2C1B8F = ทะเลทรายแกรนด์เซโนร่า
 	0xAB2DD1C6 = Unknown
 	0xAB3A8DF3 = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_22/IE_TEXTVECH_22' vspace='0' width='252' height='150'/> ~nrt~
 	0xAB3C0D22 = ~a~~s~ delivered the gold
@@ -24436,7 +24436,7 @@
 	0xAB57FEA8 = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_66/IE_TEXTVECH_66' vspace='0' width='252' height='150'/> ~nrt~
 	0xAB59F800 = ไวน์วูด Souvenirs - Willie
 	0xAB62B5F0 = Progress
-	0xAB65C5FE = ถนนสายหลักเกรซซีด
+	0xAB65C5FE = ถนนสายหลักเกรปซีด
 	0xAB74C7B4 = Look Left/Right
 	0xAB76FE04 = Dark Woodland Snake Skull
 	0xAB81D33B = And that, my friends, is how you take a casino. Go buy yourselves something nice. I'll be in touch.
@@ -24674,7 +24674,7 @@
 	0xAD0017DE = Arena Armory
 	0xAD028A90 = 2866 ถนนฮิลเครสท์
 	0xAD040F0D = Selected Mod Cost
-	0xAD066037 = Grapeseed Clubhouse
+	0xAD066037 = เกรปซีด Clubhouse
 	0xAD0A2018 = Treasure Hunt
 	0xAD0A3839 = Target Assault is a team race with one player driving and the other shooting targets. The team with the most points wins.
 	0xAD0AF327 = Press ~INPUT_CONTEXT~ to open the trunk.
@@ -24708,7 +24708,7 @@
 	0xAD8E17DF = 4 new items
 	0xAD9E9196 = 4 new items of clothing available
 	0xAD10F6E5 = Your Sparrow ~a~~s~ has been delivered nearby.
-	0xAD12DF2A = Paleto Forest Bunker
+	0xAD12DF2A = ป่าปาเลโต Bunker
 	0xAD21D76B = I should have known you'd stand me up!
 	0xAD22F7B5 = Vehicle Cargo
 	0xAD27FFFE = Foundry
@@ -24974,7 +24974,7 @@
 	0xAF73F6B7 = Press ~INPUT_FRONTEND_ACCEPT~ to select the correct node.
 	0xAF84D0BA = Police Warehouse
 	0xAF86BF0D = Transform Checkpoint
-	0xAF87DBCA = North Chumash
+	0xAF87DBCA = นอร์ทชูมาช
 	0xAF93E993 = TAIL FINS
 	0xAF98E517 = Other actions such as shooting or driving at speed near the target will also intimidate them.
 	0xAF99C8FE = You can't renovate your Facility whilst players are playing "Don't Cross The Line".
@@ -24983,7 +24983,7 @@
 	0xAF424D36 = Failed to find any save data for the specified platform. Would you like to retry?
 	0xAF560C81 = Steal the ~HUD_COLOUR_RED~gold~s~ from ~a~.
 	0xAF709DBD = Cargo
-	0xAF752EAE = Use a Volatol jet to destroy multiple SAM turrets around Mount Chiliad.
+	0xAF752EAE = Use a Volatol jet to destroy multiple SAM turrets around ภูเขาชิลเลียด.
 	0xAF846A83 = Autosave will be disabled during this game.
 	0xAF859CA9 = Capture
 	0xAF887EF2 = Palomino Freeway
@@ -25417,8 +25417,8 @@
 	0xB5B85E0F = Unavailable while on this job.
 	0xB5BB71BB = eXsorbeo 720 Tee
 	0xB5C027DD = Automated Response – Wild Amateur Pics
-	0xB5C35CC4 = Help <C>~a~</C> ~s~deliver the ~a~ ~s~to ~y~Grand Senora Desert.
-	0xB5C67D26 = ถนนเกรซซีด
+	0xB5C35CC4 = Help <C>~a~</C> ~s~deliver the ~a~ ~s~to ~y~ทะเลทรายแกรนด์เซโนร่า
+	0xB5C67D26 = ถนนเกรปซีด
 	0xB5C922C4 = LSPD drone
 	0xB5C944D4 = NOSE FINS
 	0xB5C34572 = Painting by Josh Löwe
@@ -25564,7 +25564,7 @@
 	0xB8A5B15C = Matte น้ำเงิน
 	0xB8A46BCF = Play music over the ~HUD_COLOUR_YELLOW~~a~.~s~
 	0xB8AA0480 = You can now purchase the retro 'Can't Touch This' T-shirt from any clothes store.
-	0xB8AA38A3 = Chumash Bunker
+	0xB8AA38A3 = ชูมาช Bunker
 	0xB8AC2C5D = ~s~My dearest แฟรงคลิน,~n~I trust your life has been changed forever by my ground-breaking presentation and the spiritual re-evaluation of your externality that took place. You are making excellent progress but there is still work to be done! For it is not sufficient to merely acknowledge one's actuality; true freedom only comes with a re-interpretation of it.~n~Visit ~b~<u>www.childrenofthemountain.com</u>~s~ to continue on your journey without delay.  Your STAGE 4 password is: ~b~ACTUALITY~s~
 	0xB8AC3E2B = NINE TENTHS OF THE LAW
 	0xB8AC8DA0 = Take another card or stand with your current hand. Double Down will double your bet and take just one extra card.
@@ -25959,7 +25959,7 @@
 	0xB99DCD35 = Stingers
 	0xB108FC9F = Escort the ~a~~s~ to the drop site.
 	0xB114D9F3 = เพิ่ม การแข่งขันบินผาดโผนจับเวลา
-	0xB115A75C = Paleto Forest Sawmill
+	0xB115A75C = ป่าปาเลโต Sawmill
 	0xB120CB57 = You have no friends currently playing GTA Online.
 	0xB123D9A9 = This will unlock when you have completed The Cayo Perico Heist.
 	0xB132A820 = Press ~INPUT_CONTEXT~ to play Invade and Persuade II.
@@ -26010,7 +26010,7 @@
 	0xB359C55C = Wait for <C>~a~</C>~s~ to enter the ~HUD_COLOUR_BLUE~คาร์โกบ็อบ.~s~
 	0xB363B87D = Help deliver the rental car to the ~HUD_COLOUR_YELLOW~Altruist Camp.~s~
 	0xB365D3EF = Raider Mask set
-	0xB377E4EE = Go to the ~y~Grapeseed.
+	0xB377E4EE = Go to the ~y~เกรปซีด.
 	0xB387C471 = Run Faster
 	0xB390DD1E = Snipers
 	0xB394FA25 = Changed Crew
@@ -26081,7 +26081,7 @@
 	0xB669FE44 = Select a formation for your Motorcycle Club to ride in.
 	0xB676F242 = Installed
 	0xB681CC0D = The streets is quiet just now boss, no one's making any moves, hit me up later.
-	0xB682F9B0 = ที่จอดรถ: 142 Paleto Blvd
+	0xB682F9B0 = ที่จอดรถ: 142 ทางหลวงปาเลโต
 	0xB690F7CA = ไวน์วูด Souvenirs - The Last Act
 	0xB700FDFF = Dance to Keinemusik's set at the Cayo Perico beach party for 15 minutes.
 	0xB706FA05 = Stromberg ahoy! Take it from their cold dead hands.
@@ -26228,7 +26228,7 @@
 	0xB6858C43 = Heist Impact:~n~Entry points into El Rubio's compound.  Additional equipment may need to be acquired during the heist to access some of these entry points.
 	0xB6862F2A = ~a~~HUD_COLOUR_WHITE~ stabbed you.
 	0xB6908D22 = you really need to get a better handle on your media.
-	0xB7160DF1 = อพาร์ทเมนท์: 0232 Paleto Blvd
+	0xB7160DF1 = อพาร์ทเมนท์: 0232 ทางหลวงปาเลโต
 	0xB7161AF4 = FREE
 	0xB7295E7E = Matte Midnight ม่วง
 	0xB7314AE7 = Mr. Clinton,~n~My name's Wesley and I'm the foreman at the scrap yard.  Let me tell you – you got into the business at the right time.  With the economy and automobile industry in the toilet, scrap is booming right now!  If we can just stop the local hoods from ripping us off, we'll be laughing all the way to the bank.  Anyway, this isn't the time to talk about problems – we'll deal with those if and when they arise.~n~All the best,~n~Wesley
@@ -26458,7 +26458,7 @@
 	0xB8662548 = SPARE BEDROOM
 	0xB8724779 = Solution~n~Erection~n~Sushi~n~Restraining order
 	0xB8935242 = Amphibious Assault
-	0xB9136499 = Go to the ~HUD_COLOUR_YELLOW~Grand Senora Desert.~s~
+	0xB9136499 = Go to the ~HUD_COLOUR_YELLOW~ทะเลทรายแกรนด์เซโนร่า~s~
 	0xB9140877 = Dead ดรอป
 	0xB9206173 = Earl's Mini-Mart
 	0xB9252653 = Chase after the 'Pizza This...' delivery driver and steal the scooter ~HUD_COLOUR_BLUE~~BLIP_OBJECTIVE~~s~ containing the pizzas.
@@ -26547,7 +26547,7 @@
 	0xBA6120AB = CASH
 	0xBA13429C = Enjoy your renovated Office!
 	0xBA35455D = Stock Upper Spoiler
-	0xBA50770E = Paleto Bay Facility
+	0xBA50770E = ปาเลโตเบย์ Facility
 	0xBA54784C = PRIMARY
 	0xBA85750D = Groovy
 	0xBA130471 = Helm
@@ -26851,7 +26851,7 @@
 	0xBC93389B = Lost Rider
 	0xBC96948B = NUMPAD 4
 	0xBC122241 = Enter Mocap Cutscene Name
-	0xBC206888 = Chumash
+	0xBC206888 = ชูมาช
 	0xBC378456 = Track Down (30)
 	0xBC394418 = Charcoal Tact Gloves
 	0xBC395964 = Collect an Ammo ดรอป
@@ -26911,7 +26911,7 @@
 	0xBCF7FC83 = <C>~a~</C> ~s~delivered the weapons.
 	0xBCF13CE1 = Fine Tune
 	0xBCF34BB0 = You cannot enter the Parking Lot while on call. You can cancel this via the Quick Job app on the phone.
-	0xBCF76D55 = North Chumash
+	0xBCF76D55 = นอร์ทชูมาช
 	0xBCF44310 = BUZZER BEATER
 	0xBCFA31FD = Scruffy Balaclava
 	0xBCFB772B = Disabled
@@ -27034,7 +27034,7 @@
 	0xBDEB82BF = Brown Digital Snake Skull
 	0xBDEBE9DE = Trade in $~1~ ~n~ซื้อ ~a~ for $~1~?
 	0xBDEBFFAF = Unavailable while inside your Personal Vehicle.
-	0xBDF06231 = Grand Senora Desert
+	0xBDF06231 = ทะเลทรายแกรนด์เซโนร่า
 	0xBDF4EF57 = Steal Cargo Over
 	0xBDF5A7EC = Go to your office to access the Career Wall ~BLIP_ARENA_SERIES~. This wall tracks your Career progression, sponsorship tier level, lifetime statistics and allows you to enter the Arena War Series.
 	0xBDF7DA4B = Mk II Shotgun loadout
@@ -27966,12 +27966,12 @@
 	0xC19DA165 = The Defender
 	0xC19E4D50 = Revolver Poker Table
 	0xC19E63AC = Doors
-	0xC20A53D8 = Destroy a supply of the enemy's weapons at a scrapyard in the Grand Senora Desert and steal the Khanjali tank.
+	0xC20A53D8 = Destroy a supply of the enemy's weapons at a scrapyard in the ทะเลทรายแกรนด์เซโนร่า and steal the Khanjali tank.
 	0xC20A71AB = Go to your Office ~BLIP_OFFICE~ to access the Vehicle Cargo update on your computer.
 	0xC20AC573 = You are signed out of Social Club, you will be unable to access network features until you sign back in.
 	0xC20BE896 = Blazer Aqua
 	0xC20FCFA1 = Bumper Mounted Spare Wheel
-	0xC21B4CC6 = Paleto Bay
+	0xC21B4CC6 = ปาเลโตเบย์
 	0xC21FE7ED = Bumper Weapon
 	0xC22AD8B0 = DRAW
 	0xC22D1022 = NOOSE Gear
@@ -28308,7 +28308,7 @@
 	0xC382DCEC = GruppeSechs CEO says company is expanding.
 	0xC384C744 = ~o~The Cocks~s~ are mad.
 	0xC390E000 = Use that thing to blast your way outta there - it's got stopping power but the reload is long so take the time to place your shots. Get it back to the Bunker and we'll strip it down for parts.
-	0xC393BE32 = For once, let a low-T CEO on his daily commute scream at you instead of his executive assistant. Time trial out of LS along the one-percent-crammed Great Ocean Highway.
+	0xC393BE32 = For once, let a low-T CEO on his daily commute scream at you instead of his executive assistant. Time trial out of LS along the one-percent-crammed ทางหลวงกรีทโอเชี่ยน
 	0xC410BBAE = ที่จอดรถ: 12 ถนนซัสแทนเซีย
 	0xC411B5E3 = Defenders
 	0xC413D36A = Dead Eye
@@ -28394,7 +28394,7 @@
 	0xC861FBFC = Get on a motorcycle.
 	0xC865A241 = Truck
 	0xC879A930 = Payment
-	0xC880DA51 = North Chumash
+	0xC880DA51 = นอร์ทชูมาช
 	0xC881EE52 = Unavailable. This helicopter is already in use by another player.
 	0xC883FD7D = The Fortified
 	0xC886E5F6 = Half-track 20mm Quad Autocannon
@@ -28451,7 +28451,7 @@
 	0xC2419FAE = All Exit Warehouse
 	0xC2423F4B = Turbo charger and chassis now in, or pimp it with wheels, armor or other new upgrades!
 	0xC2462BF3 = 4:3
-	0xC2637F5D = Chumash Pier
+	0xC2637F5D = ชูมาช Pier
 	0xC2695B0F = Manual Trim
 	0xC2822BBE = Future Shock Space Rangers T-Shirt set
 	0xC3084F3F = Green 8
@@ -28574,7 +28574,7 @@
 	0xC29446A2 = Unavailable while using the internet.
 	0xC29583BB = 10 High
 	0xC29605FC = You can't assign staff to Research right now. All research projects are complete.
-	0xC30482C3 = Chumash Plaza
+	0xC30482C3 = ชูมาช Plaza
 	0xC32941CD = ~s~Press ~INPUT_CONTEXT~ ~s~to enter.~s~
 	0xC34377AF = FORECLOSURES_MAZE_D_BANK_COM
 	0xC34866D8 = Tridents
@@ -28677,7 +28677,7 @@
 	0xC899162E = Return over investment
 	0xC924296D = Damn what you use on him an assault weapon?  $~1~, and that's generous!
 	0xC955547D = Composed Clutter
-	0xC968459C = The Alamo Sea is the new hot spot for hipsters, thrill-seekers and people ready to live on the edge.
+	0xC968459C = The ทะเลอัลลาโม is the new hot spot for hipsters, thrill-seekers and people ready to live on the edge.
 	0xC968861A = Mission abort - guess those clients should have come up with a different escape plan.
 	0xC1023663 = Zokusha
 	0xC1029466 = We have the full cooperation of the observatory's in-house security. Here's some cam footage. ~nrt~ <img src='img://VC_TC_OBSERVCCTV_0/VC_TC_OBSERVCCTV_4' vspace='0' width='252' height='150'/> ~nrt~
@@ -28833,14 +28833,14 @@
 	0xCA678578 = 3 new items of clothing available
 	0xCA793624 = Unsound
 	0xCA805803 = Kifflom T-Shirt
-	0xCA813147 = Paleto Bay Clubhouse
+	0xCA813147 = ปาเลโตเบย์ Clubhouse
 	0xCA826616 = Rub chin
 	0xCA843816 = แดง Team
 	0xCAA0F22F = Hat 1
 	0xCAA60F8E = Pipeline Inn
 	0xCAAA02BB = Derailed
 	0xCAAB0B2A = Braided Mohawk Pink
-	0xCAAD46CB = North Chumash
+	0xCAAD46CB = นอร์ทชูมาช
 	0xCAB4D5BD = the ~HUD_COLOUR_BLUE~Omnis.
 	0xCAB54C0C = You can only sell four vehicles in one transaction. Remove one of the selected vehicles to include this one in the deal.
 	0xCAB72A12 = SETUP OVER
@@ -29118,7 +29118,7 @@
 	0xCC849913 = rd
 	0xCCA1C02B = ลิตเติลโซล Park
 	0xCCA3EBA5 = A sleek, sexy 2-seater, this is the reason you never see an ugly woman on a speedboat.<br>One look at the Squalo and even the most prudish of female guests will let you drop anchor in Poo Bay. Luxury finishes throughout, including a Dutch-designed laminate for fuss-free cocaine use.
-	0xCCA4CA18 = ถนนเกรซซีด
+	0xCCA4CA18 = ถนนเกรปซีด
 	0xCCA5CC82 = Race to ~HUD_COLOUR_YELLOW~Pacific Allied Shipyard.
 	0xCCA8EE1D = In order to purchase this vehicle at the Trade Price, you must fulfill the following criteria:~n~- Own a Facility.~n~- Complete the Escort ULP Setup mission.~n~
 	0xCCA21B13 = Sprouting Saguaro Pot
@@ -29194,7 +29194,7 @@
 	0xCD6CB473 = Pay at the front desk ~BLIP_BAT_CASH_REG~ to enter The Music Locker. When you are ready, meet Miguel Madrazo ~HUD_COLOUR_GREEN~~BLIP_MICHAEL_FAMILY~~s~ in the VIP area to discuss his job opportunity.
 	0xCD6E65B7 = You can't enter The Diamond Casino & Resort while acquiring a vehicle for a Warehouse.
 	0xCD6FA36C = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x Emotion 98.3 T-Shirt
-	0xCD7D8599 = Grand Senora Desert
+	0xCD7D8599 = ทะเลทรายแกรนด์เซโนร่า
 	0xCD8B04B3 = Eccentric
 	0xCD8B0AD8 = Impaler
 	0xCD8C667C = Makeup
@@ -29310,7 +29310,7 @@
 	0xCDF6891E = Electro Beatbox Love Pulse
 	0xCDFBA8B2 = Mission success - the clients are planning their move into Blaine County.
 	0xCDFC0143 = We don't have enough Associates to carry all of these crates. We'll have to do more than one run for them.
-	0xCDFD5BF7 = Paleto Bay Clubhouse
+	0xCDFD5BF7 = ปาเลโตเบย์ Clubhouse
 	0xCE00A25B = Rewards have been unlocked for completing all weapon challenges in tier 1 of the สนามยิงปืน.
 	0xCE0127E9 = Track Down (15)
 	0xCE036351 = Submarine
@@ -29333,7 +29333,7 @@
 	0xCE2BD192 = ขาว Retro Bubble
 	0xCE2D36D9 = Paused
 	0xCE2EA854 = You found one. Now steal the truck and get it back to the Facility.
-	0xCE3C45A2 = ที่จอดรถ: Great Ocean Highway
+	0xCE3C45A2 = ที่จอดรถ: ทางหลวงกรีทโอเชี่ยน
 	0xCE3CA229 = This option is unavailable.
 	0xCE3D8BD6 = Friends in Session: ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~ ~n~~a~
 	0xCE3D85A0 = Are you sure you want to exit the vehicle?
@@ -29383,7 +29383,7 @@
 	0xCE647DED = MeTV Racing Suit
 	0xCE786EA3 = Crosshatch Vent
 	0xCE893EDE = LIKE NIKKI
-	0xCE1007BC = Mount Gordo
+	0xCE1007BC = ภูเขากอร์โด
 	0xCE2040BC = ปรับ the volume of any ambient track added to your timeline.
 	0xCE2048D5 = Are you sure you want to request Valkyrie?
 	0xCE2802AB = Found it! Time to bring it home.
@@ -29542,7 +29542,7 @@
 	0xCFB3AAAC = LSIA
 	0xCFB6ABB7 = 0432 ถนนเดวิส
 	0xCFB86A2D = ~INPUTGROUP_FRONTEND_DPAD_LR~ Dance style: ~a~~n~~INPUTGROUP_MOVE~ Dance moves~n~~INPUT_SCRIPT_RT~+~INPUTGROUP_MOVE~ Rotate~n~~INPUT_SCRIPT_RUP~ Toggle lock: ~a~~n~~INPUT_SCRIPT_RLEFT~ Hide controls
-	0xCFB86EB9 = Chumash
+	0xCFB86EB9 = ชูมาช
 	0xCFB685D2 = Cliffford Mercenaries
 	0xCFB16857 = Bad guys are on you - be careful!
 	0xCFBDAA12 = Ponytail Black
@@ -29771,8 +29771,8 @@
 	0xD1E66CC1 = A new vehicle is available from southernsanandreassuperautos.com
 	0xD1E421F5 = Are you sure you wish to acquire level 2 security passes for this heist?
 	0xD1E510FB = 25 kills
-	0xD1E9710A = North Chumash
-	0xD1E84405 = 0232 Paleto Blvd
+	0xD1E9710A = นอร์ทชูมาช
+	0xD1E84405 = 0232 ทางหลวงปาเลโต
 	0xD1EA8233 = Search the area at the base of the communications tower, or climb the tower itself in order to find the location of the signal box.
 	0xD1EB90CD = @sandysuresteve big shootout and explosions at the grapeseed airport these meth wars are out of control.
 	0xD1EEF9C6 = คุณฟิลิปส์,~n~I believe you're now the proud owner of the classiest gentleman's bar in town!  At least that's what we keep telling ourselves!  I'm the manager at the Hen House so I'll be your main point of contact.  Hope I won't have to trouble you too much but you never know in this business!  Congratulations again.  You're clearly a wise investor – nothing more recession-proof than booze and titties, right?  ~n~Best wishes,~n~Logan
@@ -29791,7 +29791,7 @@
 	0xD2A5100B = Wait for Lazlow to send the Snapmatic.
 	0xD2A72029 = Hold ~INPUT_FRONTEND_RIGHT~ to drop Tombstone.
 	0xD2ADF79A = ~BLIP_INFO_ICON~ While aiming a weapon with ~INPUT_AIM~ use ~INPUT_ACCURATE_AIM~ to zoom in.
-	0xD2AF9ED1 = North Chumash
+	0xD2AF9ED1 = นอร์ทชูมาช
 	0xD2B5D546 = The Proper
 	0xD2B8B703 = RC Bandito Time Trials
 	0xD2B55B20 = Solve the mystery of Leonora Johnson.
@@ -30314,7 +30314,7 @@
 	0xD37C2941 = Equipment
 	0xD37F2DB6 = Unable to use planning boards. ~a~ ~s~has not scoped out the Casino to complete the Arcade setup.
 	0xD37F9F35 = You can watch TV and view CCTV while in your Apartment. You can also have a shower to wash the blood away.
-	0xD38B6283 = Paleto Bay Clubhouse
+	0xD38B6283 = ปาเลโตเบย์ Clubhouse
 	0xD38E40DC = Get ~1~ kills with the Stone ขวาน in GTA Online to unlock a GTA$ reward and exclusive access to this weapon in แดง Dead Redemption 2.
 	0xD38F7412 = News Van
 	0xD39B3911 = Help Yung Ancestor so he will give access to the back areas of the Casino.
@@ -30454,7 +30454,7 @@
 	0xD76D7C6E = Cheval Marshall Tee
 	0xD76D87AC = You have not yet unlocked Deathmatches.
 	0xD76DB3C8 = Patriot Chute
-	0xD77A9A80 = You made a big impression at the Paleto Bay Chicken Festival.
+	0xD77A9A80 = You made a big impression at the ปาเลโตเบย์ Chicken Festival.
 	0xD77B81E7 = Collect the skate merchandise
 	0xD77DA201 = Press ~INPUT_VEH_LOOK_BEHIND~ when driving in water to toggle sonar. This will display hidden caches and any nearby Kosatkas on your radar.
 	0xD77ED970 = Rifle loadout
@@ -30522,7 +30522,7 @@
 	0xD97EA9AF = To purchase this vehicle at a reduced cost, please complete Pacific Standard - Convoy.
 	0xD98AE69F = Steam Error
 	0xD98B7C79 = Master Bedroom - Shelf
-	0xD98E4111 = Mount Gordo Facility
+	0xD98E4111 = โรงงานเขตภูเขากอร์โด
 	0xD98F2E2D = Tranquilizer Gun
 	0xD98F7FE0 = Swing by today and pick up our new Machine ปืนพก, the cutting edge of high-impact, easily concealed firearm design.
 	0xD98F9302 = Stock Canard
@@ -30632,7 +30632,7 @@
 	0xD470DCC5 = Alex
 	0xD478A039 = ~s~Exit the vehicle to investigate the clue.
 	0xD492FBAB = ~a~~a~~a~~nrt~ <img src='img://BAT_CASE_14/BAT_CASE_14'  vspace='0' width='252' height='300'/> ~nrt~
-	0xD497CB67 = Travel to Grapeseed and recover the champagne for Palms Trax to be delivered back to The Music Locker.
+	0xD497CB67 = Travel to เกรปซีด and recover the champagne for Palms Trax to be delivered back to The Music Locker.
 	0xD497F73C = Bomb
 	0xD498CAB4 = Compete in various challenges against other players.
 	0xD500B126 = Van
@@ -30644,7 +30644,7 @@
 	0xD516BDA1 = Destination
 	0xD518C15D = Cocks
 	0xD523C731 = Echo Park
-	0xD524F198 = Raton Canyon Bunker
+	0xD524F198 = เรตันแคนยอน Bunker
 	0xD525DA54 = Are you sure you want to exit the mission?
 	0xD529ED93 = ถนนแชงค์
 	0xD536ED46 = 707 เวสปุชชี
@@ -30755,7 +30755,7 @@
 	0xD980F786 = Flying: ไมเคิล's skill in the cockpit of various aircraft. Take off, land, and manage turbulence more easily. Increase by flying under control for sustained periods and succeeding at โรงเรียนการบิน challenges as ไมเคิล.
 	0xD983D8CE = Manage Bikes
 	0xD987DC5F = Steal a Chernobog ballistic missile launcher from Merryweather Security.
-	0xD989CFCF = Paleto Bay
+	0xD989CFCF = ปาเลโตเบย์
 	0xD991ED35 = RIFLE LOADOUT
 	0xD995A42C = Check Your Privilege
 	0xD1059E74 = bus
@@ -31445,7 +31445,7 @@
 	0xDC921D8A = You need to be the President of a Motorcycle Club to access Clubhouse Contracts. ~n~Press ~INPUT_FRONTEND_ACCEPT~ to found a Motorcycle Club.
 	0xDC2285CE = Retro packaging for Redwood brings back memories says local racist.
 	0xDC3514A4 = เลือก
-	0xDC4657C6 = Vehicle: ~a~~n~Color: ~a~~n~Plate: ~a~~n~ Location: Paleto Forest ~nrt~ <img src='img://MP_EX_LOCATION_02/MP_EX_LOCATION_02' vspace='0' width='252' height='150'/> ~nrt~
+	0xDC4657C6 = Vehicle: ~a~~n~Color: ~a~~n~Plate: ~a~~n~ Location: ป่าปาเลโต ~nrt~ <img src='img://MP_EX_LOCATION_02/MP_EX_LOCATION_02' vspace='0' width='252' height='150'/> ~nrt~
 	0xDC5025C0 = GTA Online: Reach Rank 100.
 	0xDC8010C8 = If you have a lot of clips to delete at once, you can mark them for deletion. To mark a clip for deletion, press ~INPUT_FRONTEND_LB~ while the clip is selected in the list. The clip will turn red to indicate it has been marked. Once you have marked all the clips you want to delete, navigate to this section and press ~INPUT_REPLAY_CLIP_DELETE~ to delete all the clips in the list. To un-mark a clip for deletion, press ~INPUT_FRONTEND_LB~ again while the clip is selected in the list.
 	0xDC8935F8 = Spikey Blond
@@ -31493,7 +31493,7 @@
 	0xDCC941C3 = Game data cache was invalidated. Affected files will be re-installed now.
 	0xDCC19777 = For real?
 	0xDCCB1F76 = RACE START
-	0xDCCD7369 = @alderneyedwin23 ขาว supremacists carry out professional hit on Azerbaijani man in Chumash. At least that's what me and my roommate are telling everyone.
+	0xDCCD7369 = @alderneyedwin23 ขาว supremacists carry out professional hit on Azerbaijani man in ชูมาช. At least that's what me and my roommate are telling everyone.
 	0xDCCDC763 = Allow all nearby players into your Yacht.
 	0xDCCE6CDE = Person of Interest
 	0xDCCEDB69 = LIKE CHASTITY
@@ -31560,7 +31560,7 @@
 	0xDD31B196 = Washed up!
 	0xDD48ED80 = ~a~~a~
 	0xDD50E891 = Black Pleated
-	0xDD54A3BA = Paleto Bay Meth Lab
+	0xDD54A3BA = ปาเลโตเบย์ Meth Lab
 	0xDD64B824 = Schyster Tee
 	0xDD64F7ED = Knock the ~HUD_COLOUR_RED~~a~~s~ off their bikes.
 	0xDD72A90D = Custom หน้า Mudguard
@@ -31674,7 +31674,7 @@
 	0xDE1D0877 = Racer
 	0xDE2A4A6C = Brute shareholder meeting erupts in chaos as shares unsteady as a menopausal woman.
 	0xDE2DEEF7 = Chapter 5 verse 3<BR>Do not forget about the dove. The dove is the dove of love and of truth that is an old metaphor and one that unites all knowledge under Epsilonism, and like all who pursue truth and love he does so not just by manifesting upward generosity but also by killing Unsaveables in the great fight between Kraff and his enemies that has gone on for paradigms. In the 4th paradigm it was energy. In the fifth paradigm it was fire. In the 6th paradigm it was the love of ignorance and the Eagle.<BR>In the 7th it was the great dispute in which Unsaveables learnt to take the form of conflicted reason. In the 8th, it was amnesia. In this 9th it is within the being form – that is the red, and he with red and of red in the hair form is not of Kraff and he is the embodiment of that which is Unsaveable. All of these paradigms will be revealed to you through upwards generosity. Their meaning shall be made clear as your role in the great battles will be made clear. Nothing is truer to the dove of love than killing Unsaveables.
-	0xDE3C4509 = Alamo Sea ไตรกีฬา
+	0xDE3C4509 = ไตรกีฬาทะเลอัลลาโม 
 	0xDE3E5AC2 = WARNING: Your Supplies are now visible ~HUD_COLOUR_RED~~BLIP_SIGHTSEER~ ~s~to all players in session.
 	0xDE3E9A8A = This computer is unavailable when working as an Associate. ~n~Press ~INPUT_FRONTEND_RIGHT~ to stand up.
 	0xDE3EE58B = Access the Casino ~HUD_COLOUR_YELLOW~roof.~s~
@@ -31918,7 +31918,7 @@
 	0xDFF058ED = Sculpture by Oz Bisset
 	0xDFF7C248 = Uncalculated Risk
 	0xDFF31FC5 = MK II RIFLE LOADOUT
-	0xDFF46A79 = Raton Canyon is a federally protected wilderness area, which all but guarantees the kind of peace and solitude your newly converted missile silo deserves. Plus, when the recycled air is making you nauseous, you can pop up for a lungful of the purest breeze in the state.
+	0xDFF46A79 = เรตันแคนยอน is a federally protected wilderness area, which all but guarantees the kind of peace and solitude your newly converted missile silo deserves. Plus, when the recycled air is making you nauseous, you can pop up for a lungful of the purest breeze in the state.
 	0xDFF87CE0 = Biker ม่วง Fade
 	0xDFFB8086 = APOCALYPSE SLAMVAN
 	0xDFFDD17C = Platinum Rim Necklace
@@ -32580,10 +32580,10 @@
 	0xE22F4DEE = Clowns
 	0xE22F8368 = You are sitting in the Nose Turret seat of a Bombushka. ~n~Press ~INPUT_CONTEXT~ to enter the gun camera. ~n~Hold ~INPUT_CONTEXT~ to move to the Rear Turret seat.
 	0xE23B1A94 = Not good, they've detected you. Find the supplies and fight your way out of there.
-	0xE24D4BD0 = Paleto Bay Clubhouse
+	0xE24D4BD0 = ปาเลโตเบย์ Clubhouse
 	0xE24D6FE8 = Vom Feuer Anti-Aircraft Trailer
 	0xE24F62AB = Arms Dealer
-	0xE24FAFE1 = Back in the 80s, Wonderama was the greatest night out in Grapeseed. Ten-pin bowling, soft play, kids' parties and parties of kids running feral for days. You name it, they had it. But it just takes one health inspector and an infested ball pit and suddenly you're out of business. Bad luck for them. Good luck for you.
+	0xE24FAFE1 = Back in the 80s, Wonderama was the greatest night out in เกรปซีด. Ten-pin bowling, soft play, kids' parties and parties of kids running feral for days. You name it, they had it. But it just takes one health inspector and an infested ball pit and suddenly you're out of business. Bad luck for them. Good luck for you.
 	0xE25A07B7 = You are registered as a CEO. Select SecuroServ CEO in the Interaction Menu to hire Associates and access other CEO benefits.
 	0xE25B03BA = You no longer have access to the Arena Workshop as you became the Beast.
 	0xE25C53EC = the Jester
@@ -32646,7 +32646,7 @@
 	0xE42A5361 = I've found the fucker! Uploaded their location to your GPS. Tx
 	0xE42CA985 = Flow Racing Suit
 	0xE42CD325 = Rivals
-	0xE42FF849 = Chumash Pier
+	0xE42FF849 = ชูมาช Pier
 	0xE43DA9A2 = Anti-Aircraft Trailer
 	0xE43E6795 = Logger consumption up as America gets depressed / drunk / angry.
 	0xE43EC998 = New Special Races are now available. Enter ~a~~s~ to play these new modes as part of the Special Race Series.
@@ -33135,7 +33135,7 @@
 	0xE7559F60 = Select your approach vehicle
 	0xE7824D30 = Leave this space empty.
 	0xE7853D12 = Stoner Cement Works
-	0xE7932A4B = Great Ocean Hwy
+	0xE7932A4B = ทางหลวงกรีทโอเชี่ยน
 	0xE7967C86 = Stripper
 	0xE8016EEC = Protect <C>~a~</C>~s~ while they crack the ~HUD_COLOUR_BLUE~safe.
 	0xE8032B22 = Paparazzo
@@ -33189,7 +33189,7 @@
 	0xE42573E2 = No time to chat right now. Send me a message later. You won't regret it!XXX
 	0xE43778BC = Enema Smoke Shades
 	0xE43960A4 = This is the Manage Staff page. Here you can assign staff to use supplies for manufacturing weapons for sale, or researching the unlocking of modifications. You can split your staff across both areas which will increase manufacturing and research times.
-	0xE44107CF = Paleto Bay
+	0xE44107CF = ปาเลโตเบย์
 	0xE48029CE = SLASHER KILLED
 	0xE50292E9 = Chemicals
 	0xE51459D1 = ~a~~HUD_COLOUR_WHITE~ shotgunned you.
@@ -33197,7 +33197,7 @@
 	0xE52818FA = Tempesta
 	0xE55590A8 = Unlock all Special Characters and entered Director Mode as an actor from this category.
 	0xE55747C2 = Open
-	0xE55779FD = Grapeseed
+	0xE55779FD = เกรปซีด
 	0xE56375BC = In order to purchase this vehicle at the Trade Price, you must fulfill the following criteria:~n~- Unlock it as a sponsorship tier reward in the Arena War Career.~n~
 	0xE58001F8 = Press ~INPUT_VEH_HORN~ to signal the VIP to enter the vehicle.
 	0xE58267E0 = จุดที่สนใจ scoped.
@@ -33444,7 +33444,7 @@
 	0xEA99639B = Empty head and a great rack? Panic Girl cheerleader tryouts begin today.
 	0xEA150690 = Visitor Bonus
 	0xEA359549 = The Dealer did not play.
-	0xEA442195 = Mr. De Santa!  ~n~Congratulations on being the new owner of ร้านอาหารทะเลฮอกกี้!  Aside from a minor gang problem and the occasional drunken knife fight, there isn't a better family restaurant in all of North Chumash!  ~n~I've worked the bar at ร้านอาหารทะเลฮอกกี้ for over 30 years, and I'm only 42 so I really have grown up with the place!  Anything you need, just let me know.  ~n~Best,~n~Franny
+	0xEA442195 = Mr. De Santa!  ~n~Congratulations on being the new owner of ร้านอาหารทะเลฮอกกี้!  Aside from a minor gang problem and the occasional drunken knife fight, there isn't a better family restaurant in all of นอร์ทชูมาช!  ~n~I've worked the bar at ร้านอาหารทะเลฮอกกี้ for over 30 years, and I'm only 42 so I really have grown up with the place!  Anything you need, just let me know.  ~n~Best,~n~Franny
 	0xEA544745 = Engine – 4 liter<br>Power – 270hp<br>Top Speed – 140mph<br>0-60 – 9 seconds
 	0xEA578053 = Vintage Arcade Game Poster
 	0xEA599835 = New vehicle mods
@@ -33472,7 +33472,7 @@
 	0xEAC2760E = STOCKPILING
 	0xEAC22013 = Biker Sell
 	0xEAC49053 = Kkangpae
-	0xEAC55569 = North Chumash
+	0xEAC55569 = นอร์ทชูมาช
 	0xEACC40ED = A Business Battle is currently in progress. Press ~INPUT_CONTEXT_SECONDARY~ to participate.
 	0xEACEAF9E = ~HUD_COLOUR_FREEMODE~Weapon
 	0xEAD2C463 = ความแข็งแรง
@@ -34433,7 +34433,7 @@
 	0xF2CBB790 = Place a bet
 	0xF2CBFCC3 = Boars
 	0xF2CDC108 = ~g~+$~1~
-	0xF2D3F507 = @PaletoJeremy In complete shock. Paleto Bay looks like Fallujah right now. Whole place torn apart. If this doesn't bring traffic to my blog, nothing will.
+	0xF2D3F507 = @PaletoJeremy In complete shock. ปาเลโตเบย์ looks like Fallujah right now. Whole place torn apart. If this doesn't bring traffic to my blog, nothing will.
 	0xF2D6AB82 = Create a custom Survival mode.
 	0xF2D73D94 = You have reached the current limit for selling this model of vehicle.
 	0xF2D4501C = USS Luxington's air defenses have been turned off.
@@ -34611,7 +34611,7 @@
 	0xF5FDC358 = Unavailable while inside the Mobile Operations Center
 	0xF5FF832A = Toxic Bugs
 	0xF6A3DF78 = Cutting Torch
-	0xF6A4F710 = Choose a river to follow West towards the ocean: Zancudo River or Raton Canyon.
+	0xF6A4F710 = Choose a river to follow West towards the ocean: Zancudo River or เรตันแคนยอน
 	0xF6A9EA1B = Your Return
 	0xF6A1362D = Suck It, เหลือง
 	0xF6A3309B = Palms Trax Tee
@@ -34735,7 +34735,7 @@
 	0xF8D6EE67 = You Tool
 	0xF8D334FA = Pink Jug Vase
 	0xF8D529C1 = This account has been locked due to excessive failed log in attempts. Please log in to ~HUD_COLOUR_SOCIAL_CLUB~Social Club~s~ at http://socialclub.rockstargames.com before trying again.
-	0xF8D909E5 = Paleto Blvd
+	0xF8D909E5 = ทางหลวงปาเลโต
 	0xF8D14190 = All Rounder
 	0xF8DA0711 = IMAGE ATTACHMENT ~nrt~ <img src='img://heist3_prep_maid02/heist3_prep_maid02' vspace='0' width='256' height='167'/> ~nrt~
 	0xF8DA2EAD = Way it fell you must have spooked it real good!  Let's call that a round $~1~.
@@ -34743,7 +34743,7 @@
 	0xF8DE737A = This is the production area. Counterfeit เงิน is printed and processed here by your staff.
 	0xF8E8B887 = Grab the engineer's phone. You'll need it to access the lockbox.
 	0xF8E9D1F3 = TORPEDO BAY
-	0xF8E8036C = Chumash Plaza
+	0xF8E8036C = ชูมาช Plaza
 	0xF8E68530 = Vehicle
 	0xF8E94179 = BLAINE COUNTY
 	0xF8EC8295 = Goons
@@ -34878,7 +34878,7 @@
 	0xF25F0DE9 = The Executive Assistant also has access to the SecuroServ Special Cargo Network and helps with the movement of Special Cargo shipments.
 	0xF25F388B = Collect the case and hold on to it for as long as possible. This Event is currently hidden. You will see no notifications related to it until you choose to Show it again.
 	0xF26C6B6E = RADAR PING
-	0xF26CE9DD = Grand Senora Desert Bunker
+	0xF26CE9DD = ทะเลทรายแกรนด์เซโนร่า Bunker
 	0xF26D860C = Hangar ~HUD_COLOUR_YELLOW~~BLIP_SM_HANGAR~~s~
 	0xF26F62A4 = Your President disbanded the MC during the Criminal Mischief Challenge
 	0xF26FF27E = LEFT GAME
@@ -34991,7 +34991,7 @@
 	0xF58B07DE = Protect the ยานพาหนะ ~HUD_COLOUR_BLUE~~BLIP_SPORTS_CAR~~s~ until the pink slips have been collected and then deliver them to the buyer.
 	0xF58DC792 = It's A Stick Up
 	0xF58E23A4 = Lowrider Wheels Set
-	0xF59D092E = 1893 ถนนเกรซซีด
+	0xF59D092E = 1893 ถนนเกรปซีด
 	0xF60AC471 = I know where there's some mules you can take out too
 	0xF60DDD6A = Oh, before I forget - the laptop in your workshop lists anything you've earned from our sponsors. Check it out when you can!!
 	0xF61A25EF = Don't worry – we broke up. He was a dick. xox
@@ -35064,7 +35064,7 @@
 	0xF81F1468 = Dealer Room - Shelf
 	0xF82A7F14 = Press ~INPUT_CONTEXT~ to drop Cargo when you are flying above a drop-off.
 	0xF82AC5E5 = the reinforced armor
-	0xF82B3596 = Grand Senora Desert
+	0xF82B3596 = ทะเลทรายแกรนด์เซโนร่า
 	0xF82C6CB8 = Benefactor Bruiser Cross set
 	0xF82DDF97 = NOTEXTNOTEXTNOTEXT
 	0xF82FBA4C = Faded Light น้ำเงิน Cropped
@@ -35302,7 +35302,7 @@
 	0xF929CED4 = Zombie
 	0xF929DE45 = @lspapacarlos chinagadazo los varios aztecas got mad casulties at the alamo sea that shit gotta get put right
 	0xF930B184 = Steal the ~HUD_COLOUR_RED~data drives~s~ from ~a~.~s~
-	0xF932DE84 = 2 car Garage with direct access to Alamo Sea.
+	0xF932DE84 = 2 car Garage with direct access to ทะเลอัลลาโม
 	0xF934B1FB = Faux Hawk ม่วง
 	0xF934D07C = Sculpture by Lippi
 	0xF940ABBD = Cats Are Great!
@@ -35338,7 +35338,7 @@
 	0xF2205D82 = You can't renovate your Bunker whilst on this mission.
 	0xF2214DFE = STROMBERGS
 	0xF2216B93 = Destroy all of El Rubio's Buzzards ~HUD_COLOUR_RED~~BLIP_TEMP_4~~s~ that are due to be transported to Cayo Perico in order to ensure he has no air support during The Cayo Perico Heist.
-	0xF2245DC3 = Lago Zancudo
+	0xF2245DC3 = ทะเลสาบแซนคูโด้
 	0xF2263EE1 = COMPLETED
 	0xF2299ED9 = Go to the ~y~impound. ~s~
 	0xF2319B44 = Bullbars
@@ -35545,21 +35545,21 @@
 	0xF396609F = Click on the box located on the right hand side of the screen to add an expansion to your Bunker purchase or renovation.
 	0xF431883D = Worldwide FM DJ denies shout out.
 	0xF432003F = Flecktarn Vent
-	0xF472989C = Chumash
+	0xF472989C = ชูมาช
 	0xF500756E = While within your CEO's proximity, displayed as a circle in your Organization color, you will regularly receive ~1~RP in addition to gaining increased health regeneration and a boost to your skills.
 	0xF501679D = The RO-86 Alkonost will not appear on enemy radars or maps when flown at high altitude.
 	0xF516687E = Raider
 	0xF523747F = Adversary 16
-	0xF548558A = the Mini ปืนเอสเอ็มจี
+	0xF548558A = ปืนมินิเอสเอ็มจี
 	0xF556491B = Security Intel
 	0xF571267B = Search the area for the vehicle.
-	0xF584345D = This is gonna be tricky - Mount Chiliad is an extreme hill climb route. Take your time with the Marshall and you'll be fine.
+	0xF584345D = This is gonna be tricky - ภูเขาชิลเลียด is an extreme hill climb route. Take your time with the Marshall and you'll be fine.
 	0xF598510D = Planning the Score
 	0xF625983C = Door
 	0xF626724E = MEDALS
 	0xF637920E = looked kinda serious, homie. hope u ok.
 	0xF641831C = ถนนโฟรทแซนคูโดแอพโพรช
-	0xF659584E = Paleto Forest
+	0xF659584E = ป่าปาเลโต
 	0xF660329B = Swiss Cheese Plant Pot
 	0xF663157A = Diamond Casino & Resort
 	0xF700434A = เหลือง Sweatband
@@ -35578,7 +35578,7 @@
 	0xF991750A = ชายฝั่งแซนดี Airfield
 	0xF994276F = Stock Seat
 	0xF1095612 = เกาะอีลีเซียน
-	0xF1205172 = Paleto Forest
+	0xF1205172 = ป่าปาเลโต
 	0xF1325313 = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x The Shoulder of Orion II T-Shirt
 	0xF1593017 = Tan Banded Pleated
 	0xF1597372 = @FacepalmCosmetics Voluntary recall of Facepalm cosmetics powder blush. Some have experienced dizzy spells. That's the unique blend of Lead, Magnesium and Coal Tar concentrate to give you that special flushed look.
@@ -35695,7 +35695,7 @@
 	0xFA58FB8A = Press ~INPUT_CONTEXT~ to play Roulette using your CEO's casino membership.
 	0xFA67F782 = Fly under a bridge in an Air Race.
 	0xFA75D266 = Select the สวนเมียร์เรอ playlist.
-	0xFA78E0F0 = Grapeseed
+	0xFA78E0F0 = เกรปซีด
 	0xFA85F61B = Taxis cannot be sprayed.
 	0xFA86E50F = Take Lacey Jonas to the ~HUD_COLOUR_YELLOW~Nightclub.~s~
 	0xFA91F170 = Work with the IAA to eliminate enemy agents operating throughout ซานแอนเดรส and prevent a war.
@@ -35757,7 +35757,7 @@
 	0xFACCCC7D = Take out the ~HUD_COLOUR_RED~~a~~s~ with a ~a~.
 	0xFACD18B0 = Complete a Dispatch mission.
 	0xFACFCBD4 = Destroy the Special Cargo player for a RP reward.
-	0xFAD11C47 = Grapeseed
+	0xFAD11C47 = เกรปซีด
 	0xFAD357D3 = ~a~~s~ delivered 1 bag of cash to the drop-off
 	0xFAD697AA = Director Mode feature is already running.
 	0xFAD4395B = As a pilot, fly low and approach the roof directly from a distance. As a co-pilot, release a bomb by pressing ~INPUT_VEH_FLY_ATTACK~ or hold it to drop multiple and carpet-bomb the area.
@@ -36054,7 +36054,7 @@
 	0xFCC83A8D = ผู้เล่น
 	0xFCC94B90 = Fortified
 	0xFCCAB0BE = Okay! The car's yours. Pick it up and drop it off.
-	0xFCCD42D0 = @plonkafreddie Im cruising down Great Ocean highway look out at the sea and think I see a firework display on this big boat... then I look again...and realize theyre godamn gunshots!!!!
+	0xFCCD42D0 = @plonkafreddie Im cruising down ทางหลวงกรีทโอเชี่ยน look out at the sea and think I see a firework display on this big boat... then I look again...and realize theyre godamn gunshots!!!!
 	0xFCCD1087 = Master Control เทอร์มินอล
 	0xFCCF7F51 = Delivery in progress.
 	0xFCCF7310 = Proxy
@@ -36167,7 +36167,7 @@
 	0xFDA391C8 = Oh No! เหลือง
 	0xFDA751EB = In order to accrue these Goods you must fulfill the following criteria:~n~- Purchase a Special Cargo Warehouse on the SecuroServ site inside your Executive Office.~n~
 	0xFDA977DE = Upgrades
-	0xFDA84086 = North Chumash
+	0xFDA84086 = นอร์ทชูมาช
 	0xFDABCDF6 = Chip Cashier
 	0xFDAE917C = Move from current location to Garage Level B2.
 	0xFDAEC4C7 = Find a way to unlock the ~y~cell door.
@@ -36333,7 +36333,7 @@
 	0xFED9E8E4 = Find and steal trucks that are carrying some wrecked Strombergs.
 	0xFED43E20 = Hangar or Special Cargo Warehouse
 	0xFED99B32 = Photo Location
-	0xFEDA7851 = Paleto Bay
+	0xFEDA7851 = ปาเลโตเบย์
 	0xFEE02842 = Choose a radio station to play while inside the Trailer.
 	0xFEE0E278 = HVY Apocalypse Scarab
 	0xFEE5B99D = You blew a helluva big hole in him!  $~1~ is as much as I can go, เทรเวอร์.
@@ -36438,7 +36438,7 @@
 	0xFF8259D0 = Counterfeit Money
 	0xFF9789CD = Participate in Every Bullet Counts.
 	0xFF15920E = You have already uploaded ~1~ photos. Uploading this photo will replace your oldest uploaded photo. Do you want to continue?
-	0xFF16031D = It's a young professional rite of passage: leave work, and get from the ไวน์วูดฮิลส์ to the beach at Chumash fast enough to catch the sunset and bask in the illusion of a meaningful existence.
+	0xFF16031D = It's a young professional rite of passage: leave work, and get from the ไวน์วูดฮิลส์ to the beach at ชูมาช fast enough to catch the sunset and bask in the illusion of a meaningful existence.
 	0xFF34448A = Activate the Drone from inside the Terrorbyte. This can be used to get past the security cameras ~HUD_COLOUR_BLUE~~BLIP_CCTV~~s~ undetected.
 	0xFF53720D = Defend Nightclub
 	0xFF58221D = Your project could not be loaded.
@@ -36482,7 +36482,7 @@
 	0xFFDB3E5D = Alarms are ringing - so make a quick exit. I've marked คาร์โกบ็อบ Helicopters on your GPS that you can use to airlift the supplies out of there.
 	0xFFDC87AA = Heist Impact:~n~If stolen during the heist, these can help you break into padlocked storage lockups containing secondary targets without alerting nearby guards.
 	0xFFDD8FB1 = ~a~ ~s~assassinated all targets
-	0xFFDD8824 = Get a beach body the American way. Eat a four pound, microwave-fresh burger then hit a time trial from Up-n-Atom to North Chumash. Just hope catastrophic heart failure doesn't hit you 'til next year.
+	0xFFDD8824 = Get a beach body the American way. Eat a four pound, microwave-fresh burger then hit a time trial from Up-n-Atom to นอร์ทชูมาช. Just hope catastrophic heart failure doesn't hit you 'til next year.
 	0xFFDFDB98 = TAGS
 	0xFFE3F909 = You can't renovate your Bunker whilst players are playing "Don't Cross The Line".
 	0xFFE35C58 = New vehicle mods
@@ -36576,7 +36576,7 @@
 	ACCNA_OSC = Oscar Guzman
 	ACCNA_PD_DT = Downtown PD Bail
 	ACCNA_PD_HW = ไวน์วูด PD Bail
-	ACCNA_PD_PB = Paleto Bay PD Bail
+	ACCNA_PD_PB = ปาเลโตเบย์ PD Bail
 	ACCNA_PD_RH = ร็อคฟอร์ดฮิลส์ PD Bail
 	ACCNA_PD_SC = South Central PD Bail
 	ACCNA_PD_SS = ชายฝั่งแซนดี PD Bail
@@ -36716,7 +36716,7 @@
 	AIRTUG = Airtug
 	AIR_REBR = AIR
 	AKUMA = Akuma
-	ALAMO = Alamo Sea
+	ALAMO = ทะเลอัลลาโม
 	ALBANY = Albany
 	ALTA = เขตอัลตา
 	AMBC_2ND = You came second in Criminal ความเสียหาย by causing $~a~ worth of destruction
@@ -37019,7 +37019,7 @@
 	AMTT_WRONGV = You entered a different vehicle
 	AM_H_AHP1 = Steal a fire truck to help prepare for the heist.
 	AM_H_ARM2 = แฟรงคลิน is now tailing the architect. SWITCH to แฟรงคลิน to see how he's doing.
-	AM_H_ARMR = The blue bar represents how much body armor you have.
+	AM_H_ARMR = แถบสีฟ้ามันจะแสดงว่าคุณมีเกราะแค่ไหนตอนนี้
 	AM_H_ARMST = Arms Trafficking now available at ~BLIP_ARMS_DEALING~ for เทรเวอร์ only
 	AM_H_BAILBONDS = เทรเวอร์ can do a bail bond job by visiting a suspect's last known location. A larger reward is given if a suspect is captured alive.
 	AM_H_BASEJ = Parachuting now available at ~BLIP_BASE_JUMP~
@@ -37030,7 +37030,7 @@
 	AM_H_CALLTX = Call the บริษัทแท็กซี่ดาวน์ทาวน์ to arrange a taxi to collect you from your current location.
 	AM_H_CARMOD = Mod garages are available at ~BLIP_CAR_MOD_SHOP~ Visit a mod garage for repairs and upgrades.
 	AM_H_CHOP = ช๊อปอยู่ที่บ้านของแฟรงคลิน แฟรงคลินสามารถโต้ตอบกับช๊อปได้ที่ ~BLIP_CHOP~
-	AM_H_CNVRT = Hold ~INPUT_VEH_ROOF~ when stationary to raise and lower the roof.
+	AM_H_CNVRT = กด ~INPUT_VEH_ROOF~ ค้างไว้เพื่อยกและลดหลังคาเมื่อรถหยุดนิ่ง
 	AM_H_CRCE = Stock Car Races are now available at ~BLIP_RACE_LAND~
 	AM_H_CREWU = Throughout the game you may meet contacts who can help on heists. This will give you extra crew members to pick from.
 	AM_H_CRWLVL = Crew gain experience with each heist you take them on. Their skill will improve with each job completed.
@@ -37039,7 +37039,7 @@
 	AM_H_EDIT_1 = ขณะนี้ Rockstar Editor มีอยู่ในเ มนูหยุดชั่วคราว เพื่อให้คุณสร้างวิดีโอที่ไม่เหมือนใครจากคลิป GTAV และ GTA Online ก่อนอื่นให้บันทึกการเล่นเกมของคุณโดยกด ~INPUT_CHARACTER_WHEEL~ เพื่อเลือกโหมดและเริ่มการบันทึก
 	AM_H_EDIT_2 = 'เริ่มการบันทึก' จะบันทึกการเล่นเกมทันที ~n~'แอคชั่นรีเพลย์' จะบันทึกคลิปหลังจบกิจกรรมโดยทำงานอยู่เบื้องหลังจนกว่าคุณจะพร้อมบันทึก
 	AM_H_EDIT_3 = Once you've recorded your clip, hold ~INPUT_CHARACTER_WHEEL~ and press ~INPUT_REPLAY_START_STOP_RECORDING~ to save the recording, or ~INPUT_SAVE_REPLAY_CLIP~ to discard it.~n~Clips will continue to be saved until you stop recording.
-	AM_H_EDIT_4 = Save an Action เล่นซ้ำ after it happens, by holding ~INPUT_CHARACTER_WHEEL~ and pressing ~INPUT_REPLAY_START_STOP_RECORDING~.~n~Turn off Action เล่นซ้ำ mode by holding ~INPUT_CHARACTER_WHEEL~ and pressing ~INPUT_SAVE_REPLAY_CLIP~.~n~Action เล่นซ้ำ clips may vary in length depending on how much is going on.
+	AM_H_EDIT_4 = บันทึกการเล่นซ้ำหลังจากบันทึกแล้วให้กด  ~INPUT_CHARACTER_WHEEL~ ค้างไว้ และกด ~INPUT_REPLAY_START_STOP_RECORDING~~nปิดโหมดการเล่นซ้ำโดยกด ~INPUT_CHARACTER_WHEEL~ ค้างไว้แล้วกด ~INPUT_SAVE_REPLAY_CLIP~~n~คลิปการเล่นซ้ำอาจมีความยาวแตกต่างกันไปขึ้นอยู่กับว่าบันทึกแค่ไหน
 	AM_H_FBIC1A = This area is unsuitable for the getaway vehicle. Find a more discreet location.
 	AM_H_FBIC1B = The getaway vehicle cannot be placed while meeting a friend.
 	AM_H_FBIC1C = The getaway vehicle cannot be placed while on a taxi job.
@@ -37053,7 +37053,7 @@
 	AM_H_FLINK = Some emails contain hyperlinks to web pages. Press ~INPUT_CELLPHONE_EXTRA_OPTION~ to jump to the linked page.
 	AM_H_FLYM = To prepare for the heist, visit the โรงเรียนการบิน as ไมเคิล.
 	AM_H_FOU = ไตรกีฬา event now available at ~BLIP_TRIATHLON~
-	AM_H_FP1 = มุมมองบุคคลที่หนึ่ง gamepad controls can be altered in the Gamepad section of the Settings Menu. Here you can set your preferred มุมมองบุคคลที่หนึ่ง Control Type and Targeting Mode.
+	AM_H_FP1 = มุมมองบุคคลที่หนึ่งสามารถปรับเปลี่ยนการควบคุมบนสติ๊กได้ในส่วนการตั้งค่าเกมแพดของเมนูการตั้งค่า คุณสามารถตั้งค่าที่คุณต้องการได้ที่นี่ มุมมองบุคคลที่ ประเภทการควบคุมและโหมดการกำหนดเป้าหมาย
 	AM_H_FP2 = มุมมองบุคคลที่หนึ่ง mode can be adjusted in the Settings Menu if you experience motion sickness. Here you can adjust the Field of View, Aim Sensitivity, Look Sensitivity and มุมมองบุคคลที่หนึ่ง Ragdoll.
 	AM_H_FTXT = A new text message has been received. Bring up the phone with ~INPUT_PHONE~ to read it. New text messages and emails also show on the Feed.
 	AM_H_GARAGEP = Garage properties are now available to purchase at ~BLIP_GARAGE_FOR_SALE~~n~These will allow storage of vehicles purchased from websites or driven into the garage.
@@ -37611,8 +37611,8 @@
 	BOUNTSONU = Bounties placed on you
 	BOXVILLE = Boxville
 	BR BLACK_STEEL = Brushed Black Steel
-	BRADP = Braddock Pass
-	BRADT = Braddock Tunnel
+	BRADP = ถนนแบรดด็อก
+	BRADT = อุโมงแบรดด็อก
 	BRAVADO = Bravado
 	BRDISDLC = You do not own this downloadable content.
 	BRDISPROP = You already own a property, purchasing this one will trade in your old one.
@@ -38054,7 +38054,7 @@
 	CAMPER = Camper
 	CANDY_RED = Candy แดง
 	CANIS = Canis
-	CANNY = Raton Canyon
+	CANNY = เรตันแคนยอน
 	CANT_LOAD_CRTR = Save game data cannot be loaded while the โหมดสร้าง is running.
 	CAR1_ALL = Confirming your appointment with Devin Weston at his new development on ถนนพาวเวอร์ in เขตอัลตา  Please be prompt, and arrive ready to work.
 	CAR2_DONE = I did you a solid, kid. มาร์ติน Madrazo needs help w sumthin, he wanted you, I got เทรเวอร์ on board.  Don't mention it. we gotta go up to his ranch off ถนนเซโนร่า
@@ -39128,7 +39128,7 @@
 	CELL_F_LESTER1 = ...has discovered social networking is dangerous.
 	CELL_F_MICHAEL2 = ...has discovered an abattoir where the meat certainly ain't fresh.
 	CELL_F_PROLOGUE = ...has fumbled a heist.
-	CELL_F_RURALH2 = ...was a big hit at Paleto Bay's Chicken Festival.
+	CELL_F_RURALH2 = ...was a big hit at ปาเลโตเบย์'s Chicken Festival.
 	CELL_GALSAVE = Save to Gallery
 	CELL_GRID = Grid
 	CELL_GROUPQM = Join a Quickmatch with me.
@@ -39420,7 +39420,7 @@
 	CHROME = Chrome
 	CHT_BAD_POOL = You have entered the Bad Sports pool. Play with other Bad Sports for some time and we'll forgive you.
 	CHT_NORM_POOL = You have left the cheater pool. You have been forgiven, if you enter it again it will take more time to pay your debt.
-	CHU = Chumash
+	CHU = ชูมาช
 	CITDENAL = ไมเคิล and เทรเวอร์ have been exiled from the city. If they enter the city, มาร์ติน's henchmen will track them down.
 	CITDENAL_R = ไมเคิล and เทรเวอร์ have been exiled by มาร์ติน. Approaching his ranch will cause his henchmen to attack.
 	CITY_RON = Some Chinese folks stopped by the trailer today. They seemed a little angry. Did you do something to upset them? Ron
@@ -39841,7 +39841,7 @@
 	CMRC_PURCHASE = Purchase
 	CMRC_SELECT = เลือก
 	CMRC_STORE_OPEN = เปิดให้บริการแล้ว
-	CMSW = Chiliad Mountain State Wilderness
+	CMSW = พื้นป่าไม้ของรัฐภูเขาชิลเลียด
 	CM_ADD_A_FRIEND = Add A Friend
 	CM_ANIBOAR = Boar
 	CM_ANICAT = Cat
@@ -39904,7 +39904,7 @@
 	CM_LOC_10 = Fort Zancudo
 	CM_LOC_11 = Canyon
 	CM_LOC_12 = กระเช้าลอยฟ้า
-	CM_LOC_13 = Paleto Bay
+	CM_LOC_13 = ปาเลโตเบย์
 	CM_LOC_14 = The Lighthouse
 	CM_LOC_15 = Vineyard
 	CM_LOC_16 = Richards Majestic Studio
@@ -40380,7 +40380,7 @@
 	DESC_LOCATION = Location
 	DESC_NOTRACK = No Track
 	DESC_TRACK = Track
-	DESRT = Grand Senora Desert
+	DESRT = ทะเลทรายแกรนด์เซโนร่า
 	DEV_SC_NO_CLOUD = The Cloud Service is not available.
 	DEV_SC_NO_TICKET = Failed to retrieve an SCS Ticket.
 	DEV_SC_POLICY_FAILED = Failed to download a policy file.
@@ -40712,7 +40712,7 @@
 	EMSTR_370 = Hookies@eyefind.info
 	EMSTR_371 = - ร้านอาหารทะเลฮอกกี้
 	EMSTR_374 = Welcome to ร้านอาหารทะเลฮอกกี้!
-	EMSTR_375 = Mr. Clinton!~n~Congratulations on being the new owner of ร้านอาหารทะเลฮอกกี้!  Aside from a minor gang problem and the occasional drunken knife fight, there isn't a better family restaurant in all of North Chumash!  ~n~I've worked the bar at ร้านอาหารทะเลฮอกกี้ for over 30 years, and I'm only 42 so I really have grown up with the place!  Anything you need, just let me know.  ~n~Best,~n~Franny
+	EMSTR_375 = Mr. Clinton!~n~Congratulations on being the new owner of ร้านอาหารทะเลฮอกกี้!  Aside from a minor gang problem and the occasional drunken knife fight, there isn't a better family restaurant in all of นอร์ทชูมาช!  ~n~I've worked the bar at ร้านอาหารทะเลฮอกกี้ for over 30 years, and I'm only 42 so I really have grown up with the place!  Anything you need, just let me know.  ~n~Best,~n~Franny
 	EMSTR_376 = ที่ยึดรถทาววิ่ง
 	EMSTR_377 = TowingImpound@eyefind.info
 	EMSTR_378 = - ที่ยึดรถทาววิ่ง
@@ -40757,7 +40757,7 @@
 	EMSTR_417 = Welcome
 	EMSTR_418 = Hi แฟรงคลิน,~n~I just wanted to let you know, on behalf of everyone at the towing company, we couldn't be happier that you're our new owner!  You know the business well already and I'm sure you won't have a problem getting your hands dirty.  We're a little short-staffed right now (as you're aware, some of our drivers aren't the most reliable!) so any help you can give us will be much appreciated.~n~Regards,~n~The Management (Rodney)
 	EMSTR_419 = Nuclear Waste
-	EMSTR_420 = Dear Mr. De Santa,~n~Not a subject line you receive every day, I'm sure!  I'm an environmentalist currently based in Paleto Bay.  I hope you don't mind me contacting you out of the blue like this, but I heard that you recently purchased the dock at Paleto Cove.  I don't know if you're aware of the extent of the problems with pollution in ซานแอนเดรส but nuclear power facilities are pumping large amounts of waste into the ocean on a daily basis.  As a local businessman with a vested interest in the coastline, any assistance that you can personally provide in cleaning up our seabeds would be much appreciated.  Every little helps!~n~Warm regards,~n~Dr. Varley
+	EMSTR_420 = Dear Mr. De Santa,~n~Not a subject line you receive every day, I'm sure!  I'm an environmentalist currently based in ปาเลโตเบย์  I hope you don't mind me contacting you out of the blue like this, but I heard that you recently purchased the dock at Paleto Cove.  I don't know if you're aware of the extent of the problems with pollution in ซานแอนเดรส but nuclear power facilities are pumping large amounts of waste into the ocean on a daily basis.  As a local businessman with a vested interest in the coastline, any assistance that you can personally provide in cleaning up our seabeds would be much appreciated.  Every little helps!~n~Warm regards,~n~Dr. Varley
 	EMSTR_421 = Nuclear Waste
 	EMSTR_465 = Pedal & Metal Sales
 	EMSTR_466 = sales@pandmcycles.com
@@ -42567,7 +42567,7 @@
 	GB_ASLT_GO2 = ~y~สนามบินนานาชาติลอสซานโตส
 	GB_ASLT_GO4 = the ~y~Merryweather Base
 	GB_ASLT_MAIR = New Contract Alert: Intercept a courier at LSIA and acquire his briefcase. ดรอป off to be confirmed when you have the case. Warning: the courier will have protection, and multiple VIPs could be competing for this contract.
-	GB_ASLT_MALT = New Contract Alert: Collect a package being held at the Altruist compound in Chiliad Mountain State Wilderness. Warning: they will not give up the package willingly, and multiple VIPs could be competing for this contract.
+	GB_ASLT_MALT = New Contract Alert: Collect a package being held at the Altruist compound in พื้นป่าไม้ของรัฐภูเขาชิลเลียด Warning: they will not give up the package willingly, and multiple VIPs could be competing for this contract.
 	GB_ASLT_MALT2 = Update: An LSPD detail were watching the Altruists. Avoid police teams and bring the package in.
 	GB_ASLT_MER = Merryweather Security has the ~r~briefcase. ~s~Take it from them.
 	GB_ASLT_MMER = New Contract Alert: Obtain a package being protected by Merryweather Security Consultants. ดรอป off to be confirmed when you have the package. Warning: multiple VIPs could be competing for this contract.
@@ -43104,7 +43104,7 @@
 	GRACE_RED = Grace แดง
 	GRAINTRAILER = Graintrailer
 	GRANGER = Granger
-	GRAPES = Grapeseed
+	GRAPES = เกรปซีด
 	GRAPHITE = Graphite
 	GREATC = Great Chaparral
 	GREEN = Green
@@ -44497,7 +44497,7 @@
 	HUD_MG_TENNIS = เทนนิส ~a~
 	HUD_MG_TENNISN = เทนนิส
 	HUD_MG_TRI = ไตรกีฬา - ~a~
-	HUD_MG_TRI_ALA = Alamo Sea
+	HUD_MG_TRI_ALA = ทะเลอัลลาโม
 	HUD_MG_TRI_COY = Coyote Cross Country
 	HUD_MG_TRI_VES = เวสปุชชี
 	HUD_MIGRATE_WARN = Played GTA Online before? It is possible to transfer previous GTA Online character and progression data from your Rockstar Games Social Club account. Sign in to your Social Club account before entering GTA Online to access the transfer option.
@@ -45505,7 +45505,7 @@
 	KRP_P_SR_H = Krapea CEO announces new tax avoidance plan.  Stocks up.
 	KS_RESPAWN_B = RESPAWNING
 	LACT = Land Act Reservoir
-	LAGO = Lago Zancudo
+	LAGO = ทะเลสาบแซนคูโด้
 	LAMPADA = Lampadati
 	LANG_CH = Chinese Traditional
 	LANG_E = English
@@ -45920,7 +45920,7 @@
 	LONGEST_SURVIVED_FREEFALL = Farthest free-fall survived
 	LONGEST_WHEELIE_DIST = Farthest wheelie
 	LOSE_WANTED = หนีตำรวจ
-	LOSPFY = ลาปูเอร์ตา Fwy
+	LOSPFY = ทางด่วนลาปูเอร์ตา
 	LOSPUER = ลาปูเอร์ตา
 	LOSSF = Los Santos Freeway
 	LOSTMC = Lost MC
@@ -46028,7 +46028,7 @@
 	MGFS_11 = Earn Your Wings
 	MGSR_1 = East Coast
 	MGSR_2 = North East Coast
-	MGSR_3 = Raton Canyon
+	MGSR_3 = เรตันแคนยอน
 	MGSR_4 = Los Santos
 	MGTNS_U = ไมเคิล you bought that court but never use it. My grip and ball control has def improved. Coach is V hard on me. xx
 	MGTNS_U2 = Too soon to bring up tennis? Assume I'm not getting another coach any time soon so need someone to play with. Worried my grip is getting loose. xx
@@ -46657,20 +46657,20 @@
 	MP_PROP_42DES = Your split personality will be right at home in this retro-slash-ultramodern apartment building on ทางหลวงเดลแปร์โร Go mad in style. Includes 10-car garage.
 	MP_PROP_43 = Tinsel Towers, อพาร์ทเมนท์ 29
 	MP_PROP_43DES = Parquet flooring, granite countertops, floating fireplace, bland modern art, walk-in closet, towel warmers, leather headboard, man cave...this luxury condo in Tinsel Towers on ทางหลวงเดลแปร์โร checks all the boxes on the new-money millionaire ticklist.~n~Includes 10-car garage.
-	MP_PROP_44 = 142 Paleto Blvd
-	MP_PROP_44DES = 2-Car Garage - Annexed to a gas station and within easy distance of a number of cheap motels, this garage on Paleto Blvd in Paleto Bay has all you need for the perfect escape from the city.
+	MP_PROP_44 = 142 ทางหลวงปาเลโต
+	MP_PROP_44DES = 2-Car Garage - Annexed to a gas station and within easy distance of a number of cheap motels, this garage on ทางหลวงปาเลโต in ปาเลโตเบย์ has all you need for the perfect escape from the city.
 	MP_PROP_45 = 1 ถนนสตรอเบอรี่
-	MP_PROP_45DES = 2-Car Garage - This garage near Paleto Blvd in Paleto Bay has seen better days but there's a barber's, a tattoo parlor and a Cluckin' Bell factory on your doorstep...so what more do you need?
-	MP_PROP_46 = 1932 ถนนเกรซซีด
-	MP_PROP_46DES = 2-Car Garage - The town of Grapeseed offer a unique blend of heavy industry and genetically-modified farming that explains why everyone born there in the last 20 years looks so funny. This small garage on ถนนเกรซซีด needs some TLC but is priced to sell.
+	MP_PROP_45DES = 2-Car Garage - This garage near ทางหลวงปาเลโต in ปาเลโตเบย์ has seen better days but there's a barber's, a tattoo parlor and a Cluckin' Bell factory on your doorstep...so what more do you need?
+	MP_PROP_46 = 1932 ถนนเกรปซีด
+	MP_PROP_46DES = 2-Car Garage - The town of เกรปซีด offer a unique blend of heavy industry and genetically-modified farming that explains why everyone born there in the last 20 years looks so funny. This small garage on ถนนเกรปซีด needs some TLC but is priced to sell.
 	MP_PROP_48 = 1920 ถนนเซโนรา
 	MP_PROP_48DES = 2-Car Garage - This garage is situated on the site of Ron Alternates on N. ถนนเซโนรา. What better way to feel better about your carbon footprint than by storing your gas-guzzlers inside a wind farm?
-	MP_PROP_49 = 2000 Great Ocean Highway
-	MP_PROP_49DES = 2-Car Garage - Across from the beach, ocean views, steps from a delicious seafood restaurant, this property on Great Ocean Highway in North Chumash is in an unbeatable location! The catch? It's a garage...
+	MP_PROP_49 = 2000 ทางหลวงกรีทโอเชี่ยน
+	MP_PROP_49DES = 2-Car Garage - Across from the beach, ocean views, steps from a delicious seafood restaurant, this property on ทางหลวงกรีทโอเชี่ยน in นอร์ทชูมาช is in an unbeatable location! The catch? It's a garage...
 	MP_PROP_50 = 197 ถนนเร้าท์ 68
 	MP_PROP_50DES = 2-Car Garage - Small one-door garage for sale on ถนนเร้าท์ 68 on Harmony. With a rundown general store, a local arm-wrestling haunt and a seedy motel all nearby, park up and live the dream!
 	MP_PROP_51 = 870 ถนนเร้าท์ 68 แอพโพรช
-	MP_PROP_51DES = 6-Car Garage - Garage in need of some TLC for sale on ถนนเซโนร่า in the Grand Senora Desert. Nothing of great note in the surrounding area. It's a garage. In a desert.
+	MP_PROP_51DES = 6-Car Garage - Garage in need of some TLC for sale on ถนนเซโนร่า in the ทะเลทรายแกรนด์เซโนร่า Nothing of great note in the surrounding area. It's a garage. In a desert.
 	MP_PROP_52 = 1200 ถนนเร้าท์ 68
 	MP_PROP_52DES = 2-Car Garage - Steps from a liquor store, a Dollar Pills pharmacy, a ร้านเสื้อผ้าชานเมือง store, and an Animal Ark pet store, this garage on ถนนเร้าท์ 68 in Harmony is a hipster's dream. Booze, cigarettes, faux-vintage clothing and organic dog food in one!
 	MP_PROP_57 = 8754 ถนนเร้าท์ 68
@@ -46708,13 +46708,13 @@
 	MP_PROP_74 = 4584 ถนนโปรโคปิโอ
 	MP_PROP_74DES = Part of The Independence Day Special. Check out the water feature in the front yard! This is coastal, provincial living at its very finest. Worried about shade? Want easy access to groceries? How about two for the price of one? This house backs right onto the supermarket, blocking out all natural light. Includes 6-car garage.
 	MP_PROP_75 = 4401 ถนนโปรโคปิโอ
-	MP_PROP_75DES = Part of The Independence Day Special. Stunning views of rapidly rising sea levels! And talk about amenities! This Paleto Bay beauty is walking distance to a dive bar, hospital, funeral home, crematorium and gun store, so you can go out on the town secure in the knowledge that you're covered for every eventuality. Includes 6-car garage.
-	MP_PROP_76 = 0232 Paleto Blvd
-	MP_PROP_76DES = Part of The Independence Day Special. Fall asleep to the sounds of the ocean and bums dumpster-diving in the parking lot. This cute-as-a-button property is centrally located on Paleto Bay's main street, a short walk from the coast and next door to the local supermarket. Includes 2-car garage.
+	MP_PROP_75DES = Part of The Independence Day Special. Stunning views of rapidly rising sea levels! And talk about amenities! This ปาเลโตเบย์ beauty is walking distance to a dive bar, hospital, funeral home, crematorium and gun store, so you can go out on the town secure in the knowledge that you're covered for every eventuality. Includes 6-car garage.
+	MP_PROP_76 = 0232 ทางหลวงปาเลโต
+	MP_PROP_76DES = Part of The Independence Day Special. Fall asleep to the sounds of the ocean and bums dumpster-diving in the parking lot. This cute-as-a-button property is centrally located on ปาเลโตเบย์'s main street, a short walk from the coast and next door to the local supermarket. Includes 2-car garage.
 	MP_PROP_77 = 140 ถนนแซนคูโด
 	MP_PROP_77DES = Part of The Independence Day Special. Beggars CAN be choosers! Waterfront living at a bargain price! Steps away from both a Chinese restaurant and a tattoo parlor, this ชายฝั่งแซนดี location offers no shortage of late-night decisions you'll regret in the morning. Includes 2-car garage.
-	MP_PROP_78 = 1893 ถนนเกรซซีด
-	MP_PROP_78DES = Part of The Independence Day Special. Location, location, location! Across from a feed store, minimart and discount clothes emporium, this house is right in the heart of the action on Grapeseed's main drag. Living on the cutting edge of rural retail! Includes 2-car garage.
+	MP_PROP_78 = 1893 ถนนเกรปซีด
+	MP_PROP_78DES = Part of The Independence Day Special. Location, location, location! Across from a feed store, minimart and discount clothes emporium, this house is right in the heart of the action on เกรปซีด's main drag. Living on the cutting edge of rural retail! Includes 2-car garage.
 	MP_PROP_79 = Eclipse Towers, Penthouse Suite 1
 	MP_PROP_79DES = Is the 1% starting to feel a little crowded? Are you tired of single-digit millionaires cluttering up your elevator and groping your bellboy? Do you need a new way of expressing your bottomless contempt for your fellow man? Look no further: this lavish penthouse suite at the best address in town is expensive enough to keep the riff raff at bay until at least the next federal bailout. Access to our same-day redecorating service included as standard. Part of Executives and Other Criminals.
 	MP_PROP_80 = Eclipse Towers, Penthouse Suite 2
@@ -46834,8 +46834,8 @@
 	MP_STRIP_IN2 = ~a~ got tired of waiting and will no longer be coming over to your Apartment.
 	MP_STRIP_IN4 = ~a~ will arrive at your Apartment shortly.
 	MRSP_01_HELP = Find a van with the Deludamol pharmaceuticals logo.
-	MTCHIL = Mount Chiliad
-	MTGORDO = Mount Gordo
+	MTCHIL = ภูเขาชิลเลียด
+	MTGORDO = ภูเขากอร์โด
 	MTJOSE = Mount Josiah
 	MTL = MTL
 	MTPHPERCHE = Cheats
@@ -46922,7 +46922,7 @@
 	M_TRV4 = Hang Ten
 	NAGASAKI = Nagasaki
 	NAUTICAL_BLUE = Nautical น้ำเงิน
-	NCHU = North Chumash
+	NCHU = นอร์ทชูมาช
 	NDESCRIPT = No description
 	NEMESIS = Nemesis
 	NEWS_NUM_STORIES = Story ~1~ of ~1~
@@ -47237,8 +47237,8 @@
 	O_FMM_S9 = The Worker
 	PACKER = Packer
 	PALCOV = Paleto Cove
-	PALETO = Paleto Bay
-	PALFOR = Paleto Forest
+	PALETO = ปาเลโตเบย์
+	PALFOR = ป่าปาเลโต
 	PALHIGH = ปาโลมิโนไฮแลนด์
 	PALMPOW = Palmer-Taylor Power Station
 	PAP3A_TXT1 = WTF is that? Get a decent pic.
@@ -49738,7 +49738,7 @@
 	REW_LSB = Los Santos Belle V Neck
 	REW_REDSK = แดง Skull V Neck
 	REW_RS = Rockstar V Neck
-	RE_BUR_MIS = It's Antonia Bottino, you saved my life out at Paleto Bay. My father wanted to thank you – he's wiring some cash to your account now.
+	RE_BUR_MIS = It's Antonia Bottino, you saved my life out at ปาเลโตเบย์ My father wanted to thank you – he's wiring some cash to your account now.
 	RE_FLASHBLIP = Flashing blue and red blips indicate situations around ซานแอนเดรส that you can choose to help with.
 	RE_HANDOVER = If you retrieve a stolen item, you can choose to keep it or return it for a reward.
 	RE_REWARD = Some เหตุการณ์สุ่ม will reward the player with stat boosts or money.
@@ -49809,7 +49809,7 @@
 	SANAND = ซานแอนเดรส
 	SANCHEZ = Sanchez
 	SANCHEZ2 = Sanchez (Livery)
-	SANCHIA = San Chianski Mountain ระยะยิง
+	SANCHIA = เทือกเขาซานเชียนสกี
 	SANDKIN2 = Sandking SWB
 	SANDKING = Sandking XL
 	SANDY = ชายฝั่งแซนดี
@@ -50317,7 +50317,7 @@
 	SELF_T2 = Proud finger
 	SELF_T3 = Throat slit
 	SEMINOLE = Seminole
-	SENORA = Senora Fwy
+	SENORA = ทางด่วนเซโนร่า
 	SENTINEL = Sentinel XS
 	SENTINEL2 = Sentinel
 	SERRANO = Serrano
@@ -50753,7 +50753,7 @@
 	SURGE = Surge
 	SV_DOORHELP1 = When attacking a Security Van damage the center of the rear doors to open them.
 	SV_DOORHELP2 = Alternatively, attach a sticky bomb to the rear doors of the van and detonate it to blow them open.
-	SV_VANHELP1 = If you blow off the doors or destroy a security truck, you will be able to get to the cash inside.
+	SV_VANHELP1 = หากคุณระเบิดประตูหรือทำลายรถขนเงินคุณจะสามารถเอาเงินสดข้างในได้
 	SWAN_DIVE_HELP = Press ~INPUT_JUMP~ to dive for the line.
 	SWAPDISC1 = Grand Theft Auto V requires a one-time 8GB installation on an Xbox 360 Hard Drive or Xbox 360-formatted USB 2.0 Flash Drive.~n~~n~Please insert disc 1 to install.
 	SWAPDISC1_CORRUPT = Game data is corrupt or missing. Please insert disc 1 to re-install affected files.
@@ -53108,18 +53108,18 @@
 	YACHT_INIT_HELP0 = You are approaching your personal Yacht. This will appear in the ocean surrounding Los Santos and Blaine County whenever you are in Freemode.
 	YACHT_INIT_HELP1 = Sea vehicles at the rear dock are ready for your use at any time, along with a chopper on the helipad.
 	YACHT_INIT_HELP2 = Enter the Yacht using the doors on the lower deck to use it as a floating Apartment. Sleep, relax and entertain here at will.
-	YACHT_LOC_0 = North Chumash
-	YACHT_LOC_1 = Lago Zancudo
+	YACHT_LOC_0 = นอร์ทชูมาช
+	YACHT_LOC_1 = ทะเลสาบแซนคูโด้
 	YACHT_LOC_2 = แปซิฟิกบลัฟ
 	YACHT_LOC_3 = ชายหาดเวสปุชชี
 	YACHT_LOC_4 = สนามบินนานาชาติลอสซานโตส
 	YACHT_LOC_5 = เทอร์มินอล
 	YACHT_LOC_6 = ปาโลมิโนไฮแลนด์
 	YACHT_LOC_7 = เทือกเขาทาทาเวียม
-	YACHT_LOC_8 = San Chianski Mountain ระยะยิง
-	YACHT_LOC_9 = Mount Gordo
+	YACHT_LOC_8 = เทือกเขาซานเชียนสกี
+	YACHT_LOC_9 = ภูเขากอร์โด
 	YACHT_LOC_10 = Procopio Beach
-	YACHT_LOC_11 = Paleto Bay
+	YACHT_LOC_11 = ปาเลโตเบย์
 	YACHT_MOVE = Press ~INPUT_CONTEXT~ to move your Yacht for a fee.
 	YACHT_MOVE_BLK = The Yacht Bridge is currently unavailable.
 	YACHT_MOVE_CONF = Are you sure you want to move your Yacht to ~a~?
@@ -53136,7 +53136,7 @@
 	YT_UPLOAD_UPLOADED = Uploaded
 	YT_YOUTUBE = YouTube
 	ZANCUDO = Zancudo River
-	ZENORA = Senora Freeway
+	ZENORA = ทางด่วนเซโนร่า
 	ZION = Zion
 	ZION2 = Zion Cabrio
 	ZIRCONIU = Zirconium

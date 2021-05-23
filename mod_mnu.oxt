@@ -620,8 +620,8 @@
 	CMOD_MOD_TRIM1T = การออกแบบตัดแต่ง
 	CMOD_MOD_TRIM2 = ตัดสี
 	CMOD_MOD_TRIM2T = ตัดสี
-	CMOD_MOD_TRIM3 = เน้นสี
-	CMOD_MOD_TRIM3T = เน้นสี
+	CMOD_MOD_TRIM3 = สีภายใน
+	CMOD_MOD_TRIM3T = สีภายใน
 	CMOD_MOD_TRN = ระบบเกียร์
 	CMOD_MOD_TUR = เทอร์โบ
 	CMOD_MOD_TYR = ยางรถ
