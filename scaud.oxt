@@ -113,7 +113,7 @@
 	0x2CF1A40C = SCLUB_FJAA
 	0x2D7DCE2E = ~z~Sometimes I miss the sunlight.
 	0x2D7EF895 = 100
-	0x2D4191CC = ~z~Come on, baby! Hurry!
+	0x2D4191CC = ~z~มาเลยที่รัก! เร็วเข้า!
 	0x2E0B27A5 = 100
 	0x2E9AD18C = 100
 	0x2EB3D278 = SCLUB_FNAA
@@ -181,7 +181,7 @@
 	0x4FAE894F = ~z~You came to a strip club with no money?
 	0x4FB8861E = SCLUB_GIAA
 	0x5A6F460F = ~z~You wanna jump in and show your girl how it's done?
-	0x5A6FF0AF = ~z~Come on, follow my sweet ass.
+	0x5A6FF0AF = ~z~ตามมาเลย ที่รักของฉัน
 	0x5A98CA87 = 1100000
 	0x5A6608C8 = 100
 	0x5AA02BC5 = ~z~You gotta have a J-O-B to party with ME.
@@ -207,7 +207,7 @@
 	0x5F3E03B8 = ~z~My friend, you need a girl to escort you there.
 	0x5F53C536 = 100
 	0x5F63804B = ~z~Wanna a dance in the back mikey?
-	0x5FC35145 = ~z~Hey, come on, put that away!
+	0x5FC35145 = ~z~เฮ้ เอามันออกไป!
 	0x5FE6A33B = SCLUB_BEAA
 	0x5FE84479 = 1100000
 	0x6A49C301 = ~z~I think you and her could be the beginning of a beautiful partnership.
@@ -224,7 +224,7 @@
 	0x6C5F44F8 = 1100000
 	0x6C56D973 = 1100000
 	0x6C211330 = ~z~I'll check with you later.
-	0x6CB71D58 = ~z~Come on baby don't be scared. I'm not as desperate as I look.
+	0x6CB71D58 = ~z~มาเถอะที่รักไม่ต้องกลัว ฉันไม่ได้หมดหวังอย่างนั้นนะ
 	0x6CB87301 = ~z~You broke-ass idiot!
 	0x6CD597DD = ~z~Just one more dance? You know you want it.
 	0x6CD727BB = 100
@@ -353,7 +353,7 @@
 	0x12B2E9AC = ~z~Fine!
 	0x14BB0435 = 100
 	0x14E250EE = ~z~Treeev! Let's party dude, cmon...
-	0x16ACAD38 = ~z~No touching, that's the reglas.
+	0x16ACAD38 = ~z~ห้ามสัมผัสนั่นนั่นคือกฏเว้ย
 	0x16B6831B = ~z~Got to pay to play babe! Another time maybe.
 	0x16BE9231 = 100
 	0x16FB4401 = 1100000
@@ -553,7 +553,7 @@
 	0x478BDF82 = ~z~I feel like you're hogging me a little, let's open this up to the others.
 	0x482F4CCD = ~z~I missed you, Franklin. Let's party in private.
 	0x483EFC88 = ~z~I want some alone time with my VIP. What do you say Mikey?
-	0x487DF5C5 = ~z~Follow me please?
+	0x487DF5C5 = ~z~งั้นตามฉันมาเลย
 	0x487EBFD6 = 100
 	0x492CE7AB = 100
 	0x507A4230 = 100
@@ -621,7 +621,7 @@
 	0x2246A7EB = ~z~Is this what's gonna happen to me in my forties?
 	0x2269CAB1 = 100
 	0x2310E6DF = ~z~You want another?
-	0x2494ACCF = ~z~Follow me, honey.
+	0x2494ACCF = ~z~ตามฉันมาที่รัก
 	0x2593BC54 = 200
 	0x2756EA19 = ~z~Can't do it now. Maybe later if you're good.
 	0x2757B021 = ~z~OK, you're missing out though.
@@ -669,7 +669,7 @@
 	0x8008F3E9 = 100
 	0x8105E758 = SCLUB_GJAA
 	0x8125CEF4 = 1100000
-	0x8172E7AE = ~z~Right this way, sir.
+	0x8172E7AE = ~z~ทางนี้ท่าน
 	0x8178B495 = 1100000
 	0x8263C0BC = SCLUB_BYAA
 	0x8746B31F = 100
@@ -848,7 +848,7 @@
 	0xB1A4D1B6 = ~z~Hey you, get in the back with the fun crowd.
 	0xB1C75ED5 = 1100000
 	0xB1D5777A = ~z~I only do that for the special ones, what you gonna do for me?
-	0xB2B7652F = ~z~No touching, that's the rules.
+	0xB2B7652F = ~z~ไม่มีการแตะต้องตัวนั่นคือกฎ
 	0xB2C8ED93 = 100
 	0xB2C9DF1E = 100
 	0xB2D468BF = ~z~I could use a dance, honey.
@@ -906,7 +906,7 @@
 	0xBC45E430 = 1100000
 	0xBC615D50 = 100
 	0xBC9167D3 = 1100000
-	0xBD4EB9E5 = ~z~You look like you want a private dance.
+	0xBD4EB9E5 = ~z~ดูเหมือนว่าคุณต้องการดูเต้นแบบส่วนตัวนะ
 	0xBD7D9CE6 = SCLUB_BLAA
 	0xBD274093 = ~z~Let's go back to my place, sugar.
 	0xBD513305 = 1100000
@@ -1001,7 +1001,7 @@
 	0xD1C05FDD = ~z~Hey Franklin, take a girl to the back?
 	0xD3B00B93 = ~z~You asshole!
 	0xD3B02445 = ~z~Hey, Franks let's go in the back, baby.
-	0xD5B89442 = ~z~A'ight, let's see what you're workin' with.
+	0xD5B89442 = ~z~เอาล่ะ มาดูกันว่าเธอกำลังทำอะไรอยู่
 	0xD5CE1408 = ~z~Settle down boss!
 	0xD5E38794 = 100
 	0xD6C04825 = 100
@@ -1091,7 +1091,7 @@
 	0xE19726D9 = SCLUB_DEAA
 	0xE45813B0 = 400
 	0xE47910D4 = ~z~You can't do that moron!
-	0xE49631FD = ~z~Come on, show me what you got.
+	0xE49631FD = ~z~ไหนมาแสดงให้ฉันดูหน่อย ว่าเธอมีดีอะไร
 	0xE55666A7 = SCLUB_AIAA
 	0xE95996FA = ~z~Whatever!
 	0xE360480C = ~z~Come with me babe.
@@ -1168,7 +1168,7 @@
 	0xF8062704 = 1100000
 	0xFA0FA7C9 = SCLUB_CYAA
 	0xFA5F06E2 = 1100000
-	0xFA3094B9 = ~z~Come on, this way, don't be shy.
+	0xFA3094B9 = ~z~มาทางนี้ไม่ต้องอายใครหรอก
 	0xFA82760F = ~z~Hey you want a private dance?
 	0xFAA72D4B = 100
 	0xFAC8F5E0 = 090
