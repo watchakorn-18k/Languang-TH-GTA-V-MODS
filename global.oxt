@@ -110,7 +110,7 @@
 	0x00B94EF8 = ~a~ ~a~ (Impounded)
 	0x00B892A7 = <C>~a~</C> was removed from ~a~~s~ as an Associate for causing trouble.
 	0x00B6937A = Notorious criminal ~a~, described by many as a '~a~' is a danger to the community. Police urge citizens to come forward with information of their whereabouts.
-	0x00B75879 = Exit the Office.
+	0x00B75879 = ออก the Office.
 	0x00BB4CC6 = Select game mode.
 	0x00BDD8D3 = You can also open the rear doors by shooting at the center of them to break the lock.
 	0x00BE5087 = Join a public session to access Vehicle Cargo missions.
@@ -372,7 +372,7 @@
 	0x02A2DDBC = Press ~INPUT_CONTEXT~ to leave the Parking Garage.
 	0x02A3D0F9 = Are you sure you want to quit the finale?
 	0x02A4BED5 = NIGHTMARE TOPS
-	0x02A7D4A4 = Exit Type
+	0x02A7D4A4 = ออก Type
 	0x02A9DEBF = Change into a ~HUD_COLOUR_GREEN~valet outfit.~s~
 	0x02A28CE1 = Capture 4
 	0x02A57BBF = Follow the storm drain north to the sewer entrance ~HUD_COLOUR_YELLOW~~BLIP_OBJECTIVE~~s~.
@@ -1019,8 +1019,8 @@
 	0x06F262B4 = Race
 	0x06F86311 = Players in session
 	0x06FB809F = Weed production has started
-	0x06FD0DFB = Exit
-	0x06FD4589 = Exit the Parking Garage.
+	0x06FD0DFB = ออก
+	0x06FD4589 = ออก the Parking Garage.
 	0x06FEC4D4 = All Pistols
 	0x06FF1877 = Power Station
 	0x0700268F = Vapid Monster
@@ -1104,7 +1104,7 @@
 	0x07A4B01F = Participate in the Featured Series.
 	0x07A7DFFA = You already have an active Special/Personal Vehicle or Anti-Aircraft Trailer.
 	0x07A12C78 = ~s~Collect the nearby crate ~HUD_COLOUR_GREEN~~BLIP_RAMPAGE~ ~s~to equip the Ballistic Armor and ปืนมินิกัน.
-	0x07A94E0E = Exit the Bunker
+	0x07A94E0E = ออก the Bunker
 	0x07A7334A = Well done for getting me all those vehicles, I've got a new list of vehicles I want:
 	0x07A8992D = Armored Boxville
 	0x07A48478 = Inspiration From Beyond The Stars
@@ -1126,7 +1126,7 @@
 	0x07BAC36D = Friday
 	0x07BAFB53 = Max Renda sponsoring child pageant.
 	0x07BBA197 = ~HUD_COLOUR_FREEMODE~Award: ~a~ ~a~
-	0x07C00C4C = Exit
+	0x07C00C4C = ออก
 	0x07C9A990 = Good Boy in Crimson
 	0x07C9AC12 = ไม่มี
 	0x07C25CBB = เมอร์เรียตาไฮส์
@@ -1207,7 +1207,7 @@
 	0x084A1526 = Madam Nazar
 	0x084C0841 = You destroyed Vehicle Cargo.
 	0x084E4D87 = Pink Orchid
-	0x084EA974 = Exit Vehicle
+	0x084EA974 = ออก Vehicle
 	0x084F046A = You can't trade your Penthouse whilst it holds stock.
 	0x08509DAB = Silent & Sneaky
 	0x085173E4 = The Recruit
@@ -1299,7 +1299,7 @@
 	0x08FE0342 = Destroy all of the armor shipments in order to ensure that El Rubio's guards are not equipped with body armor during The Cayo Perico Heist.
 	0x08FE5DB6 = You scoped out the vault blueprints.
 	0x08FE7EF1 = Are you sure you want to sell your goods from this business?
-	0x08FE6446 = All Exit to the Penthouse Garage
+	0x08FE6446 = All ออก to the Penthouse Garage
 	0x08FE9476 = Stage 4
 	0x090052B1 = @matthewmarknukeandbomb todays life lesson never tell a pregnant woman shes overreacting especially when shes a เจ้าหน้าที่ทัณฑ์บน
 	0x0900C7FD = Keyboard Light Effects
@@ -1576,7 +1576,7 @@
 	0x0B030624 = Two-Tone Skate Shoes
 	0x0B041EA4 = Sniper
 	0x0B046DE0 = Press ~a~ to browse pants & shoes.
-	0x0B04A884 = Exit the Penthouse Garage.
+	0x0B04A884 = ออก the Penthouse Garage.
 	0x0B06B348 = Complete Act II of The Doomsday Heist for the first time.
 	0x0B08808F = Won: ~1~
 	0x0B0A8EFA = KARL ABOLAJI
@@ -1642,7 +1642,7 @@
 	0x0B494ABB = ม่วง Tint Wraparounds
 	0x0B509E8F = Lieutenant
 	0x0B537E19 = Suspicious package spotted in the ~a~ area. Suspect ~a~ is thought to have taken the contents. Police want to track them down in relation to this.
-	0x0B575E1F = Exit Penthouse Garage
+	0x0B575E1F = ออก Penthouse Garage
 	0x0B836FF9 = Supporting Role II
 	0x0B937CBA = Complete the Barrage Setup mission in The Doomsday Heist as the Heist leader to unlock the Trade Price for this vehicle.
 	0x0B1126F2 = If you fall too far behind, hold ~INPUT_VEH_EXIT~ to manually respawn nearer to the Runner.
@@ -1903,7 +1903,7 @@
 	0x0D9E0F32 = Your Survival
 	0x0D9FB661 = Participate in Relay.
 	0x0D20B8A4 = Vapid Slamvan Light Armor
-	0x0D22E300 = Access the touch screen computer inside the Mobile Operations Center to launch a mission for Agent 14.
+	0x0D22E300 = Access the touch screen computer inside the Mobile Operations Center to launch a mission for ตัวแทน 14
 	0x0D25FED1 = The Accommodation expansion provides a place to rest, allowing players to use the Office as a spawn location when entering session.
 	0x0D37C500 = Taxi - I Know the Way
 	0x0D39B563 = Are you sure you would like to assign all staff to Research?
@@ -1925,7 +1925,7 @@
 	0x0D4515F4 = No one's watching, now's your chance!
 	0x0D4534AD = Special Bonds
 	0x0D5874B0 = Bleeter could be in trouble if Wine service of 7 second stupid video messages catches on.
-	0x0D8232FA = Exit the Nerve Center
+	0x0D8232FA = ออก the Nerve Center
 	0x0D21336A = Stabbed
 	0x0D28102B = Kosatka
 	0x0D69131F = Gang Mexicans
@@ -2224,7 +2224,7 @@
 	0x0F3879EC = Ok. You're almost on em. When you get close fly low and drop a bomb - give them a hell of a surprise!
 	0x0F3989FD = RC Car
 	0x0F5734A7 = Stunt Race
-	0x0F6575D5 = Exit the Office
+	0x0F6575D5 = ออก the Office
 	0x0F6994EA = Cornrows Blond
 	0x0F9277E4 = Halloween Adversary Mode and associated invite now available.
 	0x0F9278E7 = You're really racking them up today!  I'd say you earned yourself $~1~ for that.
@@ -2263,7 +2263,7 @@
 	0x0FC9F623 = Western MC แดง Helmet
 	0x0FC34EF1 = Motorcycle Club
 	0x0FC94617 = Enter the ~a~.
-	0x0FCA8DA9 = Exit Penthouse
+	0x0FCA8DA9 = ออก Penthouse
 	0x0FCA840B = Target C
 	0x0FCAEBD2 = Track Star
 	0x0FCB5F89 = The Watcher
@@ -2366,7 +2366,7 @@
 	0x1A62475A = BAWSAQ is powered by ~HUD_COLOUR_SOCIAL_CLUB~Rockstar Games Social Club~s~
 	0x1A207955 = You have reached the limit of ~a~ audio tracks used in this project.
 	0x1A239288 = Passive mode is disabled while using the Mobile Operations Center with the Command Center installed.
-	0x1A375545 = Exit Parking Garage
+	0x1A375545 = ออก Parking Garage
 	0x1A401218 = Complete a Gang Attack
 	0x1A667006 = An online transaction was recently processed for your account. ~nrt~~n~Your account has been credited by bank MBEZ. Follow the link to view your latest statement.~nrt~~b~<u>www.fleeca.com</u>~s~
 	0x1AA1D4BA = Complete The Doomsday Heist in order with the same team of 4 players.
@@ -2498,7 +2498,7 @@
 	0x1B99F7E1 = Destroy the nearby rival Nightclub vehicle ~HUD_COLOUR_RED~~BLIP_BAT_RIVAL_CLUB~~s~ to earn cash, RP and increase the popularity of ~a~.
 	0x1B146C58 = eCola Infectious Tee
 	0x1B175C95 = 10 percent off your next purchase at ElitasTravel.com.
-	0x1B250DB4 = Exit the Garage
+	0x1B250DB4 = ออก the Garage
 	0x1B356FB8 = Copper Hoop Earrings
 	0x1B488F90 = 'Marlowe' T-shirt
 	0x1B524B78 = Humane Labs and Research
@@ -2591,7 +2591,7 @@
 	0x1BFCCA9E = Baby น้ำเงิน Chinos
 	0x1C0346C2 = Master Control เทอร์มินอล
 	0x1C0893F8 = basement
-	0x1C08F1D0 = All Exit Hangar
+	0x1C08F1D0 = All ออก Hangar
 	0x1C0E8509 = the ~HUD_COLOUR_BLUE~Massacro.
 	0x1C0F7A80 = ย่านธนาคารแมซ
 	0x1C0F41A8 = น้ำเงิน Canvas Hat
@@ -2607,7 +2607,7 @@
 	0x1C4CE435 = Order
 	0x1C4E3A52 = A player will automatically win if they manage to draw seven cards without going bust.
 	0x1C4E6ABC = ไม่
-	0x1C4FA7F0 = Complete the Exit Strategy Mobile Operation mission as a VIP, CEO or MC President to unlock the Trade Price for this vehicle.
+	0x1C4FA7F0 = Complete the ออก Strategy Mobile Operation mission as a VIP, CEO or MC President to unlock the Trade Price for this vehicle.
 	0x1C5B28C5 = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_88/IE_TEXTVECH_88' vspace='0' width='252' height='150'/> ~nrt~
 	0x1C6AAC59 = You are viewing the IAA turret camera. ~n~Use ~INPUT_SNIPER_ZOOM~ to zoom in/out. ~n~Press ~INPUT_ATTACK~ to fire the cannon. ~n~Hold ~INPUT_AIM~ to fire the machine gun. ~n~Press ~INPUT_FRONTEND_CANCEL~ to go back.
 	0x1C6F3A1B = ~1~ว ~1~ช ~1~น ~1~วิ
@@ -2996,7 +2996,7 @@
 	0x1EF8BEEC = Cluckin' Bell Filled Logo Tee
 	0x1EF9CB4D = ทางด่วนกรีนิช
 	0x1EF9F213 = Deliver the ~a~ to the ~HUD_COLOUR_YELLOW~Facility.
-	0x1EF13BD6 = All Exit Avenger
+	0x1EF13BD6 = All ออก Avenger
 	0x1EF99E0E = MESS
 	0x1EF124D0 = Outrider has started. Deliver the contacts ~HUD_COLOUR_BLUE~~BLIP_VIP~~s~ to the drop-off to earn cash and RP.
 	0x1EFA9658 = Dance to Palms Trax set in The Music Locker for 30 minutes.
@@ -3187,7 +3187,7 @@
 	0x2A18A143 = Declasse Future Shock Impaler Livery set
 	0x2A18D991 = Retro Sports Car
 	0x2A24B1C3 = Select the WWFM playlist.
-	0x2A31A06F = Access the touchscreen terminal ~BLIP_LAPTOP~ to view and launch available Mobile Operations for Agent 14.
+	0x2A31A06F = Access the touchscreen terminal ~BLIP_LAPTOP~ to view and launch available Mobile Operations for ตัวแทน 14
 	0x2A31AAFB = Quick. Quick, you need to get to the warehouse. The same cops we've been paying off are about to try and steal all your product. You need to stop them now!
 	0x2A36B6FC = The Mammoth Squaddie is now available on warstock-cache-and-carry.com.
 	0x2A46EBD8 = @wesleyontoast Just watched my wedding video. Never realized I touch myself so much. Kinda weird. Why has nobody pointed this out to me?
@@ -3274,7 +3274,7 @@
 	0x2ADCF5AC = You cannot set the style of this hood.
 	0x2ADE37F6 = SUV Wheels Set
 	0x2ADF59BB = Rival CEO and VIP Kills
-	0x2AE00FA2 = Agent 14 will reveal the location of the Supplies after all rival operatives, vehicles and supply crates have been destroyed.
+	0x2AE00FA2 = ตัวแทน 14 will reveal the location of the Supplies after all rival operatives, vehicles and supply crates have been destroyed.
 	0x2AE0DB42 = Firefighter outfits
 	0x2AE798BF = @mandybrocoli You hear about that shootout at the coroners in South LS? Apparently IAA was involved. What's your call - terrorists or zombies?
 	0x2AEA8803 = Target Helicopter
@@ -3640,7 +3640,7 @@
 	0x2D870DDF = the Medical Supplies
 	0x2D954AAE = Outlaws
 	0x2D2932B5 = Dance to Palms Trax set in The Music Locker for 15 minutes.
-	0x2D3139C9 = All Exit Business
+	0x2D3139C9 = All ออก Business
 	0x2D4696EC = Dear contestant,~n~Thank you for your recent photographic submission. Our image licensing department is already maximizing its profit-making potential. And you're a step closer to the grand prize. Keep it up!~n~Here is an updated list of the animals you need to photograph:~a~~a~~a~~a~~a~~a~~a~~a~~a~~a~We look forward to your next submission.
 	0x2D5182FB = Race to the Fleeca on ~HUD_COLOUR_YELLOW~เขตเบอร์ตัน
 	0x2D5614EE = Cycle Turrets Left
@@ -3749,7 +3749,7 @@
 	0x2E7F76AD = Players Required: ~1~
 	0x2E8C9525 = Tula
 	0x2E8E77B7 = Custom Roof 4
-	0x2E8FA30B = It's possible Avon's guys might arrive by boat to buy Agent 14. You'll need to keep an eye on the water.
+	0x2E8FA30B = It's possible Avon's guys might arrive by boat to buy ตัวแทน 14 You'll need to keep an eye on the water.
 	0x2E9EA22F = Trailer Radio
 	0x2E9FDEF5 = This game uses four standard 52-card decks, which are shuffled at the start of every hand.
 	0x2E10A8A3 = Nightclub
@@ -3800,7 +3800,7 @@
 	0x2EA09461 = ~INPUTGROUP_FRONTEND_DPAD_LR~ Dance style: ~a~~n~~INPUTGROUP_MOVE~ Rotate~n~~INPUT_SCRIPT_RB~+~INPUTGROUP_LOOK~ Dance moves~n~~INPUT_SCRIPT_RUP~ Toggle lock: ~a~~n~~INPUT_SCRIPT_RLEFT~ Hide controls
 	0x2EA0E6AB = Retrieving messages...
 	0x2EA8C638 = You can't renovate your Nightclub whilst players are playing "Don't Cross The Line".
-	0x2EA31B46 = Exit the ~HUD_COLOUR_YELLOW~distribution center.~s~
+	0x2EA31B46 = ออก the ~HUD_COLOUR_YELLOW~distribution center.~s~
 	0x2EA6556C = Purchase Phantom Wedge from warstock-cache-and-carry.com to unlock this VIP Work.
 	0x2EAAE917 = You cannot store this vehicle in your Mobile Operations Center. The vehicle in the Mobile Operations Center cannot be moved to your Clubhouse.
 	0x2EAAFC8E = Last Month
@@ -3992,7 +3992,7 @@
 	0x2FD09301 = The alarms have been triggered. You have less time to loot before the nerve agent is released.
 	0x2FD2C1CE = Launch Trackify from the bottom right of the phone app menu.
 	0x2FD4E4A9 = Criminal Pimping
-	0x2FD5A8F3 = Exit the Penthouse.
+	0x2FD5A8F3 = ออก the Penthouse.
 	0x2FD9D43D = Valley Trail
 	0x2FD30B54 = Taxi Jobs
 	0x2FD791B7 = Play a Team Deathmatch
@@ -4260,7 +4260,7 @@
 	0x3B143287 = Automated Response – Wild Amateur Pics
 	0x3B157090 = ~BLIP_INFO_ICON~ Attracting a lot of heat from the Cops? Stolen vehicles get their attention. Take them to a mod shop!
 	0x3B177690 = Sell Cargo
-	0x3B309930 = Choose your planned Entrance and Exit carefully. Each route you select has its pros and cons. The fastest and more obvious routes might not be the easiest or the quietest.
+	0x3B309930 = Choose your planned Entrance and ออก carefully. Each route you select has its pros and cons. The fastest and more obvious routes might not be the easiest or the quietest.
 	0x3B335688 = MK II ปืนเอสเอ็มจี LOADOUT
 	0x3B579930 = Your ช่องเก็บของ is full.
 	0x3B601201 = Press ~INPUT_CONTEXT~ to buzz Office.
@@ -4326,7 +4326,7 @@
 	0x3C02122B = I'm happily married to an amazing woman with 3 beautiful children. On the flip side, I think I might be gay. Every time I have sex with my wife I think about จิมมี่ in accounting. I'd like to get together with anyone out there who is interested in broadening his sexual horizons or his backside, let's get in touch. Receivers only. No hairy backs.
 	0x3C049B24 = You are currently a Loser. If you are on this team when the timer runs out you will lose.
 	0x3C050309 = Brute refutes bribery claims, donates to animal shelter.
-	0x3C058B45 = All Exit
+	0x3C058B45 = All ออก
 	0x3C0671AA = Lose the cops before delivering the Heist Prep Equipment.
 	0x3C06EEE2 = Windows
 	0x3C099809 = Transform Series
@@ -4615,7 +4615,7 @@
 	0x3DF2E870 = VEHICLE
 	0x3DF3C427 = There is a brief cooldown before you can perform this Quickplay Action again.
 	0x3DF137FC = Passive Mode is not available when you have a Bounty on your head.
-	0x3DF321D8 = Exit the vehicle to deliver the Goods.
+	0x3DF321D8 = ออก the vehicle to deliver the Goods.
 	0x3DF46260 = You won Cashing Out by stealing $~1~
 	0x3DF78061 = Up-n-Atom Hamburgers Tee
 	0x3DFA4576 = Associates allows your Friends, Crew and Organization members into your Nightclub.
@@ -4748,7 +4748,7 @@
 	0x3F061ECF = ปืนเอ็มจีต่อสู้
 	0x3F06AC53 = If you cancel this transfer, you will be able to transfer later via the Online section of the Pause Menu.
 	0x3F073CE4 = แดง Sports Coat
-	0x3F0ADD7C = Exit Business
+	0x3F0ADD7C = ออก Business
 	0x3F0C1090 = downtown
 	0x3F0EBF8A = Reinforced: Compact การต่อสู้
 	0x3F0F2BAE = Trafficking - Ground
@@ -4894,7 +4894,7 @@
 	0x4A0FCA20 = Stage 2 Solution
 	0x4A2E6F2E = Trust is perception, which makes it a lie. Forget about trust.
 	0x4A2FA84D = This bar shows the total reward for the Heist and how much each member receives. The leader has a larger cut by default as they covered the initial setup cost.
-	0x4A2FDAD9 = You cannot capture the area while in a vehicle. Exit the vehicle to begin capturing the area.
+	0x4A2FDAD9 = You cannot capture the area while in a vehicle. ออก the vehicle to begin capturing the area.
 	0x4A3BF4DC = Neither Organization won
 	0x4A3CFD60 = You can't purchase this Nightclub at this time.
 	0x4A3D6FFB = Purchase an Office to unlock this CEO Work.
@@ -4904,7 +4904,7 @@
 	0x4A4C19A5 = Available Parachute Jumps played
 	0x4A4D8B28 = You collected Cargo.
 	0x4A4E5B32 = Select a target in order to observe them.
-	0x4A5A7C09 = Exit the ~HUD_COLOUR_YELLOW~warehouse.~s~
+	0x4A5A7C09 = ออก the ~HUD_COLOUR_YELLOW~warehouse.~s~
 	0x4A5F2198 = Retro Toy Model
 	0x4A6CDC2D = The word "~a~" is a reserved term and cannot be used for exported names.
 	0x4A6DA4D6 = Dance to Keinemusik's set at the Cayo Perico beach party for 60 minutes.
@@ -5130,7 +5130,7 @@
 	0x4BBC215E = Destroy the ~a~ ~s~and recover the อาวุธ.
 	0x4BBF82D6 = Pink Two-Tone Round Toed
 	0x4BC08132 = security intel
-	0x4BC1F284 = ที่ล้างรถ
+	0x4BC1F284 = บริการล้างรถ
 	0x4BC2EE8D = Previous
 	0x4BC9DABB = Push to Talk
 	0x4BC19E1E = Select your facial hair.
@@ -5164,7 +5164,7 @@
 	0x4BEE536E = Steal the ~b~motorcycle.~s~
 	0x4BEF47C2 = False
 	0x4BF0A0A4 = Trading Places Remix Beast 1
-	0x4BF0ADFE = Kosatka Controls:~n~Press ~INPUT_VEH_CIN_CAM~ Fire Torpedoes.~n~Hold ~INPUT_VEH_SUB_ASCEND~ Ascend.~n~Hold ~INPUT_VEH_SUB_DESCEND~ Descend.~n~Press ~INPUT_VEH_EXIT~ Exit.
+	0x4BF0ADFE = Kosatka Controls:~n~Press ~INPUT_VEH_CIN_CAM~ Fire Torpedoes.~n~Hold ~INPUT_VEH_SUB_ASCEND~ Ascend.~n~Hold ~INPUT_VEH_SUB_DESCEND~ Descend.~n~Press ~INPUT_VEH_EXIT~ ออก.
 	0x4BF6EF6C = Fire Truck
 	0x4BF18C1D = Cunning Stunts
 	0x4BF730EE = Photo of Target ~nrt~ <img src='img://MP_SND_TARGET_19/MP_SND_TARGET_19' vspace='0' width='256' height='128'/> ~nrt~
@@ -5317,7 +5317,7 @@
 	0x4D0F2664 = 150 kills
 	0x4D1B41C0 = Please check your game system power save settings to ensure your system will not power off during install. You can check your setting in Settings / Power Saving Settings / Set Time Until PS4 Turns Off. We recommend adjusting this setting to a minimum of one hour while playing the game. You can reset your power save settings after you have finished playing.
 	0x4D2A7650 = Apartment purchased.
-	0x4D2C4418 = In order to purchase this vehicle at the Trade Price, you must fulfill the following criteria:~n~- Own a Bunker.~n~- Own the Mobile Operations Center.~n~- Complete the Exit Strategy Mobile Operation mission.~n~
+	0x4D2C4418 = In order to purchase this vehicle at the Trade Price, you must fulfill the following criteria:~n~- Own a Bunker.~n~- Own the Mobile Operations Center.~n~- Complete the ออก Strategy Mobile Operation mission.~n~
 	0x4D2E2E91 = Retrieve high value antiques being transported in the back of several security vans and deliver them to the client. The cash reward will be split between members of your Organization.
 	0x4D2EF81F = Micro Aggression
 	0x4D2F9E80 = Mocha Mini
@@ -5733,7 +5733,7 @@
 	0x5A2B09F2 = อาวุธ are disabled until you get back on a motorcycle.
 	0x5A2BFD7A = Please try again.
 	0x5A2ECCC5 = The Compressor
-	0x5A2FB274 = Exit via Vehicle
+	0x5A2FB274 = ออก via Vehicle
 	0x5A2FE541 = Inimitable1
 	0x5A3A647B = You must be signed in to the Rockstar Social Club to save photos.
 	0x5A3DCA13 = Aircraft Management Menu
@@ -6213,7 +6213,7 @@
 	0x5D8541C8 = Art & Antiques
 	0x5D8668A1 = Modern
 	0x5D9963AC = Your Bunker is unavailable when being a member of an MC.
-	0x5D73868E = Exit
+	0x5D73868E = ออก
 	0x5D83494F = 1 new style available
 	0x5D85157E = Tan Plaid Tie
 	0x5D306756 = Only if you're on your period.
@@ -6297,7 +6297,7 @@
 	0x5E7FDAC0 = Select a Warehouse
 	0x5E8A501D = ~BLIP_INFO_ICON~ Meet some of the many คนแปลกหน้าและคนประหลาดof Los Santos at ~BLIP_RANDOM_CHARACTER~
 	0x5E8ABBAA = Would you look at that. My problem's disappeared. Thx.
-	0x5E9D5713 = Exit the security cameras or look for additional areas of interest.
+	0x5E9D5713 = ออก the security cameras or look for additional areas of interest.
 	0x5E9E7DA9 = Peach Digital Vent
 	0x5E9ED579 = Hostile Takeover Package
 	0x5E9F08A5 = Hot Rod Blazer
@@ -6355,7 +6355,7 @@
 	0x5E743118 = 14th
 	0x5E753056 = ถนนมาร์โลว์
 	0x5E815472 = Haulage
-	0x5E837276 = All Exit Facility
+	0x5E837276 = All ออก Facility
 	0x5E913006 = 4 new items
 	0x5E961411 = The Action
 	0x5EA2D4C5 = You have ~1~ in the left hand and have ~a~ in the right hand. You win ~1~ Chips!
@@ -6662,7 +6662,7 @@
 	0x6AD810B3 = second
 	0x6AD845E9 = Custom Rear Mudguard
 	0x6AD9591F = Wait for Dixon to exit the ~HUD_COLOUR_YELLOW~ริชแมน Hotel.
-	0x6ADD9CFF = Triple Exit Exhaust
+	0x6ADD9CFF = Triple ออก Exhaust
 	0x6ADD185F = Ain't no money in fowl เทรเวอร์!  $~1~ is the most I can give you.
 	0x6ADD1393 = Media Room
 	0x6ADD6339 = Next Position
@@ -6717,7 +6717,7 @@
 	0x6B3F6292 = You need to be a VIP or Motorcycle Club President to manage this business.~n~Press ~INPUT_SCRIPT_RLEFT~ to start a Motorcycle Club.
 	0x6B4E9E91 = Set yourself as Looking for Work.
 	0x6B5C9AB3 = Weather the new Great Depression with a car from the last Great Depression. When this rolled off the production line in 1937, minorities and women knew their place. It was the world's fastest automobile. Now it's the world's most expensive second-hand automobile. One of only 10 ever made, the Z-Type is a car you can really enjoy sitting in, surrounded by armed guards, too terrified to actually drive it anywhere.
-	0x6B5CC233 = Hunt the Beast will begin shortly. Exit the Office to have a chance of becoming the Beast.
+	0x6B5CC233 = Hunt the Beast will begin shortly. ออก the Office to have a chance of becoming the Beast.
 	0x6B5E5BBB = Criminal Wanted
 	0x6B5EB601 = The Dinghy can be requested again in ~a~
 	0x6B5F6A82 = Peach Digital Snake Skull
@@ -6793,7 +6793,7 @@
 	0x6BAA115A = If you pass through a metal detector in your current disguise you will แจ้งเตือน the guards.
 	0x6BAB1CE6 = we ain't got much of any value yet เทรเวอร์  $~1~ is as high as I can go.
 	0x6BAE39E9 = Use ~INPUT_SCRIPT_RIGHT_AXIS_X~ to rotate the turret.~n~Press ~INPUT_SCRIPT_LB~ to fire.~n~Press ~INPUT_SCRIPT_LS~ to jump.~n~Press ~INPUT_VEH_EXIT~ to exit.
-	0x6BAEC48C = Retry from the beginning?
+	0x6BAEC48C = ลองอีกครั้ง from the beginning?
 	0x6BB04ECB = You Tool
 	0x6BB0D3C8 = Double Barrel Shotgun
 	0x6BB75D0C = Eye in the Sky
@@ -7243,7 +7243,7 @@
 	0x6EDF43C7 = Notorious car thief ~a~ is reportedly involved in illegal street racing. Police suspect they are currently racing in the ~a~ area.
 	0x6EE4F773 = Fort Zancudo
 	0x6EE6E776 = Custom Auto Shop
-	0x6EE13A3C = Exit the Hangar
+	0x6EE13A3C = ออก the Hangar
 	0x6EE78F5D = You do not have access to this VIP lounge. Become a VIP Member by purchasing a Penthouse to gain entry.
 	0x6EE66332 = Collect a ~HUD_COLOUR_BLUE~contact~s~ on a motorcycle.
 	0x6EEC004C = You earned an additional wage payment of $~1~ for helping your CEO sell Special Cargo.
@@ -7422,7 +7422,7 @@
 	0x7A6A6E38 = Next Leaderboard
 	0x7A6F0952 = Are you sure you'd like to rebook ~a~ for $~1~ and make them your resident DJ?
 	0x7A7A99D7 = Freedom Wheels
-	0x7A7C7F83 = Head to the Pacific Allied Shipyard and attempt to purchase Agent 14 from Merryweather Security.
+	0x7A7C7F83 = Head to the Pacific Allied Shipyard and attempt to purchase ตัวแทน 14 from Merryweather Security.
 	0x7A7CF0E2 = Sequential
 	0x7A7D8B6B = Visit The Diamond Casino & Resort.
 	0x7A7F6437 = Press ~INPUT_FRONTEND_UP~ to open your phone and view the text from Lazlow. This contains the snapmatic sent by the celebrity.
@@ -7593,7 +7593,7 @@
 	0x7B36E405 = Go to your Office ~BLIP_OFFICE~ to access the Vehicle Cargo update on your computer. You can also go to dynasty8realestate.com to purchase the garage expansion for your Office.
 	0x7B43F3DC = Willard Tee
 	0x7B48ED16 = The ~a~ was not disposed of correctly
-	0x7B57B766 = Exit GTA Online and choose a different character.
+	0x7B57B766 = ออก GTA Online and choose a different character.
 	0x7B64F6D2 = Arena Contender
 	0x7B69B435 = Counterfeit เงิน Factory
 	0x7B83DEC5 = Air Emu Pilot freaks out at first class cabin, "You are all a bunch of entitled jerks!"
@@ -7846,7 +7846,7 @@
 	0x7D8C6B84 = A Mystery, Solved
 	0x7D9B947D = (BIKE)
 	0x7D9CEEC2 = A photographer snapped some celebs doing coke!   We can't let those shots get out!
-	0x7D9E8DF5 = All Exit the Penthouse Garage.
+	0x7D9E8DF5 = All ออก the Penthouse Garage.
 	0x7D9EC331 = Hire a player for your Organization.
 	0x7D9F6972 = @JimmyDS Id tell my sister to get fucked. But that happened already. Repeatedly. By multiple dudes. @TraceyDeSanta
 	0x7D15B7E9 = Automated Response – Wild Amateur Pics
@@ -7943,7 +7943,7 @@
 	0x7DFA3CED = Launch Nano Drone
 	0x7DFCB1A6 = Random
 	0x7DFD3B4E = Your Kosatka is not empty.
-	0x7DFEE774 = Exit Solomon's Office
+	0x7DFEE774 = ออก Solomon's Office
 	0x7DFF4BA8 = MyMy Pink Heart Necklace
 	0x7E016698 = FLAG WAR
 	0x7E05354F = the Turismo R
@@ -8159,7 +8159,7 @@
 	0x7F93F6DB = Island
 	0x7F110A4D = RIGHT TRIGGER
 	0x7F140D03 = ขาว Running
-	0x7F205ECF = Exit Hangar
+	0x7F205ECF = ออก Hangar
 	0x7F269D5F = SETUP: SALVAGE HARD DRIVES
 	0x7F407CCA = The Bogdan Problem
 	0x7F411F8A = Green Digital Spec Ski
@@ -8366,7 +8366,7 @@
 	0x8AC72A3F = Storm Scarf
 	0x8AC8444A = You are the co-pilot of an Akula. ~n~Press ~INPUT_CONTEXT~ to enter the gun camera.
 	0x8ACC0FEE = Oh well, we'll have to make do with a dry bar!
-	0x8ACD8952 = Exit the Avenger
+	0x8ACD8952 = ออก the Avenger
 	0x8ACEF3B2 = Payment Error
 	0x8ACF0B38 = ~a~ scoped out the vault blueprints.
 	0x8AD1D145 = Green Ape
@@ -8439,7 +8439,7 @@
 	0x8B42BC0C = Donut Hoodie
 	0x8B46D412 = Turrets are disabled inside of the Bunker.
 	0x8B49AD3D = RUBY NECKLACE
-	0x8B56F327 = Exit the Aircraft Workshop
+	0x8B56F327 = ออก the Aircraft Workshop
 	0x8B59FB4E = Heist
 	0x8B74CF32 = You have reached the cash reward limit for destroying Special Cargo. You will continue to be gifted ammo for each shipment destroyed. You will be notified when the limit is cleared.
 	0x8B78C589 = Go to the vantage point
@@ -8604,7 +8604,7 @@
 	0x8C454520 = Are you sure you want to request Swift Flying Bravo?
 	0x8C613719 = Black Cowgirl Hat
 	0x8C905434 = Still Slipping Los Santos
-	0x8C957146 = Exit
+	0x8C957146 = ออก
 	0x8CA6D219 = Your renovated Mobile Operations Center ~a~ is now available.
 	0x8CA7DB7E = Select the Old Spice: Vintage decor. A new look for your Office.
 	0x8CA29AA6 = Bronze
@@ -8623,7 +8623,7 @@
 	0x8CC22C09 = เรตันแคนยอน
 	0x8CC174EB = ULSA
 	0x8CC668C3 = The Rancher XL is currently unavailable.
-	0x8CC30479 = Initializing Social Club
+	0x8CC30479 = กำลังเริ่มต้น Social Club
 	0x8CCA23FA = ขาว Widow Garage
 	0x8CCA850C = Search the ~HUD_COLOUR_GREEN~head of security~s~ for the safe code.
 	0x8CCE2A40 = <C>~a~</C> won the Challenge with a time of ~a~
@@ -8900,7 +8900,7 @@
 	0x8EA503DE = Done!
 	0x8EA3208F = Be the Hunter!
 	0x8EA7999F = Take out El Rubio's ~a~.~s~
-	0x8EAAA04B = Change Outfit (Exit)
+	0x8EAAA04B = Change Outfit (ออก)
 	0x8EAEC42E = Trackify allows you to locate a target in the world. Use the information it provides to track down the buyer. It can be launched from the bottom right of the phone app menu.
 	0x8EB1F1BC = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x Fake Santo Capra T-Shirt
 	0x8EB1F7B8 = ม่วง Round Toed
@@ -8918,7 +8918,7 @@
 	0x8ECA834B = FlyUS captain offers to feel up flight attendant.
 	0x8ECABACE = Zits
 	0x8ECCF051 = Green Shoes
-	0x8ECD18CC = Exit the ~a~.
+	0x8ECD18CC = ออก the ~a~.
 	0x8ECDEC7C = Annis JPN Tee
 	0x8ECE7545 = You can't enter this Arena Workshop while selling goods from a warehouse.
 	0x8ECE9919 = ~BLIP_INFO_ICON~ Call your friends via the phone. They'll receive the call if they are in any GTAV mode.
@@ -8963,7 +8963,7 @@
 	0x8F2B5F88 = Brushed Gold
 	0x8F2FBF25 = Casino Hats
 	0x8F3E35DA = The Black Madonna was not transported to the Nightclub
-	0x8F3F4D87 = Exit the Facility
+	0x8F3F4D87 = ออก the Facility
 	0x8F4E1C6A = Congratulations on the purchase of your new Penthouse!
 	0x8F4EA783 = มาร์ติน Madrazo
 	0x8F4F24E9 = Go to the drop-off.
@@ -9291,7 +9291,7 @@
 	0x9B45E36E = Gray Digital Snake Skull
 	0x9B56D545 = K-ROSE T-Shirt
 	0x9B75C149 = Celltowa Unit
-	0x9B80CADC = All Exit Arcade Basement
+	0x9B80CADC = All ออก Arcade Basement
 	0x9B81CA50 = Billet Grille
 	0x9B81DA2B = The autopilot on the คาร์โกบ็อบ is holding her in place. You're clear to jump. Go get 'em.
 	0x9B84B24C = Hypher
@@ -9448,7 +9448,7 @@
 	0x9C596D2C = Purchase the Leopard livery for applicable Mk II weapons at a Weapon Workshop inside a Mobile Operations Center or Avenger.
 	0x9C606A82 = Kinetic Mine
 	0x9C622A87 = IMPOTENT RAGE
-	0x9C640C2C = Exit the คาร์โกบ็อบ before it self destructs.
+	0x9C640C2C = ออก the คาร์โกบ็อบ before it self destructs.
 	0x9C763BFB = Can you easily ignore your entire family and join a new group of friends?
 	0x9C794ACB = DRAINAGE TUNNEL
 	0x9C920B54 = Gruppe Sechs Gear
@@ -9505,7 +9505,7 @@
 	0x9CD26EFB = Would you like to copy the rank of (~a~) "~a~" Rank (~1~) to this new Character?
 	0x9CD32B6B = Friends 14,371,628
 	0x9CD66AB1 = น้ำเงิน Lines
-	0x9CD712CC = Exit the Office.
+	0x9CD712CC = ออก the Office.
 	0x9CD781CA = @AntonBeaudelaire Having a #MELTDOWN #meltdown
 	0x9CD1824B = FUBAR!
 	0x9CDA6E0C = Invite to Bunker
@@ -9832,7 +9832,7 @@
 	0x9EFE4FFE = ~s~Wait within the marked area. Caged In will start when the time expires. You are unable to use weapons during or while waiting for this event.
 	0x9EFEB482 = High standards in real estate, low standards in women? End the day with your own oil change at this 6-car garage located across from a strip club!
 	0x9F017CC2 = CASH
-	0x9F01C44C = Hunt the Beast will begin shortly. Exit the Warehouse to have a chance of becoming the Beast.
+	0x9F01C44C = Hunt the Beast will begin shortly. ออก the Warehouse to have a chance of becoming the Beast.
 	0x9F030A44 = @sillyjilly28 To the guys who robbed the Vangelico store on ถนนพอร์โทลา I'll happily swap an alibi for a diamond :)
 	0x9F0627FF = Engine - 6 liter<br>Power - 583hp<br>Top Speed - 206mph<br>0-60 - 3.9 seconds
 	0x9F0A04A8 = Send a skilled Strike Team equipped with Carbine Rifles to hunt down a target of your choice.
@@ -9896,7 +9896,7 @@
 	0x9F5731F2 = 18 : 22   CAM
 	0x9F6398C1 = ความแข็งแรง
 	0x9F9315C5 = Hold ~INPUT_VEH_HEADLIGHT~ to raise and lower the wheels.
-	0x9F9487E5 = Access the touch screen computer inside the Mobile Operations Center to launch missions for Agent 14.
+	0x9F9487E5 = Access the touch screen computer inside the Mobile Operations Center to launch missions for ตัวแทน 14
 	0x9F35531C = Midnight ม่วง
 	0x9F37311E = RC Bandito Time Trial
 	0x9F72717D = Chapter 5 verse 4<BR>And what is this thing of which you speak? What is this upwards generosity? It is the most precious thing, the giving to those who do not need, so cannot be challenged for greed, who have so much they do not need any more and therefore can receive your gift kindly and with the truth form and with understanding that is everything.<BR>It is the gift towards Cris, to Cris, or to any senior Epsilonists who are his form in your life as all senior Epsilonists are the same spirit and mind form in this paradigm, as the Eagle is the peach tree and the other metaphors also become blurred. It is by asking Cris to receive that we ourselves get the most. That is the clearest thing.
@@ -10143,10 +10143,10 @@
 	0x13C87537 = Click any of the questions to learn more about The Epsilon Program.
 	0x13CE11AD = Locate the croupier.
 	0x13D3F589 = Unlocked Arena War vehicle modifications can be purchased at your Arena Workshop ~BLIP_ARENA_WORKSHOP~.
-	0x13D6FFFA = All Exit Trailer
+	0x13D6FFFA = All ออก Trailer
 	0x13D7AA28 = Stage 3
 	0x13D19DB0 = ~HUD_COLOUR_PURPLE~ม่วง~s~
-	0x13D50B4B = Exit to roof on foot
+	0x13D50B4B = ออก to roof on foot
 	0x13D69130 = The incident involving criminal ~a~ has been resolved. The suspect was fatally injured by the police.
 	0x13DAA0B3 = Safehouse
 	0x13DD1F63 = O'Neil Brothers
@@ -10271,7 +10271,7 @@
 	0x15ECECC2 = ~a~~HUD_COLOUR_WHITE~ knifed ~a~.
 	0x15ED3821 = 90 kills
 	0x15EEB702 = a Pair of Jacks
-	0x15F4C4C0 = Exit to Office Garage ~1~
+	0x15F4C4C0 = ออก to Office Garage ~1~
 	0x15F5B1F2 = HAL stick to their guns and see shares rise.
 	0x15F8CCE1 = Green 00.~n~You did not bet.
 	0x15F68C98 = Left Side
@@ -10291,7 +10291,7 @@
 	0x16AD09AF = CHECKPOINTS
 	0x16ADE680 = Hurry! You're gonna risk losing the cargo!!
 	0x16B0B29E = THIS LABEL NEEDS TO BE HERE !!!
-	0x16B3F500 = MISSION FAILED
+	0x16B3F500 = ภารกิจล้มเหลว
 	0x16B6A9D7 = Source a large shipment of ~a~.
 	0x16B80D06 = Driller
 	0x16B95CD0 = RE:RE: Progress – and you'll see results.
@@ -10625,7 +10625,7 @@
 	0x22E31A9B = ~nrt~<img src='img://Assassinations/targetQuestion' />~n~</br>~nrt~แฟรงคลิน, here's the info:</br></br>Name: Mickey Waters</br>Occupation: Junkie</br>Location: Las Puerta</br><p>Any weapon will do for this job. Go to ร้านอาวุธอัมมู-เนชั่น if you need fire power.</br>Payment: $3000</br>Bonus: Phone Sex Photo</br><p>The target frequents the Las Puerta red light district and is beating and ripping off hookers in the area. Use any means to eliminate him and get a photo of him with one of the girls for a bonus.
 	0x22E35EBF = Photo of Target ~nrt~ <img src='img://MP_SND_TARGET_15/MP_SND_TARGET_15' vspace='0' width='256' height='128'/> ~nrt~
 	0x22E85EF2 = This Contract will be available again in ~a~
-	0x22E98C6C = Exit the Garage.
+	0x22E98C6C = ออก the Garage.
 	0x22E8427F = ไวน์วูด at Dusk
 	0x22E71912 = Law enforcement seized the goods, but the tracker's still live. They won't know you're coming: jack the van and bring it home.
 	0x22EA62A1 = N.E. ROOF TERRACE
@@ -10678,7 +10678,7 @@
 	0x23EAA997 = Towing jobs now available to แฟรงคลิน only. The first job can be started at ~BLIP_TOW_TRUCK~
 	0x23EC6104 = Done!
 	0x23EF37D4 = This Challenge has ended as you don't have enough members in your Organization.
-	0x23F5EFA9 = Exit Casino
+	0x23F5EFA9 = ออก Casino
 	0x23F7AE24 = Beat the target score of ~1~ to pass the ปืนไรเฟิลสั้น Challenge.
 	0x23F7D046 = You cannot enter the Clubhouse with non-player characters.
 	0x23F21AF9 = Brown Digital Tactical Ski
@@ -10743,7 +10743,7 @@
 	0x24F2000E = Fort Zancudo
 	0x24F15596 = Hill B
 	0x24FB29AD = Take the elevator~s~ to the ~a~.
-	0x24FE7032 = Kosatka Controls:~n~Press ~INPUT_FRONTEND_X~ Fire Torpedoes.~n~Hold ~INPUT_VEH_SUB_ASCEND~ Ascend.~n~Hold ~INPUT_VEH_SUB_DESCEND~ Descend.~n~Press ~INPUT_VEH_DUCK~ to toggle Sonar.~n~Press ~INPUT_VEH_EXIT~ Exit.
+	0x24FE7032 = Kosatka Controls:~n~Press ~INPUT_FRONTEND_X~ Fire Torpedoes.~n~Hold ~INPUT_VEH_SUB_ASCEND~ Ascend.~n~Hold ~INPUT_VEH_SUB_DESCEND~ Descend.~n~Press ~INPUT_VEH_DUCK~ to toggle Sonar.~n~Press ~INPUT_VEH_EXIT~ ออก.
 	0x25A0066E = RESPOND
 	0x25A0412E = @Lazlow Old women cant get enough of me. Except for my mother who hates the air I breathe.
 	0x25A1D3DF = Grinner
@@ -10840,7 +10840,7 @@
 	0x27A5BB0C = Armor Plating Mk. 3
 	0x27A14609 = Captures published
 	0x27AA4FD4 = Police Helicopter
-	0x27AB4F93 = Kosatka Controls:~n~Press ~INPUT_FRONTEND_X~ Fire Torpedoes.~n~Hold ~INPUT_VEH_SUB_ASCEND~ Ascend.~n~Hold ~INPUT_VEH_SUB_DESCEND~ Descend.~n~Press ~INPUT_VEH_EXIT~ Exit.
+	0x27AB4F93 = Kosatka Controls:~n~Press ~INPUT_FRONTEND_X~ Fire Torpedoes.~n~Hold ~INPUT_VEH_SUB_ASCEND~ Ascend.~n~Hold ~INPUT_VEH_SUB_DESCEND~ Descend.~n~Press ~INPUT_VEH_EXIT~ ออก.
 	0x27ACB69C = Err
 	0x27AFC328 = Find and take out the corrupt agent to recover his access card.
 	0x27B0FA9E = Oppressor
@@ -10895,7 +10895,7 @@
 	0x28A43C76 = Video
 	0x28A582C9 = Plate Holder
 	0x28AAC708 = Laptop
-	0x28AB87F7 = Exit to the Rockstar Editor Menu and leave your current project.~n~~n~You will be given a chance to save your project if changes have been made.
+	0x28AB87F7 = ออก to the Rockstar Editor Menu and leave your current project.~n~~n~You will be given a chance to save your project if changes have been made.
 	0x28ABCBFA = Los Santos Summer Special
 	0x28AF60DA = SUPPLIES DESTROYED
 	0x28AF3306 = Black 8
@@ -11328,7 +11328,7 @@
 	0x36C0A4C3 = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x Black Hawk & Little Logo Tee
 	0x36C1DF0A = You have not bought a Kosatka.
 	0x36C274A2 = REFILLING WATER
-	0x36C596A6 = Exit Bunker
+	0x36C596A6 = ออก Bunker
 	0x36C817CE = Arena Warrior
 	0x36C2019A = KOSATKA
 	0x36C6909E = Complete a Doomsday Heist Finale.
@@ -11454,7 +11454,7 @@
 	0x38EE4E6D = Get ~1~ kills with the Navy Revolver in GTA Online to earn a GTA$ reward and unlock an exclusive Bounty Target in แดง Dead Online.
 	0x38EF0A1E = Your president can access The Open Road Admin site on this secure laptop to resupply the business at any time. From here they will also be able to cease production, sell product and purchase upgrades that will make the business operate safer, smoother and increase productivity.
 	0x38F07971 = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_01/IE_TEXTVECH_01' vspace='0' width='252' height='150'/> ~nrt~
-	0x38F103A8 = Exit by the ~HUD_COLOUR_YELLOW~south gate~s~ without being spotted.
+	0x38F103A8 = ออก by the ~HUD_COLOUR_YELLOW~south gate~s~ without being spotted.
 	0x38F342D4 = The Avenger needs to be returned to your Facility first.
 	0x38F50620 = GUEST SERVICES
 	0x38F66921 = Health
@@ -11463,7 +11463,7 @@
 	0x38FD7848 = Custom shifters.
 	0x38FED662 = This Goods type is already at capacity in the Nightclub Warehouse. Delivering to the Nightclub will only earn you cash and RP. Additional Warehouse Storage can be purchased from foreclosures.maze-bank.com
 	0x39A4A9B4 = Quarry
-	0x39A68B1A = Exit Yacht Cabin
+	0x39A68B1A = ออก Yacht Cabin
 	0x39A5760E = Maintenance Gear: Part 1
 	0x39AA259B = Current Market Value
 	0x39AB6A5D = Animal Materials
@@ -11504,7 +11504,7 @@
 	0x39DB91A7 = Find a truck cab or wait for the ~HUD_COLOUR_BLUE~trailer~s~ to be connected.
 	0x39DCCF6C = Press ~INPUT_CONTEXT~ to enter the Hangar with current vehicle.
 	0x39E6C889 = ~s~Load successful.~n~Trophies are unavailable for old saves. Please start a เริ่มใหม่ to gain trophies.
-	0x39E9A935 = All Exit Bunker
+	0x39E9A935 = All ออก Bunker
 	0x39E36FEA = How do you explain all the fossils and other evidence proving that dinosaurs existed?
 	0x39E265E6 = WARNING: The delivery vehicles have moved too far apart and are now visible to all players in session. Bring them closer together to reactivate the global signal jammer.
 	0x39E23562 = ~a~~s~ destroyed an Air-Freight Shipment.
@@ -11775,7 +11775,7 @@
 	0x44E7E3EC = The Black Madonna is now available to hire as a DJ at Nightclub locations across the City. Purchase a Nightclub at the Maze Bank foreclosures website and complete the set up to gain access to book her.
 	0x44E56B4D = Seat Tassels
 	0x44E71CD7 = ~a~ hacked a laptop.
-	0x44E79635 = Exit
+	0x44E79635 = ออก
 	0x44EA5867 = ~HUD_COLOUR_WHITE~<C>~a~</C> ~s~is the ~a~.~s~ Help them win.
 	0x44EB72EC = Mom's Father
 	0x44EF591E = Are you sure you'd like to purchase a large shipment of Tobacco & Alcohol?
@@ -11921,7 +11921,7 @@
 	0x47DFE87A = Enter the target vehicle ~HUD_COLOUR_GREEN~~BLIP_BAT_CARGO~~s~ and deliver it to the drop-off to earn cash and RP.
 	0x47E1A691 = The Practical
 	0x47E2E562 = Black Bikini
-	0x47E262FF = Exit the ~HUD_COLOUR_YELLOW~safe house.~s~
+	0x47E262FF = ออก the ~HUD_COLOUR_YELLOW~safe house.~s~
 	0x47E465B5 = AXIS 1 Up
 	0x47E6091C = Akula
 	0x47E92352 = Side Parting Spiked Black
@@ -12266,7 +12266,7 @@
 	0x53EB7366 = You reached the target score.
 	0x53ED26BB = WHEEL UP
 	0x53EDEB8B = Summer Leather Straps
-	0x53EE8D00 = Exit to Roof
+	0x53EE8D00 = ออก to Roof
 	0x53EF3976 = PREP: LONGFIN
 	0x53F5EF8D = Close Playlist editor
 	0x53F6ABF0 = Stock หน้า Wing
@@ -12293,7 +12293,7 @@
 	0x54C089CA = AIRSTRIP
 	0x54C3A98C = Small Houseplant
 	0x54C3E8A4 = PREP: SCOPE OUT CASINO
-	0x54C11AB5 = MISSION FAILED
+	0x54C11AB5 = ภารกิจล้มเหลว
 	0x54C72E81 = LJT, you good to talk? Your mini-mint's running out of supplies. I'd factor in a trip there for a materials run sometime soon.
 	0x54C109EC = Slicked แดง
 	0x54C639FD = Iron Sights
@@ -12394,7 +12394,7 @@
 	0x56C3E9E6 = Automated Response – Wild Amateur Pics
 	0x56C4E34A = Once you sit in this car, you won't want to drive anything else. Great in the snow. Not really, you'll probably die if you take this overpowered beast anywhere near moisture. Luckily, you live in a desert.
 	0x56C5F66E = Narcotics
-	0x56C8AA46 = All Exit the Penthouse.
+	0x56C8AA46 = All ออก the Penthouse.
 	0x56C52F50 = Lucky Plucker Sweater
 	0x56C58C6B = WWW_WARSTOCK_D_CACHE_D_AND_D_CARRY_COM
 	0x56C596E0 = Extreme Aero หน้า Bumper
@@ -12403,7 +12403,7 @@
 	0x56D1E80B = ~a~~HUD_COLOUR_WHITE~ barbecued ~a~.
 	0x56D5BEB6 = Use sticky bombs to open the rear doors of the van.
 	0x56D6B86B = Complete all acts of The Doomsday Heist as a crew member, ending with completion of the Act III finale.
-	0x56D7B361 = All Exit Clubhouse on Foot
+	0x56D7B361 = All ออก Clubhouse on Foot
 	0x56D8DC06 = Light Gray Croton Vase
 	0x56D8E23D = Wait for the delivery vehicles to be returned to the Hangar.
 	0x56D76EE1 = Tinkle goes down.
@@ -12705,7 +12705,7 @@
 	0x61EAC210 = Would you like to continue from the last auto save?
 	0x61EBE058 = Executive Search is about to begin, head to the hideout location to trigger the search.
 	0x61EE7C1C = Press ~INPUT_CONTEXT~ to Jump.~n~Hold ~INPUT_FRONTEND_LB~ to Detonate.~n~Press ~INPUT_VEH_CIN_CAM~ to toggle cinematic camera.~n~Press ~INPUT_VEH_EXIT~ to exit.
-	0x61EE7749 = All Exit Warehouse
+	0x61EE7749 = All ออก Warehouse
 	0x61EED897 = SELL SPECIAL CARGO OVER
 	0x61EF61D5 = อพาร์ทเมนท์: 1893 ถนนเกรปซีด
 	0x61EFF5C1 = In order to accrue these Goods you must fulfill the following criteria:~n~- Purchase a Bunker from foreclosures.maze-bank.com.~n~- Set up the Gunrunning Business on the Disruption Logistics site inside your Bunker.~n~
@@ -12865,7 +12865,7 @@
 	0x64F9B35B = The street versions of this Adversary mode will have manual respawn enabled in case you get stuck. Using this will remove a life and any held powerups.
 	0x64F25E0A = Press ~INPUT_FRONTEND_ACCEPT~ to continue.
 	0x64F35502 = a Pair of 3s
-	0x64F75774 = Exit Vehicle
+	0x64F75774 = ออก Vehicle
 	0x64FBCDD0 = Sculpted Ornament
 	0x64FBF192 = Are you sure you wish to recruit ~a~ as your driver?
 	0x64FC992D = ~a~~s~ has started Outrider. Take out the targets ~HUD_COLOUR_RED~~BLIP_TEMP_4~~s~ to earn cash and RP.
@@ -13060,7 +13060,7 @@
 	0x68D8FE28 = Steal a Tunnel Boring Machine that can excavate a tunnel directly to the Casino basement.
 	0x68D68D9B = Enter a ~HUD_COLOUR_BLUE~limousine.~s~
 	0x68D85D55 = Gray Woodland Armored
-	0x68D887EC = Exit the Arena
+	0x68D887EC = ออก the Arena
 	0x68D7427F = Artwork
 	0x68DC5A09 = Gang Wanted Bikers 5
 	0x68DE5FD6 = Fire Truck
@@ -13364,7 +13364,7 @@
 	0x74B1D874 = - .... . .. -. -.. ..- ... - .-. .. .- .-.. .-. . ...- --- .-.. ..- - .. --- -. .... .- ... -... . . -. .- -.. .. ... .- ... - . .-. - --- - .... . .... ..- -- .- -. .-. .- -.-. .
 	0x74B1EAE7 = Tattoos
 	0x74B3AABB = Diamonds
-	0x74B9A13D = Change Exit
+	0x74B9A13D = Change ออก
 	0x74B716DC = Obtain a fire truck by either calling 911, causing a fire, or stealing one from a station.
 	0x74B17864 = SUBMARINE: KOSATKA
 	0x74BA1FD7 = You no longer have access to the Hangar as you became an Associate.
@@ -13404,7 +13404,7 @@
 	0x74EEEA8F = A'ight. You hood.
 	0x74EFCDDE = Population Variety
 	0x74F0E358 = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x KDST Top
-	0x74F7C53C = Exit the Rockstar Editor and return to Grand Theft Auto V Story Mode.
+	0x74F7C53C = ออก the Rockstar Editor and return to Grand Theft Auto V Story Mode.
 	0x74F48BB3 = Join a Motorcycle Club or start your own.
 	0x74F73ED3 = Shadow Quality
 	0x74F62329 = CONTINUE
@@ -13726,7 +13726,7 @@
 	0x81B4DFA5 = Press ~INPUT_CONTEXT~ to use the Setup Board.
 	0x81B67ACA = You scoped the celeb.
 	0x81B36467 = Bomber
-	0x81B79261 = Exit Nightclub
+	0x81B79261 = ออก Nightclub
 	0x81B90749 = Western MC
 	0x81C00BE7 = Time trial along the classic route that has inspired generations of poets, pilgrims, rednecks and sex offenders with its connecting remoteness and absence of meaningful law enforcement.
 	0x81C7B713 = UNNAMED
@@ -13816,7 +13816,7 @@
 	0x82DE0B22 = Patrol Boat
 	0x82E22A9B = x4
 	0x82E109C9 = Slippers
-	0x82E767D6 = Exit the Office
+	0x82E767D6 = ออก the Office
 	0x82E1446A = Wait for ~HUD_COLOUR_BLUE~Miranda's Assistant~s~ to enter the vehicle.
 	0x82E3770F = @BarryForWeed The big pharmaceutical companies are blocking legalization! The government shouldn't be allowed to make our lifestyle choices for us!
 	0x82EA8C51 = Your CEO is making a sale. If you want to earn your keep get over there and make sure it goes smoothly.
@@ -13832,7 +13832,7 @@
 	0x82FE772E = Only passengers who are in your organization can quick travel to warehouses.
 	0x82FEB9A6 = 4 new items
 	0x82FF297B = Jan
-	0x83A09906 = Exit by the ~HUD_COLOUR_YELLOW~north gate~s~ without being spotted.
+	0x83A09906 = ออก by the ~HUD_COLOUR_YELLOW~north gate~s~ without being spotted.
 	0x83A1F387 = Opens a list of players that the message can be sent to.
 	0x83A5C7B0 = Movie Set
 	0x83A5D705 = VAULT EXPLOSIVES
@@ -13851,7 +13851,7 @@
 	0x83C64FE6 = Vehicle: ~a~~n~Color: ~a~~n~Plate: ~a~~n~ Location: ลีเจียนสแควร์ ~nrt~ <img src='img://MP_EX_LOCATION_11/MP_EX_LOCATION_11' vspace='0' width='252' height='150'/> ~nrt~
 	0x83C67C92 = ~1~ Special Cargo crates lost
 	0x83C92E73 = Power Station
-	0x83C129CC = Exit the ~HUD_COLOUR_YELLOW~penthouse.~s~
+	0x83C129CC = ออก the ~HUD_COLOUR_YELLOW~penthouse.~s~
 	0x83C150B6 = @JimmyBoston Cris Fromage is actually like a really cool guy + religion does not come up when we hang #bros
 	0x83C77078 = Purchase of this Nightclub has been cancelled.
 	0x83C99930 = Patriarch of the Richards Majestic movie dynasty
@@ -14211,7 +14211,7 @@
 	0x89ED506B = Luxury Sports Coat
 	0x89EEDF7F = Peach Camo Vent
 	0x89EF33EE = Tan Wool Gloves
-	0x89EFE541 = Exit the ~HUD_COLOUR_YELLOW~office.~s~
+	0x89EFE541 = ออก the ~HUD_COLOUR_YELLOW~office.~s~
 	0x89F2E39B = ชายฝั่งแซนดี
 	0x89F3B0E1 = Aquamarine Pendant
 	0x89F37F7A = Existence is without meaning. There's no life after death. No act is selfless. Everyone hates you.
@@ -14467,7 +14467,7 @@
 	0x94DF3286 = Gold tint
 	0x94E8AC82 = Participate in a Rally Race.
 	0x94E20B5D = TOTAL DELIVERED
-	0x94E76E2F = Exit the Clubhouse.
+	0x94E76E2F = ออก the Clubhouse.
 	0x94E481A9 = This service is currently being used by another player.
 	0x94EB1464 = KOSATKA LOCATION
 	0x94ECE7A6 = Recover the ~HUD_COLOUR_BLUE~stolen supplies.~s~
@@ -14777,7 +14777,7 @@
 	0x107E9A98 = ขาว Chelsea Boots
 	0x107F8865 = Press ~INPUT_CONTEXT~ to deactivate Privacy Glass.~n~Press ~INPUT_CONTEXT_SECONDARY~ to brighten the Lights.
 	0x108B3CBC = Purchase pending...
-	0x110AA7C8 = All MC Members Exit on Vehicle
+	0x110AA7C8 = All MC Members ออก on Vehicle
 	0x110B36CF = Kifflom!
 	0x110B3924 = ถนนพาวเวอร์
 	0x111B92A7 = น้ำเงิน Retro Bubble
@@ -14953,7 +14953,7 @@
 	0x159E92BF = Agents ~1~
 	0x159F084C = Vapid Future Shock Slamvan
 	0x159F6821 = Reverse Driving Challenge
-	0x161AEAF1 = Exit the Vehicle
+	0x161AEAF1 = ออก the Vehicle
 	0x161FF18B = Find and assault the ~HUD_COLOUR_RED~security vans.~s~
 	0x162B3301 = Drink Blêuter'd Champagne
 	0x162BA100 = -1235 : -333   CAM_04/06
@@ -15178,7 +15178,7 @@
 	0x228DF444 = เขตแบนนิ่ง
 	0x229C2145 = ทางหลวงไวน์วูด Radio T-Shirt
 	0x230AE2A6 = NUMPAD 3
-	0x230B93C0 = Exit the vehicle to capture the area.
+	0x230B93C0 = ออก the vehicle to capture the area.
 	0x230CF490 = Press ~INPUT_CONTEXT_SECONDARY~ to spin the Arena War Wheel for $~1~.~n~Press ~INPUT_CONTEXT~ to leave the table.
 	0x230D95D6 = Roulette 36
 	0x230E655D = You will lose all product, supplies and upgrades when trading. Are you sure you want to trade this business?
@@ -15192,7 +15192,7 @@
 	0x234BF1BE = Hunt the Beast will begin shortly. Press ~INPUT_CONTEXT~ to have a chance of becoming the Beast. If you or your CEO become the Beast, you will no longer be an Associate.
 	0x234C2798 = GRUPPE SECHS
 	0x234E42B5 = Your Warehouse is unavailable when working as an Associate for a CEO.
-	0x235F0D0B = Exit Clubhouse
+	0x235F0D0B = ออก Clubhouse
 	0x236B182C = Deliver the ~a~ to the back up ~y~drop-off.
 	0x236B4026 = Ruiner 2000
 	0x236C1589 = True Love
@@ -15223,12 +15223,12 @@
 	0x244F4F24 = Eclipse Towers, 3
 	0x245CB1F0 = Subject too long. Try again (MAX 15 characters):
 	0x245D37D7 = Hey, come over to the Weed Farm.
-	0x245F2028 = Exit the Garage.
+	0x245F2028 = ออก the Garage.
 	0x246C0C00 = Vehicle: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_86/IE_TEXTVECH_86' vspace='0' width='252' height='150'/> ~nrt~
 	0x246E5B8B = Play music to promote the Nightclub
 	0x246E7041 = Merryweather HQ
 	0x247AB441 = Charcoal Round Toed
-	0x247BA2B4 = Agent 14
+	0x247BA2B4 = ตัวแทน 14
 	0x247D7A51 = Carefully drive Dixon to the ~HUD_COLOUR_YELLOW~Nightclub.~s~
 	0x247E318F = Lavender Sweatpants
 	0x248F0D0F = Sedans
@@ -15419,7 +15419,7 @@
 	0x309AF77F = ลามาร์
 	0x309BD26F = The Periscope is currently being used by another player.
 	0x309E54A5 = บานแฮมแคนยอน
-	0x310AD86F = Exit the Office in your current vehicle.
+	0x310AD86F = ออก the Office in your current vehicle.
 	0x310B9CBA = Clammy
 	0x310F03BD = There is another player sitting in the adjacent cab.~n~Press ~INPUT_FRONTEND_PAUSE~ to challenge them to a 2P race!
 	0x311A8ACD = In order to purchase this vehicle at the Trade Price, you must fulfill the following criteria:~n~- Own the Mobile Operations Center.~n~- Complete the Severe Weather Patterns Mobile Operation mission.~n~
@@ -15602,7 +15602,7 @@
 	0x369B80A0 = Tell the Executive Assistant to send a Helicopter to your location.
 	0x369E8A3E = Painting by Tobias Hardy
 	0x369EB23A = KEYCARD
-	0x370A811E = ~BLIP_INFO_ICON~ คุณสามารถสอนให้ช้อปเล่นกลเม็ดและตามล่าหาแพ็คเกจที่ซ่อนอยู่ได้ ดาวน์โหลดแอพ iFruit ลงในสมาร์ทโฟนหรือแท็บเล็ตของคุณเองเพื่อฝึกมันในเวลาว่าง
+	0x370A811E = ~BLIP_INFO_ICON~ คุณสามารถสอนให้ช๊อปเล่นกลเม็ดและตามล่าหาแพ็คเกจที่ซ่อนอยู่ได้ ดาวน์โหลดแอพ iFruit ลงในสมาร์ทโฟนหรือแท็บเล็ตของคุณเองเพื่อฝึกมันในเวลาว่าง
 	0x370AAEBF = Invade and Persuade II
 	0x370AB2B4 = This purchase will use your 10% discount for Legendary Motorsport.
 	0x370BBC28 = You need to restart production at your ~a~ in order to assign a technician to accrue ~a~.
@@ -15894,7 +15894,7 @@
 	0x455BBA5B = RESEARCH COMPLETE: Unlocked weapon modifications can be purchased at a Weapon Workshop inside a Mobile Operations Center or Avenger.
 	0x455C3040 = You no longer have access to the Nerve Center as it is in the owner's Nightclub Warehouse and you are a Prospect for another player's Motorcycle Club.
 	0x455CEB0A = Salvage
-	0x455E7412 = Kosatka Controls:~n~Press ~INPUT_VEH_CIN_CAM~ Fire Torpedoes.~n~Hold ~INPUT_VEH_SUB_ASCEND~ Ascend.~n~Hold ~INPUT_VEH_SUB_DESCEND~ Descend.~n~Press ~INPUT_VEH_LOOK_BEHIND~ to toggle Sonar.~n~Press ~INPUT_VEH_EXIT~ Exit.
+	0x455E7412 = Kosatka Controls:~n~Press ~INPUT_VEH_CIN_CAM~ Fire Torpedoes.~n~Hold ~INPUT_VEH_SUB_ASCEND~ Ascend.~n~Hold ~INPUT_VEH_SUB_DESCEND~ Descend.~n~Press ~INPUT_VEH_LOOK_BEHIND~ to toggle Sonar.~n~Press ~INPUT_VEH_EXIT~ ออก.
 	0x456A57E6 = Vapid Nightmare Dominator Livery set
 	0x456D4498 = Merryweather have something that belongs to one of our investors, and he'd like it back. You'll need to use the คาร์โกบ็อบ we've provided, and be careful: it'll be in a lot of people's interests to take you down.
 	0x456DD252 = Dead
@@ -16022,7 +16022,7 @@
 	0x495DCF48 = Playlists you have selected and bookmarked from the Social Club website.
 	0x495DFABD = Cancel Upload
 	0x496C00A6 = ~BLIP_ROULETTE_28~
-	0x496CD194 = Exit the Mobile Operations Center
+	0x496CD194 = ออก the Mobile Operations Center
 	0x496EFC7D = Accept
 	0x497C75A6 = 18 : 22   CAM
 	0x497CCB17 = Turn Left
@@ -16577,7 +16577,7 @@
 	0x658E0E64 = น้ำเงิน Stripes Mod Helmet
 	0x658E5F5E = To use the Beast powers hold ~INPUT_AIM~ and press ~INPUT_JUMP~ for Super Jump.
 	0x659A6DEE = An American Welcome
-	0x659BB512 = All Exit Nightclub
+	0x659BB512 = All ออก Nightclub
 	0x659CFBF8 = Duke O'Death
 	0x660B1B5E = GRUPPE SECHS GEAR
 	0x660BA4B5 = ~a~~n~~n~~a~~n~~n~~a~
@@ -16764,7 +16764,7 @@
 	0x707F66CA = Unable to purchase upgrade at this time. Please try again later.
 	0x708B2789 = Vapid Dominator หน้า Facing Spears set
 	0x709A8E5F = Take a photo of the ~HUD_COLOUR_BLUE~weed.~s~
-	0x709A380D = Exit Lock-On
+	0x709A380D = ออก Lock-On
 	0x709D58AA = Protect <C>~a~</C> ~s~whilst they use the ~a~ ~s~to unlock the ~y~cell.
 	0x709FD905 = No active Arena War events found to spectate.~n~Would you like to continue and play the Arena War Series instead?
 	0x710A2B9B = Moonbeam Custom
@@ -16999,7 +16999,7 @@
 	0x780B060F = Custom Oil Tank ~1~
 	0x780E3CD1 = ขาว Santa
 	0x781ADF72 = @biggavin88 no way that hot english royal got totally busted for weed in LS!!!
-	0x781C9F2A = Exit to ground on foot
+	0x781C9F2A = ออก to ground on foot
 	0x782AFE9E = You collected the champagne.
 	0x782B8BF5 = You have ~1~.
 	0x782BA81B = You are progressing
@@ -17562,7 +17562,7 @@
 	0x943F03F4 = Dance to Keinemusik's set in The Music Locker for 30 minutes.
 	0x944ABD88 = Roulette 4
 	0x944AF029 = De-Chromed & Chin Spoiler
-	0x945B6388 = All Exit Penthouse Garage
+	0x945B6388 = All ออก Penthouse Garage
 	0x945D3CAC = Search the submarine for Merryweather's Sonar Jammer.
 	0x945DE2AC = ~a~~s~ scoped a secondary target: เงิน
 	0x946B546D = Green Digital Snake Skull
@@ -17765,7 +17765,7 @@
 	0x1135C3DB = On
 	0x1146D682 = Select this aircraft to move it from storage.
 	0x1147EF42 = Black Santa
-	0x1149BCFD = Exit Rockstar Editor
+	0x1149BCFD = ออก Rockstar Editor
 	0x1151F670 = Collect the package and deliver it to the drop-off location. This Event is currently hidden. You will see no notifications related to it until you choose to Show it again.
 	0x1159A91F = You can't enter this Nightclub while selling vehicles from a warehouse.
 	0x1164DD24 = Select the game at your Private Table.
@@ -17780,7 +17780,7 @@
 	0x1211C5B6 = Resume Upload
 	0x1216DB74 = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x Psycho Swingers T-Shirt
 	0x1219B52F = CARGO CRATES COLLECTED
-	0x1220B816 = Exit Arcade
+	0x1220B816 = ออก Arcade
 	0x1223C292 = LOCKED: COMPLETE STROMBERGS & TORPEDO ECU
 	0x1225EF5F = your Last Team Standing
 	0x1230A1FB = There are no players in this session outside of your Motorcycle Club.
@@ -17788,7 +17788,7 @@
 	0x1234D9F9 = ชายฝั่งแซนดี
 	0x1236E01E = D
 	0x1242B00F = Participate in Overtime Rumble.
-	0x1247FCE8 = Exit
+	0x1247FCE8 = ออก
 	0x1255C8D5 = Spa
 	0x1261E5B9 = The media circus that followed Leonora's death portrayed her as a lascivious harlot who preyed on men and dressed in a way that was "asking to be killed", but this is neither consistent with the facts nor with the masturbatory image I like to keep of her.<br><br>Leonora Johnson was born on August 29th 1952 in the Midwest. Her father Harold worked as a plucker in the local chicken farm, her mother Eileen as a slopper at the local dairy farm, so it's safe to assume that her expectations for life were set fairly low – a sloppy plucker, or some other rural thing. A sickly child, she suffered chest problems for many years, mostly as a result of the heavy smoking so in vogue at the time. Leonora was a quiet, unremarkable student whom one of her teachers described as "the kind of early physical developer and late mental developer that got a lot of attention from older boys and certain faculty members".<br><br>At the encouragement of her uncle – or possibly to get away from him – Leonora left school at 15 and hitched her way to Los Santos with dreams of becoming a movie star or model. After working as a waitress for a few months, it didn't take long for Leonora's childlike naiveté and stunning good looks to catch the eye of wolfish entertainment industry types, and she soon became a common face on the ไวน์วูด party circuit and the casting couch circuit.<br><br>By the early 1970s, she was getting regular work in print ads, television commercials and minor movie roles. After a scene-stealing turn as a wise-cracking disabled prostitute in the 1973 film 'Rum Runner', the Los Santos Shepherd described her as "a pretty face to watch without perhaps much spark in the eyes" and shortly before her death she was allegedly a frontrunner for a leading female role in 'The Many Wives of Alfredo Smith'. Who knows how bright her future could have been if that pretty face hadn't been severed from her perfect body...
 	0x1265FB3E = Use biker melee on the most vehicles
@@ -17827,7 +17827,7 @@
 	0x1424FFAB = Get in a ~HUD_COLOUR_BLUE~Rogue.~s~
 	0x1427A912 = Great, now the hacker tells me the มิสชั่นโรว Gauntlet has been moved by its owner. Keep looking we still need Gauntlets to pull this off!
 	0x1427C566 = @southernmarygjv Those terrorists getting into the FIB building is just the start. I know it. This is bad. I'm so freaked out. The guy at the kebab house just looked at me funny.
-	0x1428F508 = Exit the Facility.
+	0x1428F508 = ออก the Facility.
 	0x1437B610 = Ride Free
 	0x1444A597 = I hear the Diamond vault is open for business again. We can't go the same route as last time, but I was ready for a change anyway.
 	0x1457C5D9 = KANA
@@ -18013,7 +18013,7 @@
 	0x2322E7CF = Minute Man Blues
 	0x2325AD3A = Available when the Criminal Enterprise Starter Pack is purchased.
 	0x2344BFEB = The Black Madonna is still available to DJ at ~a~. Press ~INPUT_CONTEXT_SECONDARY~ to start a Motorcycle Club and book her now for $~1~.
-	0x2345DE2B = Exit the ~HUD_COLOUR_YELLOW~submarine.~s~
+	0x2345DE2B = ออก the ~HUD_COLOUR_YELLOW~submarine.~s~
 	0x2347ABEA = Sumo (Remix)
 	0x2350BCE9 = Not enough prospects left to continue the mission
 	0x2358E8B3 = Technical Aqua
@@ -18161,7 +18161,7 @@
 	0x3049F9DF = Quitting Match
 	0x3062E60A = Roulette 7
 	0x3069C3CB = Bolingbroke Penitentiary
-	0x3073B700 = Kosatka Controls:~n~Press ~INPUT_CELLPHONE_CANCEL~ Fire Torpedoes.~n~Hold ~INPUT_VEH_SUB_ASCEND~ Ascend.~n~Hold ~INPUT_VEH_SUB_DESCEND~ Descend.~n~Press ~INPUT_VEH_EXIT~ Exit.
+	0x3073B700 = Kosatka Controls:~n~Press ~INPUT_CELLPHONE_CANCEL~ Fire Torpedoes.~n~Hold ~INPUT_VEH_SUB_ASCEND~ Ascend.~n~Hold ~INPUT_VEH_SUB_DESCEND~ Descend.~n~Press ~INPUT_VEH_EXIT~ ออก.
 	0x3074CBD5 = Ghostly
 	0x3089DD72 = Benefactor Bruiser Diamond Heavy Armor Grille
 	0x3091A19A = Bunker
@@ -18501,7 +18501,7 @@
 	0x4577E835 = Select the Punk playlist.
 	0x4583D47D = the Stockade
 	0x4587E3B2 = Expiration Date:
-	0x4589E78E = Exit the Aircraft
+	0x4589E78E = ออก the Aircraft
 	0x4595C761 = RESPOND
 	0x4602E3D0 = It's Carlos, you gotta pay the hospital for me ok? that hurt
 	0x4608D772 = Your Special/Personal Vehicle is not empty.
@@ -18515,7 +18515,7 @@
 	0x4643A569 = The guy's crying foul. Get away from him and his buddies and bring your car to the warehouse.
 	0x4645F216 = Gray Winter Boots
 	0x4651DCFE = Race to the ~y~fishing village. ~s~
-	0x4653A5CD = Exit to Ground
+	0x4653A5CD = ออก to Ground
 	0x4656FBDF = Declasse Tee
 	0x4662DED7 = The seller has sent a text message with target details. Use this information to identity and assassinate the correct target.
 	0x4668B003 = Amen, cowboy. You sent those Gospel Gangsters straight to hell.
@@ -18543,7 +18543,7 @@
 	0x4827FA29 = You can split your hand once if the first two cards have the same value. Drawing seven cards without going bust will automatically win.
 	0x4833C878 = Gun Car
 	0x4842B556 = Supplies are on route to the Bunker and will arrive shortly. Manufacturing will be suspended if you run out in the meantime but will continue once the supplies arrive.
-	0x4845EEF5 = Exit Disguise
+	0x4845EEF5 = ออก Disguise
 	0x4865E181 = The mechanic has not been paid.
 	0x4870A351 = Shrewsbury shareholders give board both barrels.
 	0x4878A2F9 = Tyler Dixon
@@ -18784,7 +18784,7 @@
 	0x5926A161 = Failed to deliver the ~a~
 	0x5931F1C1 = Badlands Revenge II
 	0x5933CAF0 = ~a~ ~s~lost the Deathmatch
-	0x5939F7C9 = All Exit the Arena Workshop.
+	0x5939F7C9 = All ออก the Arena Workshop.
 	0x5947A1B7 = Press ~INPUT_CONTEXT~ to jump from the Avenger.
 	0x5952DF90 = Enter the ~HUD_COLOUR_YELLOW~submarine.~s~
 	0x5953F880 = @warrenapedog3 The Bleeter diet: Take a picture of your meal, post it online, wait for people to comment, then throw the food away. High fiving myself right now.
@@ -19263,7 +19263,7 @@
 	0x8257D153 = You can also call in your Personal Aircraft, Pegasus aircraft or Motorcycle Club aircraft available through the Road Captain role to help protect the Cargo shipment.
 	0x8267BB99 = Dynasty in Ruins!
 	0x8278C796 = Prep Board
-	0x8278F58C = ~s~Exit the vehicle to open the chest.
+	0x8278F58C = ~s~ออก the vehicle to open the chest.
 	0x8283ED29 = Chaos
 	0x8285C6EA = -14 : 96   CAM_03/06
 	0x8292F562 = ที่จอดรถ: ทางหลวงเวสปุชชี 1
@@ -19432,7 +19432,7 @@
 	0x9028A980 = Mandatory
 	0x9032E202 = Olive Flip-Flops
 	0x9033B507 = Select a property to trade in. You won't make a profit when trading the property for a free property.
-	0x9035D436 = Exit the Clubhouse
+	0x9035D436 = ออก the Clubhouse
 	0x9040D190 = Gritty
 	0x9050C336 = Lonely sex-starved housewives want to meet you in a rest stop then be ravaged in the bushes. Have you ever fantasized about having an affair? Affairs are easy. Infidelity doesn't cause problems. People finding out does. It isn't healthy to repress natural urges. That's where we come in. Make a discrete connection with other adults who are unsatisfied in their relationships on HushSmush.com. Sign up now.
 	0x9050E672 = Vangelico jewelry stocks a waste of money.
@@ -19737,7 +19737,7 @@
 	0x17382B07 = Okay, just leave the cargo and they'll pick it up when you're out of there.
 	0x17654D46 = Mansman3~n~38~n~Doughy~n~Socially~n~Anything goes~n~
 	0x17701AD0 = Bed Cap
-	0x17814B5E = Straight Exit Exhausts
+	0x17814B5E = Straight ออก Exhausts
 	0x17871B8B = ถนนชอลลาสปริง
 	0x17885A26 = I wanted to say, nice work. Uncle Simeon is pleased with you. I'll be in touch.
 	0x17964DDE = GETAWAY VEHICLES
@@ -19871,7 +19871,7 @@
 	0x26640F55 = Saki
 	0x26731FAB = Medium
 	0x26809F43 = Magenta Long Gloves
-	0x26821AB6 = Kosatka Controls:~n~Press ~INPUT_CELLPHONE_CANCEL~ Fire Torpedoes.~n~Hold ~INPUT_VEH_SUB_ASCEND~ Ascend.~n~Hold ~INPUT_VEH_SUB_DESCEND~ Descend.~n~Press ~INPUT_VEH_LOOK_BEHIND~ to toggle Sonar.~n~Press ~INPUT_VEH_EXIT~ Exit.
+	0x26821AB6 = Kosatka Controls:~n~Press ~INPUT_CELLPHONE_CANCEL~ Fire Torpedoes.~n~Hold ~INPUT_VEH_SUB_ASCEND~ Ascend.~n~Hold ~INPUT_VEH_SUB_DESCEND~ Descend.~n~Press ~INPUT_VEH_LOOK_BEHIND~ to toggle Sonar.~n~Press ~INPUT_VEH_EXIT~ ออก.
 	0x26859AE3 = Pixie Blonde
 	0x26887EE5 = Welcome back
 	0x26944B16 = ถนนบาร์บาเรโน
@@ -19901,7 +19901,7 @@
 	0x29039B25 = 5th Place
 	0x29194B73 = Purchasing Bunkers unlocks from Rank 5.
 	0x29324A75 = Split Ten
-	0x29487E29 = Exit the Ruiner 2000 before it explodes.
+	0x29487E29 = ออก the Ruiner 2000 before it explodes.
 	0x29587C68 = You do not currently have a storage device selected. You must select a storage device before you can autosave. Autosaving will automatically overwrite save game data in the autosave slot. Do you want to select a storage device now?
 	0x29610F58 = Aberrant3
 	0x29654E2C = You dropped product.
@@ -19995,7 +19995,7 @@
 	0x35941E56 = You can not change your weapon loadout while passive mode is active.
 	0x35949F35 = Enter the Ramp Buggy
 	0x35951C3C = เล่นซ้ำ Unlocked. Access the เล่นซ้ำ Screen in the Facility to replay an act of The Doomsday Heist. There is a delay before you can replay the same act again.
-	0x35988DDB = All Exit Kosatka
+	0x35988DDB = All ออก Kosatka
 	0x36199BE8 = Chrome
 	0x36218AC1 = The Black Madonna mix has been added to LSUR.
 	0x36228A30 = แผงคุมหน้าเดิม
@@ -20368,7 +20368,7 @@
 	0x64187FE0 = Whether you're up close or a disconcertingly long way away, this weapon will get the job done. A powerful multi-range tool for your arsenal. You can access the Marksman Rifle from ร้านอาวุธอัมมู-เนชั่น.
 	0x64359F00 = ~a~ ~s~has killed ~a~.~s~
 	0x64395D7A = Is that you creeping around my home?
-	0x64540D42 = Mission aircraft are fitted with an engine kill switch. Exit the vehicle before it triggers.
+	0x64540D42 = Mission aircraft are fitted with an engine kill switch. ออก the vehicle before it triggers.
 	0x64566F66 = เส้นทาง added for ร้านอาวุธอัมมู-เนชั่น ~BLIP_GUN_SHOP~.
 	0x64816C26 = INFINITE REPAIR
 	0x64816F6E = Complete The Diamond Casino Heist as a crew member.
@@ -20492,7 +20492,7 @@
 	0x73915F07 = Point Scored
 	0x73939F21 = ~a~ scoped out a security camera.
 	0x74222CF3 = ~BLIP_INFO_ICON~ Is that a rocket in your pocket? Rockets picked up during GTA Online Races can be fired by pressing ~INPUT_VEH_HORN~
-	0x74304A68 = Exit the Office.
+	0x74304A68 = ออก the Office.
 	0x74315F6D = Service Entrance
 	0x74396A84 = WARNING: You are now visible ~HUD_COLOUR_RED~~BLIP_SIGHTSEER~~s~ to rival Nightclub owners.
 	0x74429B2E = Mission currently unavailable. Please wait and try again soon.
@@ -20920,7 +20920,7 @@
 	0x164189A6 = Vom Feuer Trailer
 	0x164785D7 = GTA Online: Reach Rank 25.
 	0x166410AF = LSIA
-	0x168264DF = Exit the vehicle to deliver the Goods.
+	0x168264DF = ออก the vehicle to deliver the Goods.
 	0x170462D3 = Wild Backside
 	0x171638E5 = <C>~a~</C>~s~ won the On The Run Challenge
 	0x174897DB = แฟรงคลิน
@@ -20966,7 +20966,7 @@
 	0x220984AB = The Nagasaki Stryder is now available on legendarymotorsport.net.
 	0x222274B7 = Press ~INPUT_CONTEXT~ to eat the Peyote.
 	0x222504C1 = Cocaine Lockup
-	0x223357C8 = All Exit Nerve Center
+	0x223357C8 = All ออก Nerve Center
 	0x227163FB = The Supplies were lost
 	0x227897E7 = Weeny Future Shock Issi Livery set
 	0x228432E6 = Lemon Sports Track Pants
@@ -21211,7 +21211,7 @@
 	0x543239B5 = Side Mounted Carbon Can
 	0x544654B9 = Aborting an in-progress hack will set off the alarm.
 	0x546063D1 = Target
-	0x546352F0 = Exit the Rockstar Editor and return to the Pause Menu.
+	0x546352F0 = ออก the Rockstar Editor and return to the Pause Menu.
 	0x546829EF = A Business Battle has started. Break into Grand Banks Steel Foundry ~HUD_COLOUR_YELLOW~~BLIP_BAT_CARGO~~s~ and steal the Goods. Deliver them to the Nightclub to earn Goods, เงิน and RP.
 	0x547531CD = Marina
 	0x548289C2 = The Vysser Neo is now available on legendarymotorsport.net.
@@ -21997,14 +21997,14 @@
 	0x8956481D = Stock Available
 	0x8970174E = Floral Denim Jacket
 	0x9023087A = Pink Tie Dye T-Shirt
-	0x9063667B = ~INPUT_SCRIPT_RT~ Fire~n~~INPUT_SCRIPT_RB~ Cycle turret right~n~~INPUT_SCRIPT_LB~ Cycle turret left~n~~INPUT_SCRIPT_LS~ ซูม~n~~INPUT_SCRIPT_RRIGHT~ Exit
+	0x9063667B = ~INPUT_SCRIPT_RT~ Fire~n~~INPUT_SCRIPT_RB~ Cycle turret right~n~~INPUT_SCRIPT_LB~ Cycle turret left~n~~INPUT_SCRIPT_LS~ ซูม~n~~INPUT_SCRIPT_RRIGHT~ ออก
 	0x9065342F = Collect Dixon from the ริชแมน Hotel
 	0x9076162A = Von Crastenburg Hotel
 	0x9090126C = ที่จอดรถ: ทางหลวงอินโนเซ้นท์
 	0x9093071B = Business Battles
 	0x9129408F = Let's Do This!
 	0x9157984F = ปล้นเดอะเมอรี่เวทเทอร์
-	0x9216115A = Retry from the last checkpoint?
+	0x9216115A = ลองอีกครั้ง from the last checkpoint?
 	0x9223268E = You are not able to purchase clothes while active in CEO Work or when a CEO Style is set.
 	0x9224554C = @JoshBernsteinRealtor From selling the dream to living the nightmare. I hope you sleep well tonight Lenny Avery. I'll be trying to extract the knife from my back.
 	0x9226321A = Once upgraded, exclusive mods that cannot be purchased anywhere else will become available for your vehicle here.
@@ -22339,10 +22339,10 @@
 	0x42353605 = The Ghost
 	0x42431234 = ARMS DEALERS
 	0x42600420 = Stay alive to increase your score
-	0x42632161 = Exit Avenger
+	0x42632161 = ออก Avenger
 	0x42635427 = Thank you for your order Mr. De Santa, your new ~a~ is now moored at your marina berth.
 	0x42674589 = ขาว Helmet
-	0x42811897 = Exit Nerve Center
+	0x42811897 = ออก Nerve Center
 	0x42868438 = Custom หน้า Bumper 4
 	0x42935796 = Another CEO or VIP is currently carrying out VIP Work.
 	0x43054776 = ความแข็งแรง: How long ไมเคิล can run, swim, or cycle at full speed before losing health due to over-exertion. Increase by practicing any of these disciplines as ไมเคิล.
@@ -22569,7 +22569,7 @@
 	0x66857685 = Follow the ~HUD_COLOUR_BLUE~Terrorbyte~s~ to the ~HUD_COLOUR_YELLOW~area.~s~
 	0x66912701 = Treasure Chests
 	0x67024141 = Neon Block Medium 2
-	0x67073104 = Exit the Garage.
+	0x67073104 = ออก the Garage.
 	0x67230010 = คนแปลกหน้าและคนประหลาด
 	0x67472066 = The arms dealer at this location is wearing heavy ballistic armor and will take more damage before going down.
 	0x67478173 = ~a~~a~
@@ -22941,7 +22941,7 @@
 	0xA089B79B = The ~a~ was destroyed
 	0xA093258D = Rocket Voltic
 	0xA093E06D = Your ~a~ will be delivered to your Mobile Operations Center shortly.
-	0xA094F8BC = Exit the Technical Aqua before it explodes.
+	0xA094F8BC = ออก the Technical Aqua before it explodes.
 	0xA097BCA9 = Invite All Players
 	0xA09ACCEE = Black Kicks
 	0xA09EF32E = Play GTA V for 15 hours in first person mode.
@@ -22988,7 +22988,7 @@
 	0xA0E5D2FC = Invade and Persuade II
 	0xA0E97D35 = Tailgate
 	0xA0E249C8 = the tunnel boring machine
-	0xA0E56390 = Exit the Casino.
+	0xA0E56390 = ออก the Casino.
 	0xA0E76197 = Light น้ำเงิน Ranch
 	0xA0EB2990 = Go to the Management area ~BLIP_AGATHA~ inside The Diamond Casino & Resort ~BLIP_CASINO~ to meet Ms. Baker.
 	0xA0EC1EBC = Hard Time Done
@@ -23225,7 +23225,7 @@
 	0xA5BD4826 = Stop ~a~ ~s~from delivering the container
 	0xA5BFE2E6 = Pacific Bait Storage
 	0xA5C4E09D = iFruit Radio
-	0xA5C17AB3 = Exit the Vehicle Workshop
+	0xA5C17AB3 = ออก the Vehicle Workshop
 	0xA5C7829A = Complex time trial that takes you from the glamourous peaks of the ไวน์วูดฮิลส์ to the grimey troughs of the เกรปซีด shoreline. Sober up fast - there's no easy route.
 	0xA5CA9D56 = ยกเลิก
 	0xA5CE0E78 = Only available once the Bodyguard Uniform is set.
@@ -23341,7 +23341,7 @@
 	0xA7CC1F09 = Go to ~y~ชายฝั่งแซนดี Airfield.
 	0xA7CD77A7 = The Spectre
 	0xA7CF180C = Police Rancher
-	0xA7D0736A = Display emblem inside your Facility. Exit Facility to allow changes to take effect.
+	0xA7D0736A = Display emblem inside your Facility. ออก Facility to allow changes to take effect.
 	0xA7D9FB43 = Selecting to hide the current Business Battle will remove you from the Event and prevent you returning if you then choose to show it again. Are you sure you want to hide this Business Battle?
 	0xA7D822A5 = The leading realtor in Los Santos and Blaine County.
 	0xA7D14390 = An evil wizard has kidnapped Grog and stolen him away to a terrifying fortress. Now Thog must fight through enchanted forests, ghastly swamps, labyrinths of decay and battle terrifying enemies to rescue his brother with only his mighty sword and magical engorging potions found along the way.
@@ -23648,7 +23648,7 @@
 	0xA62F3EC9 = @AntonBeaudelaire My experience as an auteur / visionary taught me that great art isn't possible without suffering. Well, now I know that shit commercial art (?) comes with its share of suffering too
 	0xA62FD6B7 = Pink Retro Bubble
 	0xA63B1167 = Please... dig me out of this... buy one of those spaces on Maze Bank and we will open a club Tx
-	0xA63C1D1C = Exit Office via Helicopter
+	0xA63C1D1C = ออก Office via Helicopter
 	0xA63CADFF = ~a~ ~a~ ~a~
 	0xA63D9F46 = Return not currently available.
 	0xA63D25C2 = Wait for the other ~HUD_COLOUR_BLUE~limousine.~s~
@@ -23905,7 +23905,7 @@
 	0xA793E4A3 = MS But 8
 	0xA795D6DF = Collection Bonus
 	0xA805D5E1 = Bomb B
-	0xA823F291 = Exit the ~HUD_COLOUR_YELLOW~Casino.~s~
+	0xA823F291 = ออก the ~HUD_COLOUR_YELLOW~Casino.~s~
 	0xA828DDEE = ลอสซานโตส คัสตอม
 	0xA837A655 = *placeholder* The Black Madonna Bio
 	0xA838F8F9 = UP
@@ -24152,7 +24152,7 @@
 	0xA572623E = the Riot
 	0xA587990E = Custom Hood 6
 	0xA608461C = ~1~ ally survived
-	0xA626249A = Exit Trailer
+	0xA626249A = ออก Trailer
 	0xA654040F = Glenn Scoville
 	0xA669297E = You collected a Spaceship Part.
 	0xA686892B = Bilingsgate Motel
@@ -24187,7 +24187,7 @@
 	0xA1816764 = Cool Beans coffee shops announce ladies night on Fridays for frigid females.
 	0xA1975354 = Score over 5000 points in a single play of Penetrator.
 	0xA1981027 = Search the ~HUD_COLOUR_RED~NOOSE vans~s~ for the weapons.
-	0xA2427376 = Exit vehicle to enter store.
+	0xA2427376 = ออก vehicle to enter store.
 	0xA2556180 = Setup Complete
 	0xA2586271 = Your Kosatka is already surfaced.
 	0xA2760596 = Gives you access to the following weapons:~n~- Sweeper Shotgun~n~- Ceramic ปืนพก~n~- มีดสวิตช์เบลด
@@ -24237,7 +24237,7 @@
 	0xA9042992 = Repair
 	0xA9050923 = The mechanic has not been paid.
 	0xA9306601 = ~BLIP_INFO_ICON~ Weapon and ammo pickups can only be collected if you are running low on ammo or don't have that weapon already.
-	0xA9394629 = Exit the Avenger Vehicle Workshop
+	0xA9394629 = ออก the Avenger Vehicle Workshop
 	0xA9540058 = Steal rival Air-Freight Shipments ~HUD_COLOUR_GREEN~~BLIP_SM_CARGO~~s~ and deliver them to your VIP's Hangar.
 	0xA9777186 = Vivisection T-Shirt
 	0xA9817088 = Van
@@ -24502,7 +24502,7 @@
 	0xABC66ED9 = เวสปุชชี Job Cop + ขาว Robber
 	0xABC345B8 = Change Hair
 	0xABCAF85B = Casino Pants
-	0xABCB0636 = Change Exit Disguise
+	0xABCB0636 = Change ออก Disguise
 	0xABCB74F4 = Go to dynasty8realestate.com and purchase an executive Office to unlock exclusive CEO content.
 	0xABCBD704 = Is It Hypoallergenic?
 	0xABCE66B0 = 26:31 SECOND
@@ -24780,7 +24780,7 @@
 	0xADCC0013 = Bone Skull
 	0xADCFBCB0 = ม่วง Cargos
 	0xADD00550 = SOUTH GATE
-	0xADD5DD0B = Exit the Garage
+	0xADD5DD0B = ออก the Garage
 	0xADD8CB2F = This feature is not available now. Please come back later.
 	0xADD24BB8 = You have placed bets on this Freemode activity.~n~You have bet a total of $~1~
 	0xADD85ED6 = Ron
@@ -24948,7 +24948,7 @@
 	0xAF4B3B10 = Support Crew
 	0xAF4B5615 = Replace
 	0xAF4F16A6 = Buzzer Beater
-	0xAF5F3A9E = Exit the Arena Workshop.
+	0xAF5F3A9E = ออก the Arena Workshop.
 	0xAF6EC484 = Your new vehicle will be delivered to the Hangar shortly.
 	0xAF7AD732 = That's what I'm talking bout. Making snaps, homie. Good work.
 	0xAF7B8667 = Hooker
@@ -25012,7 +25012,7 @@
 	0xAFB64F70 = Preview the Old Spice: Classical decor. A new look for your Office.
 	0xAFB462F7 = You collected a package.
 	0xAFB4316B = น้ำเงิน Digital Tactical Ski
-	0xAFB78017 = Exit Facility
+	0xAFB78017 = ออก Facility
 	0xAFBCB53D = In order to purchase this vehicle you must fulfill the following criteria:~n~- Own a Terrorbyte.~n~
 	0xAFBD9065 = You can't renovate your Nightclub whilst on this mission.
 	0xAFC1D9E7 = ~BLIP_INFO_ICON~ Personalize your clothing with Crew emblems to represent your criminal brethren.
@@ -25788,7 +25788,7 @@
 	0xB48C37FC = BF Surfer Tee
 	0xB48F4F65 = You can't use the Visual Scanner while there is a passenger.
 	0xB49E4C5C = No Properties Found
-	0xB49F77FA = Exit the ~y~tunnel.~s~
+	0xB49F77FA = ออก the ~y~tunnel.~s~
 	0xB50C242A = RIFLE LOADOUT
 	0xB50CDD4D = We have contact. Supplies should be intact so pick them up.
 	0xB50EBAC9 = Space Creature outfit set
@@ -25968,7 +25968,7 @@
 	0xB137D3A1 = Dixon's pals deserve better than this. Get down! Sort it out, mate.
 	0xB143A597 = Stickerbomb Hood
 	0xB152CB04 = Soft Hand~n~~a~
-	0xB156FBED = Exit the ~HUD_COLOUR_YELLOW~archive.~s~
+	0xB156FBED = ออก the ~HUD_COLOUR_YELLOW~archive.~s~
 	0xB166F37C = Radio Los Santos stocks up: Hip Hop Hooray!
 	0xB169E095 = สเกิร์ตคาร์บอน
 	0xB202E72A = Floor
@@ -26220,7 +26220,7 @@
 	0xB6349EBE = You realize you're a flying tank? Use the big gun to take down those pursuing helicopters.
 	0xB6435A7D = 3 new items
 	0xB6694F54 = You need to restart weapons manufacturing or research before you can acquire more supplies.
-	0xB6708D6D = Exit to the Roof.
+	0xB6708D6D = ออก to the Roof.
 	0xB6725BFD = VAN HEALTH
 	0xB6735AB3 = ~BLIP_ROULETTE_22~
 	0xB6806A96 = Steal a motorcycle
@@ -26311,7 +26311,7 @@
 	0xB68828E3 = the Special Carbine
 	0xB69018B8 = RE:RE:RE:Hi sexy
 	0xB69585D2 = URGENT: there's been a raid on one of our warehouses. Surveillance made the vehicle, tracking on your GPS now. Get it back before we lose them for good.
-	0xB69838D4 = Exit Rockstar Editor
+	0xB69838D4 = ออก Rockstar Editor
 	0xB70313B1 = Apply
 	0xB71517F0 = น้ำเงิน Lights
 	0xB71887C9 = Mashed! The Barrel Fever Boys put you in your grave.
@@ -26332,7 +26332,7 @@
 	0xB85231B4 = Choose your Office and Service Entrance access setting.
 	0xB85279A0 = Purchasing Office Garages unlocks from Rank 5.
 	0xB85308D1 = Futuristic Panel Armor
-	0xB85638A4 = Retry Mission
+	0xB85638A4 = ลองอีกครั้ง Mission
 	0xB85705A1 = Organization
 	0xB87003CC = Failed to deliver the Goods to the Buyer
 	0xB88616A7 = Tobacco & Alcohol
@@ -26721,7 +26721,7 @@
 	0xBBA69C45 = Well shit. Someone beat us here. We still need those supplies, so don't play nice.
 	0xBBABABF4 = Vehicle Remote Functions are unavailable for this vehicle.
 	0xBBAE1558 = Stunt Misc
-	0xBBAEC73F = Exit the ~a~.
+	0xBBAEC73F = ออก the ~a~.
 	0xBBB8C41B = Invite Confirmation
 	0xBBB49B46 = ~a~~s~ held the area
 	0xBBB52CE9 = Slideways
@@ -27125,7 +27125,7 @@
 	0xBEADC173 = 4 new items
 	0xBEAF06E7 = Email Address:
 	0xBEAF1091 = It's hard to measure success, but when you're on a car website and several thousand dollars is the 'affordable option', we think it's fair to say you're doing ok for yourself. Perfect for the middle-aged man trying to get back in the dating game after a divorce. No room for kids. Just enough room for a 90-pound blonde in her early 20s who, thanks to growing up in the Internet age, thinks anal on the first date makes sense.
-	0xBEB1DAD9 = Exit
+	0xBEB1DAD9 = ออก
 	0xBEB19DB5 = Complete your path to enlightenment... or not.
 	0xBEB277BF = Hardest Target
 	0xBEB38176 = The plate must be changed so it cannot be tracked by the cops.
@@ -27315,7 +27315,7 @@
 	0xBFFF3446 = Stock Seats
 	0xC0018890 = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x Fever 105 T-Shirt
 	0xC001994B = This one should be easy - we have the make and model of the car. It's a white 9F. ~nrt~ <img src='img://VC_TC_VEHICLECCTV/VC_TC_VEHICLECCTV_5' vspace='0' width='252' height='150'/> ~nrt~
-	0xC001D101 = Exit vehicle to investigate the Peyote.
+	0xC001D101 = ออก vehicle to investigate the Peyote.
 	0xC00B403F = ขอเป็นเพื่อน
 	0xC00C550F = Juggernaut
 	0xC00D0811 = THIS LABEL NEEDS TO BE HERE !!!
@@ -27895,7 +27895,7 @@
 	0xC9C9557D = GIVE YOUR CAR A BOOST
 	0xC9CA20A8 = MUNITIONS
 	0xC9CC8F06 = MTL Nightmare Cerberus
-	0xC9CD260E = Exit to the Roof Terrace.
+	0xC9CD260E = ออก to the Roof Terrace.
 	0xC9CEAF81 = Go to the Nightclub ~BLIP_BAT_CLUB_PROPERTY~ and access the office computer to assign your Warehouse Technicians to any available types of Goods via the Warehouse Management Page.
 	0xC9CFF702 = Heist Impact:~n~Infiltrate the main dock using one of the following approach vehicles if acquired: ~n~ - Kosatka ~n~ - Patrol Boat ~n~ - Longfin
 	0xC9D06694 = I'm picturing it with Lenny's face
@@ -28066,7 +28066,7 @@
 	0xC46E8788 = Moss Armored
 	0xC46F8200 = You got a problem slingin lead now or something?  $~1~ just for originality!
 	0xC47BBF04 = LEVEL 2 PASS
-	0xC47EF65A = All Exit to Penthouse Garage
+	0xC47EF65A = All ออก to Penthouse Garage
 	0xC48BC6B4 = SUPPLIES B
 	0xC48D5824 = @usafrankieg Now they've breached the IAA headquarters! The heart of our security machine! This is what happens when you go soft on Iraq! I told you an attack was coming! Why does no one read my bleets!
 	0xC48E547A = To purchase this vehicle at a reduced cost, please complete the finale of The Prison Break.
@@ -28235,7 +28235,7 @@
 	0xC93E835A = Flecktarn Tactical
 	0xC94D715E = Recover the ~a~.
 	0xC94D1310 = Details:~n~Access to the following weapons:~n~- Military Rifle~n~- ปืนพก .50~n~- Sticky Bombs~n~- Knuckle Duster
-	0xC95A268A = Exit Arcade Basement
+	0xC95A268A = ออก Arcade Basement
 	0xC95DD1AA = Steer with ~INPUT_CELLPHONE_LEFT~/~INPUT_CELLPHONE_RIGHT~ or ~INPUT_MOVE_LEFT_ONLY~/~INPUT_MOVE_RIGHT_ONLY~.~n~Accelerate with ~INPUT_CELLPHONE_UP~ or ~INPUT_VEH_ACCELERATE~.~n~Brake with ~INPUT_DUCK~ or ~INPUT_VEH_BRAKE~.~n~Shift gears with ~INPUT_SPRINT~.~n~Hold ~INPUT_FRONTEND_DELETE~ to quit the game at any time.
 	0xC95FB677 = Alien BBQ!
 	0xC97B27A9 = Select the vibrant interior. A bright and colorful look for your apartment.
@@ -28448,7 +28448,7 @@
 	0xC2229B12 = Razor Rock Dive
 	0xC2245BE8 = Blackjack
 	0xC2306A59 = Destroy Vehicle
-	0xC2419FAE = All Exit Warehouse
+	0xC2419FAE = All ออก Warehouse
 	0xC2423F4B = Turbo charger and chassis now in, or pimp it with wheels, armor or other new upgrades!
 	0xC2462BF3 = 4:3
 	0xC2637F5D = ชูมาช Pier
@@ -28776,7 +28776,7 @@
 	0xCA7E3E57 = NUMPAD =
 	0xCA7EE1F8 = Press ~INPUT_CONTEXT~ to hack the security panel.
 	0xCA8B4B8D = Customize Cab
-	0xCA8CD4E1 = ที่ล้างรถ
+	0xCA8CD4E1 = บริการล้างรถ
 	0xCA9FAD6B = Patrick McReary's Cut
 	0xCA14D88A = Sea Urchin
 	0xCA20BF27 = Wait for ~a~ to select a weapon.~n~~a~ - Joined
@@ -28800,7 +28800,7 @@
 	0xCA96AEB6 = top floor
 	0xCA97E626 = ที่จอดรถ: 8754 ถนนเร้าท์ 68
 	0xCA99DC86 = Antique
-	0xCA99ED81 = Exit to Cab
+	0xCA99ED81 = ออก to Cab
 	0xCA153D82 = MC emblems are not available with the selected style.
 	0xCA240DA6 = The image that Pavel sent can be used to identify the head of security once you are inside the penthouse.
 	0xCA291D2A = Atomic เหลือง
@@ -29039,7 +29039,7 @@
 	0xCC2A6319 = SELL STOCK
 	0xCC2B0D75 = The mission you have selected is currently unavailable. The maximum number of missions with this Heist Prep Equipment have already been sourced in session. Please wait or look for rival Heist crews transporting Heist Prep Equipment ~BLIP_NHP_BAG~ to steal from.
 	0xCC2C91D2 = Happy holidays from Rockstar, have these gifts on us:~n~1 x ~a~~n~1 x Firework Launcher~n~10 x Fireworks~n~1 x Emotion 98.3 Top
-	0xCC2ECE9B = Exit the Workshop
+	0xCC2ECE9B = ออก the Workshop
 	0xCC3C9848 = Race to ~y~O'Neil's ranch.
 	0xCC3EB726 = 2/1 (x2.000)
 	0xCC3F501B = Purchase the Heavy Armor Plating for the HVY Insurgent Pick-Up Custom at a Vehicle Workshop inside a Mobile Operations Center or Avenger.
@@ -29391,7 +29391,7 @@
 	0xCE4456E8 = Fort Zancudo
 	0xCE4549AA = Resize
 	0xCE7984F7 = ลีเจียนสแควร์
-	0xCE8006DD = Exit
+	0xCE8006DD = ออก
 	0xCE14832F = Here's an interview from one of our members about how Epsilonism has changed his life
 	0xCE18202D = Numbered 4
 	0xCE53405E = Nuke'Em from Orbit!
@@ -30460,7 +30460,7 @@
 	0xD77ED970 = Rifle loadout
 	0xD78A81F2 = ที่จอดรถ: Eclipse Towers 40
 	0xD78DE736 = Select a property to trade in.
-	0xD80B9720 = Exit The Music Locker
+	0xD80B9720 = ออก The Music Locker
 	0xD80BB6A0 = Smugglers moving a shipment through our patch. You gonna deal with them, or let them walk all over us?
 	0xD80E8459 = Olive Tactical Ski
 	0xD80F5558 = This Mobile Operation is unavailable whilst you are taking part in another mission.
@@ -30630,7 +30630,7 @@
 	0xD454CE08 = LS Customs fights whistle tip law. Says complaints are only in the morning.
 	0xD468AE40 = Trash Or Treasure Tee
 	0xD470DCC5 = Alex
-	0xD478A039 = ~s~Exit the vehicle to investigate the clue.
+	0xD478A039 = ~s~ออก the vehicle to investigate the clue.
 	0xD492FBAB = ~a~~a~~a~~nrt~ <img src='img://BAT_CASE_14/BAT_CASE_14'  vspace='0' width='252' height='300'/> ~nrt~
 	0xD497CB67 = Travel to เกรปซีด and recover the champagne for Palms Trax to be delivered back to The Music Locker.
 	0xD497F73C = Bomb
@@ -30905,7 +30905,7 @@
 	0xD45254AA = ลาเมซา
 	0xD46099BF = Warning: One of your Associates has stolen rival Heist Prep Equipment. Your Doomsday Heist Challenge progress will be reset if this is delivered.
 	0xD47658E7 = Transitions
-	0xD49777E6 = Retry : ~a~
+	0xD49777E6 = ลองอีกครั้ง : ~a~
 	0xD50147AC = ชายหาดเวสปุชชี
 	0xD50615AC = Procopio Beach
 	0xD54369D9 = Delivery not currently available.
@@ -30930,7 +30930,7 @@
 	0xD68353B3 = Verifying game ownership failed and your offline activation data could not be loaded.~n~Please verify your internet connection and restart Grand Theft Auto V.
 	0xD69580A6 = See those law-abiding looking fellas? They're holding the stuff. Make it quick.
 	0xD70893B4 = Are you sure you want to permanently delete the marked videos?
-	0xD71148A6 = Side Exit Exhaust
+	0xD71148A6 = Side ออก Exhaust
 	0xD71840BC = พิลบ็อกซ์ฮิลล์
 	0xD72068C5 = ถนนกรีนิช
 	0xD74144F5 = You have changed your appearance too often, the option will be available again in 0~1~:~1~.
@@ -30972,7 +30972,7 @@
 	0xD97742E0 = Beige Boots
 	0xD98002F6 = ~a~ ~a~ ~a~ (Scrapped)
 	0xD99605D5 = You wish to subscribe to the Rockstar Games Mailing List.
-	0xD148211A = Exit the ~HUD_COLOUR_YELLOW~Avenger.~s~
+	0xD148211A = ออก the ~HUD_COLOUR_YELLOW~Avenger.~s~
 	0xD159839E = Pacific Standard Bank
 	0xD175996E = Purchase a Weed Farm from the The Open Road site inside your clubhouse to manage it from the Master Control เทอร์มินอล
 	0xD186878C = Wastelander
@@ -30982,7 +30982,7 @@
 	0xD200547F = Hipster Shaved Blond
 	0xD220956B = Pink Slips
 	0xD235723F = Unfortunately we cannot complete this transaction.
-	0xD266032C = Exit
+	0xD266032C = ออก
 	0xD285124D = FORECLOSURES_MAZE_D_BANK_COM
 	0xD318396C = Gold Diamond Earrings
 	0xD326277E = The hacking device must be acquired before you can use this.
@@ -30994,7 +30994,7 @@
 	0xD462637D = Escape through the ~HUD_COLOUR_YELLOW~subway tunnels.
 	0xD538282A = Your ~a~ has been destroyed and will be returned to the Garage in your Nightclub.
 	0xD580838B = Nobody won the Hit and Ride Challenge
-	0xD599711C = Likely where they'll be waiting with Agent 14. Lots of cover if things go south too.
+	0xD599711C = Likely where they'll be waiting with ตัวแทน 14 Lots of cover if things go south too.
 	0xD637238C = Aztec Sequin
 	0xD653918E = Purchase of this Clubhouse has been cancelled.
 	0xD660106D = Artwork by Unknown
@@ -31496,7 +31496,7 @@
 	0xDCCD7369 = @alderneyedwin23 ขาว supremacists carry out professional hit on Azerbaijani man in ชูมาช. At least that's what me and my roommate are telling everyone.
 	0xDCCDC763 = Allow all nearby players into your Yacht.
 	0xDCCE6CDE = Person of Interest
-	0xDCCEDB69 = LIKE CHASTITY
+	0xDCCEDB69 = ความชอบชาสทิตี้
 	0xDCD5E38C = NEW GERALD MISSIONS AVAILABLE: Go to ~BLIP_GERALD~~s~ or access these missions now via the Online section of the Pause Menu.
 	0xDCD313A6 = BASE DEFENSES
 	0xDCDD2AE6 = The Dealer has ~a~ higher than yours. You lose.
@@ -31603,7 +31603,7 @@
 	0xDD567237 = Jackers
 	0xDD590646 = Junk - all the calories, sugar and caffeine you need to live life at 120mph. Plug in. Charge up. Get wired. Play hard. Sweat hard. Stay hard. Crank the ignition. Shift up. Accelerate life.
 	0xDD719267 = Are you sure you want to restart weapons research and manufacturing?
-	0xDDA04434 = Exit the Arena Workshop and access the ช่องเก็บของ section of the Interaction Menu to play with your RC Bandito.
+	0xDDA04434 = ออก the Arena Workshop and access the ช่องเก็บของ section of the Interaction Menu to play with your RC Bandito.
 	0xDDA06437 = Discount Retail Unit
 	0xDDA067BF = หน้ากาก
 	0xDDA4EABF = Your Kosatka ~BLIP_SUB2~ has been destroyed.
@@ -31623,7 +31623,7 @@
 	0xDDB06777 = Midnight
 	0xDDB0DC95 = Sexual and spiritual repression have dulled your instincts and clouded your judgment. You are intellectually bereft, but personal awareness and accountability are the keys to empowerment. Only by surrendering ego and embracing futility, and we can begin to truly utilize our completeness in a new dimension.~n~~n~This puzzle was a test that you will of course fail, but you learned an essential life lesson.
 	0xDDB2B8F4 = Enter ~a~~s~ to join a Target Assault Series or go on call to remain in Freemode until the Race is about to start.
-	0xDDB56F38 = Exit the Clubhouse.
+	0xDDB56F38 = ออก the Clubhouse.
 	0xDDB521BC = Surveillance
 	0xDDB6524D = Acquaintances of the couple say that Rogan was consumed by jealousy and paranoia about Leonora's many rich and famous male suitors in the entertainment industry. She broke off the relationship after two months when he started following her to work and weeping during sex. Police records show that she had to take out a restraining order against him in 1973.
 	0xDDBBA41E = You can't set your Office layout whilst players are playing "Don't Cross The Line".
@@ -31844,7 +31844,7 @@
 	0xDF75F684 = Purchase the 7.62mm ปืนมินิกัน for the Karin Technical Custom at a Vehicle Workshop inside a Mobile Operations Center or Avenger.
 	0xDF83B2B5 = Orion
 	0xDF98F79F = Bilkinton penis pill stocks deflate.
-	0xDF142B88 = All Exit to Penthouse
+	0xDF142B88 = All ออก to Penthouse
 	0xDF457A42 = Are you sure you want to start production?
 	0xDF706DB7 = Classic Punk brought to you by legend Keith Morris.
 	0xDF831F63 = tight little setup dug into the side of textile city. great central location.  permanent scaffolding out front to keep things low key.
@@ -32303,7 +32303,7 @@
 	0xE5DDCD72 = You can split your hand once if the first two cards have the same value. The same bet amount must be bet for the split hand.
 	0xE5DE7BA8 = 6 new items
 	0xE5DE491C = ~a~~HUD_COLOUR_WHITE~ bombed you.
-	0xE5DEDF93 = All Exit Arcade
+	0xE5DEDF93 = All ออก Arcade
 	0xE5E3C474 = the ~HUD_COLOUR_BLUE~Tampa.
 	0xE5E5E863 = Rev up your truck and race at breakneck speeds across America as you and your canine companion avoid obstacles like slow drivers and the occasional wandering sasquatch to beat the clock and take home glory.
 	0xE5E79030 = เรือเหาะ
@@ -32774,7 +32774,7 @@
 	0xE81DC18A = @lillianmose @aarontemple stop phoning me!!!! what part of "id rather get a root canal than lay eyes on you again" don't you understand????
 	0xE81DDBB3 = Collect the friends
 	0xE82D2109 = Hero Bodysuit set
-	0xE82E44DC = Exit the ~HUD_COLOUR_YELLOW~house.~s~
+	0xE82E44DC = ออก the ~HUD_COLOUR_YELLOW~house.~s~
 	0xE82EC658 = 195 seconds
 	0xE83A932B = Poopie
 	0xE83DE744 = HELICOPTER
@@ -32957,7 +32957,7 @@
 	0xE597D5CE = Participate in Bombushka Run.
 	0xE598C080 = Landing Ring 4pt
 	0xE598EE8E = Someone is modding a motorcycle.
-	0xE600F80B = Exit the Office.
+	0xE600F80B = ออก the Office.
 	0xE610FB47 = ฮาวิค
 	0xE614AFBB = 1st
 	0xE618C856 = Register as a VIP, CEO or MC President to gain access to the Planning Screen.~n~Press ~INPUT_SCRIPT_RRIGHT~ to stand up.
@@ -33438,7 +33438,7 @@
 	0xEA8223B6 = Moss Tactical Ski
 	0xEA8332FA = Me? Get real.
 	0xEA38647B = Black Skinny Tie
-	0xEA52941F = Director Mode is currently inaccessible.~n~~n~Director Mode is only available when GTAV Story Mode is running and you are not on a mission, in a vehicle or wanted by the cops. It may also be inaccessible while indoors in certain locations.~n~~n~Anytime you preview or edit a clip in the Rockstar Editor, your GTAV Story Mode game must be terminated in order to display the clip events. Exit back to Story Mode in order to access Director Mode.
+	0xEA52941F = Director Mode is currently inaccessible.~n~~n~Director Mode is only available when GTAV Story Mode is running and you are not on a mission, in a vehicle or wanted by the cops. It may also be inaccessible while indoors in certain locations.~n~~n~Anytime you preview or edit a clip in the Rockstar Editor, your GTAV Story Mode game must be terminated in order to display the clip events. ออก back to Story Mode in order to access Director Mode.
 	0xEA78017A = KOMODA
 	0xEA78771D = Go to Garage Level B2.
 	0xEA99639B = Empty head and a great rack? Panic Girl cheerleader tryouts begin today.
@@ -33614,7 +33614,7 @@
 	0xEBBAAE4D = ภารกิจผ่าน
 	0xEBBDE6AC = Skull Cross
 	0xEBC1B16D = South Gate
-	0xEBC4F2F5 = Exit to Ground
+	0xEBC4F2F5 = ออก to Ground
 	0xEBC8B8EC = Numbered แดง 10
 	0xEBC24974 = Interior
 	0xEBCAD6EA = Cop
@@ -33627,7 +33627,7 @@
 	0xEBCEE19F = Painting by Madam V
 	0xEBCFBA08 = ลอสซานโตส คัสตอม
 	0xEBD0D818 = Directions to this property have been sent to your GPS.
-	0xEBD0F2C8 = Exit Warehouse
+	0xEBD0F2C8 = ออก Warehouse
 	0xEBD1D8F0 = Born in the fires of Mt. Fuji and tested on some German toll road, you can finally legally own this legendary supercar slayer without the fear of having your door kicked in by the FIB because they'd rather crush import cars than catch terrorists.
 	0xEBD2CB9C = the ~HUD_COLOUR_RED~Bestia GTS.
 	0xEBD9A2B0 = Your Team is ~1~ points behind
@@ -33666,7 +33666,7 @@
 	0xEC073672 = Decker Park
 	0xEC0C4953 = Pour the chemicals into the broken ~HUD_COLOUR_YELLOW~ventilation unit.~s~
 	0xEC0F1269 = Are you sure you want to book Dixon for $~1~?
-	0xEC1ADA8C = Exit Warehouse
+	0xEC1ADA8C = ออก Warehouse
 	0xEC1F7111 = The Trending
 	0xEC1FA3E5 = Please detach the vehicle from the คาร์โกบ็อบ to proceed.
 	0xEC2B58B9 = Steal Supplies
@@ -34063,7 +34063,7 @@
 	0xEEE1FC62 = You can't buy an Arcade whilst it holds stock.
 	0xEEE5E82C = Drive off the ramp before the timer runs out
 	0xEEE65CB8 = Join a public session to access the Arcade Management app. ~n~Press ~INPUT_FRONTEND_RIGHT~ to stand up.
-	0xEEE84DF9 = All Exit Penthouse
+	0xEEE84DF9 = All ออก Penthouse
 	0xEEE4484E = You failed to deliver the vehicle
 	0xEEE47541 = CAREFUL - those idiots decided to stand their ground at a gas station!! Those pumps could explode at any second.
 	0xEEE49741 = Go to the Penthouse Garage.
@@ -34210,7 +34210,7 @@
 	0xEFD385E6 = Taupe Cargo Pants
 	0xEFD5291D = The Wayfarer
 	0xEFDF5AC9 = ไวน์วูด Flyby
-	0xEFE7FB42 = Exit
+	0xEFE7FB42 = ออก
 	0xEFE19E2C = Wait for the ~HUD_COLOUR_RED~Cops~s~ to leave the area.
 	0xEFE400F9 = Good-For-Nothing
 	0xEFE404FD = In order to purchase and store the Avenger, please purchase a Facility property from foreclosures.maze-bank.com.
@@ -34334,7 +34334,7 @@
 	0xF0B3B542 = Kinetic Mines
 	0xF0B3FC5C = Press ~INPUT_FRONTEND_ACCEPT~ to return to Menu.
 	0xF0B5E7C5 = Rewards have been unlocked for completing all weapon challenges in tier 3 of the สนามยิงปืน.
-	0xF0B22A1F = Access the touch screen computer inside the Mobile Operations Center to launch missions for Agent 14.
+	0xF0B22A1F = Access the touch screen computer inside the Mobile Operations Center to launch missions for ตัวแทน 14
 	0xF0B32CAC = You performed a classic blitz play.
 	0xF0B59B2A = Update: Looks like Merryweather pinged out an แจ้งเตือน on your team. Get the container to the drop-off before your คาร์โกบ็อบ is shot out of the sky.
 	0xF0B62F35 = Pegassi Infernus
@@ -34507,7 +34507,7 @@
 	0xF3F375B6 = Allow all nearby players into your Office Garage.
 	0xF3F75146 = Cross Fade
 	0xF3FB670E = 5 new items of clothing available
-	0xF3FCC729 = Exit the security cameras or look for additional areas of interest.
+	0xF3FCC729 = ออก the security cameras or look for additional areas of interest.
 	0xF3FE5F1A = Green Sequin
 	0xF3FF323F = You cannot enter the Bunker with another player's Mobile Operations Center.
 	0xF4A0C8AB = ปืนเอสเอ็มจีจู่โจม - คลิปขยาย
@@ -34558,7 +34558,7 @@
 	0xF5A5CB98 = The trailer has become disconnected from the truck cab. Shoot the hinges on the trailer ~HUD_COLOUR_RED~~BLIP_TRAILER~~s~ to release the Enus Stafford.
 	0xF5A85F9C = Your techs might have something. Get back to the lab and look at the fruits of their research.
 	0xF5A7600C = Grab a trash bag from the rear of the ~HUD_COLOUR_BLUE~Trashmaster.~s~
-	0xF5AA8FC0 = Exit Warehouse
+	0xF5AA8FC0 = ออก Warehouse
 	0xF5AA73AD = สถานีตำรวจ
 	0xF5AA1641 = Are you sure you'd like to rebook ~a~ for $~1~ and make him your resident DJ?
 	0xF5AA3908 = ปืนเอ็มจี - คลิปขยาย
@@ -34973,7 +34973,7 @@
 	0xF52F92D8 = Casino - House Keeping
 	0xF52FAAAD = Options for who can access the Kosatka.
 	0xF53A771F = Gunner
-	0xF53BCDE7 = Exit the Garage.
+	0xF53BCDE7 = ออก the Garage.
 	0xF53D1F45 = Tribe Backside
 	0xF53DE682 = Medium
 	0xF54A3F6E = Enter the elevator ~BLIP_ELEVATOR~ to see your new Penthouse.
@@ -35264,7 +35264,7 @@
 	0xF768DB8A = You need to purchase the Anti-Aircraft Trailer from the Warstock Cache & Carry website.
 	0xF768F0F4 = Take Patrick McReary to his ~HUD_COLOUR_YELLOW~safehouse.~s~
 	0xF771C8E3 = BASE HEALTH
-	0xF777C139 = All Exit to the Penthouse
+	0xF777C139 = All ออก to the Penthouse
 	0xF782C2F0 = New sponsorship tier, new item of clothing. Time to go shopping!!
 	0xF787B6C1 = 0112 ใต้ ถนนร็อคฟอร์ด, 13
 	0xF802D543 = Equipped:~n~Rebreather
@@ -35275,7 +35275,7 @@
 	0xF831B647 = RE: Homie!!!
 	0xF833F4AB = Take out the ~a~.
 	0xF847D17A = ULSA
-	0xF847E051 = Exit Disguise
+	0xF847E051 = ออก Disguise
 	0xF854FD60 = Antennas repaired: ~1~/10
 	0xF856C43A = Fill a Titan with players and fly it
 	0xF863E436 = You are unable to access the Mobile Operations Center in this area. Move the Mobile Operations Center to a suitable area.
@@ -35328,7 +35328,7 @@
 	0xF1542FFB = SUPPORT CREW
 	0xF1577A81 = Memorize the final positions of the signal nodes then repeat the pattern.
 	0xF1625F88 = This vehicle cannot be stored in your Garage - it has been stolen and has a tracker. Visit the websites in the Travel and Transport section to purchase vehicles.
-	0xF1970C79 = Exit the vehicle.
+	0xF1970C79 = ออก the vehicle.
 	0xF2039BA3 = Purchase the Large, Medium and Small Digital liveries for applicable Weaponized ยานพาหนะ at a Vehicle Workshop inside a Mobile Operations Center or Avenger.
 	0xF2109C0F = Sculpture by Oz Bisset
 	0xF2127DF9 = You can't enter this Bunker while acquiring a vehicle for a warehouse.
@@ -35512,7 +35512,7 @@
 	0xF78702EE = แดง Ornate Oni Half-Mask
 	0xF79059FE = Paparazzo - The Sex Tape
 	0xF82379B5 = You can now make a choice whether to help the friends or not. Press ~INPUT_CELLPHONE_SELECT~ to accept, or press ~INPUT_CELLPHONE_CANCEL~ to decline.
-	0xF82718E3 = In order to purchase this vehicle at the Trade Price, you must fulfill the following criteria:~n~- Own the Mobile Operations Center.~n~- Complete the Exit Strategy Mobile Operation mission.~n~
+	0xF82718E3 = In order to purchase this vehicle at the Trade Price, you must fulfill the following criteria:~n~- Own the Mobile Operations Center.~n~- Complete the ออก Strategy Mobile Operation mission.~n~
 	0xF83739F5 = What the Hell?
 	0xF83950A8 = ใช่
 	0xF84226FA = CAB MODIFICATION
@@ -35799,7 +35799,7 @@
 	0xFB0605DC = Vintage Arcade Game Poster
 	0xFB08CF20 = ~a~ has invited you into their Warehouse.
 	0xFB0ACE86 = Arms dealer eliminated.
-	0xFB0B64FE = Exit
+	0xFB0B64FE = ออก
 	0xFB0C92DA = Help collect ~HUD_COLOUR_BLUE~~a~.~s~
 	0xFB0E70C2 = วีซิงโครไนซ์
 	0xFB0EEC1B = I feel like the club needs a little pick me up. You know, spread the word, get some fresh faces through the door. All you got to do is run some promotions on the app. Txx
@@ -35953,7 +35953,7 @@
 	0xFC2DB14C = Forces players to exit Cab.
 	0xFC3CC912 = Race Brakes (Custom 3)
 	0xFC4A80F5 = รถลากจูง
-	0xFC4BEEEE = Exit the vehicle.
+	0xFC4BEEEE = ออก the vehicle.
 	0xFC4C97AC = NOTEXTNOTEXTNOTEXT
 	0xFC5A022C = Basketball
 	0xFC5B011F = Undisclosed Cargo
@@ -36042,7 +36042,7 @@
 	0xFCA36C1A = Menawhorsal2~n~57~n~Average~n~Destructively~n~NSA Sex~n~
 	0xFCA2425C = ~1~/10
 	0xFCAB30A7 = Load a saved creation. This content has yet to be published, but if the creation is valid, it will be available to test in GTA Online with other players.
-	0xFCAC0CBA = Exit to Cab
+	0xFCAC0CBA = ออก to Cab
 	0xFCAE0267 = Small Houseplant
 	0xFCAF8863 = Everything's all about you.
 	0xFCB45981 = Crew Motto
@@ -36072,7 +36072,7 @@
 	0xFCE64859 = october
 	0xFCE96532 = Criminal Enterprise Starter Pack content is available and can be acquired for free. Visit the Criminal Enterprise Starter Pack section in the Online tab of the pause menu for more details.
 	0xFCEA044A = Military vehicles cannot be sprayed.
-	0xFCEC7C2F = All Exit Warehouse
+	0xFCEC7C2F = All ออก Warehouse
 	0xFCED6CEB = Camera 2
 	0xFCEF7B69 = You are not wealthy enough to register as a VIP. You must have over $~1~ in your bank in order to gain access to this option.
 	0xFCF44C17 = ~BLIP_WEAPON_MOLOTOV~
@@ -36147,7 +36147,7 @@
 	0xFD797F47 = ~a~ ~s~destroyed the prison bus
 	0xFD977AF7 = @DudeEatDog The semifinals – Doberman night! The show that animal activists are trying to get banned. Bow Wow Chow! Only on CNT.
 	0xFD1535EE = Enter the ~HUD_COLOUR_BLUE~truck.
-	0xFD2003AF = Exit the Office.
+	0xFD2003AF = ออก the Office.
 	0xFD2202B0 = Steal Cargo
 	0xFD3884CA = You cannot leave the Nightclub Warehouse while on call. You can cancel this via the Quick Job app on the phone.
 	0xFD9473BC = Your Yacht is not equipped with a helicopter.
@@ -36171,7 +36171,7 @@
 	0xFDABCDF6 = Chip Cashier
 	0xFDAE917C = Move from current location to Garage Level B2.
 	0xFDAEC4C7 = Find a way to unlock the ~y~cell door.
-	0xFDB29E10 = Exit Kosatka
+	0xFDB29E10 = ออก Kosatka
 	0xFDB83CEF = Clubhouse
 	0xFDBAAEF0 = Clips
 	0xFDBC1762 = Right Wrist
@@ -36390,7 +36390,7 @@
 	0xFF7A8BC1 = น้ำเงิน Sports
 	0xFF7C9D1E = Go to ~HUD_COLOUR_YELLOW~เกาะอีลีเซียน.
 	0xFF7F05DE = อะแดปเตอร์เอาต์พุต
-	0xFF8C0677 = Exit to the Roof Terrace.
+	0xFF8C0677 = ออก to the Roof Terrace.
 	0xFF8C8945 = Gas Grenade
 	0xFF8DB7AA = Sets your Office's layout.
 	0xFF8DCF1B = MATCHES
@@ -36877,7 +36877,7 @@
 	AMEV_GA_RP = When in an active Gang Attack location, some other players may not be attackable.
 	AMEV_LBD_HELP = Press ~INPUT_MULTIPLAYER_INFO~ to show the Freemode Event leaderboard.
 	AMFW_BTNCV = Change View
-	AMFW_BTNEX = Exit
+	AMFW_BTNEX = ออก
 	AMFW_CAR_FULL = This gondola is full. You may wait for the next one.
 	AMFW_ENTER = Press ~INPUT_CONTEXT~ to ride the Ferris Whale. The cost is $~1~.
 	AMFW_GET_IN = Press ~INPUT_ENTER~ to get in.
@@ -36891,7 +36891,7 @@
 	AMHB_BDOVER4 = Event over. Nobody wanted to be the Beast.
 	AMHB_BIG_KILLED = The Beast killed you
 	AMHB_BL = Beast
-	AMHB_BOB = Hunt the Beast will begin shortly. Exit the helicopter to have a chance of becoming the Beast.
+	AMHB_BOB = Hunt the Beast will begin shortly. ออก the helicopter to have a chance of becoming the Beast.
 	AMHB_BSTHLP0 = Visit landmarks ~HUD_COLOUR_YELLOW~~BLIP_OBJECTIVE~ ~s~without being killed to gain cash and RP rewards. Visit all landmarks to gain an additional bonus.
 	AMHB_BSTHLP1 = You are hidden on the map from other players. However they can see your blip ~HUD_COLOUR_PURPLE~~BLIP_BEAST~ ~s~for a short time at the start of the event and after you visit each landmark.
 	AMHB_BSTHLP2 = As the Beast you are stronger and faster than normal.
@@ -36903,7 +36903,7 @@
 	AMHB_BYOUDIED = You died
 	AMHB_BYOUSCD = You killed yourself
 	AMHB_GO2AREA = Go to each ~HUD_COLOUR_YELLOW~landmark.
-	AMHB_HELIGUN = Hunt the Beast will begin shortly. Exit the helicopter to have a chance of becoming the Beast.
+	AMHB_HELIGUN = Hunt the Beast will begin shortly. ออก the helicopter to have a chance of becoming the Beast.
 	AMHB_HKR = Hunt the Beast will begin shortly. Stop the activity you are doing to have a chance of becoming the Beast.
 	AMHB_HTRHLP0 = Another player is the Beast. Hunt it down before it visits all landmarks to gain a cash and RP reward.
 	AMHB_HTRHLP1 = The Beast is hidden on the map. However you can see its blip ~HUD_COLOUR_PURPLE~~BLIP_BEAST~ ~s~for a short time at the start of the event and after it visits each landmark.
@@ -36914,7 +36914,7 @@
 	AMHB_KLBEAST = Take out the ~HUD_COLOUR_PURPLE~Beast.
 	AMHB_LMKSLEFT = LANDMARKS REMAINING
 	AMHB_LNDLBL = Landmark
-	AMHB_LUXOR = Hunt the Beast will begin shortly. Exit the Luxor to have a chance of becoming the Beast.
+	AMHB_LUXOR = Hunt the Beast will begin shortly. ออก the Luxor to have a chance of becoming the Beast.
 	AMHB_NOCLCT = Your blip ~HUD_COLOUR_PURPLE~~BLIP_BEAST~ ~s~is now visible to other players on the map for a short time because you have not visited a landmark for several minutes.
 	AMHB_NOCLCT2 = The Beast blip ~HUD_COLOUR_PURPLE~~BLIP_BEAST~ ~s~is now visible on the map for a short time because it has not visited a landmark for several minutes.
 	AMHB_OPTBOSS = Hunt the Beast will begin shortly. Press ~INPUT_CONTEXT~ to have a chance of becoming the Beast. If you become the Beast, all of your Bodyguards will be let go.
@@ -36922,12 +36922,12 @@
 	AMHB_OPTHELP = Hunt the Beast will begin shortly. Press ~INPUT_CONTEXT~ to have a chance of becoming the Beast.
 	AMHB_OPTTCKR = You have a chance of becoming the Beast. The Beast will be selected randomly from all players that have a chance.
 	AMHB_OVERTTL = EVENT OVER
-	AMHB_PASSIVE = Hunt the Beast will begin shortly. Exit Passive Mode to have a chance of becoming the Beast.
+	AMHB_PASSIVE = Hunt the Beast will begin shortly. ออก Passive Mode to have a chance of becoming the Beast.
 	AMHB_PHINTSH1 = HUNT THE BEAST
 	AMHB_PHINTSH2A = Another player is the Beast. Take them out.
-	AMHB_PLANE = Hunt the Beast will begin shortly. Exit the plane to have a chance of becoming the Beast.
+	AMHB_PLANE = Hunt the Beast will begin shortly. ออก the plane to have a chance of becoming the Beast.
 	AMHB_RDRTICK = The ~HUD_COLOUR_PURPLE~Beast ~s~visited a landmark.
-	AMHB_STRIP = Hunt the Beast will begin shortly. Exit the ผับเปลือยกาย to have a chance of becoming the Beast.
+	AMHB_STRIP = Hunt the Beast will begin shortly. ออก the ผับเปลือยกาย to have a chance of becoming the Beast.
 	AMHB_TICK1 = The Beast killed ~a~.
 	AMHB_TICK2 = ~a~ killed the Beast.
 	AMHB_TUOVER1A = Nobody took out the Beast and it failed to visit all the landmarks
@@ -37317,7 +37317,7 @@
 	BB_HPWANT = The helicopter won't pick up a Wanted crook.
 	BB_JOBLIST = (BOUNTY)
 	BB_KILLSTRIP = Bounty
-	BB_LC_EXIT = Exit
+	BB_LC_EXIT = ออก
 	BB_NO = ไม่
 	BB_NOBANK = You don't have enough cash in your bank account.
 	BB_NOMONEY = You don't have enough cash.
@@ -38421,85 +38421,85 @@
 	CELL_35 = Player List
 	CELL_37 = Play Quick Job
 	CELL_38 = You cannot use the Snapmatic application while in cover.
-	CELL_39 = Broadcast
+	CELL_39 = ออกอากาศ
 	CELL_101 = ไมเคิล
 	CELL_102 = เทรเวอร์
 	CELL_103 = แฟรงคลิน
-	CELL_109 = Castro
-	CELL_110 = Arthur
+	CELL_109 = คาสโตร
+	CELL_110 = อาเธอร์
 	CELL_111 = เลสเตอร์
-	CELL_112 = Juliet
-	CELL_113 = Nikki
-	CELL_114 = Chastity
-	CELL_115 = Cheetah
-	CELL_116 = Sapphire
-	CELL_117 = Infernus
-	CELL_118 = Fufu
-	CELL_119 = Peach
-	CELL_120 = Fixed Car
+	CELL_112 = จูเลียต
+	CELL_113 = นิกกี้
+	CELL_114 = ชาสทิตี้
+	CELL_115 = ชีต้า
+	CELL_116 = แซปไพร์
+	CELL_117 = อินเฟอนัส
+	CELL_118 = ฟูฟู
+	CELL_119 = พีช
+	CELL_120 = ซ่อมรถ
 	CELL_121 = ด็อกเตอร์ฟรีดแลนเดอร์
-	CELL_122 = Stretch
-	CELL_123 = Ortega
+	CELL_122 = สแตรช
+	CELL_123 = ออร์เตกา
 	CELL_124 = จิมมี่
 	CELL_125 = เทรซี่
 	CELL_126 = อแมนดา
 	CELL_127 = ซิเมียน
 	CELL_128 = ลามาร์
-	CELL_129 = Ron
-	CELL_130 = Detonate
+	CELL_129 = รอน
+	CELL_130 = ระเบิด
 	CELL_131 = บริการฉุกเฉิน
-	CELL_132 = Jay Norris
-	CELL_133 = Cheng Jr.
+	CELL_132 = เจย์นอร์ริส
+	CELL_133 = เฉิงจูเนียร์
 	CELL_134 = สตีฟ
-	CELL_135 = Wade
-	CELL_136 = เทนนิส Coach
-	CELL_137 = Solomon
-	CELL_138 = Lazlow
-	CELL_139 = Estate Agent
-	CELL_140 = Domestic Girl
-	CELL_141 = Ursula
-	CELL_142 = Devin
+	CELL_135 = เวด
+	CELL_136 = โค้ชเทนนิส
+	CELL_137 = โซโลมอน
+	CELL_138 = ลาซโลฟ
+	CELL_139 = ตัวแทนอสังหาริมทรัพย์
+	CELL_140 = สาวในประเทศ
+	CELL_141 = เออซูล่า
+	CELL_142 = เดวิน
 	CELL_143 = เดฟ
 	CELL_144 = มาร์ติน
-	CELL_145 = Floyd
-	CELL_146 = Military Hitcher
-	CELL_147 = Barry
-	CELL_148 = Beverly
-	CELL_150 = Dom
-	CELL_151 = จิมมี่ Boston
-	CELL_152 = Joe
-	CELL_153 = Josef
-	CELL_154 = Josh
-	CELL_156 = Manuel
-	CELL_157 = Marnie
-	CELL_158 = Mary Ann
-	CELL_161 = Mrs Thornhill
+	CELL_145 = ฟลอยด์
+	CELL_146 = ทหารฮิทเชอร์
+	CELL_147 = แบร์รี่
+	CELL_148 = เบเวอร์ลี่
+	CELL_150 = ดอม
+	CELL_151 = จิมมี่ บอสตัน
+	CELL_152 = โจ
+	CELL_153 = โจเซฟ
+	CELL_154 = จอช
+	CELL_156 = มานูเอล
+	CELL_157 = มาร์นี่
+	CELL_158 = แมรี่แอนน์
+	CELL_161 = คุณธอร์นฮิลล์
 	CELL_162 = ไนเจล
 	CELL_163 = บริษัทแท็กซี่ดาวน์ทาวน์
-	CELL_164 = Oscar
-	CELL_165 = Agent 14
-	CELL_166 = Cris
-	CELL_167 = Cletus
-	CELL_168 = Beast
-	CELL_169 = Corey Parker
-	CELL_172 = Stretch
-	CELL_174 = Al Carter
-	CELL_176 = The Boss
-	CELL_177 = Edgar Claros
-	CELL_178 = The Boss
+	CELL_164 = ออสการ์
+	CELL_165 = ตัวแทน 14
+	CELL_166 = คริส
+	CELL_167 = เคลตัส
+	CELL_168 = บีส
+	CELL_169 = โคเรย์ พาร์คเกอร์
+	CELL_172 = ยืด
+	CELL_174 = อัลคาร์เตอร์
+	CELL_176 = เดอะบอส
+	CELL_177 = เอดการ์ คลารอส
+	CELL_178 = เดอะบอส
 	CELL_179 = Social Club
-	CELL_180 = Mechanic
-	CELL_181 = Dummy_1
-	CELL_189 = Conference
-	CELL_190 = Conference
-	CELL_191 = Conference
-	CELL_192 = Conference
-	CELL_193 = Conference
-	CELL_195 = Unknown
-	CELL_196 = Virtual MP
-	CELL_197 = Multiplayer
-	CELL_199 = Conference
-	CELL_200 = Cheng Sr.
+	CELL_180 = ช่าง
+	CELL_181 = ดัมมี่_1
+	CELL_189 = การประชุม
+	CELL_190 = การประชุม
+	CELL_191 = การประชุม
+	CELL_192 = การประชุม
+	CELL_193 = การประชุม
+	CELL_195 = ไม่รู้จัก
+	CELL_196 = จำลอง MP
+	CELL_197 = ผู้เล่นหลายคน
+	CELL_199 = การประชุม
+	CELL_200 = เฉิงซีเนียร์
 	CELL_201 = โทร
 	CELL_202 = สิ้นสุดการโทร
 	CELL_203 = ตอบรับ
@@ -38560,7 +38560,7 @@
 	CELL_277 = ลบ
 	CELL_278 = Saving Photo to Gallery
 	CELL_280 = Take Photo
-	CELL_281 = Exit
+	CELL_281 = ออก
 	CELL_284 = ซูม
 	CELL_285 = Move
 	CELL_286 = ดำเนินการต่อ
@@ -39359,30 +39359,30 @@
 	CHEF_U = Boss, I know we ain't cooking, but since I helped when the Aztecas attacked the lab, I thought you might think of me if u need a xtra gun on a job or sumthing?  - Chef
 	CHEVAL = Cheval
 	CHIL = ไวน์วูดฮิลส์
-	CHOCOLATE_BROWN = Chocolate Brown
-	CHOP_H_AIM = ช๊อป will attack anyone who แฟรงคลิน targets.
-	CHOP_H_ATTACK = ช๊อป will attack anyone who attacks แฟรงคลิน.
-	CHOP_H_BALL = When taking ช๊อป for a walk, แฟรงคลิน can play fetch using the ball in the weapon wheel.
-	CHOP_H_BEHAVA = ช๊อป is unhappy so is misbehaving. Use the iFruit app to train him.
-	CHOP_H_BEHAVE = ช๊อป is unhappy so is misbehaving. Download the iFruit app for your personal smartphone device or tablet to train him.
-	CHOP_H_BIKE = ช๊อป will follow bikes and other vehicles he cannot get inside.
-	CHOP_H_CAR = ช๊อป will follow แฟรงคลิน into suitable cars with an empty front passenger seat.
-	CHOP_H_DEAD = แฟรงคลิน killed ช๊อป. ช๊อป will soon return to แฟรงคลิน safehouse, but he's not happy.
-	CHOP_H_DEAD2 = ช๊อป was killed. ช๊อป will soon return to แฟรงคลิน safehouse.
-	CHOP_H_HAPPY = Happiness
-	CHOP_H_HOME = Press ~INPUT_SCRIPT_RB~ to dismiss ช๊อป.
-	CHOP_H_HOME_KM = Press ~INPUT_ATTACK~ to dismiss ช๊อป.
-	CHOP_H_HUNT = ช๊อป will bark more often when he nears pickups.
-	CHOP_H_INTRO = Hold ~INPUT_AIM~ when unarmed to interact with ช๊อป.
-	CHOP_H_INTRO_KM = Hold ~INPUT_AIM~ when unarmed to interact with ช๊อป.
-	CHOP_H_NOAPP = Press ~INPUT_SCRIPT_RB~ to take ช๊อป for a walk.~n~You can teach ช๊อป to perform tricks. Download the iFruit app for your personal smartphone device or tablet to train him.
-	CHOP_H_NOAPP_KM = Press ~INPUT_ATTACK~ to take ช๊อป for a walk.~n~You can teach ช๊อป to perform tricks. Download the iFruit app for your personal smartphone device or tablet to train him.
-	CHOP_H_NOVEH = ช๊อป can only get into suitable cars with an empty front passenger seat.
-	CHOP_H_RANGE = ช๊อป will stop following if left too far behind.
-	CHOP_H_WAIT_0 = Press ~INPUT_SCRIPT_RB~ to take ช๊อป for a walk.~n~Press ~INPUT_SCRIPT_RT~ to make ช๊อป hunt for pickups.
-	CHOP_H_WAIT_0_KM = Press ~INPUT_ATTACK~ to take ช๊อป for a walk.~n~Press ~INPUT_JUMP~ to make ช๊อป hunt for pickups.
-	CHOP_H_WAIT_1 = Press ~INPUT_SCRIPT_RB~ to take ช๊อป for a walk.~n~Press ~INPUT_SCRIPT_RT~ to make ช๊อป hunt for pickups.~n~Press ~INPUT_SCRIPT_RLEFT~ to make ช๊อป sit.~n~
-	CHOP_H_WAIT_1_KM = Press ~INPUT_ATTACK~ to take ช๊อป for a walk.~n~Press ~INPUT_JUMP~ to make ช๊อป hunt for pickups.~n~Press ~INPUT_COVER~ to make ช๊อป sit.~n~
+	CHOCOLATE_BROWN = ช็อคโกแลตบราวน์
+	CHOP_H_AIM = ช๊อปจะโจมตีทุกคนที่แฟรงคลินหมายหัวไว้
+	CHOP_H_ATTACK = ช๊อปจะโจมตีทุกคนที่โจมตีแฟรงคลิน
+	CHOP_H_BALL = เมื่อพาช๊อปไปเดินเล่นแฟรงคลินสามารถเล่นเรียกโดยใช้ลูกบอลในวงล้ออาวุธได้
+	CHOP_H_BEHAVA = ช๊อปไม่มีความสุขเลยทำตัวไม่ถูก ใช้แอพ iFruit เพื่อฝึกเขา
+	CHOP_H_BEHAVE = ช๊อปไม่มีความสุขเลยทำตัวไม่ถูก ดาวน์โหลดแอพ iFruit สำหรับอุปกรณ์สมาร์ทโฟนหรือแท็บเล็ตส่วนตัวของคุณเพื่อฝึกเขา
+	CHOP_H_BIKE = ช๊อปจะเดินติดตามรถจักรยานยนต์และยานพาหนะอื่นๆ ที่มันไม่สามารถเข้าไปข้างในได้
+	CHOP_H_CAR = ช๊อปจะตามแฟงคลินเข้าไปในรถยนต์ที่เหมาะสมโดยมีที่นั่งผู้โดยสารด้านหน้าว่าง
+	CHOP_H_DEAD = แฟรงคลินฆ่าช๊อป ช๊อปจะกลับไปหาแฟรงคลินที่เซฟเฮาส์ในไม่ช้า แต่เขาจะไม่มีความสุข
+	CHOP_H_DEAD2 = ช๊อปถูกฆ่าตอนนี้รักษาอยู่ ช๊อปจะกลับไปที่แฟรงคลินเซฟเฮาส์ในไม่ช้า
+	CHOP_H_HAPPY = ความสุข
+	CHOP_H_HOME = กด ~INPUT_SCRIPT_RB~ to ไล่ช๊อปกลับ
+	CHOP_H_HOME_KM = กด ~INPUT_ATTACK~ เพื่อไล่ช๊อปกลับ
+	CHOP_H_HUNT = ช๊อปจะเห่าบ่อยขึ้นเมื่อเขาอยู่ใกล้เป้าหมาย
+	CHOP_H_INTRO = กด ~INPUT_AIM~ ค้างไว้ ตอนที่ไม่มีอาวุธเพื่อโต้ตอบช็อป 
+	CHOP_H_INTRO_KM = กด ~INPUT_AIM~ ค้างไว้ เมื่อไม่มีอาวุธติดตัวเพื่อโต้ตอบกับช๊อป
+	CHOP_H_NOAPP = กด ~INPUT_SCRIPT_RB~ พาช๊อปไปเดินเล่น~n~คุณสามารถสอนให้ช๊อปใช้เทคนิคได้โดย ดาวน์โหลดแอพ iFruit สำหรับอุปกรณ์สมาร์ทโฟนหรือแท็บเล็ตส่วนตัวของคุณเพื่อฝึกเขา
+	CHOP_H_NOAPP_KM = กด ~INPUT_ATTACK~ พาช๊อปไปเดินเล่น~n~คุณสามารถสอนให้ช๊อปใช้เทคนิคได้โดย ดาวน์โหลดแอพ iFruit สำหรับอุปกรณ์สมาร์ทโฟนหรือแท็บเล็ตส่วนตัวของคุณเพื่อฝึกเขา
+	CHOP_H_NOVEH = ช๊อปสามารถขึ้นรถที่มีที่นั่งผู้โดยสารด้านหน้าว่างได้เท่านั้น
+	CHOP_H_RANGE = ช๊อปจะหยุดติดตามหากถูกทิ้งไว้ข้างหลังระยะทางมากเกินไป
+	CHOP_H_WAIT_0 = กด ~INPUT_SCRIPT_RB~ พาช๊อปไปเดินเล่น~n~กด ~INPUT_SCRIPT_RT~ เพื่อให้ช๊อปตามล่าเป้าหมาย
+	CHOP_H_WAIT_0_KM = กด ~INPUT_ATTACK~  พาช๊อปไปเดินเล่น~n~กด ~INPUT_JUMP~ เพื่อให้ช๊อปตามล่าเป้าหมาย
+	CHOP_H_WAIT_1 = กดs ~INPUT_SCRIPT_RB~ พาช๊อปไปเดินเล่น~n~กด ~INPUT_SCRIPT_RT~ เพื่อให้ช๊อปตามล่าเป้าหมาย~n~กด ~INPUT_SCRIPT_RLEFT~ เพื่อให้ช๊อปนั่ง~n~
+	CHOP_H_WAIT_1_KM =กด ~INPUT_ATTACK~ พาช๊อปไปเดินเล่น~n~กด ~INPUT_JUMP~ เพื่อให้ช๊อปตามล่าเป้าหมาย~n~กด ~INPUT_COVER~ เพื่อให้ช๊อปนั่ง~n~
 	CHOP_H_WAIT_2 = Press ~INPUT_SCRIPT_RB~ to take ช๊อป for a walk.~n~Press ~INPUT_SCRIPT_RT~ to make ช๊อป hunt for pickups.~n~Press ~INPUT_SCRIPT_RLEFT~ to make ช๊อป sit.~n~Press ~INPUT_SCRIPT_RRIGHT~ to make ช๊อป give paw.~n~
 	CHOP_H_WAIT_2_KM = Press ~INPUT_ATTACK~ to take ช๊อป for a walk.~n~Press ~INPUT_JUMP~ to make ช๊อป hunt for pickups.~n~Press ~INPUT_COVER~ to make ช๊อป sit.~n~Press ~INPUT_RELOAD~ to make ช๊อป give paw.~n~
 	CHOP_H_WAIT_3 = Press ~INPUT_SCRIPT_RB~ to take ช๊อป for a walk.~n~Press ~INPUT_SCRIPT_RT~ to make ช๊อป hunt for pickups.~n~Press ~INPUT_SCRIPT_RLEFT~ to make ช๊อป sit.~n~Press ~INPUT_SCRIPT_RRIGHT~ to make ช๊อป give paw.~n~Press ~INPUT_SCRIPT_RDOWN~ to make ช๊อป beg.~n~
@@ -39415,9 +39415,9 @@
 	CHOP_H_WALK_H3_KM = Press ~INPUT_ATTACK~ to dismiss ช๊อป.~n~Press ~INPUT_JUMP~ to make ช๊อป hunt for pickups.~n~Press ~INPUT_COVER~ to make ช๊อป sit.~n~Press ~INPUT_RELOAD~ to make ช๊อป give paw.~n~Press ~INPUT_CONTEXT~ to make ช๊อป beg.~n~ช๊อป won't perform tricks if he is unhappy. Use the iFruit app to increase his happiness.
 	CHOP_H_WALK_H4 = Press ~INPUT_SCRIPT_RB~ to dismiss ช๊อป.~n~Press ~INPUT_SCRIPT_RT~ to make ช๊อป hunt for pickups.~n~Press ~INPUT_SCRIPT_RLEFT~ to make ช๊อป sit.~n~Press ~INPUT_SCRIPT_RRIGHT~ to make ช๊อป give paw.~n~Press ~INPUT_SCRIPT_RDOWN~ to make ช๊อป beg.~n~Press ~INPUT_SCRIPT_RUP~ to pet ช๊อป.~n~ช๊อป won't perform tricks if he is unhappy. Use the iFruit app to increase his happiness.
 	CHOP_H_WALK_H4_KM = Press ~INPUT_ATTACK~ to dismiss ช๊อป.~n~Press ~INPUT_JUMP~ to make ช๊อป hunt for pickups.~n~Press ~INPUT_COVER~ to make ช๊อป sit.~n~Press ~INPUT_RELOAD~ to make ช๊อป give paw.~n~Press ~INPUT_CONTEXT~ to make ช๊อป beg.~n~Press ~INPUT_ENTER~ to pet ช๊อป.~n~ช๊อป won't perform tricks if he is unhappy. Use the iFruit app to increase his happiness.
-	CHOP_H_WHIS = Press ~INPUT_DETONATE~ to whistle to make ช๊อป return to แฟรงคลิน.
+	CHOP_H_WHIS = กด ~INPUT_DETONATE~ เรียกให้ช๊อปกลับไปหาแฟรงคลิน
 	CHOP_UNLOCK = ช๊อป got to stay round ur crib 4 a time. Trill?
-	CHROME = Chrome
+	CHROME = โครเมียม
 	CHT_BAD_POOL = You have entered the Bad Sports pool. Play with other Bad Sports for some time and we'll forgive you.
 	CHT_NORM_POOL = You have left the cheater pool. You have been forgiven, if you enter it again it will take more time to pay your debt.
 	CHU = ชูมาช
@@ -39556,10 +39556,10 @@
 	CMN_GENGETBCKY = ~s~กลับเข้าใน ~b~รถของคุณ
 	CMN_GENGETBCKYT = ~s~Get back in your ~b~รถบรรทุก
 	CMN_GENGETIN = ~s~เข้าไปใน ~b~รถ
-	CMN_GENGETINBK = ~s~Get on the ~b~bike.
-	CMN_GENGETINHE = ~s~Get in the ~b~helicopter.
-	CMN_GENGETINPL = ~s~Get in the ~b~plane.
-	CMN_GENGETINY = ~s~Get in your ~b~car.
+	CMN_GENGETINBK = ~s~ไปขึ้น~b~จักรยานยนต์ของคุณ
+	CMN_GENGETINHE = ~s~ไปขึ้น~b~เฮลิคอปเตอร์ของคุณ
+	CMN_GENGETINPL = ~s~ไปขึ้น~b~เครื่องบินของคุณ
+	CMN_GENGETINY = ~s~ไปขึ้น~b~รถยนต์ของคุณ
 	CMN_GENSTCK = ~s~The car got stuck.
 	CMN_HINT = ~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the target.
 	CMN_JDIED = ~s~จิมมี่ died.
@@ -40081,8 +40081,8 @@
 	CREATEMEN_0_6 = Load a previously created Deathmatch or Race.
 	CREATEMEN_0_7 = Load a previously created Job.
 	CREATEMEN_LD = Load Creation
-	CREATEMEN_MP = Exit to GTA Online
-	CREATEMEN_SP = Exit to Grand Theft Auto V
+	CREATEMEN_MP = ออก to GTA Online
+	CREATEMEN_SP = ออก to Grand Theft Auto V
 	CREATOR_NO_T = No translation.
 	CREATOR_RSC = Rockstar
 	CREATOR_RSV = Rockstar Verified
@@ -40259,17 +40259,17 @@
 	CUST_YACHT_WH = You cannot access the Yacht while Wanted and in sight of the Cops.
 	CUTTER = Cutter
 	CUT_PLAN1 = This is the Heist planning room ~HUD_COLOUR_H~~BLIP_MP_HEIST~.~s~ Heists can be set up and planned from here.
-	CWASH_BLOCKED = The ที่ล้างรถ is blocked. Please come back later.
-	CWASH_CARBROKE = This vehicle is too damaged to be used with the ที่ล้างรถ.
-	CWASH_NOMONEY = You do not have enough money. It costs $~1~ to use the ที่ล้างรถ.
-	CWASH_NOWAY = This vehicle cannot be used with the ที่ล้างรถ.
-	CWASH_POOR_PSN = It costs $~1~ to use the ที่ล้างรถ.~n~You can buy additional GTA dollars from PlayStation®Store in the Pause Menu.
-	CWASH_POOR_STD = It costs $~1~ to use the ที่ล้างรถ.~n~You can buy additional GTA dollars from the Store in the Pause Menu.
-	CWASH_POOR_XBX = It costs $~1~ to use the ที่ล้างรถ.~n~You can buy additional GTA dollars from the Xbox Store in the Pause Menu.
-	CWASH_RIDEHLP = Press ~INPUT_CONTEXT~ to use the ที่ล้างรถ. The cost is $~1~.
-	CWASH_UPSIDEDO = Your vehicle needs to be upright to use the ที่ล้างรถ.
-	CWASH_WANTED = You can't use the ที่ล้างรถ while Wanted.
-	CWASH_WRONGWAY = Your vehicle needs to be pointing towards the ที่ล้างรถ.
+	CWASH_BLOCKED = บริการล้างรถปิด โปรดกลับมาใหม่
+	CWASH_CARBROKE = รถคันนี้เสียหายเกินกว่าจะใช้บริการล้างได้
+	CWASH_NOMONEY = คุณมีเงินไม่เพียงพอ มันมีค่าใช้จ่าย $~1~ เพื่อใช้บริการล้างรถ
+	CWASH_NOWAY = รถคันนี้ไม่สามารถใช้บริการล้างรถได้
+	CWASH_POOR_PSN = มีค่าใช้จ่าย $~1~ เพื่อใช้บริการล้างรถ~n~You can buy additional GTA dollars from PlayStation®Store in the Pause Menu.
+	CWASH_POOR_STD = มีค่าใช้จ่าย $~1~ เพื่อใช้บริการล้างรถ~n~คุณสามารถซื้อเงินเกม GTA เพิ่มเติมได้จากร้านค้า ในเมนูหยุดชั่วคราว
+	CWASH_POOR_XBX = It costs $~1~ to use the บริการล้างรถ.~n~You can buy additional GTA dollars from the Xbox Store in the Pause Menu.
+	CWASH_RIDEHLP = กด ~INPUT_CONTEXT~ เพื่อใช้บริการล้างรถ ค่าใช้จ่ายคือ $~1~
+	CWASH_UPSIDEDO = รถของคุณต้องไปใช้บริการล้างรถก่อน
+	CWASH_WANTED = คุณไม่สามารถใช้บริการล้างรถได้ในขณะที่ต้องการ
+	CWASH_WRONGWAY = รถของคุณจะต้องไปใช้บริการล้างรถ
 	CWO_ERROR_GEN = There was an error joining this Job. Please try again.
 	CWO_ERROR_NET = There was a network error joining this Job. Please try again.
 	CWO_ERROR_NETF = The Job you're trying to join is currently full of players.
@@ -40387,7 +40387,7 @@
 	DEV_SC_TOUR_FAILED = Failed to download the tour file.
 	DEV_SC_VERSION_FAILED = Failed to download version_num.xml
 	DEWBAUCH = Dewbauchee
-	DFLT_MNU_OPT = Exit
+	DFLT_MNU_OPT = ออก
 	DIAMOND_BLUE = Diamond น้ำเงิน
 	DIED_IN_DROWNING = Deaths by drowning
 	DIED_IN_EXPLOSION = Deaths by explosion
@@ -40866,7 +40866,7 @@
 	EPS_CAR_NOTE = ~1~/5 Epsilon ยานพาหนะ Delivered
 	EPS_CAR_TITLE = Vehicle Delivered~s~
 	EPS_DROP_ESCAPE = Deliver the vehicle to the location marked ~HUD_COLOUR_MICHAEL~~BLIP_EPSILON~~s~
-	EPS_DROP_EXIT = Exit the vehicle.
+	EPS_DROP_EXIT = ออก the vehicle.
 	EPS_DROP_FAIL = The vehicle is too damaged for the Epsilon Program. Find another one or repair it.
 	EPS_DROP_HELP = This vehicle is wanted by the Epsilon Program. Deliver it to the location marked ~HUD_COLOUR_MICHAEL~~BLIP_EPSILON~~s~
 	EPS_DROP_MESS = Clear obstructions away from the garage or park closer to the wall.
@@ -41660,7 +41660,7 @@
 	FE_HLP5 = เลื่อน
 	FE_HLP7 = ปรับ
 	FE_HLP9 = ซูม
-	FE_HLP16 = Exit
+	FE_HLP16 = ออก
 	FE_HLP17 = ยืนยัน
 	FE_HLP18 = Randomize
 	FE_HLP24 = Rotate
@@ -41730,7 +41730,7 @@
 	FMIC_RACE1 = Take part in Jobs, including Races, with your friends, Crew members or others and check your position on the global leaderboards in-game or on the Rockstar Social Club.
 	FMIC_RACE2 = You can challenge others with Jobs you have created yourself or bet on players to win and earn cash.
 	FMIC_TENN = ~s~Challenge others to เทนนิส, กอล์ฟ and many other Activities.
-	FMMCC_EXTEST = ~s~Exit the test and return to the โหมดสร้าง.
+	FMMCC_EXTEST = ~s~ออก the test and return to the โหมดสร้าง.
 	FMMCC_TEST3 = ~s~Press ~INPUT_FRONTEND_DOWN~ to activate the Menu.
 	FMMCC_TTITLE = ~s~TEST
 	FMMCGHIDE_8 = Reward Vehicle
@@ -42390,7 +42390,7 @@
 	FM_NXT_SUB2 = Vote to refresh the list of Jobs
 	FM_NXT_SUB3 = Vote to return to Freemode
 	FM_NXT_SUR = Survival
-	FM_NXT_TEXI = Exit
+	FM_NXT_TEXI = ออก
 	FM_NXT_TREF = Refresh
 	FM_NXT_TREFN = Refresh(~1~)
 	FM_NXT_TREP = เล่นซ้ำ
@@ -42821,7 +42821,7 @@
 	GB_REST_ACC = An Organization
 	GB_RVLBSSJND = The VIP ~a~ ~s~has entered the session.
 	GB_SACKED = You have been dismissed by your VIP
-	GB_SFS_AIRCRAFT = Exit the aircraft to continue taking part in the Challenge.
+	GB_SFS_AIRCRAFT = ออก the aircraft to continue taking part in the Challenge.
 	GB_SFS_HLATE = You have joined the Most Wanted Challenge after it started. You must participate from the beginning in order to take part.
 	GB_SFS_HYACHT = Yachts are off limits during the Most Wanted Challenge. You will not be able to compete if you are on it.
 	GB_SFS_KOTIMER = RETURN OUTSIDE
@@ -42829,7 +42829,7 @@
 	GB_SFS_KOTIMER2 = EXIT AIRCRAFT
 	GB_SFS_KOTIMER3 = EXIT SUBMARINE
 	GB_SFS_KOTIMER4 = EXIT PARACHUTE
-	GB_SFS_PARA = Exit the parachute to continue taking part in the Challenge.
+	GB_SFS_PARA = ออก the parachute to continue taking part in the Challenge.
 	GB_SFS_REMOUT = <C>~a~</C>~s~ has been knocked out of the Most Wanted Challenge.
 	GB_SFS_RETURN = Return outside to continue taking part in the Challenge.
 	GB_SFS_SKNOCK = You were knocked out of the Most Wanted Challenge
@@ -42843,7 +42843,7 @@
 	GB_SFS_STIE = You tied with <C>~a~</C>~s~ to win the Most Wanted Challenge
 	GB_SFS_STIE2 = You tied with <C>~a~</C>~s~ and <C>~a~</C>~s~ to win the Most Wanted Challenge
 	GB_SFS_STIE3 = You tied with <C>~a~</C>~s~, <C>~a~</C>~s~ and <C>~a~</C>~s~ to win the Most Wanted Challenge
-	GB_SFS_SUBMAR = Exit the submarine to continue taking part in the Challenge.
+	GB_SFS_SUBMAR = ออก the submarine to continue taking part in the Challenge.
 	GB_SFS_SURVIVE = Survive the longest with a wanted level.
 	GB_SFS_SWON = You won the Most Wanted Challenge
 	GB_SFS_TKNOCK = KNOCKED OUT
@@ -43983,7 +43983,7 @@
 	HTV_HELP12 = The driver is currently waiting for a gunner. Enter the gunner position and help them deliver the ~a~ ~s~as another Moving Target.
 	HTV_HELP13 = The driver has abandoned the event. Enter the driver seat and deliver the vehicle.
 	HTV_HELP14 = The driver has been killed. Enter the driver seat and deliver the vehicle.
-	HTV_LEAVE_EX = Exit the vehicle before it self destructs.
+	HTV_LEAVE_EX = ออก the vehicle before it self destructs.
 	HTV_TCABA2 = Moving Target ~s~~a~ ~s~has abandoned the ~a~.~s~
 	HTV_TCDEL = ~a~ has delivered the Moving Target vehicle.
 	HTV_TCDEL2 = ~a~ ~s~and ~a~ ~s~have delivered the Moving Target vehicle.
@@ -44007,7 +44007,7 @@
 	HTXT_WEAPON = Reckon you can take down a coyote with a shotgun trevor?
 	HTX_BLIP = Helicopter
 	HTX_ENTER = Enter
-	HTX_EXIT1 = Exit
+	HTX_EXIT1 = ออก
 	HTX_EXIT2 = Jump
 	HTX_EXIT3 = Rappel (Hold)
 	HTX_HELP1 = ~s~The helicopter ~BLIP_ENEMY_HELI_SPIN~ ~s~will take you to the location of your waypoint.~n~Open up the Map screen from the Pause Menu ~INPUT_FRONTEND_PAUSE~ and press ~INPUT_FRONTEND_ACCEPT~ to place a waypoint.
@@ -44404,7 +44404,7 @@
 	HUD_INPUT92N = Purchase ~a~
 	HUD_INPUT93 = Hide Players
 	HUD_INPUT94 = Hide Stats
-	HUD_INPUT95 = Retry
+	HUD_INPUT95 = ลองอีกครั้ง
 	HUD_INPUT96 = Copy
 	HUD_INPUT97 = Respawn Faster
 	HUD_INVENTORY = Unable to retrieve character inventory data from Rockstar game servers. Please try again and check ~HUD_COLOUR_SOCIAL_CLUB~www.rockstargames.com/support~s~ for information about outages and scheduled maintenance. If the issue persists, please check out our GTA Online Connection Troubleshooting at http://rsg.ms/connect.
@@ -44599,7 +44599,7 @@
 	HUD_REPLYINVITE = Joining GTA Online sessions has been disabled while the Rockstar Editor is running.
 	HUD_REPUTATION = Unable to join this session, your account has a bad reputation.
 	HUD_RESIGN = You were signed out of Social Club.
-	HUD_RETRYSTAT = Retry load?
+	HUD_RETRYSTAT = ลองอีกครั้ง load?
 	HUD_RETURNMP = ออก
 	HUD_RETURNONLIN = GTA Online
 	HUD_RETURNSP = กลับไปยัง แกรนด์เธฟต์ออโต 5
@@ -44886,7 +44886,7 @@
 	IB_DUPLICATE = Duplicate
 	IB_EDIT = Edit
 	IB_ENTERPM = เมนูหยุดชั่วคราว
-	IB_EXIT = Exit
+	IB_EXIT = ออก
 	IB_FACEBOOK = Post to Facebook
 	IB_FONT = Font
 	IB_GOLF = สลับมุมมอง
@@ -44915,7 +44915,7 @@
 	IB_RENAME = Edit Title
 	IB_REQUESTINVITE = Request Invitation
 	IB_RESTART = เริ่มต้นใหม่
-	IB_RETRY = Retry
+	IB_RETRY = ลองอีกครั้ง
 	IB_SCROLL = เลื่อน
 	IB_SELDEV = Select Storage Device
 	IB_SELECT = เลือก
@@ -45167,7 +45167,7 @@
 	INPUT_VEH_CINEMATIC_UD = Cinematic Camera Up / Down
 	INPUT_VEH_CIN_CAM = Cinematic Camera
 	INPUT_VEH_DUCK = Duck
-	INPUT_VEH_EXIT = Exit Vehicle
+	INPUT_VEH_EXIT = ออก Vehicle
 	INPUT_VEH_FLY_ATTACK = Aircraft Fire
 	INPUT_VEH_FLY_HELI_ASCEND_DISPLAYONLY = Helicopter Ascend
 	INPUT_VEH_FLY_HELI_DESCEND_DISPLAYONLY = Helicopter Descend
@@ -46166,7 +46166,7 @@
 	MO_BENCHMARK = Benchmark
 	MO_BENCHWARN = Are you sure you want to exit and run the Benchmark Tool?~n~All unsaved progress will be lost.
 	MO_BENCH_ENDED = (Test terminated early, results are inaccurate)
-	MO_BENCH_EXIT = Exit Benchmark
+	MO_BENCH_EXIT = ออก Benchmark
 	MO_BENCH_TEST = Benchmark Test
 	MO_BLI = Blips
 	MO_BRI = ความสว่าง
@@ -46331,7 +46331,7 @@
 	MPATM_DIDM = Deposit
 	MPATM_DITMT = Select the amount you wish to deposit into this account.
 	MPATM_ERR = A network error occurred and your transaction could not be completed.
-	MPATM_EXIT = Exit
+	MPATM_EXIT = ออก
 	MPATM_LOG = Transaction Log
 	MPATM_MENU = Menu
 	MPATM_NAV = เลื่อน
@@ -46542,7 +46542,7 @@
 	MP_BET_ODDS = ~1~/~1~
 	MP_BET_PLACEDT = Bets Placed
 	MP_BET_US_P = +~1~
-	MP_CARWASH = ที่ล้างรถ
+	MP_CARWASH = บริการล้างรถ
 	MP_CIN_KICK = The Movies have closed for the night.
 	MP_CIN_TICKIN = ~a~ ~HUD_COLOUR_WHITE~entered the Movies.
 	MP_CIN_TICKOUT = ~a~ ~HUD_COLOUR_WHITE~left the Movies.
@@ -46741,11 +46741,11 @@
 	MP_PROP_94DES = Built in the 60s and surprising everyone by still being in once piece, this understated property may not look like much on the outside, but don't worry: inside it's identical to every other brainless yuppie's fantasy of open plan, designer living. Part of Executives and Other Criminals.
 	MP_PROP_95 = 2045 ถนนนอร์ทคอนเคอร์
 	MP_PROP_95DES = Designed and constructed in direct violation of every building law in the state, this luxury apartment is a testament to the power of a can-do attitude and utter disregard for standards of health, safety and common sense. Time to pour yourself a drink, forget about the forty foot drop, and congratulate yourself on keeping that pioneer spirit alive. Part of Executives and Other Criminals.
-	MP_PROP_ALL0 = All Exit Apartment
+	MP_PROP_ALL0 = All ออก Apartment
 	MP_PROP_ALL1 = All Enter Garage
 	MP_PROP_ALL2 = All players currently in property will be forced to exit.
 	MP_PROP_ALL3 = All players currently in Apartment will be moved to Garage.
-	MP_PROP_ALLYACHT0 = All Exit Yacht Cabin
+	MP_PROP_ALLYACHT0 = All ออก Yacht Cabin
 	MP_PROP_BIKES = Press ~INPUT_CONTEXT~ to use this bike.
 	MP_PROP_BUZ0 = Accept
 	MP_PROP_BUZ1 = Reject
@@ -46788,8 +46788,8 @@
 	MP_PROP_MENU1C = Awaiting permission from ~a~.
 	MP_PROP_MENU2B = Let ~a~ into your Apartment.
 	MP_PROP_MENU2BB = Let ~a~ into your Garage.
-	MP_PROP_MENU2D = Exit Apartment
-	MP_PROP_MENU2DB = Exit Garage
+	MP_PROP_MENU2D = ออก Apartment
+	MP_PROP_MENU2DB = ออก Garage
 	MP_PROP_MENUG = Your Garage
 	MP_PROP_MENUGB = Enter Garage.
 	MP_PROP_MENUQ = Buzz ~a~ In
@@ -47286,7 +47286,7 @@
 	PB_H_CONF = ยืนยัน
 	PB_H_DRIV = Select a driver to hire.
 	PB_H_ENT = Press ~INPUT_CONTEXT~ to view the plans.
-	PB_H_EXIT = Exit
+	PB_H_EXIT = ออก
 	PB_H_GUNM = Select a gunman to hire.
 	PB_H_HACK = Select a hacker to hire.
 	PB_H_LOOK = Look Around
@@ -47417,7 +47417,7 @@
 	PEN_ELM = ELIMINATION
 	PEN_EXITD = You are no longer able to take part in Penned In.
 	PEN_EXITP = The driver of your vehicle has exited the vehicle. You are no longer able to take part in Penned In.
-	PEN_EXITV = Exit the vehicle.
+	PEN_EXITV = ออก the vehicle.
 	PEN_EXPD = Penned In is no longer available.
 	PEN_EXV = You cannot exit your vehicle while taking part in Penned In.
 	PEN_KNOCKP = ~a~ ~s~was knocked out of Penned In.
@@ -48454,7 +48454,7 @@
 	PM_EDITCAP = Edit
 	PM_EDIT_PLIST = Edit Playlist
 	PM_ENTER_MP = เล่น GTA Online
-	PM_EXIT_GAME = Exit Game
+	PM_EXIT_GAME = ออก Game
 	PM_FIND_SESS = Find New Session
 	PM_FIRERATE = อัตราการยิง
 	PM_FRESES = เข้าร่วมกับเพื่อน
@@ -49400,10 +49400,10 @@
 	PROP_YACHT_HEI_WOH = You cannot access the Yacht until your team members lose their wanted level.
 	PROSTITUTES_FREQUENTED = Sex acts purchased
 	PROS_ACCEPT = Press ~INPUT_CONTEXT~ or honk your horn to invite the prostitute into the vehicle.
-	PROS_CAM_OC = Use ~INPUTGROUP_LOOK~ to move the camera.~n~
-	PROS_CAM_TOG = Use ~INPUTGROUP_LOOK~ to move the camera.~n~Press ~INPUT_NEXT_CAMERA~ to change view.~n~
-	PROS_CAR = You cannot pick up Prostitutes in this vehicle.
-	PROS_COPS = Prostitutes will ignore you if police are nearby.
+	PROS_CAM_OC = กด ~INPUTGROUP_LOOK~ เพื่อย้ายกล้อง~n~
+	PROS_CAM_TOG = กด ~INPUTGROUP_LOOK~ เพื่อย้ายกล้อง~n~กด ~INPUT_NEXT_CAMERA~ เพื่อเปลี่ยนมุมมอง~n~
+	PROS_CAR = คุณไม่สามารถรับโสเภณีในรถคันนี้ได้
+	PROS_COPS = โสเภณีจะไม่สนใจคุณหากมีตำรวจอยู่ใกล้ๆ
 	PROS_DOLLAR = $~1~
 	PROS_NET_SPEAK = You can elicit a response from the prostitute if you speak to her. The more you speak to her, the longer you will enjoy her time.
 	PROS_NO_MONEY = You need more cash to pick up a prostitute.
@@ -49577,7 +49577,7 @@
 	R2P_MENU_DE99F = สิ่งที่ต้องทำ
 	R2P_MENU_DEST = Destination
 	R2P_MENU_DSQ = Invite more players or start the Race. You will be disqualified if you move too far during the countdown.
-	R2P_MENU_EXI = Exit
+	R2P_MENU_EXI = ออก
 	R2P_MENU_IN = Invite All Players in ระยะยิง
 	R2P_MENU_IN2 = List of Players in ระยะยิง
 	R2P_MENU_IVP = Send an invite to the selected player. Once an invite is sent the destination can't be changed.
@@ -49688,7 +49688,7 @@
 	REMINDER_CM = You have Job invites available. Open the Job List to accept.
 	RENTBUS = Rental Shuttle Bus
 	REPLAY_AYS = Restarting the mission will result in losing checkpoint progress.~n~ Are you sure you want to restart?
-	REPLAY_EXIT = Exit
+	REPLAY_EXIT = ออก
 	REPLAY_LOW_MEMORY = You have used 90% of the storage space available. Please delete unwanted clips or increase the Allocated Storage in the Settings Menu.
 	REPLAY_NO = ไม่
 	REPLAY_OK = OK
@@ -49697,14 +49697,14 @@
 	REPLAY_RECORDING = Recording
 	REPLAY_REJ = Exiting the mission will result in losing mission progress.~n~ Are you sure you want to exit?
 	REPLAY_RESTART = เริ่มต้นใหม่
-	REPLAY_RETRY = Retry
+	REPLAY_RETRY = ลองอีกครั้ง
 	REPLAY_SAVE_CLIP_FAILED = Failed to save recording.
 	REPLAY_SAVING = Saving
 	REPLAY_SKIPM = Are you sure you want to skip this mission?
 	REPLAY_SKIPS = Are you sure you want to skip this section?
 	REPLAY_SKIP_M = Skip Mission
 	REPLAY_SKIP_S = Skip
-	REPLAY_T = ~r~MISSION FAILED~s~
+	REPLAY_T = ~r~ภารกิจล้มเหลว~s~
 	REPLAY_TMG = ~r~FAILED~s~
 	REPLAY_YES = ใช่
 	RESERVE_FAIL = An error occurred accepting this invitation. Please try again.
@@ -49740,7 +49740,7 @@
 	REW_RS = Rockstar V Neck
 	RE_BUR_MIS = It's Antonia Bottino, you saved my life out at ปาเลโตเบย์ My father wanted to thank you – he's wiring some cash to your account now.
 	RE_FLASHBLIP = Flashing blue and red blips indicate situations around ซานแอนเดรส that you can choose to help with.
-	RE_HANDOVER = If you retrieve a stolen item, you can choose to keep it or return it for a reward.
+	RE_HANDOVER =หากคุณได้รับของที่ขโมยมาคุณสามารถเลือกที่จะเก็บไว้หรือส่งคืนเพื่อให้เป็นงานรางวัล
 	RE_REWARD = Some เหตุการณ์สุ่ม will reward the player with stat boosts or money.
 	RE_TITLE = Random Event
 	RGLEN = ริชแมนเกลน
@@ -49964,26 +49964,26 @@
 	SCLB_VEHDM = Vehicle Deathmatch - ~a~
 	SCLB_VEHDM_NN = Vehicle Deathmatch
 	SCLB_VEH_CUST = ~a~ (custom)
-	SCLUB_BSAW_HELP = Don't touch while the bouncer can see or you'll be thrown out.
-	SCLUB_BUSY_DANCE = The dancer is serving another customer.
-	SCLUB_BUSY_DRINK = The bartender is serving another customer.
-	SCLUB_DNCE_HEL2 = Press ~INPUT_SCRIPT_SELECT~ to change view.~n~Press ~INPUT_SCRIPT_RDOWN~ to flirt.~n~Hold ~INPUT_SCRIPT_RT~ to touch.~n~Press ~INPUT_SCRIPT_RUP~ to end the dance.
-	SCLUB_DNCE_HEL3 = Use ~INPUTGROUP_LOOK~ to move the camera.~n~Press ~INPUT_SCRIPT_RDOWN~ to flirt.~n~Release ~INPUT_SCRIPT_RT~ to stop touching.~n~Press ~INPUT_SCRIPT_RUP~ to end the dance.
-	SCLUB_DNCE_HELP = Use ~INPUTGROUP_LOOK~ to move the camera.~n~Press ~INPUT_SCRIPT_SELECT~ to change view.~n~Press ~INPUT_SCRIPT_RDOWN~ to flirt.~n~Hold ~INPUT_SCRIPT_RT~ to touch.~n~Press ~INPUT_SCRIPT_RUP~ to end the dance.
-	SCLUB_DNCE_HLM2 = Press ~INPUT_SCRIPT_SELECT~ to change view.~n~Hold ~INPUT_SCRIPT_RT~ to touch.~n~Press ~INPUT_SCRIPT_RUP~ to end the dance.
-	SCLUB_DNCE_HLM3 = Use ~INPUTGROUP_LOOK~ to move the camera.~n~Release ~INPUT_SCRIPT_RT~ to stop touching.~n~Press ~INPUT_SCRIPT_RUP~ to end the dance.
-	SCLUB_DNCE_HLMP = Use ~INPUTGROUP_LOOK~ to move the camera.~n~Press ~INPUT_SCRIPT_SELECT~ to change view.~n~Hold ~INPUT_SCRIPT_RT~ to touch.~n~Press ~INPUT_SCRIPT_RUP~ to end the dance.
-	SCLUB_DRNK_HELP = Press ~INPUT_CONTEXT~ to buy a drink for $10.
-	SCLUB_DRNK_HELP_TUNE = Press ~INPUT_CONTEXT~ to buy a drink for $~1~.
-	SCLUB_DRNK_TREV = Press ~INPUT_CONTEXT~ to get a drink.
-	SCLUB_FOLLOW = Follow ~b~~a~~s~ to the private room.
-	SCLUB_FOLLOW2 = Follow the ~b~dancers~s~ to the private room.
-	SCLUB_FOLLOW_H = Follow ~b~~a~~s~ to her home.
-	SCLUB_HOME_A = ~a~ was abandoned.
-	SCLUB_HOME_A2 = The dancers were abandoned.
+	SCLUB_BSAW_HELP =อย่าแตะต้องในขณะที่การ์ดสามารถมองเห็นมิฉะนั้นคุณจะถูกโยนออกไป
+	SCLUB_BUSY_DANCE = นักเต้นกำลังให้บริการลูกค้ารายอื่นอยู่
+	SCLUB_BUSY_DRINK = บาร์เทนเดอร์กำลังให้บริการลูกค้าอีกรายอยู่
+	SCLUB_DNCE_HEL2 = กด ~INPUT_SCRIPT_SELECT~ เพื่อเปลี่ยนมุมมอง~n~กด ~INPUT_SCRIPT_RDOWN~ เพื่อจีบ~n~กด ~INPUT_SCRIPT_RT~ ค้างเพื่อสัมผัส~n~กด ~INPUT_SCRIPT_RUP~ เพื่อหยุดการเต้น
+	SCLUB_DNCE_HEL3 = กด ~INPUTGROUP_LOOK~ เพื่อย้ายกล้อง~n~กด ~INPUT_SCRIPT_RDOWN~ เพื่อจีบ~n~ปล่อย ~INPUT_SCRIPT_RT~ เพื่อเลิกสัมผัส~n~กด ~INPUT_SCRIPT_RUP~ เพื่อหยุดการเต้น
+	SCLUB_DNCE_HELP = กด ~INPUTGROUP_LOOK~ เพื่อย้ายกล้อง~n~กด ~INPUT_SCRIPT_SELECT~ เพื่อเปลี่ยนมุมมอง~n~กด ~INPUT_SCRIPT_RDOWN~ เพื่อจีบ~n~กด ~INPUT_SCRIPT_RT~ ค้างเพื่อสัมผัส~n~กด ~INPUT_SCRIPT_RUP~ เพื่อหยุดการเต้น
+	SCLUB_DNCE_HLM2 = กด ~INPUT_SCRIPT_SELECT~ เพื่อเปลี่ยนมุมมอง~n~กด ~INPUT_SCRIPT_RT~ ค้างเพื่อสัมผัส~n~กด ~INPUT_SCRIPT_RUP~ เพื่อหยุดการเต้น
+	SCLUB_DNCE_HLM3 = กด ~INPUTGROUP_LOOK~ เพื่อเปลี่ยนมุมมอง~n~ปล่อย ~INPUT_SCRIPT_RT~ เพื่อหยุดสัมผัส~n~กด ~INPUT_SCRIPT_RUP~ เพื่อหยุดการเต้น
+	SCLUB_DNCE_HLMP = กด ~INPUTGROUP_LOOK~ เพื่อเปลี่ยนมุมมอง~n~กด ~INPUT_SCRIPT_SELECT~ เพื่อเปลี่ยนมุมมอง~n~กด ~INPUT_SCRIPT_RT~ ค้างเพื่อสัมผัส~n~กด ~INPUT_SCRIPT_RUP~ เพื่อเลิกการเต้น
+	SCLUB_DRNK_HELP = กด ~INPUT_CONTEXT~ เพื่อซื้อเครื่องดื่มในราคา $10
+	SCLUB_DRNK_HELP_TUNE = กด ~INPUT_CONTEXT~ เพื่อซื้อเครื่องดื่มในราคา $~1~
+	SCLUB_DRNK_TREV = กด ~INPUT_CONTEXT~ เพื่อดื่ม
+	SCLUB_FOLLOW = ติดตาม ~b~~a~~s~ ไปยังห้องส่วนตัว
+	SCLUB_FOLLOW2 = ติดตาม the ~b~dancers~s~ ไปยังห้องส่วนตัว
+	SCLUB_FOLLOW_H = ติดตาม ~b~~a~~s~ ไปที่บ้านของเธอ
+	SCLUB_HOME_A = ~a~ ถูกทอดทิ้ง
+	SCLUB_HOME_A2 = นักเต้นถูกทอดทิ้ง
 	SCLUB_HOME_C_H = To cancel the booty call, call ~a~ back.
-	SCLUB_HOME_D = ~r~~a~ died.
-	SCLUB_HOME_D3 = ~r~~a~ was scared.
+	SCLUB_HOME_D = ~r~~a~ ตาย
+	SCLUB_HOME_D3 = ~r~~a~ กลัว
 	SCLUB_HOME_GO = Take ~a~ ~y~home.~s~
 	SCLUB_HOME_GO3 = Take her ~y~home.
 	SCLUB_HOME_HITCH = Meet ~b~~a~~s~ at the marina.
@@ -50000,10 +50000,10 @@
 	SCLUB_LEAVE_T = Hold ~INPUT_CONTEXT~ to ask เทรเวอร์ to leave the club.~n~Press ~INPUT_CONTEXT~ to lean in for a better view.
 	SCLUB_LEAVHELP = Approach ~a~ to ask him to leave.
 	SCLUB_LIK2_MP = Increase the dancers' 'Like' meter by touching them or flirting with them through your headset.
-	SCLUB_LIK2_SP1 = Touch and flirt with the dancers to increase their 'Like' meter. Make sure the bouncer doesn't see you touch her or you'll get thrown out.
-	SCLUB_LIK2_SP2 = Touch and flirt with the dancers to increase their 'Like' meter.
-	SCLUB_LIKE_FULL = ~a~'s Like meter is full.
-	SCLUB_LIKE_FULL_ALT = ~a~' Like meter is full.
+	SCLUB_LIK2_SP1 = แตะและจyบนักเต้นเพื่อเพิ่มระดับ ความชอบ ตรวจสอบให้แน่ใจว่าการ์ดไม่เห็นว่าคุณที่แตะเธอมิฉะนั้นคุณจะถูกโยนออกไปได้
+	SCLUB_LIK2_SP2 = แตะและจับนักเต้นเพื่อเพิ่มระดับ ความชอบ
+	SCLUB_LIKE_FULL = ~a~ ระดับความชอบเต็มแล้ว
+	SCLUB_LIKE_FULL_ALT = ~a~ ระดับความชอบเต็ม
 	SCLUB_LIKE_MP = Increase the dancer's 'Like' meter by touching her or flirting with her through your headset.
 	SCLUB_LIKE_SP1 = Touch and flirt with the dancer to increase her 'Like' meter. Make sure the bouncer doesn't see you touch her or you'll get thrown out.
 	SCLUB_LIKE_SP2 = Touch and flirt with the dancer to increase her 'Like' meter.
@@ -50033,12 +50033,12 @@
 	SCLUB_RAIL_HELP = Use ~INPUTGROUP_LOOK~ to look around.~n~Press ~INPUT_SCRIPT_RDOWN~ to toss a dollar.~n~Press ~INPUT_SCRIPT_RLEFT~ to make it rain.~n~Press ~INPUT_SCRIPT_RRIGHT~ to leave the rail.
 	SCLUB_SMALL_CAR = Get a larger vehicle to take ~a~ home.
 	SCLUB_SOL2_HELP = Press ~INPUT_CONTEXT~ to ask the dancer to join.
-	SCLUB_SOL_HELP = For a private dance, approach a dancer and press ~INPUT_CONTEXT~~n~The cost of a dance is $40.
-	SCLUB_SOL_HELP_TUNE = For a private dance, approach a dancer and press ~INPUT_CONTEXT~~n~The cost of a dance is $~1~.
-	SCLUB_SOL_TREV = For a private dance, approach a dancer and press ~INPUT_CONTEXT~
-	SCLUB_WAIT_OVER1 = ~r~The dancer is tired of waiting.
-	SCLUB_WAIT_OVER2 = ~r~The dancers are tired of waiting.
-	SCLUB_WONT_HOME = ~a~ doesn't sleep around.
+	SCLUB_SOL_HELP = สำหรับการให้นักเต้นมาเต้นส่วนตัวให้ดู กด ~INPUT_CONTEXT~~n~ค่าเต้นคือราคา $40
+	SCLUB_SOL_HELP_TUNE =สำหรับการให้นักเต้นมาเต้นส่วนตัวให้ดู กด ~INPUT_CONTEXT~~n~ค่าเต้นคือราคา $~1~.
+	SCLUB_SOL_TREV = สำหรับการให้นักเต้นมาเต้นส่วนตัวให้ดู กด ~INPUT_CONTEXT~
+	SCLUB_WAIT_OVER1 = ~r~นักเต้นเหนื่อยกับการรอแล้ว
+	SCLUB_WAIT_OVER2 = ~r~นักเต้นเหนื่อยกับการรอคอยนานๆ
+	SCLUB_WONT_HOME = ~a~ นอนไม่หลับ
 	SCORCHER = Scorcher
 	SCORE_CHALLENGE = คะแนนความท้าทาย
 	SCORE_CHALLSC = คะแนนความท้าทาย
@@ -50205,7 +50205,7 @@
 	SC_MSC_STK = Deal in Stocks
 	SC_MSC_TAT = Get a Tattoo
 	SC_MSC_VEH = Online Vehicle Purchase
-	SC_MSC_WSH = ที่ล้างรถ
+	SC_MSC_WSH = บริการล้างรถ
 	SC_MSC_WTV = ดูทีวี
 	SC_MSC_YOG = โยคะ
 	SC_NICKNAME_LABEL = NICKNAME
@@ -52049,8 +52049,8 @@
 	UW_DRAWZ = Your vehicle destroyed no Merryweather patrols
 	UW_EXITV = You cannot exit the vehicle while Kill List is active.
 	UW_EXITVC = You cannot exit the vehicle while Kill List Competitive is active.
-	UW_EXPL = Exit the Kill List vehicle before it explodes.
-	UW_EXPLC = Exit the Kill List Competitive vehicle before it explodes.
+	UW_EXPL = ออก the Kill List vehicle before it explodes.
+	UW_EXPLC = ออก the Kill List Competitive vehicle before it explodes.
 	UW_FAIL = You failed to destroy all the Merryweather patrols
 	UW_FAILD = You died before completing the objective
 	UW_FAILNX = You failed to destroy all the Merryweather patrols
@@ -52494,7 +52494,7 @@
 	VEUI_ENTER_EXPORTNAME = Enter Exported Name:
 	VEUI_ENTER_FILENAME = Enter Project Name:
 	VEUI_ENTER_TEXT = Enter Text:
-	VEUI_EXIT_TO_SP = Exit to Story Mode
+	VEUI_EXIT_TO_SP = ออกไปโหมดเนื้อเรื่อง
 	VEUI_EXIT_WARN = Are you sure you want to quit the Rockstar Editor?
 	VEUI_EXIT_WARN_D = Are you sure you want to quit the Rockstar Editor?~n~You will be returned to Grand Theft Auto V.
 	VEUI_FADEIN = Fade-in
