@@ -1,7 +1,7 @@
 ﻿Version 2 30
 {
 	0x00F76C63 = 100
-	0x010133CF = ~z~Let's dance. I am so hot for you baby.
+	0x010133CF = ~z~มาเต้นกันเถอะ ฉันร้อนแรงกับคุณมากนะที่รัก
 	0x01080E33 = ~z~You. Here. Now.
 	0x011EC99A = ~z~I told you, no access.
 	0x015CEEA9 = 100
@@ -21,7 +21,7 @@
 	0x04D3D16C = ~z~Call me sometime, OK? You won't regret it.
 	0x04DA57B9 = ~z~You know what? I'm enjoying the frustrating titillation for right now.
 	0x04DABD6A = ~z~Another dance?
-	0x04E309A5 = ~z~Keep your hands to yourself, okay?
+	0x04E309A5 = ~z~เอามือของคุณเก็บไปเลย เข้าใจมั้ย
 	0x04EAB16C = 1100000
 	0x0536FF1C = 090
 	0x05507C7C = ~z~I'd ask for your number, but they took my phone.
@@ -42,7 +42,7 @@
 	0x081890DC = ~z~Mike! Buy a dance honey.
 	0x085D2A4C = ~z~Jerk!
 	0x08C3907C = ~z~If we go in the back I can show you better.
-	0x08D11756 = ~z~I reckon it's time for you to call in some back-up.
+	0x08D11756 = ~z~ฉันคิดว่าถึงเวลาแล้วที่คุณจะต้องติดต่อคนอื่นมา
 	0x08EAAC57 = SCLUB_AMAA
 	0x09136FD4 = SCLUB_FIAA
 	0x092DC3E1 = 100
@@ -53,7 +53,7 @@
 	0x0A582E4A = SCLUB_ALAA
 	0x0AA2ADDF = ~z~You got me so hot. Come to my place after this dance.
 	0x0B04F9A1 = 100
-	0x0B4E4869 = ~z~Want a dance in the back?
+	0x0B4E4869 = ~z~ต้องการเต้นรำที่ด้านหลังหรือเปล่า
 	0x0B7F4BFB = 1100000
 	0x0B10392A = SCLUB_BKAA
 	0x0BBA58A3 = SCLUB_EWAA
@@ -291,7 +291,7 @@
 	0x8CF0ED65 = 1100000
 	0x8CF86A5A = ~z~You know what's better than one of you? Two of you... get a friend over.
 	0x8D96DEAF = 100
-	0x8D1587C8 = ~z~Shall we have another?
+	0x8D1587C8 = ~z~ต้องการบริการอีกครั้งหรอ
 	0x8D518968 = ~z~Man, get your shit together homie.
 	0x8DAEDA60 = 100
 	0x8DB874B4 = ~z~I can see by that bulge in your pants you want to go again.
@@ -376,7 +376,7 @@
 	0x30C21EC5 = SCLUB_GSAA
 	0x31A74EC5 = 100
 	0x32ADA023 = 1100000
-	0x32F34EDE = ~z~A'ight, let's do this.
+	0x32F34EDE = ~z~เอาหล่ะ งั้นไปกันดีกว่า
 	0x33BC5BE4 = ~z~Michael you've returned! Let's Dance.
 	0x34BB1F97 = ~z~Come on, can't you control yourself?
 	0x34C9B65D = SCLUB_COAA
@@ -664,7 +664,7 @@
 	0x7301BDAE = SCLUB_AXAA
 	0x7325FD98 = 100
 	0x7832A7B1 = ~z~Don't make me wait!
-	0x7881C477 = ~z~Shall we party at my place?
+	0x7881C477 = ~z~เราจะไปปาร์ตี้ที่บ้านของฉันได้ไหม
 	0x7981F77A = ~z~You up for another round, dollface?
 	0x8008F3E9 = 100
 	0x8105E758 = SCLUB_GJAA
@@ -896,7 +896,7 @@
 	0xBA430B2F = 100
 	0xBA110229 = 100
 	0xBA971930 = 1100000
-	0xBAD8634D = ~z~Would you like some more?
+	0xBAD8634D = ~z~คุณต้องกาเพิ่มเติมหรือเปล่า
 	0xBB064412 = ~z~What happened to the art of foreplay? Keep dancing.
 	0xBB9A5E15 = 100
 	0xBB162DB6 = ~z~Nah, baby, I'm cool, I just need another dance for right now.
@@ -1094,7 +1094,7 @@
 	0xE49631FD = ~z~ไหนมาแสดงให้ฉันดูหน่อย ว่าเธอมีดีอะไร
 	0xE55666A7 = SCLUB_AIAA
 	0xE95996FA = ~z~Whatever!
-	0xE360480C = ~z~Come with me babe.
+	0xE360480C = ~z~มากับฉันมาที่รัก
 	0xE438074F = SCLUB_EKAA
 	0xE713284A = 1100000
 	0xE4189204 = ~z~Wanna double your pleasure?
