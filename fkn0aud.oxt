@@ -3,13 +3,13 @@
 	0x001605BB = FKN0_ABAB
 	0x00519C2E = FKN0_FPAY
 	0x005DA6D0 = FKN0_CZAC
-	0x007687E4 = ~z~I was just gonna wing the motherfucker.
+	0x007687E4 = ~z~กูก็แค่จะติดปีกไอ้เวรนั่น
 	0x008C1715 = 240
 	0x00AF43C2 = 000
 	0x00D129E4 = FKN0_FPBU
 	0x01060D5C = FKN0_DPAA
 	0x014FA2BB = FKN0_FPAO
-	0x0183DBE2 = ~z~Long as you don't kill him, you can eat a big chunk out this bitch.
+	0x0183DBE2 = ~z~ตราบใดที่มึงไม่ฆ่ามันมึงก็จะได้กินเนื้อก้อนใหญ่ ไอสัส
 	0x01B20B33 = FKN0_ABAC
 	0x01BFA435 = 110000011000001100000
 	0x022E5DAE = SFX_PAUSE_180
@@ -17,10 +17,10 @@
 	0x02D44EDF = ~z~ว่าไงคนสวย 
 	0x02D29064 = 100
 	0x03256720 = 230010320
-	0x03766BBD = ~z~It ain't some bullshit, it's science, fool. They got the technology.
-	0x037BAB5B = ~z~Come on, you horny little motherfucker. You need boot camp or some shit.
-	0x03A31D4B = ~z~Watch the van, homie. We need it.
-	0x03B947C4 = ~z~We ain't here to pop the dude.
+	0x03766BBD = ~z~มันไม่ใช่เรื่องไร้สาระ มันเป็นวิทยาศาสตร์ ไอ้โง่ พวกแม่งได้รับเทคโนโลยีเข้ามา
+	0x037BAB5B = ~z~มาเร็วเจ้าหนูขี้เงี่ยนสงสัยมึงต้องได้รับการฝึกฝนแล้วหล่ะ
+	0x03A31D4B = ~z~ดูรถตู้ไว้พวก เราต้องใช้มัน
+	0x03B947C4 = ~z~เราไม่ได้มาที่นี่เพื่ออวดนะเพื่อน
 	0x040C176B = SFX_OVERLAP_5610
 	0x0499F465 = SFX_PAUSE_250
 	0x04A74961 = ~z~เอ๊ะ ทำไมเราต้องทำแบบนี้
@@ -34,7 +34,7 @@
 	0x058CD9A2 = 100
 	0x0603CC5B = ~z~หุบปากไปเลยสัส ~n~~c~ฟังกันบ้างสิวะ แม่งเอ้ย
 	0x060D5545 = ~z~เป็นน้องของไลตาใช่มั้ยเนี่ย
-	0x0610E33C = ~z~Come on, man. He ain't going to be able to walk.
+	0x0610E33C = ~z~มาเร็ว พวก มันเดินต่อไม่ได้แล้ว
 	0x06405D2F = ~z~ดีงั้นเดี๋ยวกูจะเอาหำกูเนี่ยไปยัดรูตูดของมึงเอามั้ย
 	0x0646C3E7 = FKN0_FEAB
 	0x069C7502 = ~z~ไอมืด กูไม่กลัวว่าต้องฆ่าใครอะไร ยังไงหรอกเว้ย
@@ -42,7 +42,7 @@
 	0x071BB9E7 = 220
 	0x07284E70 = ~z~Chop lucky, homie. Ain't you, Chop? Ain't you, boy?
 	0x0843E284 = 110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000
-	0x085D972A = ~z~Heel!
+	0x085D972A = ~z~ส้นตีน
 	0x088C75BD = FKN0_AUAA
 	0x08933329 = 100
 	0x08A83B8E = 100
@@ -51,7 +51,7 @@
 	0x091E7078 = 290
 	0x09257DA9 = FKN0_CEAA
 	0x09262507 = SFX_PAUSE_180
-	0x09828F60 = ~z~Where is he, boy? Come on, where is he?
+	0x09828F60 = ~z~มันอยู่ที่ไหนไอ้หนู มาเร็วมันอยู่ที่ไหน
 	0x09D34BD5 = FKN0_FPAE
 	0x09E19482 = ~z~พวก กูต่างหาที่ต้องมาดูแลพวกมึงทั้งสองตัว เหนื่อยชิบหายเลย
 	0x0A5F76A7 = FKN0_BBAK
@@ -63,9 +63,9 @@
 	0x0B477C80 = ~z~ปัญหาอ่อนชิบหายมึงปล่อยไอ้ D ไป
 	0x0BCCF4C8 = ~z~ควยเรื่องของมึงเหอะ มึงเจอทานิชาบ้างเปล่า
 	0x0C0C2F4F = ~z~โอ้ เฮ้ อีกไกลแค่ไหนนะ
-	0x0C26B06C = ~z~I'm a woman.
+	0x0C26B06C = ~z~ฉันคือผู้หญิง
 	0x0C163ADC = SFX_PAUSE_220
-	0x0C309F8C = ~z~Yeah, you keep saying that.
+	0x0C309F8C = ~z~ใช่ มึงก็เอาแต่พูด
 	0x0C299633 = ~z~Me? You ain't doing shit! Chop is doing more to get this nigga than you, and he just drooling.
 	0x0C695190 = ~z~You lame, sucker.
 	0x0CADF12E = 320
@@ -112,7 +112,7 @@
 	0x1F63C5BE = ~z~Man, don't pop that fool. We tryin' to kidnap him.
 	0x1F85C146 = ~z~This nigga's a punk, homie. And he making you look like one, too.
 	0x1FA80AB0 = ~z~ไม่ทันแล้ว ช่างแม่งเหอะ อย่างน้อยกูก็ทำให้มึงไม่ต้องยิงไอ้เหี้ยนั่นทิ้งละกัน
-	0x2A20AD1B = ~z~หมาจรจัดที่รัก
+	0x2A20AD1B = ~z~ไอ้หมาจรจัดที่รัก
 	0x2A7394C6 = ~z~Man, what the fuck Chop do to deserve a fool like you?
 	0x2A619516 = ~z~อย่าเอาไอ้หมาเหี้ยนี่เข้ามาใกล้กูสิวะ ~n~~c~เร็วเข้า เร็วเข้า
 	0x2AB92C83 = SFX_PAUSE_140
@@ -628,7 +628,7 @@
 	0x942C26AC = 230
 	0x945C8E79 = FKN0_FQAV
 	0x952E86CA = 100
-	0x952F678C = ~z~แต่คุณรู้อะไร,yhp
+	0x952F678C = ~z~แต่คุณรู้อะไร
 	0x955CB280 = FKN0_EWAA
 	0x963C6C32 = 1100000
 	0x968DED37 = SFX_PAUSE_160
@@ -669,7 +669,7 @@
 	0x6006ADF1 = 1100000
 	0x6051E5D9 = 000
 	0x6105BB9F = ~z~เปิดสิวะ
-	0x6332B651 = ~z~ฒันขี่มอเตอร์ไซค์ จะแม่งยังไง
+	0x6332B651 = ~z~มันขี่มอเตอร์ไซค์ จะจับแม่งยังไง
 	0x6335A6FE = 110000011000001100000110000011000001100000
 	0x6367D16C = SFX_PAUSE_160
 	0x6666BF5E = 1100000
@@ -981,7 +981,7 @@
 	0xBF640E3E = ~z~Hold on, Chop.
 	0xBF679B6B = ~z~ได้ เข้าใจแล้ว ไอ้สูงผอมเพรียวไอ้เวรเอ้ย
 	0xBF2963A8 = ~z~He going left! Pull left!
-	0xBF34150E = ~z~เฮ้p ลามาร์เดวิสนั่นมึงนี่หว่า
+	0xBF34150E = ~z~เฮ้ ลามาร์เดวิสนั่นมึงนี่หว่า
 	0xBFAE2D0A = FKN0_FHAX
 	0xBFDB0CF7 = ~z~เอาไปขังที่บ้านมึงหรอวะ กูเคยอยู่แถวนั้นตั้งแต่มึงยังตอนน้อยๆแล้ว
 	0xBFE39FAD = FKN0_EYAA

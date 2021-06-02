@@ -1746,7 +1746,7 @@
 	0x43BD8079 = Recovery
 	0x43FCFA3D = Unavailable - Not enough Spawn Points have been placed for all the players.
 	0x44A8F1CC = ~HUD_COLOUR_ORANGE~ORANGE ~s~WINS IN
-	0x44C2FB4B = ~s~Machete
+	0x44C2FB4B = ~s~มีดมาเชเต้
 	0x44D84451 = Stream Radius
 	0x44FEF010 = A Pit Stop is required when making an Open Wheel Race.
 	0x45A8A8AF = ~s~Minigun
@@ -8038,7 +8038,7 @@
 	WEP_HVSHOTG = ~s~Heavy Shotgun
 	WEP_KNIFE = ~s~Knife
 	WEP_KNUCKLE = ~s~Knuckle Duster
-	WEP_MACHETE = ~s~Machete
+	WEP_MACHETE = ~s~มีดมาเชเต้
 	WEP_MACHPIST = ~s~Machine Pistol
 	WEP_MARKSMAN = ~s~Marksman Pistol
 	WEP_MARKSMANR = ~s~Marksman Rifle
