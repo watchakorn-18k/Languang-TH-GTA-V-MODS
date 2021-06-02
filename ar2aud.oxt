@@ -6,9 +6,9 @@
 	0x009E98A7 = AR2_CUAH
 	0x00C2B53E = ~z~เอาเหอะ
 	0x00D5501B = ~z~You blocked 'em in, homie - shit goin' kick off with these eses.
-	0x0129CD7F = ~z~You so trigger happy you would even blast the fucking milk man!
+	0x0129CD7F = ~z~แกดูมีความสุขไหม มากจนแทบระเบิดออกมาเลยใช่ไหม ไอ้คนส่งนม!
 	0x012B7E36 = 1000000
-	0x01319DD2 = ~z~Shit! There they are! Heat 'em up!
+	0x01319DD2 = ~z~บ้าเอ้ย! พวกมันอยู่นั่น! จัดการเลย!
 	0x0177C09D = AR2_DGAA
 	0x018951E0 = ~z~We kinda like making our presence know with this parking. Move it.
 	0x01A02F4D = 391
@@ -36,7 +36,7 @@
 	0x05A3C54F = 300
 	0x05A6F0D7 = ~z~ไอมืด นี่มันแค่เถื่อนแบบเบื้องต้นเองนะ สหาย
 	0x05EFB008 = ~z~Get that fool on the balcony!
-	0x0612C6DA = ~z~Cold, homie.
+	0x0612C6DA = ~z~เจ๋ง เพื่อน
 	0x063572F4 = AR2_DAAB
 	0x065E4075 = ~z~อ่อหรอ...ผม
 	0x06605E09 = ~z~Ahh ahh huh huh!
@@ -63,9 +63,9 @@
 	0x091EC90C = 301
 	0x0929F8AF = ~z~Motherfuckers on the scaffold is on me. Shoot up that canister!
 	0x09805C2E = AR2_IDAC
-	0x09B8F8C5 = ~z~เอางี้ เาย่องเข้าไปแล้วรีบออกมา แต่อย่าเสือกมีประเด็นหล่ะ
+	0x09B8F8C5 = ~z~เอางี้ เราย่องเข้าไปแล้วรีบออกมา แต่อย่าเสือกมีประเด็นหล่ะ
 	0x09EA7FBA = 100
-	0x0ABCF412 = ~z~Eh, eh, eh, let's do this.
+	0x0ABCF412 = ~z~เอ๊ะ เอ๊ะ รีบมาที่นี่เร็ว
 	0x0ADFAD16 = SFX_PAUSE_220
 	0x0AF62962 = 300010030010300010300300010030300010300010030010300010030010300010030010300010300010030010030010300
 	0x0B1E89DA = 100
@@ -74,7 +74,7 @@
 	0x0BD71BB3 = ~t~What's going on?
 	0x0BF7E02D = AR2_IDAF
 	0x0BFAF461 = ~z~I guess I do make niggas around me look like punks in comparison.
-	0x0C3DE302 = ~z~Somebody tell them niggas this a legal repossesion.
+	0x0C3DE302 = ~z~มีคนบอกกูว่าพวกห่ากระเทยนี่แม่งครอบครองพื้นที่โดยถูกกฎหมาย
 	0x0C19E281 = ~z~ไอแม่เย็ด
 	0x0C82B54D = 130
 	0x0CB5110E = 100
@@ -146,7 +146,7 @@
 	0x2C0258EC = SFX_PAUSE_090
 	0x2C5A0C99 = 100
 	0x2C898FA9 = ~z~Nigga, I should punch yo' ass for kicking that shit off. Bike don't mean nothin', homie.
-	0x2CC88D7A = ~z~You crazy motherfucker. Why we have to pop all them people?
+	0x2CC88D7A = ~z~มึงบ้านไปแล้วหรอไอเวร ทำไมเราต้องฆ่าแม่งทุกคนด้วย
 	0x2CE53032 = AR2_EMAB
 	0x2CF2EC93 = ~z~I thought you punks was done.
 	0x2D1AF090 = AR2_FAAA
@@ -177,11 +177,11 @@
 	0x3B4BF7F4 = ~z~This is bad? And clapping all them fools wasn't? Your sense of reality has always been fucked up.
 	0x3B22F895 = ~z~I guess it wasn't meant to be.
 	0x3B7661C4 = SFX_PAUSE_330
-	0x3BC7ED66 = ~z~That's a monster fucking bike he riding, stupid.
+	0x3BC7ED66 = ~z~ไอส้นตีนนั้นมันขี่มอเตอร์ไซต์นะเว้ย
 	0x3BFBD75E = 021010201
 	0x3C9E204D = ~z~You ain't even tryin' fool!
 	0x3C90D009 = ~z~Man, I knew we was goin' be fucked down this alley.
-	0x3CCA370C = ~z~Shit, man, play it cool.
+	0x3CCA370C = ~z~แม่งเจ๋ง ทำได้ดีเพื่อน
 	0x3CDCF057 = ~z~ดีใจที่ได้เจอนายนะ
 	0x3CEEB115 = AR2_ICAE
 	0x3CEF1678 = 791
@@ -209,11 +209,11 @@
 	0x4AF141B5 = ~z~เอาไว้เดือนหน้าละกันนะ
 	0x4B01BE05 = 390
 	0x4B09EC72 = ~z~Man, one time ain't coming with us on this repo job.
-	0x4B3D8FF7 = ~z~There's the fool on the balcony!
+	0x4B3D8FF7 = ~z~มีคนโง่แม่งอยู่ที่ระเบียง!
 	0x4B72A9CB = AR2_CUAE
 	0x4B507ACC = 301
 	0x4BB23208 = ~z~Frank, man! Get behind something!
-	0x4BE0241D = ~z~This what you looking for, pigs?
+	0x4BE0241D = ~z~นี่คือสิ่งที่มึงกำลังตามหาใช่มั้ย
 	0x4C2D1DE7 = 100
 	0x4C6C047E = ~z~Get me the bike, and we'll talk about your future.
 	0x4C186C5C = SFX_PAUSE_210
@@ -228,7 +228,7 @@
 	0x4D545A25 = ~z~แล้วไอ้หน้ามึนเชี่ยนั่นหล่ะ แถวบ้านเราหนะ มาร์คัสหรืออะไรเนี่ยแหละ
 	0x4D242395 = 100
 	0x4DBBDEC5 = 100
-	0x4DBE86B3 = ~z~Man, I don't like this shit one bit.
+	0x4DBE86B3 = ~z~พวก กูแม่งไม่ชอบพวกเชี้ยนี่เลยสักนิด
 	0x4DDB8DA1 = AR2_ICBT
 	0x4DE33CF8 = ~z~You fools are in the wrong motherfucking hood!
 	0x4E2A034A = 1101000
@@ -252,7 +252,7 @@
 	0x5B69E2A6 = ~z~และก็เขียนต่อท้ายว่า ผู้ชนะ
 	0x5B734FC4 = AR2_HMAA
 	0x5BADF1B9 = SFX_PAUSE_180
-	0x5BBE5195 = ~z~Now look what you gone and done.
+	0x5BBE5195 = ~z~ตอนนี้มึงไปดูและทำซะ
 	0x5BBF241B = ~z~It's getting hot in this alley.
 	0x5BC4972C = 1100000
 	0x5BEA1C43 = AR2_CUAO
@@ -288,7 +288,7 @@
 	0x6CEC0026 = AR2_ICBM
 	0x6D1F2C60 = ~z~Hey, you still rolling with that ol' raggedy-ass hair? That country-bumpkin shit is enough to get us shot right there.
 	0x6D7E205E = 300010030010300010030
-	0x6DA30348 = ~z~Oh shit, professor, you're right.
+	0x6DA30348 = ~z~โอ้ ว่าไงท่านศาสตราจารย์ ฉลาดจังเลย
 	0x6DD2D7C2 = AR2_AYAB
 	0x6DEC354B = AR2_ICCH
 	0x6E4D4A1A = AR2_DAAC
@@ -333,7 +333,7 @@
 	0x7F10A346 = ~z~He on the roof!
 	0x7F556EFA = SFX_PAUSE_150
 	0x7F8444A3 = ~z~We got to move!
-	0x7FB09F72 = ~z~This a routine lick, dog. Chill.
+	0x7FB09F72 = ~z~ไม่ต้องห่วงหมาเลียเป็นประจำ ทำใจให้สบายเถอะ
 	0x7FBD5DA5 = SFX_PAUSE_250
 	0x7FE68893 = ~z~They made this fool Employee of the Month? Come on.
 	0x8A96C846 = 11000001100000
@@ -357,9 +357,9 @@
 	0x8DDC78BE = 1100000
 	0x8E568F8C = 390
 	0x8E6683B9 = 1000000
-	0x8E284452 = ~z~That's because he's sitting on a hundred and forty cubic inches right there, nigga.
+	0x8E284452 = ~z~ก็รถแม่งเครื่องตั้ง 2,000 ซีซีเลยนี่หว่า
 	0x8E578675 = ~z~Waving the papers, telling these motherfuckers to suck a dick, we legal.
-	0x8E631349 = ~z~Oh, shit, man, look at me, real inconspicuous.
+	0x8E631349 = ~z~โอ้ พวกมองมาที่กูแม่งไม่เด่นจริงๆด้วย
 	0x8EAEAE58 = AR2_AGAG
 	0x8ED12F60 = ~z~Now that you mention it, that is a fine bike.
 	0x8F5A6510 = ~z~How'd I guess?
@@ -394,7 +394,7 @@
 	0x9E3D7B49 = 1101000
 	0x9E3EF019 = 11000001100000110000011000001100000
 	0x9E6FFC5F = ~z~กูก็ไม่อยากเล่นไอ้เยทาเรียนนั่นเหมือนกันหวะ กูชอบมันจะตาย ก็แค่เผื่อไว้ตอนจำเป็นเฉยๆ
-	0x9E7FC8C6 = ~z~I'ma look for some transport!
+	0x9E7FC8C6 = ~z~กูกำลังมองหารถ
 	0x9F0BBB03 = SFX_PAUSE_630
 	0x9F79E65D = AR2_CRAA
 	0x9F99BE72 = 300
@@ -404,7 +404,7 @@
 	0x9FD7A44E = 1100000
 	0x9FF6F604 = AR2_ICBL
 	0x9FF93B79 = AR2_HXAD
-	0x9FFF600F = ~z~Shit, we in Vespucci Beach.
+	0x9FFF600F = ~z~ไอเวร เราอยู่ชาดหายเวสปุชชี่นะ
 	0x10D77B64 = ~z~My powers of deduction is telling me it's right there.
 	0x12FDCB7D = 110000011000001100000
 	0x13A140D9 = SFX_PAUSE_270
@@ -466,9 +466,9 @@
 	0x35BBB288 = AR2_GXAA
 	0x35C63B36 = AR2_ICBW
 	0x36B565A2 = 100
-	0x37A754DF = ~z~We looking for this bike, or what?
+	0x37A754DF = ~z~เรากำลังตามหาจักรยานคันนี้หรือเปล่าวะ
 	0x37B984AF = SFX_OVERLAP_1238
-	0x37BE3A7D = ~z~And whose fault is that, Mr. Eighties action movie body countin' motherfucker?
+	0x37BE3A7D = ~z~แล้วมันคือความผิดของใครหล่ะมิสเตอร์เอทตี้ส์ภาพยนตร์แอ็คชั่นหรือไงไอแม่เย็ด
 	0x37BFBC10 = AR2_IDAB
 	0x37C40B54 = 110000011000001100000
 	0x37EAC8E4 = 11000001100000110000011000001100000
@@ -480,7 +480,7 @@
 	0x40B16B2E = ~z~Simeon don't want no one drawing attention to the legalities of this bullshit.
 	0x40ED0DA4 = SFX_PAUSE_250
 	0x40F62F1D = ~z~Hey, where is he, nigga?
-	0x41F1B0EE = ~z~Shoot him down.
+	0x41F1B0EE = ~z~ยิงแม่งให้ล้ม
 	0x42A6671C = 100
 	0x42CAFAC7 = 100
 	0x43ED5D7B = 1000000
@@ -489,11 +489,11 @@
 	0x44BEE53C = 100
 	0x44C80210 = SFX_PAUSE_250
 	0x44E0349F = ~z~มันต้องเป็นกู กูก็อยากเห็นชื่อของกูที่อยู่ด้านบนสุดของบอร์ดเชี่ยนั่น
-	0x44E8FD36 = ~z~You gonna shoot that gas trail or what?
+	0x44E8FD36 = ~z~มึงจะยิงถังแก๊สนั้นหรอ
 	0x45B65626 = ~z~Man, what's a few more of these motherfuckers?
 	0x45F18C26 = 110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000110000011000001100000
 	0x46FA5E7E = AR2_ICAL
-	0x47AF02C6 = ~z~What you waiting for? Shoot the trail!
+	0x47AF02C6 = ~z~มึงจะรอเชี่ยอะไรมึงก็ยิงถังแก๊สนั่นไปสิ
 	0x48A3849A = 100
 	0x48B0334D = 110000011000001100000
 	0x48D4C096 = AR2_BWAA
@@ -514,7 +514,7 @@
 	0x58EE2B58 = ~z~Up there! To the right!
 	0x59BF49C9 = SFX_PAUSE_210
 	0x59D7D7DF = ~z~There that motherfucker go! Up there!
-	0x59D37EA7 = ~z~This punk get away we going down, homie. He gonna pin us for all these bodies.
+	0x59D37EA7 = ~z~ไอ้พังค์นี่กูจะทำให้แม่งล้ม แล้วไปตรึงร่างของแม่งกลางถนน
 	0x59E84517 = 1000000
 	0x60AA1DBE = ~z~นี่มึงล้อกันเล่นใช่มั้ยว่ะเฮีย
 	0x60CE66C3 = AR2_CRAB
@@ -589,7 +589,7 @@
 	0x90C42687 = 300
 	0x90FE3AAC = AR2_CCAA
 	0x91A1F761 = ~z~They wouldn't have heard nothing, if we'd a been cool with these assholes.
-	0x91BFC390 = ~z~Do them Vagos look routine? This is Shady Ass Alley!
+	0x91BFC390 = ~z~พวกวากอสแม่งทำประจำหรอ นี่ที่ร่มๆไว้ซอยตูดกัน
 	0x91D822B5 = AR2_BAAA
 	0x91DF7FD6 = AR2_DWAA
 	0x91ED2CDD = AR2_FTAE
@@ -609,12 +609,12 @@
 	0x99A91696 = AR2_ICAS
 	0x99B680D0 = ~z~ก็ดูอีกห้องดิวะ...
 	0x99D6CF93 = AR2_ADAA
-	0x103ADDFE = ~z~Be cool, nigga.
+	0x103ADDFE = ~z~เจ๋ง ไอมืด
 	0x106E0212 = AR2_CTAC
 	0x111F6865 = ~z~อะไรนะ
 	0x117FA9B4 = AR2_FTAB
 	0x121AF2D3 = 100
-	0x127AF366 = ~z~Now look, you blocking 'em, they goin' be pissed.
+	0x127AF366 = ~z~ดูสิตอนนี้มึงกำลังปิดกั้นพวกมัน พวกมันจะโกรธนะ
 	0x131CD6B5 = 1100000
 	0x138DB049 = 301
 	0x152C16EE = ~z~Come on, bitches.
@@ -639,7 +639,7 @@
 	0x304D0BE9 = ~z~Over there! They coming out that door!
 	0x305A2374 = 100
 	0x308EB138 = 100
-	0x330A996D = ~z~I'ma make this look easy.
+	0x330A996D = ~z~กูจะทำให้มันง่ายขึ้นให้ดู
 	0x340D6066 = ~z~What you want, dopey?
 	0x353F33A0 = AR2_DFAA
 	0x380C66A9 = SFX_PAUSE_240
@@ -649,7 +649,7 @@
 	0x402F2C31 = ~z~ไม่เอาเดือนเว้ยซิเมียน
 	0x412D1FAE = ~z~And that was exactly what I was thinking, homie, thank you. Now fuck off.
 	0x419C3A2B = ~z~I left. You still there? Man, get your ass outta there.
-	0x420AAF64 = ~z~Look out! They running on you!
+	0x420AAF64 = ~z~ระวัง! พวกมันวิ่งมาหามึงแล้ว
 	0x429D152A = SFX_PAUSE_220
 	0x433C3E80 = AR2_DOAA
 	0x437AF38B = ~z~No habla Español, motherfucker!
@@ -659,7 +659,7 @@
 	0x475E4214 = ~z~Watch me, fool.
 	0x477F9FC7 = ~z~Get on the bike, fool.
 	0x480DEF7A = ~z~Why don't you get in cover over there? Shit.
-	0x484C4481 = ~z~You was there too. Correct me if I'm wrong, but you shot more of them than I did.
+	0x484C4481 = ~z~มึงก็อยู่ที่นั่นด้วย ถ้ามึงจะว่ากูผิด แต่มึงก็ยิงพวกแม่งมากกว่าที่กูยิงอีก
 	0x487FB067 = 100
 	0x488DA203 = AR2_EXAC
 	0x495C5A18 = AR2_BRAA
@@ -672,7 +672,7 @@
 	0x545C2386 = 100
 	0x545D824A = AR2_HYAA
 	0x552ED7A1 = AR2_ICCC
-	0x559E0BB8 = ~t~Go shoot up someone else's back yard, you young morons.
+	0x559E0BB8 = ~t~ไปยิงหลังบ้านคนอื่นซะ ไอ้พวกปัญญาอ่อน
 	0x562ED533 = 10010001001000
 	0x566F3EFB = SFX_PAUSE_220
 	0x576CEAD6 = ~z~Eh, eh, eh, hold up.
@@ -747,7 +747,7 @@
 	0x2426D185 = SFX_PAUSE_200
 	0x2590F6F5 = ~z~ไอ้เด็กแถวหาดเวสปุชชี่
 	0x2653AD83 = AR2_HWAA
-	0x2678C53D = ~z~Eh. You just goin' stand there lookin' like an idiot?
+	0x2678C53D = ~z~เอ๊ะ มึงแค่ไปยืนอยู่ตรงนั้นเหมือนคนงี่เง่าทำไม
 	0x2703B69F = SFX_PAUSE_220
 	0x2966FFD9 = ~z~That's the bike we came for!
 	0x2999F809 = 100
@@ -826,7 +826,7 @@
 	0x33605DD8 = 300
 	0x36534CAF = AR2_DPAA
 	0x41393A14 = 100
-	0x44396C7A = ~z~Bye bye, asshole.
+	0x44396C7A = ~z~บาย บายไอ้รูพุน
 	0x47914EAD = 301010030
 	0x51227CF1 = 390
 	0x55358D37 = 1100000
@@ -838,7 +838,7 @@
 	0x68362BC5 = 030010300010030
 	0x68479E56 = AR2_BWAC
 	0x68925D88 = ~z~ไอซิเมียนแม่งก็ตลกดีนะ คงทุเรศชิบหายตอนที่ไปต้องไปเป่าแม่งเพื่อเงินไม่กี่ตังค์
-	0x72294F88 = ~z~Yeah, that's right. Keep it moving, bitch.
+	0x72294F88 = ~z~ใช่ถูกต้อง มันเคลื่อนไหวแล้ว
 	0x72999C70 = AR2_CPAA
 	0x73664A22 = 100
 	0x74564E8B = ~z~Hey, nigga!
@@ -849,7 +849,7 @@
 	0x79538C3A = ~z~Well how about you fight the good fight when I ain't here to get arrested with your stupid ass?
 	0x81370F12 = ~z~Man, I know Simeon don't expect us to come up here and kill motherfuckers and make him an accessory to murder!
 	0x81464BE1 = 300010030010300
-	0x87452E97 = ~z~Hey, look, let's keep it smooth, homie.
+	0x87452E97 = ~z~เฮ้ย ดูสิมันดูราบรื่นนะพวก
 	0x92464FC3 = AR2_IGAA
 	0x93078BDE = 110000011000001100000
 	0x93398DB5 = 390
@@ -881,7 +881,7 @@
 	0x806073C8 = AR2_GAAA
 	0x816690EE = 100
 	0x843614CF = ~z~พูดเหี้ยอะไรของมึงเนี่ย มึงบ้าไปแล้วหรือไงวะ
-	0x858200D9 = ~z~Man, you lost him already.
+	0x858200D9 = ~z~พวก มันหายไปแล้ว
 	0x869035BE = ~z~ห๊ะ
 	0x888177E9 = 490
 	0x942893AC = 100
@@ -890,8 +890,8 @@
 	0x976284D7 = AR2_ICCF
 	0x1264509C = ~z~ผม-ผมขอให้แข่งใหม่
 	0x2142031B = 301
-	0x3321134D = ~z~Get that bike back.
-	0x5389627D = ~z~Pop that fool. We need him on his ass so we can get what we came for.
+	0x3321134D = ~z~เอามอไซต์กลับมา
+	0x5389627D = ~z~ผู้โง่เขาเอ้ย เราต้องการให้มันเอาของมาให้เราแล้วเรราจะไปจากมัน
 	0x5540944C = ~z~Please, homie. Can we creep up on this bike? Get outta here before he see it's gone?
 	0x5775899A = AR2_HYAH
 	0x6353473C = AR2_ICBU
@@ -899,7 +899,7 @@
 	0x7823975F = ~z~Get motivated, homie.
 	0x9008577D = 300
 	0x9372399C = 100
-	0x9433736A = ~z~Don't play the blame game, just get on this shit.
+	0x9433736A = ~z~มึงอย่ามาบ่นเลยไอเวร เรื่องแค่นี้เอง
 	0x9911945B = ~z~I mean, "fuck you."
 	0x15421170 = AR2_IHAB
 	0x16240643 = 100
@@ -910,7 +910,7 @@
 	0x27015967 = ~z~ใครจะสนวะ มึงก็รู้หนิว่าทำไมซิเมียนแม่งต้องจ้างคนอย่างเรามาตามยึดรถ
 	0x32999012 = ~z~ถ้าบนบอร์ดนั่นต้องมีชื่อใคร
 	0x35016983 = ~z~มึงจะขับใช่มั้ย
-	0x35179236 = ~z~Motherfucker's getting away from us.
+	0x35179236 = ~z~ไอ้เวรนั่นกำลังจะจากเราไปแล้ว
 	0x38653461 = AR2_BIAA
 	0x39622495 = AR2_CSAD
 	0x39874431 = 100
@@ -952,7 +952,7 @@
 	0xA5E7F493 = 100
 	0xA5E263FA = AR2_AHAA
 	0xA5E3779C = ~z~มันชื่อว่าเอสเตบัน ฮิเมเนซ
-	0xA6C0F98B = ~z~Shoot the gas, homie.
+	0xA6C0F98B = ~z~ยิงแก๊สนั่นพวก
 	0xA7E10A27 = AR2_EWAB
 	0xA8E17FE5 = 1100000
 	0xA8FF99E5 = ~z~What's wrong with you, homie?
@@ -1066,7 +1066,7 @@
 	0xB224C6D3 = 1100000
 	0xB7725B80 = ~z~I'ma smoke your ass.
 	0xB15643E7 = 300
-	0xB26104DA = ~z~We on the wrong side of Vespucci Beach. You should know, a block makes a difference.
+	0xB26104DA = ~z~มึงมาผิดฝั่งของชายหาดเวสปุชชีนะดิมึงน่าจะรู้แค่ ช่วงตึกเดียวแม่งก็ไม่เหมือนกันแล้ว
 	0xB37311C3 = ~z~ไม่ว่าจะแข่งเหี้ยอะไรกูก็ต้องชนะเว้ย
 	0xB50965E6 = 601
 	0xB52327A1 = SFX_PAUSE_310
@@ -1090,7 +1090,7 @@
 	0xBC5B336A = AR2_ICBV
 	0xBC8C1EAA = AR2_EZAA
 	0xBCC1FE2F = 301
-	0xBCD80351 = ~z~Shoot that fool, man!
+	0xBCD80351 = ~z~ยิงไอ้โง่นั้นซะพวก
 	0xBCE59437 = SFX_PAUSE_180
 	0xBCFC7098 = ~z~ซึ่งเป็นเหตุผลที่ฉันรู้สึกเป็นเกียรติอย่างยิ่งที่ได้ประกาศให้นายได้รู้ว่า...
 	0xBD5A654F = AR2_EXAA
@@ -1188,7 +1188,7 @@
 	0xCDCF4961 = SFX_PAUSE_170
 	0xCDE7A417 = ~z~He ain't look like no motherfucking ese to me.
 	0xCDEB16AE = 100
-	0xCDF7C8F8 = ~z~Shoot that motherfucker.
+	0xCDF7C8F8 = ~z~ยิงแม่งทิ้งเลย
 	0xCE2E7BFB = 110000011000001100000
 	0xCE44F4CB = AR2_HYAC
 	0xCE9111ED = SFX_PAUSE_50
@@ -1201,7 +1201,7 @@
 	0xCFF02347 = 1000000
 	0xD00EB342 = AR2_FJAA
 	0xD0668D68 = ~z~Wait in line, ese.
-	0xD0B3F3E1 = ~z~So much for legit work.
+	0xD0B3F3E1 = ~z~แม่งมากงานถูกกฏหมายมากซะด้วยสิ
 	0xD0C333DE = 100
 	0xD0D4C966 = AR2_CQAA
 	0xD1A05634 = ~z~These fucking clowns, man.
@@ -1215,7 +1215,7 @@
 	0xD3DAA576 = AR2_DBAB
 	0xD3F1B3F4 = ~z~มึงขี่ไปนะ แล้วเราไปเจอกันที่ล้างแถวบ้านเรานะ
 	0xD3FCAE1A = ~t~These fucks gonna die.
-	0xD3FE5EF1 = ~z~Shit. Don't shoot!
+	0xD3FE5EF1 = ~z~เวรเอ้ย อย่ายิง
 	0xD4D38CA8 = ~z~Just let us walk outta here.
 	0xD5BB7F4B = 100
 	0xD6F421F6 = 100
@@ -1223,7 +1223,7 @@
 	0xD7D14FF5 = 1001000
 	0xD8B6A97D = 300010030
 	0xD8BF1A32 = AR2_DFAG
-	0xD8C3280C = ~z~Look, man, don't mind me. I'm just a fuckin idiot.
+	0xD8C3280C = ~z~ดูสิพวก อย่ารังเกียจกู กูเป็นแค่คนงี่เง่า
 	0xD8D50B35 = 100
 	0xD8E618E1 = AR2_ICAX
 	0xD9D6D603 = 100
@@ -1268,7 +1268,7 @@
 	0xD323377D = 300010030010300
 	0xD7631450 = ~z~ชิบหายวอดวายกันไปหมด
 	0xD8176357 = ~z~กูคิดว่าไอ้เชี่ยนี่ต้องอยากโดนตีนแน่ๆ
-	0xD8975146 = ~z~Man, your pussy the only thing that's smooth up in this shit.
+	0xD8975146 = ~z~พวกมึงคงมีแค่หีนั้นแหละที่มึงมองว่าแม่งราบรื่น
 	0xD9799855 = ~z~Get back here, golden boy!
 	0xDA02E1B0 = ~z~What's up, bro-bro, you need some help?
 	0xDA2CA0F4 = ~z~Who wanna get lit up?
@@ -1283,7 +1283,7 @@
 	0xDB2443E1 = ~z~Get those fools!
 	0xDB542824 = 030010300010030010300010030
 	0xDBA4DA56 = ~z~เยอะชิบหายเลย
-	0xDBB6238E = ~z~Alright, drive safe.
+	0xDBB6238E = ~z~เอาหล่ะ ขี่ดีๆนะเว้ย
 	0xDC0D0E7F = ~z~แล้วมึงเห็นอะไรนี่มั้ยไอเชี่ย
 	0xDC1E2205 = ~z~Then Simeon can come up here and pick up the motherfuckin' repo himself.
 	0xDC2CD127 = AR2_IAAA
@@ -1431,7 +1431,7 @@
 	0xF1E0B730 = 1100000
 	0xF2FD5943 = ~z~You gotta come and get me personally, Lord Zapho.
 	0xF3A5CA48 = ~z~Why this always happen with you, homie?
-	0xF3B19B4D = ~z~Yeah, but you started this shit, stupid.
+	0xF3B19B4D = ~z~ใช่ถูกต้อง แต่กูไม่ใช่คนเริ่มไงไอโง่
 	0xF3DD250A = 100000010000001000000
 	0xF3EA4C93 = ~z~We gotta go get that Bagger, homie. Guy in Vespucci missed that note.
 	0xF3F8731D = ~z~You letting this fool go. You was right on top of him.
@@ -1440,7 +1440,7 @@
 	0xF5BF6CB0 = ~z~How 'bout that bitch on the left?
 	0xF5E26757 = AR2_COAB
 	0xF5ED1EE6 = ~z~เฮ้ยยยยย
-	0xF5F1D1FA = ~z~They got me pinned down! Shoot them fools up there!
+	0xF5F1D1FA = ~z~พวกแม่งทำให้กูเจ็บ ยิงไอพวกโง่นั้นให้หมดเลย
 	0xF5F3A59A = 1000000
 	0xF6F425D5 = 1100000
 	0xF7C79FDE = SFX_PAUSE_330
@@ -1509,7 +1509,7 @@
 	0xFC505C72 = 100
 	0xFC22659D = 11000001100000110000011000001100000110000011000001100000
 	0xFCCB231E = ~z~ไง ไอตูบ
-	0xFD4B1AAD = ~z~Man, what exactly did I do in a past life to deserve your stupid ass?
+	0xFD4B1AAD = ~z~พวก กูไปทำห่าไรมาในชาติที่แล้ววะ ถึงต้องมาเจอไอโง่แบบมึงเนี่ย?
 	0xFD29D184 = AR2_ICCG
 	0xFD54A6E2 = AR2_ICAV
 	0xFDF123A8 = 301
@@ -1522,21 +1522,21 @@
 	0xFE370A0A = ~z~จัดการพวกมันเลย พวก
 	0xFE498F5F = 100
 	0xFE779C24 = 1100000
-	0xFE38690B = ~z~No you don't, motherfucker.
-	0xFED1E37C = ~z~Man, we only came here for a bike.
+	0xFE38690B = ~z~ไม่ แกอย่านะไอ้แม่เย็ด
+	0xFED1E37C = ~z~พวก เรามาที่นี้เพื่อรถมอไซค์อย่างเดียวนะ
 	0xFEDB2A63 = 100
-	0xFEE89885 = ~z~You ready to get this bike?
-	0xFF4C6CA3 = ~z~Let's get that motherfucker.
-	0xFF11F670 = ~z~Fuck him, man. Fuck him.
+	0xFEE89885 = ~z~มึงพร้อมจะไปเอารถมอไซค์รึยัง?
+	0xFF4C6CA3 = ~z~ไปเอาแม่งกันเถอะ ไอ้แม่เย็ด
+	0xFF11F670 = ~z~ล่อแม่งเลยพวก ล่อแม่งเลย
 	0xFF56C8DA = 100
 	0xFF759E4F = 300010030
-	0xFF9366A0 = ~z~Man, I thought I was the crazy one between the two of us.
+	0xFF9366A0 = ~z~พวก กูว่าระหว่างเราสองคน กูว่ากูแม่งโคตรบ้าเลยว่ะ
 	0xFFF89DC7 = 300010030
-	AR2_AN04B_1 = ~z~Hey, what's up homie? You alright?
-	AR2_AN04B_2 = ~z~Away, away, away from me! Zapho agents!
-	AR2_AN04B_4 = ~z~Yeah you thought I was gonna hit yo' bitch-ass, huh? Drunk-ass nigga.
-	AR2_BU20B_1 = ~z~That nigga up there, shoot that nigga! Bust his ass!
-	AR2_BU37B_2 = ~z~Them fools on the scaffold! Clap 'em, homie!
-	AR2_GODST_3 = ~z~Follow me, let's get through this.
-	ARM2_COVER_1 = ~z~Find your bitch-ass some cover.
+	AR2_AN04B_1 = ~z~เฮ้ย พวก มึงเป็นเชี้ยอะไร
+	AR2_AN04B_2 = ~z~ไป ไป ไปไกล ๆ กูเลยไป! ไอ้พวกตลาดล่าง
+	AR2_AN04B_4 = ~z~ตลาดล่างพ่อง!! ไม่ซัดหน้ามึงก็บุญละ ควยเย็ดแม่.
+	AR2_BU20B_1 = ~z~ไอ้เวรนั่นมันอยู่บนนั้น ยิงแม่งเลย ยิงตูดมันแม่งเลย
+	AR2_BU37B_2 = ~z~พวกโง่นั้นมันนั่งอยู่ที่ร้านนั้น! ปรบมือให้มันหน่อยสิเพื่อน!
+	AR2_GODST_3 = ~z~ตามกูมา, ต้องรีบออกไปจากที่ห่าเหวนี่
+	ARM2_COVER_1 = ~z~หาที่หลบสิวะ ยืนซะกลางถนน
 }

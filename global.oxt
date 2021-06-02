@@ -19412,7 +19412,7 @@
 	0x8965DAE7 = @FleecaBank New Rewards Card from Fleeca – Get one point for every dollar you spend. Earn 100,000 points and get a free mp3 player. That's the power of Fleeca – It's time to start paying for everything
 	0x8966A68C = Stunt Premium
 	0x8972A024 = --- BLEETER - Life suddenly got quick! ---
-	0x8974F2DA = ความแข็งแรง: How long แฟรงคลิน can run, swim, or cycle at full speed before losing health due to over-exertion. Increase by practicing any of these disciplines as แฟรงคลิน.
+	0x8974F2DA = ความแข็งแกร่ง: แฟรงคลินสามารถวิ่ง ว่ายน้ำ หรือปั่นจักรยานด้วยความเร็วเต็มที่เกินไปจะสูญเสียเลือดเนื่องจากออกแรงมากเกินไป ฝึกฝนพวกนี้ให้แฟรงคลินอย่างมีวินัย
 	0x8976EF8A = Research
 	0x8976F3B6 = The T20
 	0x8987EB6F = If the cops take you down during this mission you will be arrested. If all members of your Organization are arrested, the Nightclub Warehouse will be raided and the Goods seized.
@@ -22346,7 +22346,7 @@
 	0x42811897 = ออก Nerve Center
 	0x42868438 = Custom หน้า Bumper 4
 	0x42935796 = Another CEO or VIP is currently carrying out VIP Work.
-	0x43054776 = ความแข็งแรง: How long ไมเคิล can run, swim, or cycle at full speed before losing health due to over-exertion. Increase by practicing any of these disciplines as ไมเคิล.
+	0x43054776 = ความแข็งแกร่ง: ไมเคิลสามารถวิ่ง ว่ายน้ำ หรือปั่นจักรยานด้วยความเร็วเต็มที่เกินไปจะสูญเสียเลือดเนื่องจากออกแรงมากเกินไป ฝึกฝนพวกนี้ให้ไมเคิลอย่างมีวินัย
 	0x43214002 = Please sign in or return to Grand Theft Auto V.
 	0x43411075 = You're the Victim!
 	0x43483452 = Oi oi! If I didn't know better I'd say you pulled it off. At least, the blonde man appears to be on the world's biggest downer. Permanently locked in his compound. Chakras all over the shop. Anyway, just to say, no matter what happens up there, the party don't stop for long down on the beach. Keinemusik are flying back in and you know what that means. Get a flight over whenever you fancy!
@@ -39347,7 +39347,7 @@
 	CHEAT_SPAWN_VEH12 = Spawn Dodo Sea Plane.
 	CHEAT_SPAWN_VEH13 = Spawn Duke O'Death.
 	CHEAT_SPAWN_VEH14 = Spawn Kraken submersible.
-	CHEAT_SPECIAL_ABILITY = Special ability recharged.
+	CHEAT_SPECIAL_ABILITY = ชาร์จความสามารถพิเศษ
 	CHEAT_SUPER_JUMP = Super jump.
 	CHEAT_TROPHIE = Cheats have been activated. Trophies will not be awarded for the duration of this session.
 	CHEAT_VEHICLE_LOCKED_DENIED = Vehicle is not unlocked yet.
@@ -41265,8 +41265,8 @@
 	FACE_O_M_STR5 = The Ready
 	FACE_O_M_STR6 = The Gangsta
 	FACE_O_M_STR7 = The Hombre
-	FACE_SAVE = Save & ดำเนินการต่อ
-	FACE_SEX = Sex
+	FACE_SAVE = บันทึก & ดำเนินการต่อ
+	FACE_SEX = เพศ
 	FACE_SHOOT = Shooting
 	FACE_STAM = ความแข็งแรง
 	FACE_STATPT = Points to Assign
@@ -41703,7 +41703,7 @@
 	FLOW_CS_SKIP = Press ~INPUT_SKIP_CUTSCENE~ to skip this scene.
 	FLOW_CS_SKIP2 = As host, you can press ~INPUT_SKIP_CUTSCENE~ to skip previously watched scenes.
 	FLUR_YELLOW = Dew เหลือง
-	FLYING_ABILITY = Flying
+	FLYING_ABILITY = การขับเครื่องบิน
 	FMAMMODROP = Press ~INPUT_DROP_AMMO~ to drop ammo. ~n~Press ~INPUT_DROP_WEAPON~ to drop weapon.
 	FMAMMODROP2 = Press ~INPUT_DROP_AMMO~ to drop ammo. ~n~Press ~INPUT_DROP_WEAPON~ to drop weapon.
 	FMAMMODROP3 = Press ~INPUT_DROP_WEAPON~ to drop weapon.
@@ -45154,7 +45154,7 @@
 	INPUT_SNIPER_ZOOM = Sniper / Camera ซูม
 	INPUT_SNIPER_ZOOM_IN_ONLY = Sniper / Camera ซูม In
 	INPUT_SNIPER_ZOOM_OUT_ONLY = Sniper / Camera ซูม Out
-	INPUT_SPECIAL_ABILITY = Character Special Ability
+	INPUT_SPECIAL_ABILITY = ความสามารถพิเศษของตัวละคร
 	INPUT_SPECIAL_ABILITY_PC = Toggle Special Ability
 	INPUT_SPECIAL_ABILITY_SECONDARY = Point At
 	INPUT_SPRINT = Sprint
@@ -45952,7 +45952,7 @@
 	LTS_H_NR = Set the number of rounds that the Last Team Standing will last for. The first team to win that many rounds will be the winner.
 	LTS_PA_LWP = Lock อาวุธ
 	LTS_PA_SWP = Forced Weapon
-	LUNG_CAPACITY = Lung Capacity
+	LUNG_CAPACITY = ความจุของปอด
 	LUXOR = Luxor
 	MAIBATSU = Maibatsu
 	MAKEUP_UNLOCK = Makeup Unlock
@@ -47326,7 +47326,7 @@
 	PCARD_JOIN_GAME = Retrieving the session data.
 	PCARD_JOIN_SC = Sign up to the ~HUD_COLOUR_SOCIAL_CLUB~Social Club~s~ to create and join Crews.
 	PCARD_KD_RATIO = ~1~ K/D Ratio
-	PCARD_LUNG = Lung Capacity
+	PCARD_LUNG = ความจุของปอด
 	PCARD_MENTAL_STATE = Mental State
 	PCARD_MENTAL_STATE_0 = Normal
 	PCARD_MENTAL_STATE_1 = Unstable
@@ -50416,7 +50416,7 @@
 	SHI_M_HOUSE_4 = Walk around the house to find various activities to take part in.
 	SHI_T_SANDY_2 = Planes you purchase from websites or that you land inside will be stored at ~HUD_COLOUR_TREVOR~~BLIP_HANGAR~~s~~n~Ground vehicles too large for a garage will also be stored here.
 	SHI_T_SANDY_3 = Helicopters purchased from websites or that you land on the helipad will be stored at ~HUD_COLOUR_TREVOR~~BLIP_HELIPAD~
-	SHOOTING_ABILITY = Shooting
+	SHOOTING_ABILITY = การยิง
 	SHOOT_U = แฟรงคลิน. You gotta sharpen up on your shooting. Put some time in at the range if you can.
 	SHOP_BOSS_GNONE = ~a~ is unavailable while active in VIP Work.
 	SHOP_BOSS_NONE = ~a~ is unavailable while active in VIP Work or when a VIP Style is set.
@@ -50527,7 +50527,7 @@
 	SPEC2_P0_08_3 = Domino Wrestler Mask
 	SPEC2_P0_08_4 = Gray Wrestler Mask
 	SPEC2_P0_08_5 = Phoenix Wrestler Mask
-	SPECIAL_ABILITY_UNLOCKED = Special
+	SPECIAL_ABILITY_UNLOCKED = ความสามารถพิเศษ
 	SPEC_ALLY = Allies
 	SPEC_CRWT = Currently Watching
 	SPEC_ENEMY = Enemies
@@ -50667,7 +50667,7 @@
 	STARS_ATTAINED = Wanted stars attained
 	STARS_EVADED = Wanted stars evaded
 	STAT_HELP2 = ~s~Character stats represent skill levels for your character. Increase individual stats by performing that activity throughout the game.
-	STEALTH_ABILITY = Stealth
+	STEALTH_ABILITY = การลอบเร้น
 	STINGER = Stinger
 	STINGERG = Stinger GT
 	STKYBMB_KILLS = Sticky Bomb สังหารไป
@@ -52809,7 +52809,7 @@
 	WEENY = วีนี่
 	WEP_HVSNIPER = ~s~Heavy Sniper
 	WESTERN = เวสเทิร์น
-	WHEELIE_ABILITY = Driving
+	WHEELIE_ABILITY = การขับรถ
 	WHITE = Ice ขาว
 	WILLARD = Willard
 	WINDF = Ron Alternates Wind Farm
