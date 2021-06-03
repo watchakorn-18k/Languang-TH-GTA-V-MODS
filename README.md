@@ -8,5 +8,4 @@ path mods\update\update.rpf\x64\data\lang\american_rel.rpf
 
 Font อักษรไทย
 path mods\update\update.rpf\x64\data\cdimages\scaleform_platform_pc.rpf
-font thai by https://www.facebook.com/Ttranslationgame
-donwload : https://cdn.discordapp.com/attachments/585069524445822986/836690010693566504/font_lib_efigs_pc.gfx
+donwload font thai  https://www.gta5-mods.com/misc/font-thai-mods-gta-v
