@@ -13,3 +13,7 @@ path mods\update\update.rpf\x64\data\lang\american_rel.rpf
 ~~~~~
 path mods\update\update.rpf\x64\data\cdimages\scaleform_platform_pc.rpf
 ~~~~~
+ที่อยู่ของ Font หน้าเว็บในเกม โหลดได้ที่ # donwload font thai in website https://www.gta5-mods.com/misc/font-thai-in-game-website-gta-v
+~~~~~
+path mods\update\update.rpf\x64\data\cdimages\scaleform_frontend.rpf
+~~~~~
