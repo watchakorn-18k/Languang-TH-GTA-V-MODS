@@ -19874,7 +19874,7 @@
 	0x26809F43 = Magenta Long Gloves
 	0x26821AB6 = Kosatka Controls:~n~Press ~INPUT_CELLPHONE_CANCEL~ Fire Torpedoes.~n~Hold ~INPUT_VEH_SUB_ASCEND~ Ascend.~n~Hold ~INPUT_VEH_SUB_DESCEND~ Descend.~n~Press ~INPUT_VEH_LOOK_BEHIND~ to toggle Sonar.~n~Press ~INPUT_VEH_EXIT~ ออก.
 	0x26859AE3 = Pixie Blonde
-	0x26887EE5 = ญินดีต้อนรับกลับ
+	0x26887EE5 = pnนดีต้อนรับกลับ
 	0x26944B16 = ถนนบาร์บาเรโน
 	0x26983A25 = @kevtrimbalt22 Did u hear about those planes stolen from เกรปซีด airport? How the fuck does somebody steal a plane when I can't even get a lighter through security?
 	0x27051F91 = You no longer have access to this Nightclub Warehouse as the owner has traded it in.
@@ -32722,7 +32722,7 @@
 	0xE64B3E5C = REPUBLICAN SPACE RANGERS
 	0xE64E1B31 = Stockpiling
 	0xE65AAF68 = GENERAL MODS
-	0xE65AD990 = ~BLIP_INFO_ICON~ ตัวละครทั้งสามแต่ละตัวมีความสามารถพิเศษเฉพาะตัว เพิ่มขีดความสามารถพิเศษของพวกเขาเพื่อใช้ความสามารถได้นานขึ้น
+	0xE65AD990 = ~BLIP_INFO_ICON~ตัวละครทั้งสามแต่ลคน~n~มีความสามารถพิเศษเฉพาะตัว เพิ่มขีดความสามารถพิเศษของพวกเขาเพื่อใช้ความสามารถได้นานขึ้น
 	0xE65CA998 = You no longer have access to this Nightclub Warehouse as you became an MC President.
 	0xE65DA33A = The Kosatka can be requested again in ~a~.
 	0xE66B2D98 = Demolition
