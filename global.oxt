@@ -344,7 +344,7 @@
 	0x02596BE6 = Press ~INPUT_CONTEXT~ to play The Wizard's Ruin for $1.
 	0x0261EC15 = Blooming heck, I'm surprised The Black Madonna hasn't bloody slapped you. Get on your computer and start promoting her properly. Thank you kindly.
 	0x02629737 = ~BLIP_INFO_ICON~ ผอมลงหรือเปล่าไปที่~n~ร้านเสื้อผ้าหรือไปที่ร้านตัดผมในใกล้บ้านคุณดู
-	0x02640282 = Press ~a~ to confirm purchase for $75,000.
+	0x02640282 = กด ~a~ เพื่อยืนยันการซื้อในราคา $75,000
 	0x0264A204 = Brushed Gold
 	0x0265A8F2 = Starling
 	0x0265CC64 = You look real good but I don't care about looks. I like to get inside a woman any way I can. That's where the real beauty is. Heres my photo. When can we meet to talk about feelings and shit?<img src='img://hush_trevor/hush_trevor' hspace="70" vspace='0' width='190' height='190'/>
@@ -556,7 +556,7 @@
 	0x03F8B4BD = ~HUD_COLOUR_WHITE~You popped ~a~.
 	0x03F53C37 = Fireball Track Jacket
 	0x03F194AA = Black OG Top
-	0x03F366D8 = SELECT VEHICLES
+	0x03F366D8 = เลือกยานพาหนะ
 	0x03F400E6 = Your CEO left the session
 	0x03F51827 = ~a~ ~s~destroyed the Armored Boxville
 	0x03FB7BE8 = 16th
@@ -1283,7 +1283,7 @@
 	0x08E4C1A3 = This charming 20's-style building in เดลแปร์โร has just enough residual class to offer a post-ironic thrill when you turn it into a throbbing techno dungeon.
 	0x08E5E86D = Traders feeling uneasy after Taco Bomb purchase.
 	0x08E9E776 = MEMBER LEFT
-	0x08E85C42 = Press ~INPUT_CONTEXT~ to exit the submarine.
+	0x08E85C42 = กด ~INPUT_CONTEXT~ เพื่อออกจากเรือดำน้ำ
 	0x08E85CB8 = Okay, lose the cops then bring it in.
 	0x08EA4A1D = Friends 5,418,932
 	0x08F05DDC = Humpy Pink
@@ -2110,7 +2110,7 @@
 	0x0ECACA77 = Nine Tenths Of The Law
 	0x0ECD7FD2 = Gangster
 	0x0ECFD92B = Binco stock still has room to grow before moving out of basement.
-	0x0ECFE2B4 = Sammy Keller and the entire staff at Southern ซานแอนเดรส Super Autos are here to meet your vehicular needs.
+	0x0ECFE2B4 = Sammy Keller and the entire staff at เซาท์เทิร์น ซานแอนเดรสซุปเปอร์ออโต้ are here to meet your vehicular needs.
 	0x0ED4A6E9 = ยานพาหนะ: ~a~~n~Value: ~a~~n~Plate: ~a~ ~nrt~ <img src='img://IE_TEXTVECH_79/IE_TEXTVECH_79' vspace='0' width='252' height='150'/> ~nrt~
 	0x0ED6ED30 = Press ~INPUT_CONTEXT~ to access the Finale Screen.
 	0x0ED8A8CE = Faded Light น้ำเงิน Regular Fit
@@ -3633,7 +3633,7 @@
 	0x2D420BDB = The signal strength increases as you get closer to the deal. You will also see a smaller spike when facing the correct direction.
 	0x2D557CDD = น้ำเงิน Neck Gaiter
 	0x2D580A34 = Race to the ~a~.
-	0x2D669F6C = This purchase will use your 10% discount for Southern ซานแอนเดรส Super Autos.
+	0x2D669F6C = This purchase will use your 10% discount for เซาท์เทิร์น ซานแอนเดรสซุปเปอร์ออโต้.
 	0x2D773EB7 = Passive mode is disabled while using the Nerve Center.
 	0x2D800DB0 = A player is available to play "Don't Cross The Line". Sit on the couch to join in.
 	0x2D839B1E = NOTEXTNOTEXTNOTEXT
@@ -3921,7 +3921,7 @@
 	0x2F173DDB = แดง Work Boots
 	0x2F186DBB = The stock listings page. It is from this page you can view stock prices and select companies to learn more about and potentially buy shares in.
 	0x2F215DEE = Unable to book a DJ at this time. Access the computer ~BLIP_LAPTOP~ in your office upstairs to book them later.
-	0x2F340C59 = โฆษณผู้สนับสนุน
+	0x2F340C59 = โฆษณาผู้สนับสนุน
 	0x2F497E2D = Atomizer น้ำเงิน
 	0x2F528D97 = Enter your Office.
 	0x2F608C56 = Retro
@@ -4423,7 +4423,7 @@
 	0x3C931848 = Press ~INPUT_FRONTEND_RIGHT~ to play the music and signal the customers.
 	0x3C962308 = Palmer-Taylor Power Station
 	0x3CA16FAD = Wait for your team to finish scoping and leave the ~a~.
-	0x3CA64CD2 = Sorry, no matches found for your search.<BR>Please try another search, or click the quick-links above.
+	0x3CA64CD2 = ขออภัย ไม่พบรายการที่ตรงกับการค้นหาของคุณ<BR>โปรดลองค้นหาอีกครั้งหรือคลิกลิงก์ด่วนด้านบน
 	0x3CA83F37 = RE: For real?
 	0x3CA93C42 = @JunkEnergyDrink Thanks to our product placement on Spanish-language television shows, 90% of Hispanic children now drink Junk on a daily basis. #progress www.junkenergydrink.com
 	0x3CA406D8 = 4
@@ -5907,7 +5907,7 @@
 	0x5B25DFB7 = Moss Digital Snake Skull
 	0x5B26C48E = Set which Arena Contender vehicles you'd like the player to be able to choose from in your Deathmatch.
 	0x5B31A7B4 = @TraceyDeSanta Please stop sending me toys. I don't do that stuff on cam.
-	0x5B33F6E0 = Are you sure you want to exit the vehicle?
+	0x5B33F6E0 = คุณแน่ใจหรือว่าต้องการออกจากรถ
 	0x5B34F10C = Warmer
 	0x5B37D4BF = Project Title
 	0x5B38BFFA = เหลือง Canvas Hat
@@ -7852,7 +7852,7 @@
 	0x7D15B7E9 = Automated Response – Wild Amateur Pics
 	0x7D29D90D = Gray Spotted Top
 	0x7D31FE02 = Western Gargoyle
-	0x7D32A377 = Our user-friendly online store combined with our 'deliver-anywhere' service has made us the number one armored vehicle dealer in the Los Santos area.
+	0x7D32A377 = ร้านค้าออนไลน์ที่ใช้งานง่ายของเรารวมกับบริการ 'ส่งได้ทุกที่' ทำให้เราเป็นตัวแทนจำหน่ายรถหุ้มเกราะอันดับหนึ่งในพื้นที่ลอสซานโตส
 	0x7D37E98F = Win 100 Races.
 	0x7D40D27A = The Smart Casual
 	0x7D42C8D0 = BUNKER
@@ -8076,7 +8076,7 @@
 	0x7ED36C7F = The Buyer hasn't provided his exact location. Search the area ~HUD_COLOUR_YELLOW~~BLIP_RANDOM_CHARACTER~~s~ to find him and deliver the Goods.
 	0x7ED758E3 = ~BLIP_PLAYER_BOAT~
 	0x7ED85133 = PANIC
-	0x7ED93942 = Browse our current inventory of new and pre-owned aircraft. Helicopters or planes, we have everything.
+	0x7ED93942 = เรียกดูสินค้าปัจจุบันพวกครื่องบินใหม่และเครื่องบินมือสองของเรา เฮลิคอปเตอร์หรือเครื่องบิน เรามีครบทุกอย่าง
 	0x7EDA0A70 = Mission success - everyone at SecuroServ is happy with that outcome.
 	0x7EDA0EB7 = th
 	0x7EDA9D0B = ~a~~s~ destroyed a Special Cargo vehicle.
@@ -9598,7 +9598,7 @@
 	0x9D61D1DC = ~a~~HUD_COLOUR_WHITE~ erased ~a~.
 	0x9D63CB49 = A look that says... You are forever 16.
 	0x9D74B74F = กอล์ฟ Club
-	0x9D78B211 = Legendary Motorsport
+	0x9D78B211 = มอเตอร์สปอร์ตในตำนาน
 	0x9D91E09B = Three drivers will be needed on this mission. These Members can ride as passengers to avoid leaving their motorcycles behind at the pick-up location.
 	0x9D97F27B = ถนนจินเจอร์
 	0x9D283C7D = Sagging
@@ -12129,7 +12129,7 @@
 	0x51D7B023 = 1 new style available
 	0x51D38E38 = Moss Tactical
 	0x51D46F4C = You completed a Heist Setup mission.
-	0x51D70E72 = The premium store for cycling in ซานแอนเดรส
+	0x51D70E72 = ร้านพรีเมี่ยมสำหรับการปั่นจักรยานในซานแอนเดรส
 	0x51D95022 = French Twist Black
 	0x51DEF9A8 = A new cock in the Hen House!
 	0x51E7B77B = Special: How long เทรเวอร์'s Special Ability can remain active when fully charged. Store more charge for a greater maximum duration. Increase by taking damage, killing enemies, scoring headshots, and maintaining high speeds in vehicles as เทรเวอร์.
@@ -12164,7 +12164,7 @@
 	0x52A24633 = The Concealed
 	0x52AB4E3D = You have selected a uniform for your Bodyguards. They will wear this uniform until you select another style or they are no longer in your service.
 	0x52ACCBC5 = Use the elevator shaft to reach the staff lobby during The Diamond Casino Heist.
-	0x52AD0C83 = Sammy Keller and the entire staff at Southern ซานแอนเดรส Super Autos are here to meet your vehicular needs.
+	0x52AD0C83 = แซมมี่ เคลเลอร์ และพนักงานทุกคนที่ เซาท์เทิร์น ซานแอนเดรสซุปเปอร์ออโต้ พร้อมตอบสนองความต้องการด้านยานพาหนะของคุณ
 	0x52ADB2F9 = The ~a~ was not delivered
 	0x52ADF711 = Return to ~BLIP_AGATHA~ to replay the story missions in order or access these Jobs now via the Online section of the Pause Menu.
 	0x52B06DDF = You are now defending the target ~HUD_COLOUR_BLUE~~BLIP_VIP~~s~ from being killed. Stay near the target to earn RP.
@@ -13390,7 +13390,7 @@
 	0x74D7A984 = Missiles
 	0x74D210B2 = The Particular
 	0x74DA3F06 = Painting by Nilsson
-	0x74DBA46C = Thank you for shopping at Legendary Motorsport! We hope you will be satisfied with your purchase. We are currently arranging transportation of your vehicle and will contact you to confirm delivery.
+	0x74DBA46C = Thank you for shopping at มอเตอร์สปอร์ตในตำนาน! We hope you will be satisfied with your purchase. We are currently arranging transportation of your vehicle and will contact you to confirm delivery.
 	0x74DD1488 = CONSPIRATOR
 	0x74DD2156 = อัปเกรดการตั้งค่ากราฟิกสำหรับการส่งออกวิดีโอ
 	0x74DD9874 = Contrast Camo Night Vision
@@ -14031,7 +14031,7 @@
 	0x86D3045D = Equipment Upgrade
 	0x86D37347 = PALMS TRAX
 	0x86D51992 = Track Up (15)
-	0x86DBF608 = Press ~a~ to confirm purchase for $419,850.
+	0x86DBF608 = กด ~a~ เพื่อยืนยันการซื้อในราคา  $419,850
 	0x86DDFFCC = Stunt Outfit
 	0x86DE2ADA = Using a flare, call in an airstrike at your chosen location.
 	0x86DEB6E8 = ทางหลวงกรีทโอเชี่ยน
@@ -14915,7 +14915,7 @@
 	0x148C80FE = NOTEXTNOTEXTNOTEXT
 	0x149BF688 = MACHINE GUN
 	0x149D45F1 = ถนนนอร์ทร็อคฟอร์ด
-	0x150BA91E = Hi – welcome to the website for Pedal and Metal bicycle shop.
+	0x150BA91E = สวัสดี – ยินดีต้อนรับสู่เว็บไซต์ของร้าน คันเหยียบและจักรยานโลหะ
 	0x150BBA73 = Not enough players
 	0x150C844B = Press ~INPUT_SKIP_CUTSCENE~ to skip.
 	0x151BD98B = You cannot modify this vehicle in your Mobile Operations Center.
@@ -15605,7 +15605,7 @@
 	0x369EB23A = KEYCARD
 	0x370A811E = ~BLIP_INFO_ICON~ คุณสามารถสอนให้ช๊อปเล่นกลเม็ดและตามล่าหาแพ็คเกจที่ซ่อนอยู่ได้ ดาวน์โหลดแอพ iFruit ลงในสมาร์ทโฟนหรือแท็บเล็ตของคุณเองเพื่อฝึกมันในเวลาว่าง
 	0x370AAEBF = Invade and Persuade II
-	0x370AB2B4 = This purchase will use your 10% discount for Legendary Motorsport.
+	0x370AB2B4 = This purchase will use your 10% discount for มอเตอร์สปอร์ตในตำนาน.
 	0x370BBC28 = You need to restart production at your ~a~ in order to assign a technician to accrue ~a~.
 	0x370CD692 = แดง Bird of Paradise Vase
 	0x370D72C3 = Sports Stunter
@@ -16628,7 +16628,7 @@
 	0x671C3892 = The Diamond Casino Heist – The Big Con
 	0x671F74FA = Racing Green
 	0x671FC82C = Drugs, hookers, and self-loathing are all good fun, but they take their toll. Partying has an adverse effect on general health, but teaches you how to survive on adrenaline alone, heightening shooting and stealth skills. You can party for up to 8 hours a day.
-	0x672B7060 = Southern ซานแอนเดรส Super Autos
+	0x672B7060 = เซาท์เทิร์น ซานแอนเดรสซุปเปอร์ออโต้
 	0x672C4AF3 = Hold ~INPUT_CONTEXT~ to end the hallucination.~n~Hold ~INPUT_SPRINT~ to sprint.~n~Press ~INPUT_ATTACK~ to attack targets. ~n~
 	0x672CC60A = Alpha
 	0x672E60BA = ~BLIP_INFO_ICON~ Tap ~INPUT_SELECT_WEAPON~ to quickly take out or put away your weapon.
@@ -17775,7 +17775,7 @@
 	0x1178F67F = Your Personal Aircraft ~BLIP_PLAYER_JET~ has been delivered to a suitable location nearby.
 	0x1183D1CF = ~a~~a~~a~~nrt~ <img src='img://BAT_CASE_2/BAT_CASE_2'  vspace='0' width='252' height='300'/> ~nrt~
 	0x1185F813 = Okay, only one left. Scan it to be sure and then bring it in.
-	0x1186F38E = Garage purchased.
+	0x1186F38E = ซื้อโรงจอดรถแล้ว
 	0x1192F49A = CHECKPOINT เวลา
 	0x1207F876 = CHECKPOINTS
 	0x1211C5B6 = Resume Upload
@@ -18442,7 +18442,7 @@
 	0x4296B57B = target we're after. They're over at that spot on your GPS.
 	0x4296FF23 = Checkpoint
 	0x4301ACEA = Move Cursor
-	0x4315EB58 = Latest Stock
+	0x4315EB58 = สินค้าล่าสุด
 	0x4316EDF8 = The weapons were dropped.
 	0x4320F6FA = roof
 	0x4321DD32 = Eliminate the ~a~ ~s~at the drop-off.
@@ -19599,7 +19599,7 @@
 	0x9768BCBD = Move the cursor over the pulsing Mirror Node ~BLIP_NHP_MG_MIR_ROTATE~ using ~INPUT_FRONTEND_AXIS_X~ then select it with ~INPUT_FRONTEND_ACCEPT~.
 	0x9779C578 = Gold Hoop Earrings
 	0x9783FBD9 = Purchase Explosive Rounds for applicable Mk II weapons at a Weapon Workshop inside a Mobile Operations Center or Avenger.
-	0x9786D1FC = You currently have no discount for Southern ซานแอนเดรส Super Autos.
+	0x9786D1FC = You currently have no discount for เซาท์เทิร์น ซานแอนเดรสซุปเปอร์ออโต้.
 	0x9787B3D8 = V4
 	0x9799C21F = Vintage Arcade Game Poster
 	0x9802D00F = Western Apocalypse Deathbike
@@ -20440,7 +20440,7 @@
 	0x69081C08 = Gold Chain
 	0x69158CBD = Teams are tied
 	0x69196EAD = Draw - Both teams scored a point
-	0x69615F9F = ~BLIP_INFO_ICON~ใครต้องการเส้นทางเดินทางบ้าง ใช้ GPS ของคุณเพื่อแสดงว่าจะไปที่ไหน
+	0x69615F9F = ~BLIP_INFO_ICON~ ใครต้องการเส้นทางเดินทางบ้าง ใช้ GPS ของคุณเพื่อแสดงว่าจะไปที่ไหน
 	0x69746D6A = ท่อโครเมียม
 	0x69881E74 = You are too far from a suitable road.
 	0x70048B44 = Dummy label.
@@ -21847,7 +21847,7 @@
 	0x6042717B = Open Road
 	0x6046913C = Turn
 	0x6059036F = Musketeer
-	0x6065241A = Taco Bomb is Mexican food done right, the American way. One set of four basic ingredients offered in a hundred different formats, smothered in cheese.
+	0x6065241A = ทาโก้บอมบ์ เป็นอาหารเม็กซิกันที่ทำถูกต้องในแบบอเมริกันส่วนผสมพื้นฐานสี่ชุด หนึ่งชุดที่นำเสนอในรูปแบบต่างๆ นับร้อย ห่อด้วยชีส
 	0x6154093D = Employ a Strike Team to take out ~a~.
 	0x6190656F = I think he knows you're following him! Try and stay with him and he'll take you to the car.
 	0x6195935A = Smuggler
@@ -22791,7 +22791,7 @@
 	0x91068132 = Beast
 	0x91108937 = ~nrt~ <img src='img://SCLUB_3/VESPUCCI_BEACH_3_6' vspace='0' width='252' height='252'/> ~nrt~~a~ ~a~. ~a~
 	0x91149582 = ถนนเอซโจนส์
-	0x91271611 = Press ~a~ to confirm purchase for $1,378,600.
+	0x91271611 = กด ~a~ เพื่อยืนยันการซื้อในราคา $1,378,600
 	0x91598436 = Black Stargazer Vase
 	0x91718038 = Penthouse Garage
 	0x91777936 = MAIN GATE
@@ -23274,7 +23274,7 @@
 	0xA6C43EF7 = ส้ม Athletic Shoes
 	0xA6C330A5 = Press ~INPUT_CONTEXT~ to sit down.
 	0xA6C354B6 = Custody Vagos
-	0xA6C17051 = Your 10% discount for Southern ซานแอนเดรส Super Autos expires in ~a~:~a~.
+	0xA6C17051 = Your 10% discount for เซาท์เทิร์น ซานแอนเดรสซุปเปอร์ออโต้ expires in ~a~:~a~.
 	0xA6C78211 = Gemstone Blackjack Table
 	0xA6CBEF79 = เทนนิส
 	0xA6CC0EA1 = Recover the ~HUD_COLOUR_RED~diamonds~s~ from <C>~a~</C>.~s~
@@ -23547,7 +23547,7 @@
 	0xA29C165C = Gray Neck Gaiter
 	0xA30BF457 = น้ำเงิน Plaid Bowtie
 	0xA30BFADC = Declasse Sabre
-	0xA30DF04F = --- Southern ซานแอนเดรส Super Autos - meeting your vehicular needs ---
+	0xA30DF04F = --- เซาท์เทิร์น ซานแอนเดรสซุปเปอร์ออโต้ - meeting your vehicular needs ---
 	0xA30F088B = a Benefactor Feltzer
 	0xA31B23EB = The Bigness
 	0xA31BFFFE = SOURCE CARGO
@@ -25889,7 +25889,7 @@
 	0xB76D9E0B = Call in a weapons supply drop containing a minigun, RPG and explosives.
 	0xB76DB197 = Goatee
 	0xB76E170F = ถนนคาลาเฟีย
-	0xB78A0E7E = You currently have no discount for Legendary Motorsport.
+	0xB78A0E7E = You currently have no discount for มอเตอร์สปอร์ตในตำนาน.
 	0xB78E62DD = Nokota
 	0xB78EA77D = Some guys are shooting up the joint!  Can you send someone down here?
 	0xB79AD97E = Wants you to become an Associate.
@@ -26442,7 +26442,7 @@
 	0xB7015829 = Pixel Pete's Fun Time Arcade was a legendary dive, run by a hero who loved games so much three heart attacks couldn't convince him to take more breaks. Features hand painted details by Pete's own nephew. It's remarkable that we do not charge extra for this characterful addition. ซื้อ now before we change our mind.
 	0xB7229694 = ทางหลวงเดลแปร์โร
 	0xB7298306 = Select the moody interior. A dark and broody look for your apartment.
-	0xB7447049 = Not enough money to buy a garage.
+	0xB7447049 = เงินไม่พอซื้อโรงจอดรถ
 	0xB7456767 = Survive the longest with a wanted level while on your bike.
 	0xB7558433 = Do you want to quit the สนามยิงปืน?
 	0xB7630224 = LOCKED
@@ -26982,7 +26982,7 @@
 	0xBD657C8F = Wigwam Hockey Shirt
 	0xBD843DFE = @yoyorambler How long should an erection last before seeking medical attention?
 	0xBD977E42 = Stay sharp, I'm seeing hostiles coming in fast. Defend the goods at all costs.
-	0xBD1026E8 = New vehicles are available from the following websites:~n~Benny's Original Motor Works~n~Legendary Motorsport~n~Warstock Cache and Carry
+	0xBD1026E8 = New vehicles are available from the following websites:~n~Benny's Original Motor Works~n~มอเตอร์สปอร์ตในตำนาน~n~Warstock Cache and Carry
 	0xBD1160A6 = Passive
 	0xBD1896D7 = You can't purchase this Arcade at this time.
 	0xBD3412B2 = 2044 ถนนนอร์ทคอนเคอร์
@@ -27432,7 +27432,7 @@
 	0xC0CEB215 = Are you sure you'd like to purchase a small shipment of Tobacco & Alcohol?
 	0xC0D2BE60 = Please note: Your chosen style will be installed as you progress with the Nightclub setup.
 	0xC0D6F050 = ความแข็งแรง
-	0xC0D64DF8 = Sort by Price
+	0xC0D64DF8 = เรียงตามราคา
 	0xC0D312AF = เหลือง
 	0xC0D362A2 = Biker Handcuffs Open
 	0xC0D548CF = Tyler's Assistant
@@ -27674,7 +27674,7 @@
 	0xC5A44CDF = Old School
 	0xC5A11805 = Enter the ~HUD_COLOUR_BLUE~Buzzard.~s~
 	0xC5AC53FC = 4 DOOR<br>Browse our 4-door models and start fantasizing about all the things you'll be able to do with that extra space in the back!
-	0xC5AE8D3D = Garage purchased
+	0xC5AE8D3D = ซื้อโรงจอดรถแล้ว
 	0xC5AECD1E = You no longer have access to the Bunker as the owner has left the game.
 	0xC5AFC0AD = Invetero Coquette
 	0xC5B0075A = TIER 2
@@ -27961,7 +27961,7 @@
 	0xC18C59BD = PLAYERS
 	0xC18C9872 = You no longer have access to the Penthouse Garage as you became the Beast.
 	0xC18CDE38 = You dropped Heist Prep Equipment.
-	0xC18D2284 = Your 10% discount for Legendary Motorsport expires in ~a~:~a~.
+	0xC18D2284 = Your 10% discount for มอเตอร์สปอร์ตในตำนาน expires in ~a~:~a~.
 	0xC18FE764 = In order to purchase this vehicle at the Trade Price, you must fulfil the following criteria:~n~- Own a Facility~n~- Complete the Air Defenses Setup mission in The Doomsday Heist as the Heist leader.
 	0xC19A776D = Festive Surprise 2016
 	0xC19DA165 = The Defender
@@ -29905,7 +29905,7 @@
 	0xD4C538A6 = Allow all nearby friends and Crew into your Yacht.
 	0xD4C1037B = Swim Speed
 	0xD4C55610 = Garage อีสลอสซานโตส
-	0xD4C82681 = Americans throw out 500 billion tons of edible food each day. We plan on eating it!
+	0xD4C82681 = ชาวอเมริกันทิ้งอาหารที่กินได้ 5 แสนล้านตันในแต่ละวัน เราท่วางแผนที่จะกินมันดีกว่า
 	0xD4CABB64 = The player in the adjacent cab has challenged you!~n~Press ~INPUT_FRONTEND_PAUSE~ to enter a 2 player race!
 	0xD4D2D39E = 6 new items
 	0xD4D4DDF2 = You unlocked all Special Characters and entered Director Mode as an actor from this category.
@@ -30425,7 +30425,7 @@
 	0xD68CD747 = Elitist
 	0xD68DD371 = Press ~INPUT_VEH_AIM~ to fire the Flamethrower.
 	0xD68E2C28 = I've got a contact at the mask shop in เวสปุชชี, he'll hook us up with masks. All still off the books of course, so we should still be protected. Head over there when you can and pick whatever you like.... if not we can work something out.
-	0xD69CCD52 = ซื้อ a boat today!
+	0xD69CCD52 = ซื้อเรือได้เลยวันนี้
 	0xD70B1C3D = Imponte Tee
 	0xD70B5497 = Terrorbyte unavailable. This session already has the maximum number allowed.
 	0xD70FC6AE = ~HUD_COLOUR_WHITE~You whacked ~a~.
@@ -30811,7 +30811,7 @@
 	0xD4533A46 = @LudendorffAnnie Boy oh boy helluva business with that shootout eh? At least they were already in the cemetery :).
 	0xD4547A75 = PAUSED
 	0xD4558D19 = Collect the ~a~
-	0xD4602AA0 = Press ~a~ to confirm purchase for $30,000.
+	0xD4602AA0 = กด ~a~ เพื่อยืนยันการซื้อในราคา $30,000
 	0xD4819D8A = Eco Friendly
 	0xD4884F0B = Target
 	0xD4963CF7 = ร้านอาวุธอัมมู-เนชั่น profits on the rise as suspected criminal ~a~ places a large order at one of their stores. Police are concerned and advise caution.
@@ -31515,7 +31515,7 @@
 	0xDCFC2BB6 = Kills performed while not on a motorcycle will not be counted.
 	0xDCFC6339 = Search the ~HUD_COLOUR_GREEN~valet.~s~
 	0xDCFFF636 = So why they still standing?
-	0xDD00AFD0 = Invest in the red. It's in your interest.
+	0xDD00AFD0 = ลงทุนในเรด มันอยู่ในความสนใจของคุณ
 	0xDD023E9E = You cut the power.
 	0xDD030BF2 = All Silver Heart Necklace
 	0xDD092990 = Thin XL Arrow
@@ -32367,7 +32367,7 @@
 	0xE6FF953A = Access the Free Trade Shipping app on the computer ~BLIP_LAPTOP~ in your office upstairs to begin setting up the Air-Freight Business. Log in and select the Set Up option to get started.
 	0xE7A35D02 = Press ~INPUT_FRONTEND_ACCEPT~ to place a bet.~n~Press ~INPUT_FRONTEND_CANCEL~ to exit.
 	0xE7A89A19 = Adding this vehicle to your Nightclub Garage will cause your currently stored Personal ยานพาหนะ to be transferred to a Garage.
-	0xE7A5679C = Backed by literally weeks of top level research into sports nutrition, the EgoChaser is more than just a candy bar with some protein powder thrown in. It's perfectly evolved, just like you.
+	0xE7A5679C = ได้รับการสนับสนุนจากการวิจัยระดับบนสุดด้านโภชนาการการกีฬาเป็นเวลาหลายสัปดาห์ อีโกเชสเซอร์ เป็นมากกว่าลูกกวาดที่มีผงโปรตีนบางส่วนถูกโยนเข้าไป มันมีวิวัฒนาการอย่างสมบูรณ์แบบเช่นเดียวกับคุณ
 	0xE7A16619 = Entity XXR
 	0xE7AA9914 = You Even Tryin'?
 	0xE7AADB89 = Owner has requested all to leave Clubhouse.
@@ -33070,7 +33070,7 @@
 	0xE2355C9E = Turns out ULSA leave their security feed on an unsecured connection. Pretty useful - here's an image of your target. ~nrt~ <img src='img://VC_TC_UNIVERCCTV/VC_TC_UNIVERCCTV_4' vspace='0' width='252' height='150'/> ~nrt~
 	0xE2366B02 = Help respray the Deluxo at ~HUD_COLOUR_YELLOW~LS Customs.
 	0xE2399E84 = ขาว Regular Fit
-	0xE2780BF0 = We sell exotic, ostentatious, high-performance vehicles to exotic, ostentatious, high-performance people.
+	0xE2780BF0 = เราขายรถยนต์ที่แปลกใหม่ ดีและมีประสิทธิภาพสูงให้กับผู้คนที่ต้องการความแปลกใหม่ ดี และมีประสิทธิภาพสูง
 	0xE2824D6A = Fake News
 	0xE2873D36 = REAR MUDGUARD
 	0xE2945EDA = THIS LABEL NEEDS TO BE HERE !!!
@@ -33175,7 +33175,7 @@
 	0xE27705B2 = Visit Solomon's Office ~HUD_COLOUR_YELLOW~~BLIP_SOLOMON_STRAND~~s~ to collect your reward.
 	0xE29217D8 = Forget the last 50 years of technological advancement and hark back to the golden age of driving before seatbelts, DUI laws, anti-lock brakes and emasculating GPS systems with nagging female voices. A prototype sports car manufactured by Grotti in the early 1970s, this marvel of Italian engineering will over-compensate for just about anything. Just like the Italians.
 	0xE29336B2 = Black Canvas
-	0xE30147E2 = Press ~a~ to buy a garage for $30,000.
+	0xE30147E2 = กด ~a~ ที่จะซื้อโรงจอดรถในราคา $30,000
 	0xE31564D3 = Sport Wheels Set
 	0xE32182B4 = A Turreted ยานพาหนะ was destroyed.
 	0xE32861DD = Arena King of the Hill
@@ -33377,7 +33377,7 @@
 	0xEA4DD016 = ~BLIP_INFO_ICON~ Want to fill your Job fast? Use the Auto-Invite and Play option to invite all your friends and fellow Crew members!
 	0xEA5B44ED = เปลี่ยนที่
 	0xEA5B304B = Brown
-	0xEA5C6F95 = Thank you for shopping at Southern ซานแอนเดรส Super Autos! We are arranging transportation of your vehicle and will contact you to confirm delivery.
+	0xEA5C6F95 = Thank you for shopping at เซาท์เทิร์น ซานแอนเดรสซุปเปอร์ออโต้! We are arranging transportation of your vehicle and will contact you to confirm delivery.
 	0xEA5DC6F9 = ออก
 	0xEA5E08A8 = Monday
 	0xEA5F94B2 = The Scout
@@ -35465,7 +35465,7 @@
 	0xF14539AF = Destroy the Phantom Wedge
 	0xF16690B8 = OBJECT
 	0xF16738E6 = Deathmatch
-	0xF21033F5 = Purchase this vehicle from the Southern ซานแอนเดรส Super Autos website to gain access.
+	0xF21033F5 = Purchase this vehicle from the เซาท์เทิร์น ซานแอนเดรสซุปเปอร์ออโต้ website to gain access.
 	0xF21228D2 = Killing a target with the wrong weapon will lower the cash reward. This will be indicated with a crossed out grey circle on the target counter.
 	0xF23566C3 = Targeted Risk
 	0xF25913D2 = Run Like The Wind
@@ -36228,7 +36228,7 @@
 	0xFE02CB77 = Not available while inside the Bunker.
 	0xFE02F7DA = Loading Benchmark Tests
 	0xFE0402FC = Press ~INPUT_VEH_HORN~ to signal the high roller to enter the vehicle.
-	0xFE04856C = Your grocery store defines what kind of person you are. Join the organic elite at The Grain of Truth and shop with superiority. Food has never been this self-satisfying.
+	0xFE04856C = ร้านขายของชำของคุณกำหนดว่าคุณเป็นคนแบบไหน เข้าร่วมกลุ่มชนชั้นออร์แกนิคที่ เดอะเกรนออฟทรัท และช็อปอย่างเหนือชั้น อาหารไม่เคยมีความพึงพอใจในตัวเองมาก่อน
 	0xFE04A811 = Night Vision
 	0xFE0916BC = Tan Desert Scarf
 	0xFE0C198F = Congratulations!~n~You completed a stage without taking damage and won a T-Shirt.
@@ -36538,7 +36538,7 @@
 	ACCNA_BROKERA = Stock Brokerage
 	ACCNA_BUR = Dario Bottino
 	ACCNA_CARMOD = ลอสซานโตส คัสตอม
-	ACCNA_CARSITE = Legendary Motorsport
+	ACCNA_CARSITE = มอเตอร์สปอร์ตในตำนาน
 	ACCNA_CASHDEP = เงิน Deposit
 	ACCNA_CBELL = Cluckin' Bell
 	ACCNA_CONSIT = International Money Transfer
@@ -37130,7 +37130,7 @@
 	AM_RHP_REAP = A convoy is delivering military equipment at ~BLIP_HEIST_PREP~
 	ANNIHL = Annihilator
 	ANNIHL_BULLET_KILLS = Annihilator ปืนมินิกัน สังหารไป
-	ANNIS = Annis
+	ANNIS = แอนนิส
 	ANTHR_BLACK = Anthracite Black
 	APINTRHLDEL = Close
 	APINTRHLMOV = Move
@@ -37495,7 +37495,7 @@
 	BLIP_172 = ลามาร์
 	BLIP_270 = ศัตรู
 	BLIP_280 = เพื่อน
-	BLIP_357 = โรงรถ
+	BLIP_357 = โรงจอดรถ
 	BLIP_362 = ร้านหน้ากาก
 	BLIP_455 = เรือยอร์ช
 	BLIP_APARTCAT = ทรัพย์สินที่เป็นเจ้าของ
@@ -37522,7 +37522,7 @@
 	BLUE = น้ำเงิน
 	BLUE_SILVER = Bluish Silver
 	BLUE_TINT_HEAD = LSPD
-	BMX = BMX
+	BMX = บีเอ็มเอ็กซ์
 	BM_BET_CANC = Betting Canceled
 	BM_BET_CANCS = Not enough bets placed.
 	BM_CHAR_RDY = Ready?
@@ -38086,9 +38086,9 @@
 	CARJCK_WON = You won Auto Buyout with a total of $~1~
 	CARS_COPS_EXPLODED = Cop cars blown up
 	CARS_EXPLODED = Cars blown up
-	CAR_GAR_05 = ยานพาหนะ purchased from websites or driven into the garage will be stored here.
-	CAR_GAR_06 = Special vehicles can also be collected here.
-	CAR_GAR_EXIT = To leave the Garage, walk to the exit or get in a vehicle.
+	CAR_GAR_05 = ยานพาหนะที่ซื้อจากเว็บไซต์หรือ ขับรถเข้ามาในโรงจอดรถจะถูกเก็บไว้ที่นี่
+	CAR_GAR_06 = นอกจากนี้ยังสามารถรวบรวมยานพาหนะพิเศษได้ที่นี่
+	CAR_GAR_EXIT = หากต้องการออกจากโรงจอดรถ ให้เดินไปที่ทางออกหรือขึ้นรถก็ได้
 	CAR_GAR_NO = Special vehicles can be collected here. Visit the Store to find new downloadable content.
 	CAR_GAR_NO_1 = Special vehicles can be collected here. Visit PlayStation®Store to find new downloadable content.
 	CAR_GAR_NO_2 = Special vehicles can be collected here. Visit the Xbox Store to find new downloadable content.
@@ -39012,7 +39012,7 @@
 	CELL_E_267 = ท่าเรือโซนาร์คอลเลกชัน
 	CELL_E_269 = P&M Cycles
 	CELL_E_270 = Southern SA Super Autos
-	CELL_E_271 = Legendary Motorsport
+	CELL_E_271 = มอเตอร์สปอร์ตในตำนาน
 	CELL_E_272 = Elitas Travel
 	CELL_E_273 = Warstock
 	CELL_E_274 = DockTease
@@ -40133,7 +40133,7 @@
 	CREW_RANK4 = Muscle
 	CREW_WORLDTIME = CREW RECORD
 	CROWBAR_KILLS = ชะแลง สังหารไป
-	CRUISER = Cruiser
+	CRUISER = ครุยเซอร์
 	CRUSADER = Crusader
 	CRW_ANIMATION = Action
 	CRW_COLOR = Color
@@ -40541,7 +40541,7 @@
 	ECL_P_RF_H = eCola stocks all over the place, sticky
 	ECL_P_SF_H = Ecola 'sugar water' losing favour among investors.
 	ECL_P_SR_H = World gulping eCola in record volume, stocks up.
-	ELEGY2 = Elegy RH8
+	ELEGY2 = อีลีจี้ อาร์เอช8
 	ELGORL = El Gordo Lighthouse
 	ELSANT = อีสลอสซานโตส
 	ELYSIAN = เกาะอีลีเซียน
@@ -40582,9 +40582,9 @@
 	EMSTR_60 = BoL Transaction Services
 	EMSTR_61 = New Transaction Statement
 	EMSTR_62 = A new statement is available for your account. ~nrt~~n~A credit transaction was successfully completed to your account from crediting bank Coymin Offshore PLC. Follow the link to review recent transactions.~n~The creditor wished to remain anonymous~nrt~~b~<u>www.maze-bank.com</u>~s~
-	EMSTR_78 = Legendary Motorsport Sales
+	EMSTR_78 = ฝ่ายขายมอเตอร์สปอร์ตในตำนาน
 	EMSTR_79 = sales@legendarymotorsport.net
-	EMSTR_80 = Legendary Motorsport
+	EMSTR_80 = มอเตอร์สปอร์ตในตำนาน
 	EMSTR_81 = Elitas Sales
 	EMSTR_82 = sales@elitastravel.com
 	EMSTR_83 = Elitas Travel
@@ -40707,7 +40707,7 @@
 	EMSTR_361 = Nigel@eyefind.info
 	EMSTR_362 = - ไนเจล
 	EMSTR_365 = Now you have a garage, fill it with cars
-	EMSTR_366 = ซื้อ some cars at ~b~<u>www.legendarymotorsport.net</u>~s~
+	EMSTR_366 = ซื้อรถบางคันได้ที่ ~b~<u>www.legendarymotorsport.net</u>~s~
 	EMSTR_367 = Camp Culture
 	EMSTR_369 = ร้านอาหารทะเลฮอกกี้
 	EMSTR_370 = Hookies@eyefind.info
@@ -40810,7 +40810,7 @@
 	EMSTR_539 = RESPOND
 	EMSTR_640 = Offroad Events
 	EMSTR_641 = events@SouthernSanAndreasSuperAutos.com
-	EMSTR_642 = - Southern ซานแอนเดรส Super Autos
+	EMSTR_642 = - เซาท์เทิร์น ซานแอนเดรสซุปเปอร์ออโต้
 	EMSTR_643 = Dock Tease
 	EMSTR_644 = RaceOrganiser@docktease.com
 	EMSTR_645 = - Dock Tease Events
@@ -40928,7 +40928,7 @@
 	EXIL2_OSC = What's this about you beefing with มาร์ติน Madrazo, If he connects us we're finished. Watch out, Okay?
 	EXIL2_U = Eh T, theres some hick type dudes round here asking questions about you. I'm looking into it.
 	EXIL_WAD = เทรเวอร์, some of Mr. Cheng's people came by your place. They seemed a whole lot tougher than the guys you met at the inn, and they're eager to talk to you...
-	EXIT_SURE = Are you sure you want to exit to the desktop?
+	EXIT_SURE = คุณแน่ใจหรือไม่ว่าต้องการไปหน้าเดสก์ท็อป
 	EXL_HUNT_PIE = I left a pie at your trailer with Patricia. Good to see you've settled down with a lovely woman.
 	EXL_JIM_MCAR = I dropped ur car back at the house. even with my improvements, it's still a old man ride :(  Jizz don't get down like dat, but thank me later, and why r there some beast hispanic dudes outside tha crib?
 	EXTR2_U = hey Bro meet me at the airport got some more crazy shit to do!
@@ -41318,15 +41318,15 @@
 	FB_ACCOUNT_LINKED_MSG = You have linked to your Facebook account.
 	FB_BS_HEIST = Final heist complete!
 	FB_BUSY = Please wait: Communicating with Facebook.
-	FB_CONNECTED = ~HUD_COLOUR_WHITE~Grand Theft Auto V is now linked to Facebook with the username provided. You will be provided with certain sharing options in the game, such as sharing Gallery photos.<br><br>We will automatically post to Facebook whenever you perform the following actions:<br>Create a Character in Grand Theft Auto Online<br>Complete a Heist<br>Complete Grand Theft Auto V<br>Complete the 100% Checklist<br>ซื้อ and drive all Legendary Motorsport vehicles<br>ซื้อ all properties<br>Explore the entire Map<br><br>By default, posts made from Grand Theft Auto V will be visible to your Facebook friends only. You can change your settings at ~HUD_COLOUR_FACEBOOK_BLUE~facebook.com
+	FB_CONNECTED = ~HUD_COLOUR_WHITE~Grand Theft Auto V is now linked to Facebook with the username provided. You will be provided with certain sharing options in the game, such as sharing Gallery photos.<br><br>We will automatically post to Facebook whenever you perform the following actions:<br>Create a Character in Grand Theft Auto Online<br>Complete a Heist<br>Complete Grand Theft Auto V<br>Complete the 100% Checklist<br>ซื้อ and drive all มอเตอร์สปอร์ตในตำนาน vehicles<br>ซื้อ all properties<br>Explore the entire Map<br><br>By default, posts made from Grand Theft Auto V will be visible to your Facebook friends only. You can change your settings at ~HUD_COLOUR_FACEBOOK_BLUE~facebook.com
 	FB_HUND_PERC = Game 100% complete!
-	FB_JOINNOW = Link your Facebook account to share and spread the word about your GTA experience, including:<br>Creating a character in Grand Theft Auto Online<br>Completing a Heist<br>Completing Grand Theft Auto V<br>Completing the 100% Checklist<br>Buying and driving all Legendary Motorsport vehicles<br>Buying all properties<br>Exploring the entire Map<br><br>By default, posts made from Grand Theft Auto V will be visible to your Facebook friends only. Press below to link your account. Linking your account will be automatically posted to your Facebook wall.
+	FB_JOINNOW = Link your Facebook account to share and spread the word about your GTA experience, including:<br>Creating a character in Grand Theft Auto Online<br>Completing a Heist<br>Completing Grand Theft Auto V<br>Completing the 100% Checklist<br>Buying and driving all มอเตอร์สปอร์ตในตำนาน vehicles<br>Buying all properties<br>Exploring the entire Map<br><br>By default, posts made from Grand Theft Auto V will be visible to your Facebook friends only. Press below to link your account. Linking your account will be automatically posted to your Facebook wall.
 	FB_J_HEIST = First heist complete!
 	FB_LINK = Link Facebook Account
 	FB_MAPREV = Map fully discovered!
 	FB_NEW_ACC = New account linked!
 	FB_NEW_CHAR = New GTA Online character created!
-	FB_NOPERMISSION = ~HUD_COLOUR_RED~You are signed in with an account that does not have permission to post content, or does not have Social Network Sharing enabled.<br><br>~HUD_COLOUR_WHITE~Otherwise, you could link your Facebook account to share and spread the word about your GTA experience, including below<br>Create a Character in Grand Theft Auto Online<br>Complete a Heist<br>Complete Grand Theft Auto V<br>Complete the 100% Checklist<br>ซื้อ and drive all Legendary Motorsport vehicles<br>ซื้อ all properties<br>Explore the entire Map
+	FB_NOPERMISSION = ~HUD_COLOUR_RED~You are signed in with an account that does not have permission to post content, or does not have Social Network Sharing enabled.<br><br>~HUD_COLOUR_WHITE~Otherwise, you could link your Facebook account to share and spread the word about your GTA experience, including below<br>Create a Character in Grand Theft Auto Online<br>Complete a Heist<br>Complete Grand Theft Auto V<br>Complete the 100% Checklist<br>ซื้อ and drive all มอเตอร์สปอร์ตในตำนาน vehicles<br>ซื้อ all properties<br>Explore the entire Map
 	FB_PROPERTIES = All properties purchased!
 	FB_PSYCH = Psychology report received!
 	FB_STORY = Story complete!
@@ -46165,8 +46165,8 @@
 	MO_AUTOSAV = บันทึกอัตโนมัติ
 	MO_AVG_FPS = Average FPS:
 	MO_B = ~INPUT_REPLAY_RESTART~
-	MO_BENCHMARK = Benchmark
-	MO_BENCHWARN = Are you sure you want to exit and run the Benchmark Tool?~n~All unsaved progress will be lost.
+	MO_BENCHMARK = เกณฑ์มาตรฐาน
+	MO_BENCHWARN = คุณแน่ใจหรือไม่ว่าต้องการออกและเรียกใช้เครื่องมือเกณฑ์มาตรฐาน~n~ความคืบหน้าที่ไม่ได้บันทึกทั้งหมดจะหายไป
 	MO_BENCH_ENDED = (Test terminated early, results are inaccurate)
 	MO_BENCH_EXIT = ออก Benchmark
 	MO_BENCH_TEST = Benchmark Test
@@ -46777,7 +46777,7 @@
 	MP_PROP_HEI_2 = Moving all players to Garage at the request of the owner.
 	MP_PROP_HEI_3 = Owner has requested all to leave Yacht.
 	MP_PROP_IVD_4 = This vehicle cannot be stored in your Garage unless you purchase the corresponding Downloadable Content.
-	MP_PROP_IVD_VEH = This vehicle cannot be stored in your Garage.
+	MP_PROP_IVD_VEH = รถคันนี้ไม่สามารถเก็บไว้ในโรงจอดรถของคุณได้
 	MP_PROP_IVD_VEH1 = A police vehicle cannot be stored in your Garage.
 	MP_PROP_IVD_VEH2 = There is no room available in your Garage.~n~Remove another vehicle from the Garage to store your current vehicle.
 	MP_PROP_LEAVEH = To leave the Apartment, walk to the exit.
@@ -49083,7 +49083,7 @@
 	PROPR_PUR_CINM = โรงภาพยนตร์ทีวอลี~n~ราคา: $~a~~n~รายได้ต่อสัปดาห์: $142,300~n~กด ~INPUT_CONTEXT~ เพื่อซื้อ
 	PROPR_PUR_CINV = โรงภาพยนตร์ดอพเพอร์~n~ราคา: $~a~~n~รายได้ต่อสัปดาห์: $132,200~n~กด ~INPUT_CONTEXT~ เพื่อซื้อ
 	PROPR_PUR_CMSH = ลอสซานโตส คัสตอม~n~ราคา: $~a~~n~รายได้ต่อสัปดาห์: $1,600~n~กด ~INPUT_CONTEXT~ เพื่อซื้อ
-	PROPR_PUR_CONF = Press ~INPUT_CONTEXT~ to confirm purchase for $~a~.
+	PROPR_PUR_CONF = กด ~INPUT_CONTEXT~ เพื่อยืนยันการซื้อในราคา $~a~
 	PROPR_PUR_CSCR = โรงเก็บซากรถ~n~ราคา: $~a~~n~รายได้ต่อสัปดาห์: $150 per destroyed car~n~กด ~INPUT_CONTEXT~ เพื่อซื้อ
 	PROPR_PUR_GOLF = สนามกอล์ฟลอสซานโตส~n~ราคา: $~a~~n~รายได้ต่อสัปดาห์: $264,500~n~กด ~INPUT_CONTEXT~ เพื่อซื้อ
 	PROPR_PUR_NOMO = This property costs $~a~. Earn more money to pay for it.
@@ -50041,7 +50041,7 @@
 	SCLUB_WAIT_OVER1 = ~r~นักเต้นเหนื่อยกับการรอแล้ว
 	SCLUB_WAIT_OVER2 = ~r~นักเต้นเหนื่อยกับการรอคอยนานๆ
 	SCLUB_WONT_HOME = ~a~ ไม่นอนด้วย
-	SCORCHER = Scorcher
+	SCORCHER = สกอเชอร์
 	SCORE_CHALLENGE = คะแนนความท้าทาย
 	SCORE_CHALLSC = คะแนนความท้าทาย
 	SCRAP = Scrap Truck
@@ -51798,9 +51798,9 @@
 	TRAN_ONTUTOR = Failed to join a session as you need to finish the GTA Online tutorial.
 	TRAN_RETNFM = Return to GTA Online.
 	TRASH = Trashmaster
-	TRIBIKE = Whippet Race Bike
-	TRIBIKE2 = Endurex Race Bike
-	TRIBIKE3 = Tri-Cycles Race Bike
+	TRIBIKE = จักรยานวิปเป็ทเรซ
+	TRIBIKE2 = จักรยานเอ็นดูเร็ซเรซ
+	TRIBIKE3 = จักรยานไทรไซเคิลเรซ
 	TRIG_F = Return as แฟรงคลิน to start this mission.
 	TRIG_FT = Return as แฟรงคลิน or เทรเวอร์ to start this mission.
 	TRIG_M = Return as ไมเคิล to start this mission.
@@ -52252,7 +52252,7 @@
 	VEH_NAME_CLASS = ~a~, ~a~
 	VEH_NAME_DOTS = ~a~...
 	VEH_SELECT_CNF = This will remove any modifications from your currently selected vehicle. Are you sure?
-	VEH_SELECT_CNFA = Are you sure you wish to use this vehicle?
+	VEH_SELECT_CNFA = คุณแน่ใจหรือว่าต้องการใช้รถคันนี้ใช่มั้ย
 	VEH_TOPL = Topless
 	VEH_UNLOCK = ยานพาหนะ Trade Price Unlock
 	VEH_UNL_DO1 = Speedophile Seashark
@@ -52272,7 +52272,7 @@
 	VEH_UNL_EL9 = Buckingham Shamal
 	VEH_UNL_EL10 = Mallard
 	VEH_UNL_EL11 = Buckingham Luxor
-	VEH_UNL_LE1 = Annis Elergy RH8
+	VEH_UNL_LE1 = แอนนิส อีลีจี้ เอสเอช8
 	VEH_UNL_LE2 = Hijak Khamelion
 	VEH_UNL_LE3 = Hotknife
 	VEH_UNL_LE4 = Nagasaki Carbon RS
@@ -52297,12 +52297,12 @@
 	VEH_UNL_LE23 = Overflod Entity XF
 	VEH_UNL_LE24 = Truffade Adder
 	VEH_UNL_LE25 = Coil Voltic
-	VEH_UNL_PE1 = Cruiser
-	VEH_UNL_PE2 = BMX
-	VEH_UNL_PE3 = Scorcher
-	VEH_UNL_PE4 = Tri-Cycles Race Bike
-	VEH_UNL_PE5 = Endurex Race Bike
-	VEH_UNL_PE6 = Whippet Race Bike
+	VEH_UNL_PE1 = ครุยเซอร์
+	VEH_UNL_PE2 = บีเอ็มเอ็กซ์
+	VEH_UNL_PE3 = สกอเชอร์
+	VEH_UNL_PE4 = จักรยานไทรไซเคิลเรซ
+	VEH_UNL_PE5 = จักรยานเอ็นดูเร็ซเรซ
+	VEH_UNL_PE6 = จักรยานวิปเป็ทเรซ
 	VEH_UNL_SA1 = Pegassi Faggio
 	VEH_UNL_SA2 = Weeny Issi
 	VEH_UNL_SA3 = Maibatsu Sanchez
@@ -52773,8 +52773,8 @@
 	WEAPONMOD_UNLOCK = Weapon Mod Unlock
 	WEAPON_ACCURACY = ความแม่นยำ
 	WEAPON_UNLOCK = Weapon Unlock
-	WEB_VEH_ENTER = Press ~a~ to enter garage.
-	WEB_VEH_EXIT = Press ~a~ to exit garage.
+	WEB_VEH_ENTER = กด ~a~ เพื่อเข้าโรงจอดรถ
+	WEB_VEH_EXIT = กด ~a~ เพื่อออกจากโรงจอดรถ
 	WEB_VEH_FLAG_0 = America
 	WEB_VEH_FLAG_1 = Australia
 	WEB_VEH_FLAG_2 = Brazil
@@ -52802,10 +52802,10 @@
 	WEB_VEH_FLAG_24 = England
 	WEB_VEH_FULL = Your garage is full. Enter on foot to remove a vehicle.
 	WEB_VEH_INV = This vehicle cannot be stored in this garage.
-	WEB_VEH_TITLE = SELECT VEHICLE
+	WEB_VEH_TITLE = เลือกยานพาหนะ
 	WEB_VEH_TITLE2 = SELECT FLAG
 	WEB_VEH_TRIG = Press ~a~ to change stored vehicle.
-	WEB_VEH_TRIG2 = Press ~a~ to select a special vehicle.
+	WEB_VEH_TRIG2 = กด ~a~ เพื่อเลือกรถพิเศษ
 	WEENY = วีนี่
 	WEP_HVSNIPER = ~s~Heavy Sniper
 	WESTERN = เวสเทิร์น
